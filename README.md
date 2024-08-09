@@ -47,7 +47,7 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 |                       |                          |                        |                             | unit: correct mean          |
 | --------------------- | ------------------------ | ---------------------- | --------------------------- |---------------------------  |
-| category              | GPT-4o-mini<br>(2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4-turbu<br>(2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) |
+| category              | GPT-4o-mini<br>(2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4-turbo<br>(2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) |
 | General Knowledge     | 0.53                     | 0.77                   | 0.66                        | 0.41                        |
 | History               | 0.85                     | 0.92                   | 0.79                        | 0.30                        |
 | Loan Words            | 0.76                     | 0.80                   | 0.78                        | 0.59                        |
