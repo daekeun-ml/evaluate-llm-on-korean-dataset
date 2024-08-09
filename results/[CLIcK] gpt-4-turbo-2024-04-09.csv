@@ -1,0 +1,2307 @@
+id,trial,answer,pred,response
+KIIP_economy_1,0,C,B,B: 2000년
+KIIP_economy_2,0,A,A,A
+KIIP_economy_3,0,C,C,C
+KIIP_economy_4,0,D,D,D
+KIIP_economy_5,0,C,C,C: 중화학 공업
+KIIP_economy_6,0,B,B,B: 제조업과 서비스 업
+KIIP_economy_7,0,B,B,"B: 28,000달러"
+KIIP_economy_8,0,A,A,A
+KIIP_economy_9,0,C,C,C: 경공업
+KIIP_economy_10,0,C,C,"C: 반도체, 선박, 자동차, 휴대폰, 석유 제품"
+KIIP_economy_11,0,D,C,C: 7번째
+KIIP_economy_12,0,A,A,A
+KIIP_economy_13,0,C,B,B: 기술의 발달
+KIIP_economy_14,0,C,C,"C: 5,000억 달러"
+KIIP_economy_15,0,D,D,D: 2011년
+KIIP_economy_16,0,A,A,A
+KIIP_economy_17,0,A,A,A: 반도체
+KIIP_economy_18,0,C,C,C: 칠레
+KIIP_economy_19,0,A,,정답: A
+KIIP_economy_20,0,B,A,A
+KIIP_economy_21,0,B,B,B: APEC
+KIIP_economy_22,0,C,C,C: G20
+KIIP_economy_23,0,C,,정답: D
+KIIP_economy_24,0,B,B,B: 10개국
+KIIP_economy_25,0,A,A,A
+KIIP_economy_26,0,C,,정답: D: 2010년
+KIIP_economy_27,0,A,A,A
+KIIP_economy_28,0,D,D,D: 상호저축은행
+KIIP_economy_29,0,A,A,A
+KIIP_economy_30,0,A,A,A: 금융 실명제
+KIIP_economy_31,0,A,A,A: 여권과 외국인등록증
+KIIP_economy_32,0,A,A,A
+KIIP_economy_33,0,A,A,A
+KIIP_economy_34,0,A,A,A
+KIIP_economy_35,0,A,A,A
+KIIP_economy_36,0,C,C,C
+KIIP_economy_37,0,B,B,B
+KIIP_economy_38,0,A,A,A
+KIIP_economy_39,0,A,A,A
+KIIP_economy_40,0,C,C,C: 증권회사
+KIIP_economy_41,0,C,C,C
+KIIP_economy_42,0,A,B,B: 5일장
+KIIP_economy_43,0,B,B,B: 부가가치세
+KIIP_economy_44,0,A,A,A
+KIIP_economy_45,0,A,A,A
+KIIP_economy_46,0,B,B,B: 한국소비자원
+KIIP_economy_47,0,A,A,A
+KIIP_economy_48,0,A,A,A
+KIIP_economy_49,0,A,A,A
+KIIP_economy_50,0,A,A,A
+KIIP_economy_51,0,B,B,B: 미국이나 유럽 등 다른 선진국에 비해 낮다
+KIIP_economy_52,0,D,D,D: 취미
+KIIP_economy_53,0,B,B,B
+KIIP_economy_54,0,B,B,B
+KIIP_economy_55,0,B,B,B
+KIIP_economy_56,0,A,A,A
+KIIP_economy_57,0,B,B,B: 근로계약서 작성
+Kedu_economy_1,0,C,C,C
+Kedu_economy_2,0,D,D,D
+CSAT_geography_06_2,0,E,,"문제에서 제시된 두 섬 (가)와 (나)의 공통점을 찾아야 합니다. 
+
+- (가)는 화산활동으로 형성된 섬이며, 천혜의 자연풍광을 간직하고 있고, 강수가 연중 고른 분포를 보인다고 합니다.
+- (나)는 현무암질과 조면암질 용암이 여러 차례 분출하여 형성된 섬으로, 해발고도에 따라 식생 경관이 다양하다고 합니다.
+
+보기를 살펴보면:
+ㄱ. 주변 해역에 조경 수역이 형성된다.
+ㄴ. 직선 기선이 영해 설정의 기준이 된다.
+ㄷ. 독특한 형태의 전통 가옥을 볼 수 있다."
+CSAT_geography_07_2,0,B,,정답: D
+CSAT_geography_07_3,0,E,E,E
+CSAT_geography_07_4,0,B,,"정답은 C입니다. 한라산은 순상 화산이 아니라 복합 화산입니다. 순상 화산은 경사가 완만한 특징을 가지지만, 한라산은 경사가 비교적 가파른 복합 화산의 특징을 가지고 있습니다. 따라서 C 옵션은 옳지 않은 추론입니다."
+CSAT_geography_07_5,0,B,,정답: C
+CSAT_geography_07_6,0,E,,"정답: C
+
+설명: 옵션 C의 주제어 탈공업화는 도시 기반이 서비스업에서 제조업 중심으로 변화되는 과정을 의미합니다. 이 개념은 수도권의 공장 면적 변화를 조사함으로써 적절하게 뒷받침될 수 있습니다. 다른 옵션들은 주제어와 조사 내용 간의 연관성이 덜 명확하거나 개념 정의가 부정확합니다."
+CSAT_geography_09_2,0,D,,"정답은 B입니다. 
+
+ᄀ 제주도의 ᄂ은 한라산을 의미하며, 한라산은 남한에서 가장 높은 산으로, 정상부에는 큰 분지인 백록담이 있습니다. 이는 중앙 화구구를 나타내는 것으로, 옵션 B ᄂ:정상부의 분지 내에는 중앙 화구구가 나타난다.가 정확한 설명입니다."
+CSAT_geography_09_3,0,B,B,B: 공업의 과도한 집중에 따른 집적의 불이익
+CSAT_geography_09_4,0,D,,"문제에서 설명된 내용을 바탕으로 각 보기의 설명을 분석해보겠습니다.
+
+ᄀ: 절벽 - ᄀ의 후퇴 과정에서 시스택이 형성되기도 한다. 이 설명은 절벽이 파식 작용으로 인해 후퇴하면서 시스택이 형성될 수 있다는 것을 의미하므로 옳은 설명입니다.
+
+ᄂ: 계단모양의 지형 - ᄂ은 지반 융기와 해수면 변동의 영향으로 형성된다. 이 설명은 계단모양의 지형이 지반 융기나 해수면 변동으로 인해 형성될 수 있다는 것을 의미하므로 옳은 설명입니다.
+
+ᄃ: 퇴적된 모래 - ᄃ은 주로 양식장이나 염전으로 이용된다. 이 설"
+CSAT_geography_09_5,0,D,,"문제에서 제시된 (가) 지역은 큰 못이 있고, 서쪽으로 흐르는 물이 압록강이 되며, 북쪽으로 흐르는 물이 혼동강이 되는 지역을 설명하고 있습니다. 이는 백두산을 설명하는 것으로 보이며, 백두산에는 분화구가 함몰되어 생긴 천지(호수)가 있습니다. 따라서 (가)에 대한 설명으로는 ᄂ이 맞습니다.
+
+(나) 지역은 숙종 때 삼척 영장 장한상이 함경도 안변에서 배를 띄워 동남쪽을 향해 이틀 만에 발견한 큰 산이 바다 가운데 솟아 있는 지역을 설명하고 있습니다. 이는 울릉도를 설명하는 것으로 보이"
+CSAT_geography_10_2,0,A,A,A
+CSAT_geography_10_3,0,B,,"문제에서 (가)는 A 암석이 지하수나 땅속으로 스며든 빗물에 의해 녹아 형성된 동굴이고, (나)는 마그마가 지표로 분출하여 흘러가는 과정에서 형성된 동굴이라고 설명하고 있습니다. 이는 각각 침식과 화산 활동에 의한 동굴 형성을 의미합니다.
+
+ᄀ. A 암석 분포 지역에는 용식 와지가 잘 나타난다. - 이는 A 암석이 침식에 의해 잘 녹는 성질을 가지고 있음을 나타내므로 적절합니다.
+ᄂ. A 암석분포 지역의 토양은 대체로 흑갈색이며, B 암석 분"
+CSAT_geography_10_4,0,D,,"문제에서 제시된 자료에 따르면, 2010년 여름의 평균 기온은 평년보다 높았고, 강수량은 비슷했으나 강수 일수가 많았으며, 1시간 강수량이 30mm 이상인 날도 증가했습니다. 이 정보를 바탕으로 학생들의 대답을 분석해보면:
+
+- 갑: 일조 시간이 증가했을 것 같다고 했는데, 이는 자료에서 언급되지 않았습니다.
+- 을: 열대야 발생 일수가 증가했을 것 같다고 했는데, 평균 기온이 높았다는 정보로 미루어 볼 때 가능성이 있습니다.
+- 병: 북태평양 기단의 세력이 약했"
+CSAT_geography_11_2,0,D,B,B: 마그마가 냉각될 때 수축에 의해 주상 절리가 발달된다.
+CSAT_geography_11_3,0,A,,"문제에서 (가)는 국제 수준의 관광 단지 조성을 위해 정부와 한국관광공사가 주도하여 큰 규모의 투자를 한 사례이고, (나)는 지역 주민이 주도하는 생태 마을 체험 축제로서, 큰 비용을 들이지 않고 지역 주민과 관광객이 함께하는 축제를 만들어 가는 사례입니다. 이를 비교할 때, (나)의 상대적 특징은 지역 주민이 개발의 주체로서 참여 정도가 높다는 점입니다. 따라서 정답은 E입니다."
+CSAT_geography_12_2,0,D,,정답: D
+CSAT_geography_13_2,0,A,A,A
+CSAT_geography_15_2,0,B,,"선생 1의 발언에 따르면, (가) 구는 최근에 신흥 주거 지역으로 개발되어 전입생이 증가하고 학교 규모가 커진 것으로 보입니다. 이는 (가) 구가 발전하고 인구가 증가하는 지역임을 나타냅니다. 반면, 선생 2의 발언에 따르면, (나) 구는 인구 공동화 현상으로 인해 학생 수가 급격히 감소하였습니다. 이는 (나) 구가 인구가 감소하고 있는 지역임을 나타냅니다.
+
+보기 중에서 (나) 구의 상대적 특성을 추론할 수 있는 옵션을 찾아야 합니다. (나) 구의 인구 감소는 일반적으로 주간 인구 지수가 낮고, 대기업 본사 수가"
+CSAT_geography_16_2,0,A,A,A
+CSAT_geography_16_3,0,D,,"문제에서 제시된 내용을 바탕으로 각 항목의 정확성을 평가해야 합니다.
+
+(가)는 협동 노동의 필요성이 큰 벼농사 지역에 주로 분포합니다. - 이 설명은 벼농사가 집중적인 노동력을 필요로 하고, 협동 노동이 필수적인 점을 고려할 때 타당합니다. 따라서 ᄀ은 옳습니다.
+
+(나)는 혈연 중심의 동족촌에서 전형적으로 나타납니다. - 이 설명은 혈연 관계가 중요한 동족촌에서 가옥이 서로 거리를 유지하며 흩어져 있는 형태가 나타날 수 있음을 설명하므로 ᄂ도 옳습니다.
+
+(가)는 (나)보다 가옥과"
+CSAT_geography_17_2,0,A,B,B: (다)에는 칼데라 호가 형성되어 있다.
+CSAT_geography_17_3,0,C,D,D
+CSAT_geography_18_2,0,C,E,E
+CSAT_geography_19_2,0,A,,정답은 B입니다.
+CSAT_geography_19_3,0,C,C,C: (나)의 정상부에는 분화구가 함몰되어 형성된 칼데라호가 있다.
+CSAT_geography_20_2,0,D,,"문제에서 제시된 설명을 바탕으로 각 보기를 분석해보겠습니다.
+
+ㄱ 기온역전 현상에 대한 설명은 기온의 일교차가 크고 바람이 없는 맑은 날 밤에 잘 나타난다는 것이므로, ᄀ은 올바른 설명입니다.
+
+ㄴ 기온 역전층이 형성되면 차가운 공기가 축적되어 저온에 따른 농작물 피해가 나타난다고 했으므로, ᄂ으로 인해 안개가 자주 발생한다는 설명은 맞지 않습니다.
+
+ㄷ 도시기후에 대한 설명에서는 포장된 지표 면적이 넓어 도시 내부의 기온이 많이 상승한다고 했으므로, ᄃ으로 인해 도시는"
+CSAT_geography_21_2,0,B,,"ㄱ에 대한 설명은 영해가 주권이 미치는 수역임을 명시하고 있으므로, 갑의 댓글은 옳습니다. ㄴ에 대한 설명은 없으나, 울릉도에서 직선 기선이 적용된다는 을의 댓글은 특별한 이유가 없는 한 옳다고 볼 수 있습니다. ㄷ에 대한 설명은 일정 수역에서 영해의 범위를 따로 정할 수 있다고 하며, 대한 해협이 그 사례로 병의 댓글도 옳습니다. ㄹ에 대한 설명은 내수에 대한 것이며, 간척 사업으로 내수의 면적이 확대된다는 정의 댓글도 옳습니다.
+
+따라서, 갑, 을, 병, 정 모두 옳은 댓글을 달"
+CSAT_geography_22_2,0,D,,"자료를 바탕으로 각 학생의 답글을 분석해 보겠습니다.
+
+(가)는 독도를 나타내며, 동해에 위치한 섬입니다.
+(나)는 마라도를 나타내며, 제주도에서 남쪽으로 약 11Km 떨어진 섬입니다.
+(다)는 이어도를 나타내며, 수중 암초로 해양 과학기지가 설립되었습니다.
+(라)는 울릉도를 나타내며, 주요 관광지로 해안 경관이 뛰어난 두무진이 있습니다.
+
+갑의 답글: (나)는 마라도로, 국토 최남단에 위치하므로 가장 저위도에 위치한 것이 맞습니다.
+을의 답글: (다)는 이어도로, 천연 보호 구역으로 지정된 정보"
+CSAT_geography_22_3,0,C,C,C
+CSAT_geography_22_4,0,C,C,C
+KIIP_geography_1,0,C,C,C
+KIIP_geography_2,0,B,C,C
+KIIP_geography_3,0,B,B,B
+KIIP_geography_4,0,D,D,D
+KIIP_geography_5,0,C,C,C
+KIIP_geography_6,0,D,D,D
+KIIP_geography_7,0,C,C,C
+KIIP_geography_8,0,B,B,B
+KIIP_geography_9,0,C,C,C
+KIIP_geography_10,0,A,A,A
+KIIP_geography_11,0,B,B,"B: 전기장판, 온풍기"
+KIIP_geography_12,0,B,B,B: 신경준
+KIIP_geography_13,0,A,A,A
+KIIP_geography_14,0,A,A,A
+KIIP_geography_15,0,B,B,B: 65%
+KIIP_geography_16,0,B,B,B
+KIIP_geography_17,0,A,A,A
+KIIP_geography_18,0,A,A,A
+KIIP_geography_19,0,D,D,D: 강원평야
+KIIP_geography_20,0,A,A,A
+KIIP_geography_21,0,A,A,A
+KIIP_geography_22,0,A,A,A
+KIIP_geography_23,0,A,A,A
+KIIP_geography_24,0,B,B,B
+KIIP_geography_25,0,C,C,C: 강북
+KIIP_geography_26,0,D,D,D: 1014만 명
+KIIP_geography_27,0,A,B,"B: 동대문 시장, 가락시장"
+KIIP_geography_28,0,D,D,D: 경기도
+KIIP_geography_29,0,A,A,A
+KIIP_geography_30,0,D,D,D
+KIIP_geography_31,0,A,A,A
+KIIP_geography_32,0,A,A,A
+KIIP_geography_33,0,A,A,A
+KIIP_geography_34,0,A,A,A
+KIIP_geography_35,0,C,C,C
+KIIP_geography_36,0,C,C,C: 항구 도시
+KIIP_geography_37,0,D,D,D
+KIIP_geography_38,0,B,B,B
+KIIP_geography_39,0,B,B,B
+KIIP_geography_40,0,B,B,B
+KIIP_geography_41,0,B,B,B: 오죽헌
+KIIP_geography_42,0,B,B,B
+KIIP_geography_43,0,A,A,A
+KIIP_geography_44,0,A,A,A
+KIIP_geography_45,0,A,A,A
+KIIP_geography_46,0,A,A,A: 세계과학엑스포
+KIIP_geography_47,0,C,C,C: 충청남도
+KIIP_geography_48,0,C,C,C: 세종
+KIIP_geography_49,0,C,C,C: 소백산
+KIIP_geography_50,0,A,A,A: 전라남도
+KIIP_geography_51,0,B,B,B
+KIIP_geography_52,0,A,A,"A: 배, 포도, 사과"
+KIIP_geography_53,0,C,C,C
+KIIP_geography_54,0,B,B,B: 과학 산업단지
+KIIP_geography_55,0,D,D,D
+KIIP_geography_56,0,B,B,B
+KIIP_geography_57,0,B,B,B
+KIIP_geography_58,0,D,C,C: 광업
+KIIP_geography_59,0,A,A,A
+KIIP_geography_60,0,A,A,A
+KIIP_geography_61,0,A,A,A
+KIIP_geography_62,0,C,C,C
+KIIP_geography_63,0,D,D,D: 조선
+KIIP_geography_64,0,A,C,C
+KIIP_geography_65,0,B,B,B
+KIIP_geography_66,0,B,B,B
+KIIP_geography_67,0,D,D,D
+KIIP_geography_68,0,C,C,C
+KIIP_geography_69,0,A,A,A
+KIIP_geography_70,0,D,D,D: 남산
+KIIP_geography_71,0,C,C,C
+KIIP_geography_72,0,A,A,A
+KIIP_geography_73,0,A,A,A: 자동차와 제철
+KIIP_geography_74,0,D,B,B
+KIIP_geography_75,0,C,C,C
+KIIP_geography_76,0,D,D,D
+KIIP_geography_77,0,A,A,A
+KIIP_geography_78,0,A,D,D
+KIIP_geography_79,0,C,C,C
+KIIP_geography_80,0,A,A,A
+KIIP_geography_81,0,C,C,C
+KIIP_geography_82,0,C,C,C
+KIIP_geography_83,0,C,C,C
+KIIP_geography_84,0,D,D,D: 춘향제
+KIIP_geography_85,0,A,A,A
+KIIP_geography_86,0,B,B,B
+KIIP_geography_87,0,A,A,A
+KIIP_geography_88,0,A,A,A
+KIIP_geography_89,0,A,A,A: 백제 문화제
+KIIP_geography_90,0,A,A,A: 오징어 축제
+KIIP_geography_91,0,A,A,A
+KIIP_geography_92,0,C,C,C
+Kedu_geography_1,0,B,B,B
+Kedu_geography_2,0,C,C,C: 청마 문학관 - 경상남도 하동군
+Kedu_geography_3,0,C,,"정답: C: 전주 - 별신굿 탈놀이
+
+별신굿 탈놀이는 전라북도 지역의 전통 민속극이지만, 특히 해남에서 유명하며 전주와는 직접적인 연관이 없습니다. 따라서 C가 지역별 연결이 옳지 않은 것입니다."
+Kedu_geography_4,0,C,C,C
+Kedu_geography_5,0,C,D,D
+Kedu_geography_6,0,D,C,C: 박경리문학공원 - 원주
+Kedu_geography_7,0,A,A,A
+Kedu_geography_8,0,C,C,C
+Kedu_geography_9,0,B,B,B
+KHB_66_1,0,D,D,D: 지배층의 무덤으로 고인돌을 만들었다.
+KHB_66_2,0,A,B,B: 부여
+KHB_66_3,0,C,,정답: B
+KHB_66_4,0,B,B,B
+KHB_66_5,0,A,A,A
+KHB_66_6,0,A,A,A: 분황사 모전 석탑
+KHB_66_7,0,D,,정답: D
+KHB_66_8,0,D,,정답: D
+KHB_66_9,0,A,C,C: 금동 대향로
+KHB_66_10,0,D,,정답은 B입니다.
+KHB_66_11,0,B,B,B: 윤관이 별무반 설치를 건의하였다.
+KHB_66_12,0,D,D,D: 해동통보
+KHB_66_13,0,C,B,B
+KHB_66_14,0,A,,정답: C
+KHB_66_15,0,C,,정답: C
+KHB_66_16,0,C,B,B
+KHB_66_17,0,B,D,D
+KHB_66_18,0,A,,"정답: A: 태종
+
+태종은 조선 초기의 왕으로, 6조 직계제와 호패법을 실시하였으며, 사간원을 설치하였습니다. 또한 창덕궁을 건설하고 신문고를 설치하는 등의 정치적, 사회 문화적 발전을 이루었습니다. 따라서 옵션 A: 태종이 정답입니다."
+KHB_66_19,0,B,B,B: 대동법
+KHB_66_20,0,B,D,D
+KHB_66_21,0,D,,"정답은 B: (가) - (다) - (나) 입니다.
+
+설명:
+(가) 강홍립의 부대가 파병되어 후금과 전투하였어요. - 이 사건은 1627년 정묘호란 때 일어났습니다.
+(다) 남한산성에서 나온 인조가 삼전도에서 청에 항복하였어요. - 이 사건은 1636년 병자호란 때 일어났습니다.
+(나) 청의 요청으로 나선 정벌에 조총 부대가 파견되었어요. - 이 사건은 병자호란 이후인 1637년에 일어났습니다.
+
+따라서, 이 사건들이 일어난 순서는 (가), (다), (나) 입니다."
+KHB_66_22,0,B,C,C
+KHB_66_23,0,D,B,B: 세한도
+KHB_66_24,0,C,C,C
+KHB_66_25,0,C,D,D
+KHB_66_26,0,A,C,C
+KHB_66_27,0,C,A,A
+KHB_66_28,0,C,C,C: 임오군란
+KHB_66_29,0,B,B,B: 독립 의군부를 조직하였다.
+KHB_66_30,0,B,C,C
+KHB_66_31,0,D,,정답: D (양기탁)
+KHB_66_32,0,C,C,C: 경부선 철도 개통식에 참석하는 관리
+KHB_66_33,0,B,B,B: 청산리 전투
+KHB_66_34,0,D,,정답: B
+KHB_66_35,0,A,A,A
+KHB_66_36,0,A,D,D: 군국기무처가 설치되었다.
+KHB_66_37,0,D,D,D
+KHB_66_38,0,A,A,A
+KHB_66_39,0,C,C,C
+KHB_66_40,0,C,,정답: C
+KHB_66_41,0,D,B,B: 발췌 개헌안 통과
+KHB_66_42,0,B,B,B: 경부 고속 도로를 준공하였다.
+KHB_66_43,0,C,C,C: 6• 15 남북 공동 선언을 발표하였다.
+KHB_66_44,0,D,D,D
+KHB_66_45,0,A,A,A: 의궤
+KHB_66_47,0,A,A,A: (원효) - 십문화쟁론을 저술함.
+KHB_66_48,0,D,,"정답은 D입니다. (Answer: D)
+
+설명:
+(다) 태학과 경당은 고대 삼국시대에 설립된 교육 기관입니다.
+(나) 국자감은 고려시대에 설립되었으며, 서적포는 그 이후에 설치되었습니다.
+(가) 한양에 성균관과 4부 학당을 세우는 것은 조선시대의 일입니다.
+
+따라서 올바른 순서는 (다) - (나) - (가) 입니다."
+Kedu_history_1,0,D,A,A
+Kedu_history_2,0,C,,정답: D
+Kedu_history_3,0,D,,정답: D
+Kedu_history_4,0,B,C,C: 한식(寒食)
+Kedu_history_5,0,B,B,B: 패관 문학과 가전체 문학의 등장
+Kedu_history_6,0,D,D,D: 대한매일신보
+Kedu_history_7,0,A,B,B: 육영공원
+Kedu_history_8,0,C,C,C: 구지가(龜旨歌)
+Kedu_history_9,0,B,,정답: C
+Kedu_history_10,0,B,C,C: 태종 13년 《태조실록》의 편찬을 시작으로 고종 2년 《철종실록》까지 완성되었다.
+Kedu_history_11,0,A,C,C
+Kedu_history_12,0,A,A,A
+Kedu_history_13,0,D,C,C: 수운잡방
+Kedu_history_14,0,B,B,B
+Kedu_history_15,0,A,B,B
+Kedu_history_16,0,B,C,C
+Kedu_history_17,0,D,D,D
+Kedu_history_18,0,A,A,A
+Kedu_history_19,0,A,,"정답은 B입니다. 각 선언의 연도는 다음과 같습니다:
+ㄱ. 7ㆍ4 남북공동성명 - 1972년
+ㄷ. 한민족 공동체 통일방안 - 1989년
+ㄹ. 한반도 비핵화에 관한 공동선언 - 1992년
+ㄴ. 6ㆍ15 남북공동성명 - 2000년
+
+이를 연도별로 나열하면 ㄱ - ㄷ - ㄹ - ㄴ 순이므로, 옵션 B가 정답입니다."
+Kedu_history_20,0,B,A,A
+Kedu_history_21,0,B,B,B
+Kedu_history_22,0,D,D,D
+Kedu_history_23,0,B,A,A: 직지심체요절
+Kedu_history_24,0,B,D,D
+Kedu_history_25,0,C,B,B
+Kedu_history_26,0,C,C,C
+Kedu_history_27,0,D,,정답은 D: 무구정광대다라니경입니다.
+Kedu_history_28,0,B,,정답은 C: 의금부입니다.
+Kedu_history_29,0,C,C,C: 조선상고사
+Kedu_history_30,0,B,B,B: 청산별곡
+Kedu_history_31,0,B,A,A
+Kedu_history_32,0,C,C,C: 후추
+Kedu_history_33,0,D,D,D
+Kedu_history_34,0,C,A,A
+Kedu_history_35,0,A,A,A
+Kedu_history_36,0,C,C,C
+Kedu_history_37,0,B,C,C
+Kedu_history_38,0,C,C,C: ≪흠흠신서≫
+Kedu_history_39,0,C,C,C
+Kedu_history_40,0,A,C,C
+Kedu_history_41,0,C,C,C
+Kedu_history_42,0,A,A,A: 김정희
+Kedu_history_43,0,B,B,B
+PSE_history_13_10,0,A,,정답: B
+PSE_history_13_11,0,B,B,B
+PSE_history_13_12,0,D,D,D
+PSE_history_13_13,0,C,C,C
+PSE_history_13_14,0,C,C,C
+PSE_history_13_15,0,A,,정답: B
+PSE_history_13_16,0,D,C,C
+PSE_history_13_17,0,C,B,B: 전통적 미풍양속을 계승하면서 삼강오륜을 중심으로 한 유교
+PSE_history_13_18,0,B,,정답은 B입니다.
+PSE_history_13_19,0,C,C,C
+PSE_history_14_1,0,C,A,A: 광개토왕비
+PSE_history_14_2,0,B,D,D
+PSE_history_14_3,0,B,C,"C: 동사에서 조선의 자연환경과 풍속, 인성의 독자성을"
+PSE_history_14_4,0,D,D,D
+PSE_history_14_5,0,D,,정답은 B입니다.
+PSE_history_14_6,0,B,,정답: D
+PSE_history_14_7,0,B,A,A
+PSE_history_14_8,0,D,C,C
+PSE_history_14_9,0,A,A,A
+PSE_history_14_10,0,D,A,A
+PSE_history_15_2,0,D,D,D
+PSE_history_15_3,0,B,B,B
+PSE_history_15_4,0,B,B,B
+PSE_history_15_5,0,C,B,B
+PSE_history_15_6,0,C,D,D
+PSE_history_15_7,0,C,B,B: 5도 양계의 지방 제도를 확립하였다.
+PSE_history_15_8,0,A,D,D
+PSE_history_15_9,0,C,,정답: D
+PSE_history_15_10,0,C,D,D
+PSE_history_15_11,0,A,A,A
+PSE_history_15_12,0,D,,정답: D
+PSE_history_15_13,0,D,B,B
+PSE_history_15_14,0,B,,"고종 황제의 강제 퇴위는 1907년에 일어났고, 일제에 의한 군대 해산은 1907년에 이루어진 사건입니다. 이를 기반으로 각 보기를 검토해보겠습니다.
+
+ㄱ. 안중근이 만주 하얼빈에서 이토 히로부미를 사살한 사건은 1909년에 일어났습니다. 이는 고종 황제의 강제 퇴위와 군대 해산 이후의 사건입니다.
+ㄴ. 민영환은 1907년에 일제에 대한 저항을 표현하며 자결하였습니다. 이는 군대 해산 직후의 사건입니다.
+ㄷ. 장지연이 ‘시일야방성대곡’을 황성신문에 발표한 것은"
+PSE_history_15_15,0,B,B,B
+PSE_history_15_16,0,D,D,D: 붕당을 없애자는 논리에 동의하는 관료들을 중심으로 탕평
+PSE_history_15_17,0,A,B,"B: 형평사를 창립하고, 평등한 대우를 요구하는 형평운동을 펼쳤다."
+PSE_history_15_18,0,C,D,D
+PSE_history_16_1,0,C,C,C
+PSE_history_16_2,0,D,D,D
+PSE_history_16_3,0,C,A,A
+PSE_history_16_4,0,C,,정답: D
+PSE_history_16_5,0,B,D,D: 일본 공사관이 불타고 일본군이 청군에 패퇴하였다.
+PSE_history_16_6,0,C,A,A
+PSE_history_16_7,0,D,D,D
+PSE_history_16_8,0,A,D,D
+PSE_history_16_9,0,B,,정답: D
+PSE_history_16_10,0,C,D,D: 왜에 종이와 먹의 제작 방법을 전해 주었다.
+PSE_history_16_11,0,A,D,D
+PSE_history_16_12,0,A,D,D
+PSE_history_16_13,0,A,,정답: C
+PSE_history_17_7,0,B,,정답은 C입니다.
+PSE_history_17_8,0,C,B,B
+PSE_history_17_9,0,B,B,B: 대한제국 칙령 제41호 - 삼국접양지도
+PSE_history_17_10,0,C,B,B: 동시전이 설치되어 시장을 감독하였다.
+PSE_history_17_11,0,D,,정답: B
+PSE_history_17_12,0,D,B,B: 독립운동 단체인 권업회가 조직되었다.
+PSE_history_17_13,0,C,,정답: D
+PSE_history_17_14,0,D,,정답은 C입니다.
+PSE_history_17_15,0,B,,정답은 C입니다.
+PSE_history_17_16,0,A,A,A
+PSE_history_17_17,0,C,A,A
+PSE_history_17_18,0,C,C,C
+PSE_history_17_19,0,A,B,B
+PSE_history_18_1,0,A,C,C
+PSE_history_18_2,0,B,B,B: 귀주 대첩
+PSE_history_18_3,0,A,A,A
+PSE_history_18_4,0,C,C,C
+PSE_history_18_5,0,C,C,C: 토속 신에게 제사를 지냈다.
+PSE_history_18_6,0,A,B,B
+PSE_history_18_7,0,A,C,C: 국조오례의가 편찬되고 동국여지승람이 만들어졌다.
+PSE_history_18_8,0,C,D,D
+PSE_history_18_9,0,B,C,C: 연초 전매 제도에 따라 조합에 수매되는 담배
+PSE_history_18_10,0,D,C,C
+PSE_history_18_11,0,B,,정답: C
+PSE_history_18_12,0,B,D,D
+PSE_history_18_13,0,D,,정답: A
+PSE_history_18_14,0,B,C,C
+PSE_history_18_15,0,C,,"정답은 B입니다. 조선 성리학의 발전 과정을 보면, 초기에는 우주론적 관점에서의 논의가 있었고(ㄴ), 이후 일상생활에서의 윤리적 실천이 강조되었으며(ㄹ), 그 다음으로 현실 개혁의 필요성이 제기되었고(ㄱ), 마지막으로 사단칠정 논쟁이 이루어졌습니다(ㄷ). 따라서 올바른 순서는 ㄴ→ㄹ→ㄱ→ㄷ입니다."
+PSE_history_18_16,0,D,C,C
+PSE_history_18_17,0,B,C,C: 국가 기간 산업인 울산 정유 공장이 가동되었다.
+PSE_history_18_18,0,B,,정답: D
+PSE_history_18_19,0,C,,"정답은 C입니다. 해동제국기(1471), 표해록(1614), 열하일기(1777), 서유견문(1780) 순으로 시기적으로 배열되어 있습니다."
+PSE_history_19_1,0,C,C,C
+PSE_history_19_2,0,D,,"정답은 B입니다. (가)의 설명은 고구려의 영고 행사에 대한 것이며, 고구려의 정치적 지배자로는 신지, 읍차 등이 있었습니다. 따라서 B가 (가)에 대한 올바른 설명입니다."
+PSE_history_19_3,0,C,C,C
+PSE_history_19_4,0,C,,정답: D
+PSE_history_19_5,0,D,D,D
+PSE_history_19_6,0,A,D,D
+PSE_history_19_7,0,A,,정답: D
+PSE_history_19_8,0,D,C,C: 대흥이라는 독자적인 연호를 사용하였다.
+PSE_history_19_9,0,C,,정답: D
+PSE_history_19_10,0,A,A,A
+PSE_history_19_11,0,C,C,C
+PSE_history_19_12,0,B,D,D
+PSE_history_19_13,0,D,,정답: D
+PSE_history_19_14,0,A,B,B
+PSE_history_19_15,0,C,C,C
+PSE_history_19_16,0,D,D,D: 학문 연구와 선현의 제사를 위해 설립된 사설 교육기관이다.
+PSE_history_19_17,0,A,,"정답: D
+
+설명:
+(가)의 설명은 조.일수호조규부록에 대한 것으로, 강화도 조약 이후 몇 달 뒤에 체결되었으며, 일본 선박의 항세 면제와 양곡의 무제한 유출을 가능하게 하는 규정이 포함되어 있습니다.
+(나)의 설명은 조.러수호통상조약에 대한 것으로, 김홍집이 황준헌의 조선책략을 일본에서 가져오면서 체결되었으며, 청의 알선으로 거중조정 조항과 최혜국 대우 규정이 포함되어 있습니다.
+따라서, 올바른 짝은 (가)조.일수호조규부록, (나)조.러수호통상조약인 D입니다."
+PSE_history_19_18,0,B,C,C
+PSE_history_19_19,0,B,,정답: D
+PSE_history_19_20,0,B,,"정답은 D입니다. 시간 순서에 따라 이벤트를 배열하면 다음과 같습니다:
+(다) 모스크바 3국 외상 회의가 개최되었다. (1945년 12월)
+(나) 조선 건국 준비 위원회가 결성되었다. (1946년 1월)
+(가) 좌우합작 7원칙이 발표되었다. (1946년 1월)
+(라) 김구와 김규식이 남북협상을 제의하였다. (1946년 4월)"
+PSE_history_20_1,0,C,C,C: 사냥이나 물고기잡이 등을 통해 식량을 얻었다.
+PSE_history_20_2,0,D,,정답: C
+PSE_history_20_3,0,C,C,C
+PSE_history_20_4,0,B,B,B: 근대 문물 수용의 사상적 기반이 되었다.
+PSE_history_20_5,0,D,C,C: 혜민국
+PSE_history_20_6,0,B,D,D: 고려 태조가 북진 정책의 전진 기지로 삼았다.
+PSE_history_20_7,0,A,D,D
+PSE_history_20_8,0,D,,"정답은 D입니다. (라) - 신라가 매소성에서 당군을 격파하였다는 사실은 고구려 멸망 이후의 사건이 아니라, 고구려 멸망 이전에 발생한 사건입니다. 따라서 시대순으로 배열된 것 중 옳지 않은 사실입니다."
+PSE_history_20_9,0,C,C,C
+PSE_history_20_10,0,C,C,C: 최치원이 시무책 10여 조를 건의하였다.
+PSE_history_20_11,0,A,,"정답은 A: ㄱ,ㄴ,ㄷ 입니다."
+PSE_history_20_12,0,B,C,C
+PSE_history_20_13,0,A,A,A: 황산벌에서 백제군을 물리쳤다.
+PSE_history_20_14,0,C,D,D
+PSE_history_20_15,0,B,A,A
+PSE_history_20_16,0,B,B,"B: 저금리, 저유가, 저달러의 3저 호황을 경험하다."
+PSE_history_20_17,0,D,B,B: 경성 제국 대학이 설립되었다.
+PSE_history_20_18,0,C,C,C
+PSE_history_20_19,0,D,D,D
+PSE_history_21_1,0,C,,정답은 C입니다.
+PSE_history_21_2,0,B,B,B
+PSE_history_21_3,0,C,D,D
+PSE_history_21_4,0,A,,정답: B
+PSE_history_21_5,0,A,,"정답은 A입니다. ㄱ. 양양 오산리 유적에서는 덧무늬토기가 발견되었고, ㄴ. 서울 암사동 유적에서는 빗살무늬토기가 발견되었습니다. 이 두 유적지와 유물의 연결이 정확합니다."
+PSE_history_21_6,0,D,D,D
+PSE_history_21_7,0,D,D,D
+PSE_history_21_8,0,C,,"정답은 B입니다. 
+
+ㄱ. 공주 송산리 고분군에는 전축분인 6호분과 무령왕릉이 있다. - 이 설명은 정확합니다.
+ㄴ. 양산 통도사는 금강계단 불사리탑이 있는 삼보 사찰이다. - 이 설명도 정확합니다.
+ㄷ. 남한산성은 병자호란 때 인조가 피난했던 산성이다. - 이 설명도 정확합니다.
+ㄹ. 승정원일기는 역대 왕의 훌륭한 언행을 실록에서 뽑아 만든 사서이다. - 이 설명은 잘못되었습니다. 승정원일기는 조선 시대의 국왕과 승정원(국무회의 기능을 했던 기관) 사이의 일상적"
+PSE_history_21_9,0,A,B,B
+PSE_history_21_10,0,D,D,D
+PSE_history_21_11,0,C,C,C
+PSE_history_21_12,0,B,,정답: A
+PSE_history_21_13,0,D,,정답: D
+PSE_history_21_14,0,B,,정답: B
+PSE_history_21_15,0,A,A,A
+PSE_history_21_16,0,D,C,C: 민족유일당운동 차원에서 조선혁명당이 참가하였다.
+PSE_history_21_17,0,B,B,"B: 역둔토, 궁장토를 총독부 소유로 만들었다."
+PSE_history_21_18,0,B,B,B
+PSE_history_21_19,0,C,,정답: A
+PSE_history_22_1,0,A,C,C
+PSE_history_22_2,0,C,A,A
+PSE_history_22_3,0,D,D,D
+PSE_history_22_4,0,A,A,A
+PSE_history_22_5,0,B,B,B
+PSE_history_22_6,0,C,B,B: ‘해동성국’이라고 불릴 만큼 전성기를 이루었다.
+PSE_history_22_7,0,D,,정답은 D입니다.
+PSE_history_22_8,0,B,B,B: 기묘사화
+PSE_history_22_9,0,C,,정답: D
+PSE_history_22_10,0,C,,정답: B: 성호사설
+PSE_history_22_11,0,A,A,A
+PSE_history_22_12,0,D,A,A
+PSE_history_22_13,0,A,A,A
+PSE_history_22_14,0,B,,정답: D
+PSE_history_22_15,0,A,C,C
+PSE_history_22_16,0,B,B,B: 안동 봉정사 극락전
+PSE_history_22_17,0,B,C,C: 개혁의 기본 강령인 ｢홍범 14조｣를 발표하였다.
+PSE_history_22_18,0,C,B,B: 정동행성이 설치되었다.
+PSE_history_22_19,0,B,A,A
+PSE_history_22_20,0,D,C,C
+KIIP_law_1,0,A,A,A: 영주권을 신청한 사람들
+KIIP_law_2,0,B,B,B: 사증
+KIIP_law_3,0,A,A,A
+KIIP_law_4,0,B,B,B: 용산구 이태원동
+KIIP_law_5,0,A,B,B
+KIIP_law_6,0,C,,정답은 B: 서울 종로구입니다.
+KIIP_law_7,0,A,,정답은 A: 한민족학교입니다.
+KIIP_law_8,0,C,C,C
+KIIP_law_9,0,C,C,C
+KIIP_law_10,0,A,A,A
+KIIP_law_11,0,B,B,B
+KIIP_law_12,0,A,A,A
+KIIP_law_13,0,B,B,B: 범죄자를 처벌해 달라고 법원에 재판을 신청한다
+KIIP_law_14,0,C,C,C
+KIIP_law_15,0,B,B,B
+KIIP_law_16,0,A,A,A
+KIIP_law_17,0,A,D,D
+KIIP_law_18,0,A,A,A
+KIIP_law_19,0,A,A,A
+KIIP_law_20,0,C,C,C: 18세
+KIIP_law_21,0,B,C,C
+KIIP_law_22,0,A,A,A: 주택임대차 보호법
+KIIP_law_23,0,B,B,B
+KIIP_law_24,0,A,A,A
+KIIP_law_25,0,A,A,A
+KIIP_law_26,0,A,A,A: 주택임대차 보호법
+KIIP_law_27,0,A,A,A
+KIIP_law_28,0,A,A,A
+KIIP_law_29,0,A,A,A: 함께 사는 것
+KIIP_law_30,0,A,A,A
+KIIP_law_31,0,A,C,C
+KIIP_law_32,0,A,A,A
+KIIP_law_33,0,A,A,A
+KIIP_law_34,0,A,A,A
+KIIP_law_35,0,A,A,A: 자녀 양육에 필요한 비용
+KIIP_law_36,0,A,A,A
+KIIP_law_37,0,C,C,C: 대한법률구조 공단
+KIIP_law_38,0,D,D,D
+KIIP_law_39,0,D,C,C: 한국어 교육
+KIIP_law_40,0,C,C,C
+KIIP_law_41,0,A,A,A
+KIIP_law_42,0,C,C,C
+KIIP_law_43,0,C,C,C
+KIIP_law_44,0,A,A,A
+KIIP_law_45,0,A,A,A: 한국소비자원
+KIIP_law_46,0,B,B,B: 법무부
+KIIP_law_47,0,A,A,A: 서울특별시 서초구 서초동 대법원
+KIIP_law_48,0,A,A,A
+KIIP_law_49,0,A,A,A
+KIIP_law_50,0,A,A,A
+KIIP_law_51,0,A,B,B
+PSAT_17_1,0,A,D,D
+PSAT_17_2,0,C,C,C
+PSAT_17_3,0,A,A,A
+PSAT_17_4,0,A,A,A
+PSAT_17_5,0,B,B,B
+PSAT_17_6,0,D,B,B
+PSAT_17_7,0,B,C,C
+PSAT_17_8,0,D,D,D
+PSAT_17_9,0,A,D,D
+PSAT_17_10,0,C,C,C
+PSAT_17_11,0,D,A,A
+PSAT_17_12,0,C,C,C: 국가안전보장회의
+PSAT_17_13,0,D,C,C
+PSAT_17_14,0,B,B,B
+PSAT_17_15,0,D,A,A
+PSAT_17_16,0,B,,정답은 B입니다.
+PSAT_17_17,0,D,D,D
+PSAT_17_18,0,B,B,B
+PSAT_17_19,0,A,D,D
+PSAT_17_20,0,A,,정답: B
+PSAT_17_21,0,C,D,D
+PSAT_17_22,0,D,D,D
+PSAT_17_23,0,A,A,A
+PSAT_17_24,0,D,D,D
+PSAT_17_25,0,B,D,D
+PSAT_18_1,0,C,C,C
+PSAT_18_2,0,A,A,A
+PSAT_18_3,0,B,,정답: D
+PSAT_18_4,0,C,C,C
+PSAT_18_5,0,B,B,B
+PSAT_18_6,0,C,D,D
+PSAT_18_7,0,B,,정답: B
+PSAT_18_8,0,A,A,A
+PSAT_18_10,0,D,D,D
+PSAT_18_11,0,C,A,A
+PSAT_18_12,0,B,B,B
+PSAT_18_13,0,C,C,C
+PSAT_18_14,0,A,C,C
+PSAT_18_15,0,D,D,D
+PSAT_18_16,0,A,A,A
+PSAT_18_17,0,D,A,A
+PSAT_18_18,0,C,A,A
+PSAT_18_19,0,B,A,A
+PSAT_18_20,0,C,C,C
+PSAT_18_21,0,D,B,B
+PSAT_18_22,0,C,B,B
+PSAT_18_23,0,B,A,A
+PSAT_18_24,0,A,,"정답: D
+
+설명: 한국의 국회 본회의는 원칙적으로 공개되어야 하며, 비공개 회의를 하기 위해서는 재적의원 3분의 1 이상의 동의가 필요합니다. 보기 D에서는 국회의원 10인 이상의 연서에 의한 동의로 본회의를 비공개할 수 있다고 하였으나, 이는 잘못된 정보입니다. 따라서 D가 옳지 않은 설명입니다."
+PSAT_18_25,0,B,D,D
+PSAT_19_1,0,D,A,A
+PSAT_19_2,0,C,,정답: A
+PSAT_19_3,0,B,B,B
+PSAT_19_4,0,B,D,D
+PSAT_19_5,0,C,A,A
+PSAT_19_6,0,D,,정답: A
+PSAT_19_7,0,A,D,D
+PSAT_19_8,0,B,A,A
+PSAT_19_9,0,A,D,D
+PSAT_19_10,0,D,C,C
+PSAT_19_11,0,C,B,B
+PSAT_19_12,0,C,C,C
+PSAT_19_14,0,D,D,D
+PSAT_19_15,0,D,D,D
+PSAT_19_16,0,B,B,B
+PSAT_19_17,0,B,B,B
+PSAT_19_18,0,C,A,A
+PSAT_19_19,0,C,D,D
+PSAT_19_20,0,A,A,A
+PSAT_19_21,0,B,C,C
+PSAT_19_22,0,B,,정답: B
+PSAT_19_23,0,D,C,C
+PSAT_19_25,0,D,,"정답: D
+
+설명: 행정안전부장관은 지방자치단체의 자치사무에 대해 직접적인 감사 권한을 가지지 않는다. 이는 지방자치의 원칙에 어긋난다. 지방자치단체의 자치사무는 해당 지방자치단체의 자율성을 보장하기 위해 중앙정부의 직접적인 간섭을 받지 않는다. 따라서, D 보기는 옳지 않은 설명이다."
+PSAT_20_1,0,D,D,D
+PSAT_20_2,0,B,A,A
+PSAT_20_3,0,D,C,C
+PSAT_20_4,0,C,D,D
+PSAT_20_5,0,B,A,A
+PSAT_20_6,0,A,A,A
+PSAT_20_7,0,A,B,B
+PSAT_20_8,0,D,B,B
+PSAT_20_9,0,B,B,B
+PSAT_20_10,0,C,C,C
+PSAT_20_11,0,C,C,C
+PSAT_20_12,0,B,C,C
+PSAT_20_13,0,C,C,C
+PSAT_20_14,0,D,D,D
+PSAT_20_15,0,B,B,B
+PSAT_20_16,0,D,D,D
+PSAT_20_17,0,D,A,A
+PSAT_20_18,0,B,B,B
+PSAT_20_19,0,D,A,A
+PSAT_20_20,0,A,A,A
+PSAT_20_21,0,A,,정답: D
+PSAT_20_22,0,C,C,C
+PSAT_20_23,0,B,B,B
+PSAT_20_24,0,A,A,A
+PSAT_20_25,0,C,A,A
+PSAT_21_1,0,C,A,A
+PSAT_21_2,0,C,C,C
+PSAT_21_3,0,C,C,C
+PSAT_21_5,0,B,B,B
+PSAT_21_6,0,C,A,A
+PSAT_21_7,0,D,D,D
+PSAT_21_8,0,D,A,A
+PSAT_21_9,0,A,A,A
+PSAT_21_10,0,B,,정답: A
+PSAT_21_11,0,C,C,C
+PSAT_21_12,0,B,B,B
+PSAT_21_13,0,D,D,D
+PSAT_21_14,0,A,D,D
+PSAT_21_15,0,A,A,A
+PSAT_21_16,0,D,B,B
+PSAT_21_17,0,B,B,B
+PSAT_21_18,0,A,,정답: B
+PSAT_21_19,0,B,A,A
+PSAT_21_20,0,A,A,A
+PSAT_21_21,0,C,C,C
+PSAT_21_22,0,D,C,C
+PSAT_21_23,0,B,A,A
+PSAT_21_24,0,C,C,C
+PSAT_22_1,0,B,B,B
+PSAT_22_2,0,A,B,B
+PSAT_22_3,0,C,A,A
+PSAT_22_4,0,D,B,B
+PSAT_22_5,0,D,B,B
+PSAT_22_6,0,A,A,A
+PSAT_22_7,0,B,B,B
+PSAT_22_8,0,B,B,B
+PSAT_22_9,0,C,C,C
+PSAT_22_10,0,C,C,C
+PSAT_22_11,0,B,C,C
+PSAT_22_12,0,D,,정답: D
+PSAT_22_13,0,A,A,A
+PSAT_22_14,0,A,A,A
+PSAT_22_15,0,C,B,B
+PSAT_22_16,0,D,D,D
+PSAT_22_18,0,C,A,A
+PSAT_22_20,0,D,,"정답: C
+
+설명: 국회의 탄핵소추 절차에 대한 설명인 C번이 옳지 않습니다. 실제로는 국회의 탄핵소추를 위해서는 국회재적의원 과반수의 발의와 재적의원 3분의 2 이상의 찬성이 필요합니다. 따라서 C번의 내용은 잘못된 정보를 담고 있습니다."
+PSAT_22_21,0,C,C,C
+PSAT_22_22,0,D,A,A
+PSAT_22_23,0,B,C,C
+PSAT_22_24,0,A,B,B
+PSAT_22_25,0,C,C,C
+PSAT_23_1,0,A,A,A
+PSAT_23_2,0,B,D,D
+PSAT_23_3,0,C,B,B
+PSAT_23_4,0,B,B,B
+PSAT_23_5,0,D,D,D
+PSAT_23_6,0,A,C,C
+PSAT_23_7,0,A,A,A
+PSAT_23_8,0,D,B,B
+PSAT_23_9,0,B,B,B
+PSAT_23_10,0,A,,정답: C
+PSAT_23_11,0,B,C,C
+PSAT_23_12,0,C,C,C
+PSAT_23_13,0,B,B,B
+PSAT_23_14,0,B,C,C
+PSAT_23_15,0,A,C,C
+PSAT_23_16,0,D,D,D
+PSAT_23_17,0,A,,정답: C
+PSAT_23_18,0,D,D,D
+PSAT_23_19,0,C,C,C
+PSAT_23_20,0,B,B,B
+PSAT_23_21,0,A,A,A
+PSAT_23_22,0,C,C,C
+PSAT_23_23,0,C,C,C
+PSAT_23_24,0,D,D,D
+PSAT_23_25,0,C,A,A
+KIIP_politics_1,0,A,A,A
+KIIP_politics_2,0,A,A,A
+KIIP_politics_3,0,B,B,B
+KIIP_politics_4,0,B,B,B: 1980년대 이후
+KIIP_politics_5,0,B,B,B
+KIIP_politics_6,0,B,B,B
+KIIP_politics_7,0,A,A,A
+KIIP_politics_8,0,C,C,C
+KIIP_politics_9,0,A,A,A
+KIIP_politics_10,0,C,C,C
+KIIP_politics_11,0,C,C,C: 국민
+KIIP_politics_12,0,B,B,B
+KIIP_politics_13,0,B,B,B: 1948년 7월 17일
+KIIP_politics_14,0,A,A,A
+KIIP_politics_15,0,A,A,A
+KIIP_politics_16,0,C,C,C
+KIIP_politics_17,0,C,C,C: 정부의 민주화 요구 불충족
+KIIP_politics_18,0,A,A,A
+KIIP_politics_19,0,A,A,A
+KIIP_politics_20,0,A,A,A: 대통령 직선제 개헌
+KIIP_politics_21,0,C,C,C: 행정부와 국회의 권력 균형
+KIIP_politics_22,0,B,B,B
+KIIP_politics_23,0,A,A,A: 대통령 직선제
+KIIP_politics_24,0,A,A,A: 대통령 직선제
+KIIP_politics_25,0,A,A,A
+KIIP_politics_26,0,B,B,"B: 시와 군, 구"
+KIIP_politics_27,0,A,A,A
+KIIP_politics_28,0,B,A,A
+KIIP_politics_29,0,A,A,A
+KIIP_politics_30,0,A,A,A
+KIIP_politics_31,0,A,B,B
+KIIP_politics_32,0,A,A,A
+KIIP_politics_33,0,A,A,A
+KIIP_politics_34,0,A,C,C: 3개
+KIIP_politics_35,0,D,B,B
+KIIP_politics_36,0,B,B,B
+KIIP_politics_37,0,A,D,D: 주민등록증
+KIIP_politics_38,0,A,A,A
+KIIP_politics_39,0,C,C,C
+KIIP_politics_40,0,B,B,B
+KIIP_politics_41,0,B,B,B
+KIIP_politics_42,0,B,B,B
+KIIP_politics_43,0,D,A,A
+KIIP_politics_44,0,B,B,B
+KIIP_politics_45,0,C,C,C
+KIIP_politics_46,0,C,C,C
+KIIP_politics_47,0,A,A,A
+KIIP_politics_48,0,B,C,C: 헌법
+KIIP_politics_49,0,A,A,A
+KIIP_politics_50,0,C,C,C
+KIIP_politics_51,0,A,A,A
+KIIP_politics_52,0,C,C,C
+KIIP_politics_53,0,D,D,D
+KIIP_politics_54,0,C,C,C
+KIIP_politics_55,0,A,A,A
+KIIP_politics_56,0,A,A,A
+KIIP_politics_57,0,A,A,A: 층간소음 중재 서비스
+KIIP_politics_58,0,D,D,D
+KIIP_politics_59,0,A,A,A
+KIIP_politics_60,0,B,B,B
+KIIP_politics_61,0,A,A,A
+KIIP_politics_62,0,B,B,B
+KIIP_politics_63,0,D,D,D
+KIIP_politics_64,0,B,B,B
+KIIP_politics_65,0,C,C,C
+KIIP_politics_66,0,C,C,C
+KIIP_politics_67,0,A,A,A
+KIIP_politics_68,0,B,C,C
+KIIP_politics_69,0,B,B,B
+KIIP_politics_70,0,D,D,D
+KIIP_politics_71,0,A,A,A: 한반도의 평화 통일
+KIIP_politics_72,0,A,A,A
+KIIP_politics_73,0,D,D,D
+KIIP_politics_74,0,C,C,C
+KIIP_politics_75,0,C,C,C
+KIIP_politics_76,0,B,B,B
+KIIP_politics_77,0,C,D,D: 조선 시대
+KIIP_politics_78,0,B,B,B
+KIIP_politics_79,0,C,C,C: 독도경비대
+Kedu_politics_1,0,B,,"한국에서 개최된 국제회의의 연도를 확인해보면 다음과 같습니다:
+ㄱ. 핵안보정상회의 - 2012년
+ㄴ. ASEM회의 - 2000년
+ㄷ. G20정상회의 - 2010년
+ㄹ. APEC정상회담 - 2005년
+
+이를 연도순으로 나열하면:
+2000년 ASEM회의 (ㄴ), 2005년 APEC정상회담 (ㄹ), 2010년 G20정상회의 (ㄷ), 2012년 핵안보정상회의 (ㄱ)
+
+따라서 올바른 순서는 ㄴ - ㄹ - ㄷ - ㄱ 입니다.
+
+정답은 A: ㄴ - ㄱ - ㄹ - ㄷ 입니다."
+Kedu_politics_2,0,A,A,A
+Kedu_politics_3,0,C,C,C
+Kedu_politics_4,0,D,D,D: 이스라엘
+Kedu_politics_5,0,B,B,B
+KIIP_popular_1,0,A,A,A
+KIIP_popular_2,0,A,A,A
+KIIP_popular_3,0,A,A,A
+KIIP_popular_4,0,A,A,A
+KIIP_popular_5,0,C,C,C: 국민 드라마
+KIIP_popular_6,0,A,A,A
+KIIP_popular_7,0,A,A,A
+KIIP_popular_8,0,B,B,B
+KIIP_popular_9,0,A,A,A
+KIIP_popular_10,0,B,B,B
+KIIP_popular_11,0,D,D,D: 예능 프로그램
+KIIP_popular_12,0,A,A,A
+KIIP_popular_13,0,B,B,B
+KIIP_popular_14,0,C,C,C: 축구
+KIIP_popular_15,0,A,A,A
+KIIP_popular_16,0,B,B,B
+KIIP_popular_17,0,A,A,A
+KIIP_popular_18,0,A,A,A
+KIIP_popular_19,0,A,A,A
+KIIP_popular_20,0,A,A,A
+KIIP_popular_21,0,B,B,B: 1990년대 말
+KIIP_popular_22,0,C,C,C
+KIIP_popular_23,0,B,B,B
+KIIP_popular_24,0,B,B,B: 따라 부르기 어려운 멜로디
+KIIP_popular_25,0,B,B,B
+KIIP_popular_26,0,A,A,A: 겨울연가
+Kedu_popular_1,0,A,C,C: 이창동의 <밀양> - 칸영화제 여우주연상
+Kedu_popular_2,0,C,C,C
+Kedu_popular_3,0,B,B,B
+Kedu_popular_4,0,B,,"한국전쟁이나 남북분단을 주된 배경으로 하는 영화를 확인해보면:
+ㄱ. 태극기 휘날리며 - 한국전쟁을 배경으로 함
+ㄴ. 공동경비구역 JSA - 남북분단, 특히 판문점을 배경으로 함
+ㄷ. 해운대 - 자연재해인 쓰나미를 배경으로 하며, 한국전쟁이나 남북분단과 관련 없음
+ㄹ. 박하사탕 - 시간을 거슬러 올라가는 구조이지만, 주된 배경은 개인의 삶과 역사적 사건들이지만 한국전쟁이나 남북분단을 직접적인 주제로 다루지는 않음
+ㅁ. 웰컴 투 동막"
+Kedu_popular_5,0,B,B,B
+Kedu_popular_6,0,B,B,B: 암살
+Kedu_popular_7,0,A,D,D
+Kedu_popular_8,0,D,,정답: C
+Kedu_popular_9,0,B,,"각 영화의 역사적 배경을 시대순으로 나열하면 다음과 같습니다:
+
+ㄱ. <왕의 남자> - 조선 중기 (광해군 시대)
+ㄴ. <천문> - 조선 후기 (세종대왕 시대)
+ㄷ. <명량> - 조선 중기 (임진왜란 시대)
+ㄹ. <사도> - 조선 후기 (영조 시대)
+
+시대순으로 나열하면:
+1. <천문> (세종대왕 시대)
+2. <왕의 남자> (광해군 시대)
+3. <명량> (임진왜란 시대)
+4. <사도> (영조 시대)
+
+따라서 올바른 답은 B: ㄴ - ㄱ - ㄷ - ㄹ 입니다."
+Kedu_popular_10,0,D,D,D: <해를 품은 달>
+Kedu_popular_11,0,C,C,C
+Kedu_popular_12,0,C,C,C
+Kedu_popular_13,0,D,D,D
+Kedu_popular_14,0,D,D,D
+Kedu_popular_15,0,D,D,D
+KIIP_society_1,0,A,A,A
+KIIP_society_2,0,B,B,B: 1948년
+KIIP_society_3,0,B,B,B
+KIIP_society_4,0,D,D,D
+KIIP_society_5,0,A,A,A
+KIIP_society_6,0,A,A,A
+KIIP_society_7,0,A,A,A
+KIIP_society_8,0,A,A,A: 평화와 화합
+KIIP_society_9,0,A,A,A
+KIIP_society_10,0,B,B,B
+KIIP_society_11,0,C,D,D
+KIIP_society_12,0,C,C,C: 태극기
+KIIP_society_13,0,C,C,C: 태극기에 대한 맹세
+KIIP_society_14,0,B,B,B
+KIIP_society_15,0,B,C,C
+KIIP_society_16,0,B,B,B
+KIIP_society_17,0,C,C,C: 경례
+KIIP_society_18,0,A,A,A
+KIIP_society_19,0,A,A,A
+KIIP_society_20,0,A,A,A
+KIIP_society_21,0,A,A,A
+KIIP_society_22,0,A,A,A
+KIIP_society_23,0,B,B,B
+KIIP_society_24,0,C,C,C
+KIIP_society_25,0,D,D,D
+KIIP_society_26,0,D,D,D
+KIIP_society_27,0,D,D,D
+KIIP_society_28,0,C,C,C
+KIIP_society_29,0,C,C,C
+KIIP_society_30,0,A,A,A
+KIIP_society_31,0,D,D,D
+KIIP_society_32,0,C,C,C
+KIIP_society_33,0,D,D,D
+KIIP_society_34,0,B,B,B: 600년 전
+KIIP_society_35,0,B,B,"B: 14개의 자음, 10개의 모음"
+KIIP_society_36,0,C,C,"C: 하늘, 땅, 사람"
+KIIP_society_37,0,C,C,C: 24개
+KIIP_society_38,0,B,B,B
+KIIP_society_39,0,A,C,C: 세종상
+KIIP_society_40,0,A,A,A
+KIIP_society_41,0,B,B,B
+KIIP_society_42,0,A,A,A
+KIIP_society_43,0,A,A,A
+KIIP_society_44,0,C,C,C
+KIIP_society_45,0,B,A,A
+KIIP_society_46,0,A,A,A
+KIIP_society_47,0,B,A,A
+KIIP_society_48,0,A,A,A
+KIIP_society_49,0,A,A,A
+KIIP_society_50,0,B,B,B
+KIIP_society_51,0,C,C,C: 1인 가구
+KIIP_society_52,0,A,A,A
+KIIP_society_53,0,A,A,A
+KIIP_society_54,0,C,C,C
+KIIP_society_55,0,B,B,B
+KIIP_society_56,0,B,D,D: 삼촌
+KIIP_society_57,0,C,C,C: 고모
+KIIP_society_58,0,D,D,D: 삼촌
+KIIP_society_59,0,D,A,A
+KIIP_society_60,0,A,A,A
+KIIP_society_61,0,B,B,"B: 장인어른, 장모님"
+KIIP_society_62,0,B,C,C: 며느리
+KIIP_society_63,0,C,B,B: (새)아가
+KIIP_society_64,0,C,C,C: 김서방
+KIIP_society_65,0,D,,정답: D
+KIIP_society_66,0,A,B,B
+KIIP_society_67,0,B,B,B: 형님
+KIIP_society_68,0,C,A,A
+KIIP_society_69,0,C,C,C: 형님
+KIIP_society_70,0,A,A,A
+KIIP_society_71,0,A,B,B
+KIIP_society_72,0,C,C,C: 3촌
+KIIP_society_73,0,D,C,C: 3촌
+KIIP_society_74,0,B,B,B: 사촌
+KIIP_society_75,0,C,B,B: 고종사촌
+KIIP_society_76,0,B,C,C: 외사촌
+KIIP_society_77,0,B,B,B
+KIIP_society_78,0,C,C,C
+KIIP_society_79,0,A,C,C
+KIIP_society_80,0,A,A,A
+KIIP_society_81,0,C,C,C: 대기업
+KIIP_society_82,0,B,B,B
+KIIP_society_83,0,D,D,D: 대학 진학률
+KIIP_society_84,0,A,A,A: 맞벌이 부부
+KIIP_society_85,0,A,A,A
+KIIP_society_86,0,A,A,A
+KIIP_society_87,0,A,A,A
+KIIP_society_88,0,B,B,B: 동료와 상사 모두에게
+KIIP_society_89,0,A,A,A
+KIIP_society_90,0,B,B,B: 직급
+KIIP_society_91,0,C,C,C
+KIIP_society_92,0,A,A,A: 취미생활
+KIIP_society_93,0,C,C,C
+KIIP_society_94,0,B,B,B
+KIIP_society_95,0,B,B,B
+KIIP_society_96,0,B,B,B
+KIIP_society_97,0,C,D,D
+KIIP_society_98,0,C,C,C
+KIIP_society_99,0,B,B,B: 회식
+KIIP_society_100,0,A,A,A
+KIIP_society_101,0,C,C,C
+KIIP_society_102,0,A,A,A
+KIIP_society_103,0,A,A,A
+KIIP_society_104,0,A,A,A
+KIIP_society_105,0,A,A,A
+KIIP_society_106,0,C,C,C
+KIIP_society_107,0,A,A,A
+KIIP_society_108,0,A,A,A
+KIIP_society_109,0,D,C,C
+KIIP_society_110,0,A,A,A
+KIIP_society_111,0,D,D,D: 신분증
+KIIP_society_112,0,B,B,B
+KIIP_society_113,0,C,C,C
+KIIP_society_114,0,B,B,B
+KIIP_society_115,0,A,A,A
+KIIP_society_116,0,B,B,B
+KIIP_society_117,0,A,A,A
+KIIP_society_118,0,A,A,A
+KIIP_society_119,0,B,B,B
+KIIP_society_120,0,A,A,A
+KIIP_society_121,0,D,D,D
+KIIP_society_122,0,B,B,B
+KIIP_society_123,0,A,A,A
+KIIP_society_124,0,A,A,A
+KIIP_society_125,0,B,B,B
+KIIP_society_126,0,D,B,B: 버스 정류장
+KIIP_society_127,0,C,C,C
+KIIP_society_128,0,A,A,A
+KIIP_society_129,0,A,A,A
+KIIP_society_130,0,C,C,C
+KIIP_society_131,0,A,A,A
+KIIP_society_132,0,C,C,C
+KIIP_society_133,0,A,A,A
+KIIP_society_134,0,D,D,D
+KIIP_society_135,0,B,B,B
+KIIP_society_136,0,A,A,A
+KIIP_society_137,0,D,D,D
+KIIP_society_138,0,A,A,A
+KIIP_society_139,0,D,D,D
+KIIP_society_140,0,A,A,A
+KIIP_society_141,0,A,A,A
+KIIP_society_142,0,A,A,A
+KIIP_society_143,0,C,C,C
+KIIP_society_144,0,A,A,A
+KIIP_society_145,0,A,A,A
+KIIP_society_146,0,A,A,A
+KIIP_society_147,0,A,A,A
+KIIP_society_148,0,A,A,A
+KIIP_society_149,0,A,A,A
+KIIP_society_150,0,A,A,A
+KIIP_society_151,0,A,A,A
+KIIP_society_152,0,A,A,A
+KIIP_society_153,0,D,D,D: 보건복지부
+KIIP_society_154,0,A,A,A: 주택 부족 및 집값 상승
+KIIP_society_155,0,A,A,A
+KIIP_society_156,0,B,A,A
+KIIP_society_157,0,A,A,A
+KIIP_society_158,0,D,D,D
+KIIP_society_159,0,B,B,B: 1960년대
+KIIP_society_160,0,A,A,A
+KIIP_society_161,0,C,C,C
+KIIP_society_162,0,A,A,A
+KIIP_society_163,0,A,A,A
+KIIP_society_164,0,B,B,B
+KIIP_society_165,0,A,A,A
+KIIP_society_166,0,B,B,B
+KIIP_society_167,0,A,A,A
+KIIP_society_168,0,A,A,A
+KIIP_society_169,0,B,B,B
+KIIP_society_170,0,A,A,A
+KIIP_society_171,0,D,D,D
+KIIP_society_172,0,B,C,C: 2006년
+KIIP_society_173,0,D,,정답은 C: 3일입니다.
+KIIP_society_174,0,A,A,A
+KIIP_society_175,0,A,D,D: 임신진단서
+KIIP_society_176,0,D,D,D
+KIIP_society_177,0,A,A,A
+KIIP_society_178,0,A,A,A
+KIIP_society_179,0,A,A,A
+KIIP_society_180,0,A,A,A
+KIIP_society_181,0,A,A,A
+KIIP_society_182,0,A,A,A
+KIIP_society_183,0,A,A,A
+KIIP_society_184,0,A,A,A
+KIIP_society_185,0,A,A,A
+KIIP_society_186,0,A,D,D
+KIIP_society_187,0,A,A,A
+KIIP_society_188,0,A,A,A
+KIIP_society_189,0,C,C,C
+KIIP_society_190,0,A,A,A
+KIIP_society_191,0,C,C,C
+KIIP_society_192,0,C,C,C: 사립 교육기관의 보육료보다 싸다
+KIIP_society_193,0,A,A,A
+KIIP_society_194,0,D,D,D
+KIIP_society_195,0,C,,정답: C
+KIIP_society_196,0,A,A,A
+KIIP_society_197,0,D,D,D
+KIIP_society_198,0,B,D,D
+KIIP_society_199,0,A,A,A
+KIIP_society_200,0,A,A,A
+KIIP_society_201,0,B,B,B
+KIIP_society_202,0,A,A,A: 알림장
+KIIP_society_203,0,A,A,A
+KIIP_society_204,0,C,C,C: 4년제 대학
+KIIP_society_205,0,A,A,A
+KIIP_society_206,0,A,A,A
+KIIP_society_207,0,C,C,C
+KIIP_society_208,0,B,B,B
+KIIP_society_209,0,B,B,B: 9년
+KIIP_society_210,0,B,B,B
+KIIP_society_211,0,A,A,A
+KIIP_society_212,0,C,C,C
+KIIP_society_213,0,C,C,C
+KIIP_society_214,0,A,A,A
+KIIP_society_215,0,B,B,B: 담임 선생님
+KIIP_society_216,0,A,A,A
+KIIP_society_217,0,A,A,A
+KIIP_society_218,0,C,C,C: 79%
+KIIP_society_219,0,B,B,B
+KIIP_society_220,0,A,A,A
+KIIP_society_221,0,A,A,A
+KIIP_society_222,0,A,A,A
+KIIP_society_223,0,D,D,D: 과학중점고등학교
+KIIP_society_224,0,B,B,B
+KIIP_society_225,0,C,C,C
+KIIP_society_226,0,B,B,B
+KIIP_society_227,0,A,A,A
+KIIP_society_228,0,B,C,C: 약 80%
+KIIP_society_229,0,B,A,A
+KIIP_society_230,0,B,B,B
+KIIP_society_231,0,A,A,A
+KIIP_society_232,0,C,C,C: 최고 수준
+KIIP_society_233,0,B,B,B
+KIIP_society_234,0,D,D,D
+KIIP_society_235,0,C,C,C
+KIIP_society_236,0,B,B,B
+KIIP_society_237,0,A,A,A
+KIIP_society_238,0,D,D,D: 고소득층학생
+KIIP_society_239,0,A,A,A
+KIIP_society_240,0,A,A,A
+KIIP_society_241,0,A,A,A
+KIIP_society_242,0,B,B,B
+KIIP_society_243,0,A,A,A
+KIIP_society_244,0,A,,정답: A
+KIIP_society_245,0,B,B,B: 1990년대 말
+KIIP_society_246,0,A,A,A
+KIIP_society_247,0,A,D,D
+KIIP_society_248,0,A,A,A
+KIIP_society_249,0,A,A,A
+KIIP_society_250,0,C,C,C
+KIIP_society_251,0,C,D,D
+KIIP_society_252,0,B,B,B
+KIIP_society_253,0,D,D,D
+KIIP_society_254,0,A,A,A
+KIIP_society_255,0,B,B,B: 수백 가구에서 수천 가구
+KIIP_society_256,0,D,D,D
+KIIP_society_257,0,A,A,A
+KIIP_society_258,0,A,A,A
+KIIP_society_259,0,D,D,D: 전세금
+KIIP_society_260,0,A,A,A
+KIIP_society_261,0,A,A,A
+KIIP_society_262,0,A,B,B
+KIIP_society_263,0,B,B,B: 전세
+KIIP_society_264,0,B,B,B
+KIIP_society_265,0,A,A,A
+KIIP_society_266,0,D,D,D: 아파트
+KIIP_society_267,0,D,D,D: 대규모 고층 아파트
+KIIP_society_268,0,D,D,D
+KIIP_society_269,0,B,B,B
+KIIP_society_270,0,B,B,B
+KIIP_society_271,0,A,A,A
+KIIP_society_272,0,A,A,A
+KIIP_society_273,0,D,D,D
+KIIP_society_274,0,B,B,B: 저소득층이나 집이 없는 서민들
+KIIP_society_275,0,A,A,A
+KIIP_society_276,0,A,A,A
+KIIP_society_277,0,B,D,D
+KIIP_society_278,0,C,C,C
+KIIP_society_279,0,A,A,A
+KIIP_society_280,0,B,B,B
+KIIP_society_281,0,A,C,C
+KIIP_society_282,0,B,B,B: 포장이사 서비스
+KIIP_society_283,0,C,D,D
+KIIP_society_284,0,A,,정답: A
+Kedu_Society_1,0,B,B,B
+Kedu_Society_2,0,D,D,D
+Kedu_Society_3,0,A,,정답: C
+Kedu_Society_4,0,D,B,B
+Kedu_Society_5,0,B,,정답: B
+Kedu_Society_6,0,A,A,A
+Kedu_Society_7,0,B,B,B
+Kedu_Society_8,0,D,B,B
+Kedu_Society_9,0,A,A,A
+Kedu_Society_10,0,C,A,A
+Kedu_Society_11,0,D,D,D
+Kedu_Society_12,0,D,C,C
+Kedu_Society_13,0,A,B,B
+Kedu_Society_14,0,D,D,D
+Kedu_Society_15,0,B,B,B: 자이툰 부대가 평화유지를 목표로 아프가니스탄에 파견되어 활동하였다.
+Kedu_Society_16,0,B,B,B
+Kedu_Society_17,0,A,,"정답은 A입니다. 한국 방송사의 주요 사건들의 순서는 다음과 같습니다:
+ㄱ. 컬러텔레비전 방송이 시작되었다. (1980년)
+ㄴ. 민영 방송인 SBS가 방송을 시작하였다. (1991년)
+ㄷ. 종합 유선 방송이 본방송을 시작하였다. (2002년)
+ㄹ. 종합편성 방송채널 4개와 보도전문 방송채널 1개의 방송이 시작되었다. (2011년)"
+Kedu_Society_18,0,B,,"정답: C: 제헌절
+
+제헌절은 한국의 공휴일이었으나, 2008년부터 공휴일에서 제외되었습니다. 따라서 국경일이 아닌 것은 제헌절입니다."
+Kedu_Society_19,0,C,C,C
+Kedu_Society_20,0,D,D,D
+Kedu_Society_21,0,C,A,A: 자매는 1촌이다.
+Kedu_Society_22,0,D,A,A
+Kedu_Society_23,0,B,C,C
+Kedu_Society_24,0,C,C,C
+Kedu_Society_25,0,C,C,C
+KIIP_tradition_1,0,C,C,C
+KIIP_tradition_2,0,C,C,C: 두루마기
+KIIP_tradition_3,0,D,D,D: 장옷
+KIIP_tradition_4,0,C,C,C: 버선
+KIIP_tradition_5,0,A,A,A
+KIIP_tradition_6,0,B,B,B
+KIIP_tradition_7,0,A,A,A
+KIIP_tradition_8,0,A,A,A
+KIIP_tradition_9,0,A,A,A
+KIIP_tradition_10,0,A,A,A
+KIIP_tradition_11,0,A,A,A
+KIIP_tradition_12,0,C,C,C
+KIIP_tradition_13,0,A,A,A
+KIIP_tradition_14,0,A,A,A
+KIIP_tradition_15,0,C,C,C
+KIIP_tradition_16,0,A,A,A
+KIIP_tradition_17,0,C,C,C
+KIIP_tradition_18,0,D,D,D
+KIIP_tradition_19,0,B,B,B
+KIIP_tradition_20,0,C,B,B
+KIIP_tradition_21,0,C,C,C
+KIIP_tradition_22,0,C,C,C
+KIIP_tradition_23,0,B,B,B
+KIIP_tradition_24,0,A,A,A
+KIIP_tradition_25,0,C,C,C
+KIIP_tradition_26,0,C,A,A
+KIIP_tradition_27,0,A,A,A
+KIIP_tradition_28,0,C,C,C
+KIIP_tradition_29,0,C,C,C
+KIIP_tradition_30,0,D,D,D: 조선
+KIIP_tradition_31,0,C,C,C: 비단
+KIIP_tradition_32,0,B,B,B
+KIIP_tradition_33,0,C,C,C: 생활한복
+KIIP_tradition_34,0,D,D,D
+KIIP_tradition_35,0,B,B,B
+KIIP_tradition_36,0,C,C,C: 설날
+KIIP_tradition_37,0,B,B,B
+KIIP_tradition_38,0,A,C,C: 세배
+KIIP_tradition_39,0,C,C,C: 세배
+KIIP_tradition_40,0,C,C,C
+KIIP_tradition_41,0,B,B,B
+KIIP_tradition_42,0,B,B,B
+KIIP_tradition_43,0,C,C,C
+KIIP_tradition_44,0,A,A,A
+KIIP_tradition_45,0,A,A,A
+KIIP_tradition_46,0,B,B,B
+KIIP_tradition_47,0,A,A,A
+KIIP_tradition_48,0,A,A,A
+KIIP_tradition_49,0,B,B,B
+KIIP_tradition_50,0,B,B,B
+KIIP_tradition_51,0,A,A,A
+KIIP_tradition_52,0,A,A,A
+KIIP_tradition_53,0,A,A,A
+KIIP_tradition_54,0,B,A,A
+KIIP_tradition_55,0,B,B,B
+KIIP_tradition_56,0,C,C,C
+KIIP_tradition_57,0,B,C,C
+KIIP_tradition_58,0,B,B,B
+KIIP_tradition_59,0,B,B,B
+KIIP_tradition_60,0,C,C,C
+KIIP_tradition_61,0,A,A,A
+KIIP_tradition_62,0,C,C,C
+KIIP_tradition_63,0,B,B,B
+KIIP_tradition_64,0,A,A,A
+KIIP_tradition_65,0,C,C,C
+KIIP_tradition_66,0,B,B,B
+KIIP_tradition_67,0,B,B,B
+KIIP_tradition_68,0,C,C,C
+KIIP_tradition_69,0,A,B,B: 개신교
+KIIP_tradition_70,0,C,C,C
+KIIP_tradition_71,0,A,A,A
+KIIP_tradition_72,0,A,A,A
+KIIP_tradition_73,0,C,C,C
+KIIP_tradition_74,0,A,C,C
+KIIP_tradition_75,0,A,A,A
+KIIP_tradition_76,0,C,C,C
+KIIP_tradition_77,0,A,A,A
+KIIP_tradition_78,0,B,A,A
+KIIP_tradition_79,0,A,A,A
+KIIP_tradition_80,0,A,A,A
+KIIP_tradition_81,0,A,A,A
+KIIP_tradition_82,0,C,C,C: 당산나무
+KIIP_tradition_83,0,A,A,A
+KIIP_tradition_84,0,C,C,C
+KIIP_tradition_85,0,B,B,B
+KIIP_tradition_86,0,A,A,A
+KIIP_tradition_87,0,D,D,D
+KIIP_tradition_88,0,B,A,A
+KIIP_tradition_89,0,A,A,A
+KIIP_tradition_90,0,A,A,A
+KIIP_tradition_91,0,B,B,B
+KIIP_tradition_92,0,A,A,A
+KIIP_tradition_93,0,D,D,D
+KIIP_tradition_94,0,B,B,B
+KIIP_tradition_95,0,D,D,D
+KIIP_tradition_96,0,D,D,D
+KIIP_tradition_97,0,A,A,A
+KIIP_tradition_98,0,A,A,A
+KIIP_tradition_99,0,D,D,D: 조계사
+KIIP_tradition_100,0,C,C,C
+KIIP_tradition_101,0,A,A,A: 불교
+KIIP_tradition_102,0,D,A,A
+KIIP_tradition_103,0,A,A,A
+KIIP_tradition_104,0,A,B,B: 종교적 신앙
+KIIP_tradition_105,0,A,A,A
+KIIP_tradition_106,0,B,C,C: 18세기
+KIIP_tradition_107,0,D,D,D: 19세기
+KIIP_tradition_108,0,C,C,C
+KIIP_tradition_109,0,A,A,A: 가톨릭
+KIIP_tradition_110,0,A,A,A
+KIIP_tradition_111,0,A,A,A
+KIIP_tradition_112,0,A,A,A
+KIIP_tradition_113,0,B,B,B
+KIIP_tradition_114,0,D,D,D
+KIIP_tradition_115,0,A,B,B
+KIIP_tradition_116,0,A,A,A
+KIIP_tradition_117,0,A,B,B
+KIIP_tradition_118,0,C,D,D
+KIIP_tradition_119,0,A,A,A
+KIIP_tradition_120,0,B,C,C
+KIIP_tradition_121,0,B,B,B
+KIIP_tradition_122,0,A,A,A
+KIIP_tradition_123,0,B,B,B
+KIIP_tradition_124,0,B,B,B
+KIIP_tradition_125,0,C,C,C
+KIIP_tradition_126,0,C,C,C
+KIIP_tradition_127,0,C,C,C
+KIIP_tradition_128,0,B,B,B
+KIIP_tradition_129,0,D,D,D
+KIIP_tradition_130,0,B,B,B
+KIIP_tradition_131,0,A,A,A
+KIIP_tradition_132,0,C,C,C
+KIIP_tradition_133,0,A,A,A
+KIIP_tradition_134,0,B,B,B
+KIIP_tradition_135,0,B,B,B
+KIIP_tradition_136,0,C,C,C
+KIIP_tradition_137,0,A,A,A
+KIIP_tradition_138,0,D,B,B
+KIIP_tradition_139,0,A,A,A
+KIIP_tradition_140,0,A,A,A
+KIIP_tradition_141,0,B,C,C
+KIIP_tradition_142,0,D,D,D: 동문회
+KIIP_tradition_143,0,B,B,B
+KIIP_tradition_144,0,C,C,C: 고등학교나 대학교
+KIIP_tradition_145,0,A,A,A
+KIIP_tradition_146,0,A,A,A
+KIIP_tradition_147,0,B,B,B
+KIIP_tradition_148,0,B,B,B: 예절
+KIIP_tradition_149,0,A,A,A
+KIIP_tradition_150,0,A,A,A
+KIIP_tradition_151,0,A,A,A
+KIIP_tradition_152,0,A,A,A
+KIIP_tradition_153,0,B,B,"B: 명절, 결혼식, 장례식"
+KIIP_tradition_154,0,A,A,A
+KIIP_tradition_155,0,A,A,A
+KIIP_tradition_156,0,A,A,A
+KIIP_tradition_157,0,A,A,A
+KIIP_tradition_158,0,A,B,B
+KIIP_tradition_159,0,A,A,A
+KIIP_tradition_160,0,C,C,C: 향우회
+KIIP_tradition_161,0,C,C,C: 고등학교와 대학교
+Kedu_tradition_1,0,D,,"세한삼우(歲寒三友)는 추운 겨울에도 푸르름을 잃지 않는 세 친구를 의미합니다. 이 세 친구는 소나무, 대나무, 매화를 말합니다. 따라서 세한삼우에 해당하지 않는 것은 D: 동백입니다. 정답은 D입니다."
+Kedu_tradition_2,0,C,B,B
+Kedu_tradition_3,0,C,C,C: 초례(醮禮)
+Kedu_tradition_4,0,B,B,B
+Kedu_tradition_5,0,A,,정답: B
+Kedu_tradition_6,0,D,,정답: D
+Kedu_tradition_7,0,C,C,C
+Kedu_tradition_8,0,C,C,C: 습렴
+Kedu_tradition_9,0,A,B,B
+Kedu_tradition_10,0,A,A,A: 비파
+Kedu_tradition_11,0,D,D,D: 꼭두각시놀음
+Kedu_tradition_12,0,D,C,C
+Kedu_tradition_13,0,B,B,B
+Kedu_tradition_14,0,C,C,C
+Kedu_tradition_15,0,A,B,B: 손 기술 - 앞무릎치기
+Kedu_tradition_16,0,D,D,D: 말뚝이
+Kedu_tradition_17,0,C,C,C
+Kedu_tradition_18,0,B,C,C: 시내
+Kedu_tradition_19,0,D,D,D: 고추
+Kedu_tradition_20,0,B,,"정답은 B: 단오 - 귀밝이술 입니다. 단오에는 주로 창포물에 머리를 감고, 수리취떡 등을 먹는 것이 전통적인 풍습입니다. 귀밝이술은 추석에 마시는 술입니다."
+Kedu_tradition_21,0,D,D,D
+Kedu_tradition_22,0,A,A,A
+Kedu_tradition_23,0,C,C,C: 설문대할망 전설
+Kedu_tradition_24,0,D,A,A
+Kedu_tradition_25,0,C,,정답: D
+Kedu_tradition_26,0,C,C,C
+Kedu_tradition_27,0,D,D,D
+Kedu_tradition_28,0,C,,정답: C
+Kedu_tradition_29,0,D,D,D
+Kedu_tradition_30,0,A,D,D
+Kedu_tradition_31,0,C,B,B
+Kedu_tradition_32,0,A,C,C: 동상례: 혼례식이 끝나고 신부의 친척 등이 신랑을 짓궂게 다루는 것
+Kedu_tradition_33,0,B,C,C: 강강술래
+Kedu_tradition_34,0,A,,정답은 B: 수(水) - 북(北) - 흑(黑)입니다.
+Kedu_tradition_35,0,A,,정답: A <비목>
+Kedu_tradition_36,0,C,,정답은 B: ㄴ - ㄱ - ㄹ - ㄷ 입니다.
+Kedu_tradition_37,0,A,C,C: 툇마루
+Kedu_tradition_38,0,B,D,D
+Kedu_tradition_39,0,D,D,D
+Kedu_tradition_40,0,D,D,D: 하례(賀禮)
+Kedu_tradition_41,0,A,B,B
+Kedu_tradition_42,0,B,B,B
+Kedu_tradition_43,0,A,B,B
+Kedu_tradition_44,0,B,D,D
+Kedu_tradition_45,0,D,D,D
+Kedu_tradition_46,0,B,B,B
+Kedu_tradition_47,0,C,C,C
+Kedu_tradition_48,0,C,C,C
+Kedu_tradition_49,0,D,B,B
+Kedu_tradition_50,0,B,,"민요에 관한 설명을 분석해보겠습니다.
+
+ㄱ. 기능요는 노동요, 의식요, 유희요로 나눌 수 있다. - 이 설명은 올바릅니다. 기능요는 그 목적에 따라 노동요, 의식요, 유희요 등으로 분류될 수 있습니다.
+
+ㄴ. 선후창을 할 때 가사를 선택할 수 있는 권리는 후창자에게만 있다. - 이 설명은 잘못되었습니다. 선후창에서는 선창자가 노래를 시작하고 후창자가 따라 부르며, 가사 선택에 있어서 특정한 권리가 후창자에게만 있다고 보기 어렵습니다.
+
+ㄷ. 대표적인 유희요로는 <지신밟기요>를 들 수 있다. - 이 설명은 올"
+Kedu_tradition_51,0,D,C,C
+Kedu_tradition_52,0,D,,정답은 D: 강릉관노가면극입니다.
+Kedu_tradition_53,0,A,B,B
+Kedu_tradition_54,0,C,C,C
+Kedu_tradition_55,0,D,B,B
+Kedu_tradition_56,0,A,B,B: 장옷
+Kedu_tradition_57,0,D,D,D
+Kedu_tradition_58,0,B,B,B
+Kedu_tradition_59,0,B,,정답: B
+Kedu_tradition_60,0,D,,정답: D
+Kedu_tradition_61,0,A,B,B
+CSAT_korean_07_6,0,C,C,C
+CSAT_korean_07_7,0,C,C,C
+CSAT_korean_07_8,0,D,,정답은 C입니다.
+CSAT_korean_07_9,0,B,B,B: ‘Ⅱ-2-가’에 ‘환경 영향 평가의 객관성 부족’이라는 하위 항목을 설정한다.
+CSAT_korean_07_10,0,B,E,E
+CSAT_korean_06_6,0,A,A,A
+CSAT_korean_06_7,0,B,B,B
+CSAT_korean_06_8,0,C,C,C
+CSAT_korean_09_6,0,B,,정답: B
+CSAT_korean_09_7,0,D,D,D
+CSAT_korean_09_8,0,D,,"정답은 D입니다.
+
+선택지 D는 어휘력 부족이 독서 기피의 한 원인임을 밝혀 어휘력을 길러 줄 수 있는 교육 프로그램의 필요성을 제시해야겠어.라고 말하고 있습니다. 그러나 제공된 자료에서는 어휘력 부족이 독서를 기피하는 원인이라는 내용이 언급되어 있지 않습니다. 따라서 이 선택지는 토의한 내용으로 적절하지 않은 것입니다."
+CSAT_korean_09_9,0,E,,정답: A
+CSAT_korean_09_10,0,C,C,C
+CSAT_korean_08_6,0,C,,정답: C
+CSAT_korean_08_8,0,D,E,E
+CSAT_korean_08_9,0,D,B,B
+CSAT_korean_08_10,0,E,E,E
+CSAT_korean_10_6,0,A,A,A
+CSAT_korean_10_7,0,D,,정답: D
+CSAT_korean_10_8,0,D,D,D
+CSAT_korean_10_9,0,C,A,A
+CSAT_korean_10_10,0,A,,정답: E
+CSAT_korean_11_6,0,C,C,C
+CSAT_korean_11_8,0,D,D,D
+CSAT_korean_11_9,0,C,A,A
+CSAT_korean_11_10,0,A,A,A
+CSAT_korean_12_6,0,E,E,E
+CSAT_korean_12_7,0,D,D,D
+CSAT_korean_12_8,0,B,B,B
+CSAT_korean_12_9,0,C,E,E
+CSAT_korean_12_10,0,E,E,E
+CSAT_korean_14_7,0,B,D,D
+CSAT_korean_13_7,0,D,A,A
+CSAT_korean_17_6,0,E,E,E
+CSAT_korean_14_1,0,A,E,E
+CSAT_korean_14_2,0,B,B,B
+CSAT_korean_14_3,0,E,E,E
+CSAT_korean_14_4,0,C,C,C
+CSAT_korean_14_5,0,D,D,D
+CSAT_korean_14_6,0,A,A,A
+CSAT_korean_14_8,0,C,E,E
+CSAT_korean_14_9,0,E,,정답: D
+CSAT_korean_14_10,0,D,D,D
+CSAT_korean_18_1,0,A,A,A
+CSAT_korean_18_2,0,C,C,C
+CSAT_korean_18_3,0,C,A,A
+CSAT_korean_18_4,0,D,D,D
+CSAT_korean_18_5,0,D,D,D
+CSAT_korean_18_6,0,E,E,E
+CSAT_korean_18_7,0,C,C,C
+CSAT_korean_18_8,0,B,E,E
+CSAT_korean_18_9,0,B,B,B
+CSAT_korean_18_10,0,B,B,B
+CSAT_korean_13_1,0,D,D,D
+CSAT_korean_13_2,0,C,C,C
+CSAT_korean_13_4,0,D,E,E
+CSAT_korean_13_5,0,A,A,A
+CSAT_korean_13_6,0,C,C,C
+CSAT_korean_13_8,0,E,,"답사 보고서의 내용을 살펴보면, 답사의 목적을 제시하고 있으며 (조선 시대 선비 문화의 산실로 일컬어지는 담양 일대의 정자를 찾아 전통 정자 문화의 특성을 알아보기로 하였다), 답사 이동 경로가 드러나게 하고 있으며 (담양에 도착해 처음 방문한 곳은 식영정이다. 그 다음으로 방문한 곳은 환벽당이었다...), 답사지에서 알게 된 정보를 활용하고 있습니다 (환벽당에서 김윤제가 지은 정자로, 정철 등과 교유하며 시를 짓고 풍류를 즐기던 곳이라고 한다). 또한, 참고 자료를 활용할 때 출"
+CSAT_korean_13_9,0,B,B,B
+CSAT_korean_13_10,0,E,E,E
+CSAT_korean_15_2,0,B,B,B
+CSAT_korean_15_3,0,E,E,E
+CSAT_korean_15_6,0,A,A,A
+CSAT_korean_15_7,0,B,B,B
+CSAT_korean_15_8,0,E,E,E
+CSAT_korean_15_9,0,D,D,D: 가을 ? 아름다움을 위해서는 인내가 필요함을 알게 하는구나.
+CSAT_korean_15_10,0,C,C,C
+CSAT_korean_16_1,0,B,B,B
+CSAT_korean_16_2,0,D,D,D
+CSAT_korean_16_3,0,D,D,D
+CSAT_korean_16_4,0,D,D,D
+CSAT_korean_16_5,0,E,E,E
+CSAT_korean_16_6,0,D,B,B
+CSAT_korean_16_7,0,B,B,B
+CSAT_korean_16_8,0,E,E,E
+CSAT_korean_16_9,0,E,E,E
+CSAT_korean_16_10,0,C,C,C
+CSAT_korean_19_1,0,D,D,D
+CSAT_korean_19_2,0,C,C,C
+CSAT_korean_19_3,0,A,E,E
+CSAT_korean_19_4,0,E,E,E
+CSAT_korean_13_11,0,B,,정답은 B입니다.
+CSAT_korean_19_5,0,B,B,B
+CSAT_korean_19_7,0,D,B,B
+CSAT_korean_19_8,0,C,C,C
+CSAT_korean_19_9,0,D,D,D
+CSAT_korean_20_1,0,B,B,B
+CSAT_korean_20_2,0,D,C,C
+CSAT_korean_20_3,0,A,A,A
+CSAT_korean_20_4,0,E,E,E
+CSAT_korean_20_5,0,B,,"정답: B
+
+설명:
+(가)의 대화에서 학생 1은 모둠장으로서 진행을 맡고, 지난번에 비평문에서 다룰 현안에 대해 각자 찾아보기로 한 것을 환기시키며, 이를 통해 현안을 선정하는 과정을 진행합니다. 이는 메모의 (가) 비평문에서 다룰 현안 선정과 일치합니다. 또한, 학생 1이 신문 기사를 통해 장소의 획일화라는 현안을 제안하는 부분은 (다) 매체에서 찾은 현안 제안과 일치합니다. 마지막으로, 모둠 활동의 마무리에서 역할 분담을 제안하는 부분은 (마) 모둠 활동 마무리"
+CSAT_korean_20_6,0,C,C,C
+CSAT_korean_20_7,0,C,C,C
+CSAT_korean_20_8,0,A,A,A
+CSAT_korean_20_9,0,E,E,E
+CSAT_korean_20_10,0,E,E,E
+CSAT_korean_13_3,0,A,A,A
+CSAT_korean_15_4,0,D,D,D
+CSAT_korean_15_5,0,C,C,C
+CSAT_korean_17_1,0,B,A,A
+CSAT_korean_17_2,0,B,B,B
+CSAT_korean_17_3,0,D,D,D
+CSAT_korean_17_4,0,C,C,C
+CSAT_korean_17_5,0,D,D,D
+CSAT_korean_17_7,0,C,C,C
+CSAT_korean_17_8,0,A,A,A
+CSAT_korean_17_9,0,D,D,D
+CSAT_korean_17_10,0,B,,정답: B
+CSAT_korean_23_35,0,A,A,A
+CSAT_korean_23_38,0,D,D,D
+CSAT_korean_23_43,0,E,,정답: E
+Kedu_16_1,0,D,,"질문에서 구체적인 발화가 제시되지 않았기 때문에 각 보기에 대한 평가가 불가능합니다. 따라서 정확한 답을 선택할 수 없습니다. 그러나 일반적으로 각 보기를 분석해보면:
+
+A: 간접 화행은 경고이다. - 간접 화행이 경고일 수도 있고 다른 의도를 가질 수도 있습니다. 이는 맥락에 따라 달라질 수 있습니다.
+B: 직접 화행은 진술이다. - 직접 화행은 진술일 수도 있지만, 명령이나 질문 등 다른 형태일 수도 있습니다.
+C: 문장 유형은 평서문이다. - 이는 발화의 문장 유형을 알 수 없기 때문에 정확하지 않을 수 있습니다.
+D:"
+Kedu_16_2,0,C,,정답: C
+Kedu_16_3,0,D,B,B
+Kedu_16_4,0,A,,정답: B: 사회 직시
+Kedu_16_5,0,A,,"질문에서 구체적인 대화 예시나 상황이 제시되지 않았기 때문에, 어떤 격률에 위배되는지를 판단할 수 없습니다. 그라이스의 대화 격률을 위반하는 구체적인 상황이나 대화 내용이 필요합니다. 따라서, 이 질문에 대한 정답을 제공하는 것은 불가능합니다."
+Kedu_16_6,0,B,B,B
+Kedu_16_7,0,D,,정답: D
+PSE_korean_1,0,C,C,C
+PSE_korean_2,0,B,B,B
+PSE_korean_3,0,D,D,D
+PSE_korean_4,0,D,A,A
+PSE_korean_5,0,C,C,C: 비유
+PSE_korean_6,0,A,A,A
+PSE_korean_7,0,B,A,A
+PSE_korean_8,0,B,B,B
+PSE_korean_9,0,C,C,C
+PSE_korean_10,0,C,B,B
+PSE_korean_11,0,D,D,D
+PSE_korean_12,0,B,A,A
+PSE_korean_13,0,C,C,C
+PSE_korean_14,0,B,B,B
+CSAT_korean_07_11,0,E,,정답: A
+CSAT_korean_07_12,0,E,B,B
+CSAT_korean_06_11,0,E,E,E
+CSAT_korean_06_12,0,B,,정답은 D입니다.
+CSAT_korean_09_11,0,C,,"보기 1에서 설명된 각 경우를 분석해 보겠습니다.
+
+ㄱ. 단어 A와 B가 소리와 표기는 같지만 의미가 다른 경우 - 이는 동음이의어에 해당합니다. 예를 들어, 은행이 나무와 금융기관 두 가지 의미를 가질 수 있습니다.
+
+ㄴ. 단어 A와 B가 소리는 같지만 표기와 의미가 다른 경우 - 이는 발음이 같으나 철자가 다른 경우로, 발음은 같지만 철자와 의미가 다른 단어를 말합니다. 예를 들어, 마음과 맘은 발음이 유사하지만 철자와 의미에 차이가 있습니다.
+
+ㄷ. 단어 A가 중심 의미와 중심 의미에서 확장된 의미를 가지는 경우 - 이는 한 단어가"
+CSAT_korean_09_12,0,D,,정답: D
+CSAT_korean_08_11,0,B,B,B
+CSAT_korean_08_12,0,C,,"정답: E
+
+설명: 
+‘조성’은 어떤 분위기나 상황을 만들어 내는 것을 의미하고, ‘조장’은 어떤 행동이나 상황을 부추기거나 촉진하는 것을 의미합니다. ‘조장’은 부정적인 의미로만 사용되는 것은 아니며, 문맥에 따라 긍정적인 의미로도 사용될 수 있습니다. 따라서 E 옵션에서 ‘조장’은 긍정적인 의미로 사용하기 어렵다고 한 것은 옳지 않습니다."
+CSAT_korean_10_11,0,C,,"분류 절차에 따라 동사 들다의 의미를 확인하고 유사성을 기준으로 분류해야 합니다. 각 용례의 의미를 살펴보겠습니다:
+
+- ㄱ. 감기가 들다: 감기에 걸리다 (비유적 의미)
+- ㄴ. 가방을 들다: 물리적으로 들다 (직접적 의미)
+- ㄷ. 단풍이 들다: 단풍이 들어 색이 변하다 (비유적 의미)
+- ㄹ. 고개를 들다: 물리적으로 고개를 들다 (직접적 의미)
+- ㅁ. 반기를 들다: 물리적으로 반기를 들다 (직접적 의미)
+- ㅂ. 보험을 들다: 보"
+CSAT_korean_10_12,0,E,,정답: D
+CSAT_korean_11_11,0,D,,정답: D
+CSAT_korean_11_12,0,B,C,C
+CSAT_korean_12_11,0,A,,정답: B
+CSAT_korean_14_11,0,C,,"문제에서 언급된 (a) 두 개의 단 모음이 합쳐져 이중 모음이 되기도 한다는 모음의 변동을 설명하고 있습니다. 이를 기준으로 각 사례를 분석해보면:
+
+(ㄱ) 기＋어 → [기여] : 단모음과 단모음이 결합하여 변화가 일어남.
+(ㄴ) 살피＋어 → [살펴] : 단모음과 단모음이 결합하여 이중 모음 펴가 생성됨.
+(ㄷ) 배우＋어 → [배워] : 단모음과 단모음이 결합하여 이중 모음 워가 생성됨.
+(ㄹ) 나서＋어 → [나서] : 변동 없음.
+
+문제의 조건에 맞는 사례는 (ㄴ) 살"
+CSAT_korean_14_13,0,E,B,B
+CSAT_korean_14_15,0,B,,정답: B
+CSAT_korean_18_15,0,E,,"정답은 D입니다. (The answer is D.)
+
+설명:
+- (a) 바투 부는 바투라는 단어를 설명하는 부분입니다.
+- (b) 시간이나 길이가 아주 짧게에 해당하는 예문은 (ㄷ) 시간이 더 필요한데 제출 기한을 너무 바투 잡았다 입니다.
+- (c) 두 대상이나 물체의 사이가 썩 가깝게에 해당하는 예문은 (ㄱ) 약속 날짜를 너무 밭게 잡았다 입니다."
+CSAT_korean_13_11,0,B,,정답은 B입니다.
+CSAT_korean_16_12,0,E,,"정답은 C입니다.
+
+설명:
+(가)에서는 음절의 종성에 마찰음, 파찰음이 오거나 파열음 중 거센 소리나 된소리가 올 경우, 모두 파열음의 예사소리로 교체된다고 설명합니다. 이는 예시에서 직접적으로 언급되지 않았습니다.
+(나)에서는 음절의 종성에 자음군이 올 경우, 한 자음이 탈락한다고 설명합니다. ‘비옷 [비옫]’에서는 원래 형태인 ‘비옷’에서 종성 자음군 ‘-옷’이 ‘-옫’으로 변화하여 한 자음이 탈락한 것을 볼 수 있습니다. 이는 (나)에 해당하는 음운 변동입니다.
+
+다른 선택지들은 (가)와 (나)에 해당하는 음운 변동을 정확히 반영하지 않습니다."
+CSAT_korean_16_14,0,C,C,C
+CSAT_korean_16_15,0,D,,"정답은 C입니다.
+
+설명:
+(ㄱ)에서는 접미사가 동사에 붙어 사동의 의미를 더하는 예가 필요합니다. 공책이 가방에 눌렸다는 사동의 의미를 가지고 있습니다. 여기서 누르다라는 동사에 접미사 -이-가 붙어 눌리다가 되어 사동의 의미를 나타냅니다.
+(ㄴ)에서는 접미사가 타동사에 붙어 피동의 의미를 더하는 예가 필요합니다. 옷이 못에 걸려 찢겼다는 피동의 의미를 가지고 있습니다. 여기서 찢다라는 동사에 접미사 -어지-가 붙어 찢어지다가 되어 피동의 의미를 나타냅니다."
+CSAT_korean_19_11,0,E,C,C
+CSAT_korean_19_12,0,B,E,E
+CSAT_korean_20_11,0,D,,"질문에서 언급된 (ㄱ)과 (ㄴ)이 무엇인지 직접적으로 명시되어 있지 않습니다. 그러나 문제의 맥락을 고려할 때, (ㄱ)과 (ㄴ)은 게임화의 특징과 관련된 요소일 가능성이 높습니다. 게임화의 특징으로는 흥미, 도전, 경쟁, 보상 등이 있습니다. 이러한 요소들을 고려하여 <보기>의 단어들 중에서 게임화의 특징을 잘 나타내는 단어를 찾아야 합니다.
+
+- 새해맞이: 새해를 맞이하는 행사나 이벤트, 게임화와 직접적인 연관성이 낮음
+- 두말없이: 망설임 없이 바로, 게임화와"
+CSAT_korean_20_13,0,B,,"정답은 D입니다. 하앴던을 하얬던으로 고친 것은 하얗다의 과거형으로, 하얗다는 하얗-+-아에서 하얘로 변화하는 것이 올바른 활용입니다. 따라서 동그랗-+-아 → 동그래는 이 문맥에서 적절하지 않습니다."
+CSAT_korean_20_14,0,A,,"정답은 C입니다. (c) 바람이 거세지고 어둠이 내리기 전에는 시간을 나타내는 부사절로 쓰이고 있으며, 명사절로 쓰이고 있다고 설명하는 것은 적절하지 않습니다."
+CSAT_korean_13_13,0,D,,정답은 E입니다.
+CSAT_korean_15_11,0,C,C,C
+CSAT_korean_17_11,0,D,A,A
+CSAT_korean_17_14,0,B,,정답은 D입니다.
+CSAT_korean_14_12,0,D,,"옵션 D: (b) A : 소풍날 날씨는 괜찮았어? B : 아주 나빴어. 는 과거에 일어난 사건의 결과 상태가 현재까지 지속되고 있음을 나타내지 않습니다. 이 대화는 단순히 과거의 날씨 상태를 설명하고 있을 뿐입니다. 따라서 옵션 D는 (b)의 설명과 일치하지 않습니다.
+
+정답: D"
+CSAT_korean_14_14,0,E,,"정답은 D입니다.
+
+설명:
+A: (ㄱ)에 들어갈 말은 ‘형용사’이다. - 이것은 올바른 설명입니다. 더-하다의 첫 번째 의미는 형용사로 사용되며, 어떤 기준보다 정도가 심하다는 형용사적 특성을 나타냅니다.
+B: (ㄴ)에 들어갈 말은 ‘…에 …을’이다. - 이것은 올바른 설명입니다. 더하다의 두 번째 의미에서는 목적어와 함께 사용되어 더 보태어 늘리거나 많게 하다는 의미를 나타냅니다.
+C: (ㄷ)에는 ‘그의 등장은 영화에 재미를 더했다.’를 넣을 수 있다. - 이것은 올"
+CSAT_korean_18_11,0,C,,"문제에서는 최소 대립쌍을 통해 음운 체계를 수립하는 과정을 설명하고 있습니다. [A]에서 최소 대립쌍을 찾아 음운들을 추출하고, [B]에서 그 음운들을 확인하는 과정을 거칩니다. [B]에서 제시된 국어의 단모음 체계를 보면, 전설 모음과 후설 모음, 평순과 원순, 그리고 고모음, 중모음, 저모음으로 분류되어 있습니다.
+
+보기에서 제시된 옵션들을 분석해보면:
+- A: 2개의 전설 모음 (ㅣ, ㅟ)
+- B: 2개의 중모음 (ㅔ, ㅚ)
+- C: 3개의 평순 모음 (ㅣ, ㅡ, ㅔ)
+- D: 3개의 고"
+CSAT_korean_18_12,0,B,,"문제에서 요구하는 것은 (ㄱ) 발가락, (ㄴ) 소나무, (ㄷ) 이튿날과 같이 받침 ㄹ의 변화를 보이는 예를 찾는 것입니다. 각각의 예에서 발생하는 변화는 다음과 같습니다:
+- (ㄱ) 발가락에서는 발의 ㄹ이 유지됩니다.
+- (ㄴ) 소나무에서는 솔의 ㄹ이 탈락합니다.
+- (ㄷ) 이튿날에서는 이틀의 ㄹ이 ㄷ으로 변합니다.
+
+이제 <보기>에서 이러한 변화를 보이는 예를 찾아야 합니다:
+- 솔방울에서는 솔의 ㄹ이 유지됩니다.
+- 푸나무에서는 "
+CSAT_korean_18_14,0,C,,정답은 D입니다. (a)의 좋은과 (c)의 반짝이는은 각각 형용사로서 문장에서 수식어의 역할을 하고 있습니다. 서술어가 아닙니다. 따라서 D 옵션이 적절하지 않은 설명입니다.
+CSAT_korean_13_12,0,A,,"맥락 (가)에서 언급된 단어 꽃이랑과 꽃오목의 표준 발음을 찾기 위해 (나)의 표준 발음법 조항을 참고해야 합니다.
+
+- 꽃이랑의 경우, 조항 제29항에 따라 앞 단어의 끝 자음 ㅊ 뒤에 이가 오므로, ㄴ 소리를 첨가하여 [꼰니랑]으로 발음합니다.
+- 꽃오목의 경우, 조항 제15항에 따라 받침 ㅊ 뒤에 모음 ㅗ가 오므로, 대표음으로 바꾸어서 뒤 음절 첫소리로 옮겨 발음하면 [꼬도목]이 됩니다.
+
+따라서, 올바른 발음은 (ㄱ) : ["
+CSAT_korean_13_14,0,E,,정답은 D입니다. (ㄹ) 우리는 대화에서 선생님이 자신과 자신의 가족을 포함하여 사용하고 있으므로 청자를 포함하고 있다고 볼 수 있습니다. 따라서 D 옵션은 적절하지 않은 설명입니다.
+CSAT_korean_13_15,0,C,,정답은 E입니다.
+CSAT_korean_15_13,0,E,,"정답은 D입니다.
+
+설명:
+- (ㄱ) 엄마와 (ㅅ) 우리 아들은 현재의 담화 상황에 참여하고 있는 사람을 가리키므로 B는 적절합니다.
+- (ㄴ) 저거와 (ㄷ) 저거는 동일한 대상을 가리키므로 C는 적절합니다.
+- (ㄹ) 오늘 하루는 현재 날짜를 가리키고, (ㅁ) 어제는 그 전날을 가리키므로 D는 적절하지 않습니다.
+- (ㄱ) 엄마와 (ㅂ) 누나는 청자의 관점에서 사용한 지칭어이므로 A는 적절합니다.
+- (ㅂ) 누나와 (ㅇ) 영수는 화자와 청자를 제"
+CSAT_korean_15_15,0,B,C,C
+CSAT_korean_16_11,0,A,,정답: D
+CSAT_korean_19_13,0,D,,정답은 C입니다.
+CSAT_korean_20_12,0,C,E,E
+CSAT_korean_15_12,0,C,,정답은 E입니다.
+CSAT_korean_17_13,0,C,D,D
+CSAT_korean_15_14,0,B,B,B
+Kedu_14_1,0,C,C,C
+Kedu_14_2,0,D,C,C
+Kedu_14_3,0,B,B,B
+Kedu_14_4,0,C,D,D
+Kedu_14_5,0,A,,"자음의 조음 위치를 파악하기 위해서는 각 단어의 자음을 분석해야 합니다.
+
+A: 정문 - [정] ㅈ(치경), ㅇ(구개), [문] ㅁ(순음), ㄴ(설음)
+B: 단상 - [단] ㄷ(치경), ㄴ(설음), [상] ㅅ(치경), ㅇ(구개)
+C: 건물 - [건] ㄱ(구개), ㄴ(설음), [물] ㅁ(순음), ㄹ(설음)
+D: 행복 - [행] ㅎ(후치), ㅇ(구개), [복] ㅂ(순음), ㄱ(구개)
+
+각 단어의 자음 조음 위치를 비교해보면:
+- A: 치경, 구개, 순음, 설음
+- B:"
+Kedu_14_6,0,D,,"정답은 C입니다. ㄱ에서 물건값은 [물건깝]으로 발음되는데, 이는 ㄱ과 ㅂ 사이에서 발생하는 음운 변동으로 인해 ㄱ이 ㅂ 앞에서 된소리 ㄲ으로 변하는 현상입니다. 이 변동은 음소의 개수를 변화시키지 않으므로, 음운 변동 전과 후의 음소 개수가 같습니다."
+Kedu_14_7,0,B,C,C
+Kedu_14_8,0,A,,정답: D
+Kedu_14_9,0,A,,정답: C
+Kedu_14_10,0,B,,"정답: B
+
+설명: 
+A: 잃는다[일른다] - 탈락
+B: 열역학[열려칵] - 대치, 첨가, 축약
+C: 부엌문[부엉문] - 대치
+D: 결단력[결딴녁] - 대치, 축약
+
+B 옵션인 열역학[열려칵]에서는 대치(역이 려로), 첨가(려 뒤에 칵), 축약(학이 칵으로 간소화) 등의 음운 변동이 나타나므로 가장 다양한 유형의 음운 변동이 나타납니다."
+Kedu_14_11,0,A,C,C: 밝 + 고  [발꼬]
+Kedu_14_12,0,D,D,D
+Kedu_14_13,0,B,,정답: C
+Kedu_14_14,0,A,,정답: C: 물동이
+Kedu_14_15,0,C,,정답: B: 착하다
+Kedu_14_16,0,D,A,A
+Kedu_14_17,0,B,A,A
+Kedu_14_18,0,D,B,B
+Kedu_14_19,0,C,,"정답은 C: 톱질입니다. A, B, D는 모두 접미사가 -개, -레, -댕으로 물체나 상태를 나타내는 반면, C의 -질은 동작이나 행위를 나타내는 접미사입니다. 따라서 성격이 다른 접미사는 C: 톱질입니다."
+Kedu_14_20,0,B,D,D
+Kedu_14_21,0,C,,"정답: C
+
+설명: A, B, D 옵션은 모두 높임법을 사용하는 표현들입니다. A에서는 드려라가 높임의 표현, B에서는 여쭤가 높임의 표현, D에서는 뵙게가 높임의 표현입니다. 반면, C 옵션에서 잡숫는다는 높임의 성격이 없는 일반적인 동사 사용으로, 다른 세 옵션과 성격이 다릅니다. 따라서 C가 정답입니다."
+Kedu_14_22,0,D,D,D
+Kedu_14_23,0,A,,정답: B
+Kedu_14_24,0,D,B,B
+Kedu_14_25,0,A,C,C
+Kedu_14_26,0,D,,정답: D
+Kedu_14_27,0,C,D,D
+Kedu_14_28,0,A,A,"A: ㄱ: 과거 시제, 완료상"
+Kedu_14_29,0,C,C,C
+Kedu_14_30,0,D,D,D
+Kedu_14_31,0,C,C,C
+Kedu_14_32,0,C,,"정답: D
+
+설명: 
+A: 담장 - 담(벽) + 장(막다)의 합성어로, 벽을 막는 것의 의미를 가짐.
+B: 면도칼 - 면도(얼굴의 털을 깎다) + 칼의 합성어로, 얼굴의 털을 깎는 도구의 의미를 가짐.
+C: 송수신 - 송신(보내다) + 수신(받다)의 합성어로, 보내고 받는 행위의 의미를 가짐.
+D: 술주정 - 술 + 주정(술을 마시고 난 후의 행동)의 합성어로, 술을 마시고 난 후의 행동을 의미하는 것이 아니라 술을 마시고 난 후의 불쾌한 행동을 의미함. 이는 다른 합성어들과"
+Kedu_14_33,0,D,,"한자어로만 묶인 것을 찾기 위해 각 괄호 안의 단어를 살펴보겠습니다.
+
+ㄱ. 하필 - 한자어가 아님
+ㄴ. 동살 - 한자어 (동東, 살殺)
+ㄷ. 모자 - 한자어가 아님 (모母, 자子는 한자이지만 모자라는 단어 자체는 한자어가 아님)
+ㄹ. 울력 - 한자어 (울울, 력력)
+ㅁ. 하마 - 한자어가 아님 (하下, 마馬는 한자이지만 하마라는 단어 자체는 한자어가 아님)
+ㅂ. 미안 - 한자어 (미美, 안安)
+
+따라서 한자어로만 묶인 것은 ㄴ (동살), ㄹ (울력), ㅂ (미안) 입니다.
+
+정"
+Kedu_14_34,0,D,D,D
+Kedu_14_35,0,C,,정답: C
+Kedu_14_36,0,A,A,"A: 다른 - 형용사 (adjective)
+B: 느린 - 형용사 (adjective)
+C: 큰 - 형용사 (adjective)
+D: 높은 - 형용사 (adjective)
+
+모든 옵션에서 괄호 안의 단어는 형용사입니다. 따라서 품사가 다른 것은 없습니다. 그러나 문제의 의도를 정확히 파악하기 어렵지만, 모든 답이 같은 품사로 보이므로, 특별히 다른 것을 선택할 수 없습니다. 정답을 선택할 수 없습니다."
+Kedu_14_37,0,D,,"정답은 D입니다. D번 보기의 단어들은 모두 파생어로 되새기다, 엇나가다, 꼬락서니는 각각 되새기다-되새김, 엇나가다-엇나감, 꼬락서니-꼬락서니하다 등으로 파생어를 형성합니다."
+Kedu_14_38,0,B,,정답: B
+Kedu_14_39,0,B,,"정답은 B입니다. 
+
+ㄱ. 낯설다 - 형용사
+ㄴ. 헐뜯다 - 동사
+ㄷ. 얕보다 - 동사
+ㄹ. 굳세다 - 형용사
+ㅁ. 뛰어나다 - 형용사
+ㅂ. 바로잡다 - 동사
+ㅅ. 쓰디쓰다 - 형용사
+ㅇ. 굶주리다 - 동사
+
+옵션 B (A: ㄴ, ㄷ, ㅇ B: ㄱ, ㅁ, ㅅ)는 동사와 형용사를 올바르게 구분하고 있습니다."
+Kedu_14_41,0,B,,정답: C
+Kedu_14_42,0,A,B,B: 배열적 의미
+Kedu_14_43,0,D,C,C: 목도리 - 머플러
+Kedu_14_44,0,C,C,C
+Kedu_14_45,0,B,,"정답은 A입니다. ㄱ (아이가 집에 가지 않았다)와 ㄹ (철수와 친한 민수의 동생이 군대에 갔다) 모두 구문적 중의성을 가지고 있습니다. ㄱ은 아이가 집에 가지 않았다에서 가지 않았다가 집에 가는 것을 거부했다는 의미인지, 아니면 집에 가는 대신 다른 곳에 갔다는 의미인지 모호합니다. ㄹ은 철수와 친한 민수의 동생이 군대에 갔다에서 민수의 동생이 철수와 친한 것인지, 아니면 민수가 철수와 친한 것인지 모호합니다."
+Kedu_14_46,0,C,,"정답은 C입니다. 선택지 C에 포함된 ㄴ, ㄷ, ㅁ의 각 동음어는 모두 고유어로 이루어져 있습니다. 
+
+- ㄴ. 풀을 쑤다 (고유어) - 풀을 베다 (고유어)
+- ㄷ. 죽어서 재가 되다 (고유어) - 높은 재를 넘다 (고유어)
+- ㅁ. 가마를 태우다 (고유어) - 가마에 콩을 삶다 (고유어)
+
+다른 선택지들은 한자어가 포함되어 있습니다."
+Kedu_14_47,0,C,C,C
+Kedu_14_48,0,B,B,B
+Kedu_14_49,0,A,D,D
+Kedu_14_50,0,D,D,D
+Kedu_14_51,0,B,C,C
+Kedu_14_52,0,A,,정답: D
+Kedu_14_53,0,C,A,A
+Kedu_14_54,0,B,,정답은 B입니다.
+Kedu_14_55,0,A,C,C: 그가 언제 올 지를 모르겠다.
+Kedu_14_56,0,D,,정답은 C: 왕십리: Wangsimni 입니다. 로마자 표기법에 따르면 왕십리는 Wangsimni가 아니라 Wangsimri로 표기되어야 합니다. 따라서 C가 옳지 않은 표기입니다.
+Kedu_14_57,0,B,,정답: C
+Kedu_15_1,0,B,B,B
+Kedu_15_2,0,D,D,D
+Kedu_15_3,0,D,D,D
+Kedu_15_4,0,A,C,C
+Kedu_15_5,0,A,,정답: D
+Kedu_15_6,0,B,C,C
+Kedu_15_7,0,D,B,B
+Kedu_15_8,0,C,B,B
+Kedu_15_9,0,C,,정답은 D입니다.
+Kedu_15_10,0,A,,정답: C
+Kedu_15_11,0,B,,"‘입학생’의 표준발음은 [입학셍]으로 발음됩니다. 이때 음운변동은 다음과 같습니다:
+
+1. ㅎ + ㅅ → [ㅌ] : ‘학생’에서 ‘학’의 종성 ㅎ과 ‘생’의 초성 ㅅ이 만나서 [ㅌ]으로 발음됩니다.
+
+따라서 음운변동은 총 1회 발생합니다.
+
+정답: A"
+Kedu_15_12,0,D,,"보기에서 제시된 음운변동은 ㄹ 받침이 다음 음절의 모음과 만나면서 발생하는 현상입니다. 각 옵션을 분석해보겠습니다.
+
+A: ㉠ - 삼라만상에서 라는 ㄹ 받침이 다음 모음 ㅏ와 만나서 라로 발음됩니다.
+B: ㉡ - 집합에서 합은 ㅎ 받침이 다음 모음과 만나지 않고, ㅎ 자체가 발음됩니다.
+C: ㉢ - 낳아에서 낳은 ㅎ 받침이 다음 모음 ㅏ와 만나서 낳아로 발음됩니다.
+D: ㉣ - 막는에서 막은 ㄱ 받침이 다음 모음 ㅡ와 만나서 막는으로 발음됩니다.
+
+보기에서 나"
+Kedu_15_13,0,C,A,A
+Kedu_15_14,0,B,,정답: B
+Kedu_15_15,0,C,,정답은 C입니다.
+Kedu_15_16,0,A,B,B
+Kedu_15_17,0,C,C,C
+Kedu_15_18,0,D,C,C
+Kedu_15_19,0,A,A,A
+Kedu_15_20,0,A,C,C: (다섯) 사람을 만났다./학생 (다섯)이 왔다.
+Kedu_15_21,0,A,C,C
+Kedu_15_22,0,B,C,C
+Kedu_15_23,0,D,D,D
+Kedu_15_24,0,B,,정답: A
+Kedu_15_25,0,C,C,C
+Kedu_15_26,0,B,,정답: B
+Kedu_15_27,0,D,,정답: D
+Kedu_15_28,0,C,C,C
+Kedu_15_29,0,B,C,C
+Kedu_15_30,0,A,D,D
+Kedu_15_31,0,D,,"정답은 B: 톱니입니다.
+
+설명: 뱃머리, 병목, 주걱턱은 모두 어떤 대상의 특정 부분을 지칭하는 말입니다. 뱃머리는 배의 앞부분, 병목은 병의 좁은 부분, 주걱턱은 사람의 턱 중 특히 넓고 튀어나온 부분을 의미합니다. 반면, 톱니는 도구나 기계의 일부분으로서 기능적인 역할을 하는 부분을 의미하며, 다른 세 개의 옵션과는 다르게 특정 대상의 일부분을 지칭하는 것이 아니라 기능적인 요소를 나타냅니다. 따라서 의미 관계가 다른 것은 B: 톱니입니다."
+Kedu_15_32,0,A,,정답은 D입니다. 아버지와 마담은 모두 인칭 대명사입니다.
+Kedu_15_33,0,D,B,B: 아버지 - 부친
+Kedu_15_34,0,A,,"정답: D: 에어컨
+
+에어컨은 에어(air, 영어)와 컨디셔너(conditioner, 영어)의 합성어로, 두 가지 이상의 어종으로 이루어진 혼종어입니다."
+Kedu_15_35,0,C,C,C: 나무 - 뿌리
+Kedu_15_36,0,D,D,D
+Kedu_15_37,0,C,,정답: B
+Kedu_15_38,0,A,B,B: 넌 (커서) 과학자가 되어라.
+Kedu_15_39,0,B,B,B
+Kedu_15_40,0,D,B,B
+Kedu_15_41,0,D,,정답: A
+Kedu_15_42,0,B,,정답: D
+Kedu_15_43,0,C,C,C: 사회적 의미
+Kedu_15_44,0,A,,정답은 B입니다. 출석 - 결석과 넓다 - 좁다는 모두 상태의 반대를 나타내는 반의어입니다.
+Kedu_15_45,0,B,,"다의어는 한 단어가 두 가지 이상의 의미를 가지는 경우를 말합니다. 각 문장에서 괄호 안의 단어의 의미를 분석해보겠습니다.
+
+ㄱ. 쓴다와 써야 한다에서 쓴다는 사용하다의 의미이고, 써야 한다는 사용해야 한다의 의미로, 두 문장 모두 사용하다라는 의미로 쓰였습니다. 따라서 다의어 관계는 아닙니다.
+
+ㄴ. 켰다는 첫 번째 문장에서는 기지개를 펴다의 의미로, 두 번째 문장에서는 전원을 켜다의 의미로 사용되었습니다. 이는 다의어 관계입니다.
+
+ㄷ. 거칠었다와 거칠게에서 거"
+Kedu_15_46,0,B,B,B
+Kedu_15_47,0,B,B,B
+Kedu_15_48,0,A,A,A
+Kedu_15_49,0,C,,정답: C
+Kedu_15_50,0,A,,정답은 B입니다.
+Kedu_15_51,0,C,C,C
+Kedu_15_52,0,D,C,C
+Kedu_15_53,0,B,,정답은 A: 넷째 - 안절부절하다 입니다. 이 선택지에서 넷째와 안절부절하다 모두 표준어입니다. 다른 선택지들은 표준어와 비표준어의 조합이거나 관련 없는 단어들의 조합입니다.
+Kedu_15_54,0,B,,정답은 A입니다. (The correct answer is A.)
+Kedu_15_55,0,C,,정답: A: ㅸ
+Kedu_15_56,0,C,,정답은 C입니다.
+Kedu_16_1,0,B,,정답: D
+Kedu_16_2,0,B,,정답: D
+Kedu_16_3,0,C,C,C: 듣보다
+Kedu_16_4,0,B,C,C
+Kedu_16_5,0,D,,"정답은 B입니다. B 옵션의 빈둥빈둥, 따옥따옥, 하늘하늘은 모두 의태어입니다. 다른 옵션들은 의성어가 포함되어 있습니다."
+Kedu_16_6,0,D,D,D
+Kedu_16_7,0,A,,"문장별 단어 수를 세어보겠습니다.
+
+A: 그가 가면 나도 또한 간다. -> 5개의 단어
+B: 머문 자리가 정말 아름답다. -> 4개의 단어
+C: 선생님께서 저녁을 맛있게 드셨습니다. -> 5개의 단어
+D: 몸 둘 바를 모르겠어요. -> 4개의 단어
+
+A와 C가 각각 5개의 단어로 가장 많습니다. 따라서 정답은 A와 C입니다. 그러나 하나의 정답만 선택해야 하므로, 첫 번째로 나온 A를 선택합니다.
+
+정답: A"
+Kedu_16_8,0,C,A,A
+Kedu_16_9,0,A,A,A
+Kedu_16_10,0,C,,"한국어의 자음에 관한 설명을 분석해보겠습니다.
+
+ㄱ. 폐쇄음은 양순, 치조, 연구개의 조음위치에서 조음된다. - 이 설명은 정확합니다. 한국어의 폐쇄음은 양순음(ㅂ, ㅍ), 치조음(ㄷ, ㅌ, ㄱ, ㅋ), 연구개음(ㄲ, ㄸ, ㅃ) 등에서 발견됩니다.
+
+ㄴ. 마찰음은 치조음, 경구개음, 후음으로 실현된다. - 이 설명은 부정확합니다. 한국어의 마찰음은 주로 치조음(ㅈ, ㅊ, ㅅ, ㅆ)과 후음(ㅎ)에서 발견되며, 경구개음은 해당하지 않습니다.
+
+ㄷ. 공명음에는 비음과 유음이"
+Kedu_16_11,0,D,A,A
+Kedu_16_12,0,C,C,C
+Kedu_16_13,0,A,,"정답은 C입니다. 
+
+ㄱ. 좋지[조치]와 밝히다[발키다]는 ‘축약’이 아니라 ‘음운 동화’의 예입니다.
+ㄴ. 잎도[입또]는 ‘첨가’가 적용되었다는 설명이 맞습니다. ‘ㄷ’이 ‘ㄸ’으로 첨가되었습니다.
+ㄷ. 다치어 → (다쳐) → [다처]는 ‘탈락’이 적용되었다는 설명이 맞습니다. ‘ㅣ’가 탈락하였습니다.
+ㄹ. 신여성[신녀성]은 ‘대치’가 아니라 ‘음운 동화’의 예입니다. ‘여’가 ‘녀’로 변화하였습니다.
+
+따라서, 옳은 설명은 ㄴ과 ㄷ이므로, 정답은 C입니다."
+Kedu_16_14,0,A,,정답은 B입니다.
+Kedu_16_15,0,B,,"단어들을 분석해보면 다음과 같습니다:
+
+1. 접는에서는 접과 는이 결합되어 있으며, 특별한 음운 변화는 없습니다.
+2. 국물에서는 국과 물이 결합되어 있으며, 국의 마지막 음 ㄱ이 물의 첫 음 ㅁ에 영향을 받아 ㄱ이 ㅁ으로 변화하여 [굼물]로 발음됩니다. 이는 역행 동화입니다.
+3. 맏이에서는 맏과 이가 결합되어 있으며, 맏의 마지막 음 ㅅ이 이의 첫 음 ㅇ에 영향을 받아 ㅅ이 탈락하고 [마이]로 발음"
+Kedu_16_16,0,D,,정답: C
+Kedu_16_17,0,C,C,C
+Kedu_16_18,0,A,,"정답은 D입니다. /ㄷ, ㅌ, ㅆ/는 장애음이고, /ㅚ, ㅣ/는 고모음입니다."
+Kedu_16_19,0,C,C,C
+Kedu_16_20,0,C,,정답: C
+Kedu_16_21,0,B,,정답: C
+Kedu_16_22,0,D,,정답: C
+Kedu_16_23,0,C,C,C
+Kedu_16_24,0,A,A,A
+Kedu_16_25,0,C,C,C
+Kedu_16_26,0,B,D,D
+Kedu_16_27,0,A,D,D
+Kedu_16_28,0,D,C,C
+Kedu_16_29,0,D,C,C
+Kedu_16_30,0,A,A,A
+Kedu_16_31,0,A,B,B
+Kedu_16_32,0,D,A,A
+Kedu_16_33,0,D,D,D
+Kedu_16_34,0,B,,정답: B
+Kedu_16_35,0,C,C,C
+Kedu_16_36,0,D,,정답: D
+Kedu_16_37,0,A,,정답: A
+Kedu_16_38,0,B,,정답: B
+Kedu_16_39,0,B,D,D
+Kedu_16_40,0,C,,정답: D
+Kedu_16_41,0,A,A,A
+Kedu_16_42,0,C,C,C: 머릿속에 떠오르는 ‘밥’의 개념
+Kedu_16_43,0,C,C,C
+Kedu_16_44,0,C,D,D
+Kedu_16_45,0,B,,정답: A
+Kedu_16_46,0,D,,정답: B
+Kedu_16_47,0,B,,정답: C
+Kedu_16_48,0,D,B,B
+Kedu_16_49,0,A,,정답은 D입니다.
+Kedu_16_50,0,A,C,C: 벚꽃 - beotkot
+Kedu_16_51,0,B,B,B: vision - 비젼
+Kedu_16_52,0,C,,"정답은 B: 찌꺼기 - 찌끼 입니다. 찌꺼기와 찌끼는 서로 다른 의미를 가지고 있으며, 찌끼는 표준어가 아닙니다. 다른 선택지들은 모두 복수 표준어의 짝이 맞습니다."
+Kedu_16_53,0,B,,정답: C
+Kedu_16_54,0,C,C,C
+TK_2016_1,0,C,C,C: 가기로 했다
+TK_2016_2,0,D,D,D
+TK_2016_3,0,A,A,A
+TK_2016_4,0,C,C,C
+TK_17_1,0,B,,정답: B
+TK_17_2,0,A,A,A
+TK_17_3,0,D,D,D
+TK_17_4,0,A,A,A
+TK_2018_1,0,B,B,B
+TK_2018_2,0,A,A,A
+TK_2018_3,0,C,C,C
+TK_2018_4,0,D,D,D
+TK_2019_1,0,B,B,B: 보거나
+TK_2019_2,0,A,A,A
+TK_2019_3,0,D,D,D
+TK_2019_4,0,D,D,D
+TK_2022_1,0,A,A,A
+TK_2022_2,0,B,B,B
+TK_2022_3,0,C,C,C
+TK_2022_4,0,D,D,D
+CSAT_korean_23_1,0,D,,정답: E
+CSAT_korean_23_2,0,E,,"정답: E
+
+설명:
+ⓓ(내가 진정으로 좋아하는 일이 무엇인지 나에게 묻게 되었다.)는 학생이 자신에게 질문을 던지는 것으로, 독자 자신에게서 답을 찾는 질문에 해당합니다. ⓔ(글 쓰는 일에서 가장 큰 행복을 느꼈던 나를 발견)은 학생이 자신의 경험을 통해 답을 찾은 것으로, 독자의 경험에서 답을 찾아내는 모습을 보여줍니다. 따라서 E 옵션이 가장 적절합니다."
+CSAT_korean_23_3,0,A,A,A
+CSAT_korean_23_4,0,D,D,D
+CSAT_korean_23_5,0,E,E,E
+CSAT_korean_23_6,0,C,C,C
+CSAT_korean_23_7,0,B,B,B
+CSAT_korean_23_8,0,E,E,E
+CSAT_korean_23_9,0,B,B,B
+CSAT_korean_23_10,0,D,D,D
+CSAT_korean_23_11,0,E,E,E
+CSAT_korean_23_12,0,B,C,C
+CSAT_korean_23_13,0,E,,정답: E
+CSAT_korean_23_14,0,C,C,C
+CSAT_korean_23_15,0,D,B,"B: 클라이버의 결론에 따르면, 기초 대사량이 동물의 체표 면적에 비례한다고 볼 수 없겠군."
+CSAT_korean_23_16,0,D,C,C
+CSAT_korean_23_17,0,A,D,D
+CSAT_korean_23_18,0,D,D,D
+CSAT_korean_23_19,0,C,C,C
+CSAT_korean_23_20,0,C,C,C
+CSAT_korean_23_21,0,E,E,E
+CSAT_korean_23_22,0,A,A,A
+CSAT_korean_23_23,0,E,E,E
+CSAT_korean_23_24,0,C,C,C
+CSAT_korean_23_25,0,C,C,C
+CSAT_korean_23_26,0,D,D,D
+CSAT_korean_23_27,0,A,A,A
+CSAT_korean_23_28,0,E,E,E
+CSAT_korean_23_29,0,A,A,A
+CSAT_korean_23_30,0,B,B,B
+CSAT_korean_23_31,0,A,A,A
+CSAT_korean_23_32,0,D,D,D
+CSAT_korean_23_33,0,B,B,B
+CSAT_korean_23_34,0,C,C,C
+CSAT_korean_22_1,0,B,B,B
+CSAT_korean_22_2,0,E,E,E
+CSAT_korean_22_3,0,A,A,A
+CSAT_korean_22_4,0,A,C,C
+CSAT_korean_22_5,0,C,C,C: 절대정신의 세 가지 형태는 지성의 세 가지 형식이 인식하는 대상이다.
+CSAT_korean_22_6,0,D,,"정답: D
+
+설명:
+직관은 주어진 물질적 대상을 감각적으로 지각하는 지성을 의미합니다. 사유는 대상을 개념을 통해 파악하는 순수한 논리적 지성을 의미합니다. D 옵션에서 예술의 새로운 개념을 설정하는 것은 사유를 통해라는 부분은 적절하게 사유의 개념을 적용하고 있습니다. 그러나 이를 바탕으로 새로운 감각을 일깨우는 작품의 창작을 기획하는 것은 직관을 통해 이루어지겠군이라는 부분은 직관의 정의와 일치하지 않습니다. 직관은 감각적 지각을 통한 것이므로, 작품의 창작 기획은 사"
+CSAT_korean_22_7,0,C,C,C
+CSAT_korean_22_8,0,B,D,D
+CSAT_korean_22_9,0,C,E,E
+CSAT_korean_22_10,0,B,B,B
+CSAT_korean_22_11,0,E,A,A
+CSAT_korean_22_12,0,E,,"정답: E
+
+설명:
+㉠ 금 본위 체제에서는 각 국가의 통화 가치가 금에 고정되어 있으므로, 환율은 자동적으로 결정되고, 국가 간의 환율 가짓수는 제한적입니다.
+㉡ 브레턴우즈 체제에서는 달러화가 기축 통화로 사용되며, 다른 국가들은 달러화에 대해 자국 통화의 가치를 고정합니다. 이로 인해 교차 환율은 달러화를 기준으로 자동적으로 결정되며, 환율의 가짓수는 제한적입니다.
+㉢ 각 국가가 다른 통화를 사용하고 기축 통화가 없는 경우, 두 국가를 짝짓는 경우의 수만큼 환율의 가짓수가 생"
+CSAT_korean_22_13,0,D,D,D
+CSAT_korean_22_14,0,D,D,D
+CSAT_korean_22_15,0,B,C,C
+CSAT_korean_22_16,0,D,C,C
+CSAT_korean_22_17,0,A,D,D
+CSAT_korean_22_18,0,C,C,C
+CSAT_korean_22_19,0,C,C,C
+CSAT_korean_22_20,0,B,B,B
+CSAT_korean_22_21,0,D,D,D
+CSAT_korean_22_22,0,A,A,A
+CSAT_korean_22_23,0,D,C,C
+CSAT_korean_22_24,0,D,D,D
+CSAT_korean_22_25,0,C,C,C
+CSAT_korean_22_26,0,E,E,E
+CSAT_korean_22_27,0,E,E,E
+CSAT_korean_22_28,0,B,D,D
+CSAT_korean_22_29,0,A,A,A
+CSAT_korean_22_30,0,C,A,A
+CSAT_korean_22_31,0,E,E,E
+CSAT_korean_22_32,0,D,D,D
+CSAT_korean_22_33,0,E,E,E
+CSAT_korean_22_34,0,C,C,C
+TK_2016_5,0,A,A,A
+TK_2016_6,0,B,B,B
+TK_2016_7,0,D,D,D: 화재 예방
+TK_2016_8,0,B,B,B: 접수 방법
+TK_2016_9,0,B,B,B
+TK_2016_10,0,D,D,D
+TK_2016_11,0,A,A,A
+TK_2016_12,0,A,C,C: (다)-(라)-(가)-(나)
+TK_2016_13,0,B,A,A: (가)-(다)-(나)-(라)
+TK_2016_14,0,C,C,C: (나)-(가)-(라)-(다)
+TK_2016_15,0,B,B,B: 표현력을 높이는 데에
+TK_2016_16,0,C,C,C
+TK_2016_17,0,D,D,D
+TK_2016_18,0,B,B,B
+TK_2016_19,0,D,D,D
+TK_2016_20,0,A,C,C
+TK_2016_21,0,B,B,B
+TK_2016_22,0,D,D,D
+TK_2016_23,0,C,C,C
+TK_2016_24,0,D,D,D
+TK_2016_25,0,A,A,A
+TK_2016_26,0,D,D,D
+TK_2016_27,0,C,C,C: 아이의 성향에 맞게
+TK_2016_28,0,A,A,A: 전문가를 활용하는
+TK_2016_29,0,B,B,B
+TK_2016_30,0,A,A,A: 가치가 사라지는
+TK_2016_31,0,D,D,D
+TK_2016_32,0,D,D,D
+TK_2016_33,0,C,C,C
+TK_2016_34,0,A,A,A
+TK_2016_35,0,D,D,D
+TK_2016_36,0,C,C,C
+TK_2016_37,0,B,B,B
+TK_2016_38,0,B,B,B
+TK_2016_39,0,B,C,C
+TK_2016_40,0,B,B,B
+TK_2016_41,0,A,A,A
+TK_2016_42,0,B,B,B
+TK_2016_43,0,A,C,C
+TK_2016_44,0,C,C,C
+TK_2016_45,0,C,D,D
+TK_2016_46,0,B,A,A
+TK_2016_47,0,D,D,D
+TK_2016_48,0,D,D,D: 창의성이 발휘될 수 있는
+TK_2016_49,0,A,A,A
+TK_2017_5,0,B,B,B
+TK_2017_6,0,B,B,B
+TK_2017_7,0,A,A,A: 자연 보호
+TK_2017_8,0,B,B,B: 배달 안내
+TK_2017_9,0,A,A,A
+TK_2017_10,0,A,A,A
+TK_2017_11,0,B,B,B
+TK_2017_12,0,A,A,A
+TK_2017_13,0,B,A,A: (나)-(다)-(가)-(라)
+TK_2017_14,0,C,C,C: (다)-(가)-(나)-(라)
+TK_2017_15,0,B,B,B
+TK_2017_16,0,B,B,B: 고개를 끄덕이는
+TK_2017_17,0,C,C,C: 물건들을 집에 쌓아 두는
+TK_2017_18,0,B,B,B
+TK_2017_19,0,A,A,A
+TK_2017_20,0,D,D,D
+TK_2017_21,0,D,D,D
+TK_2017_22,0,C,C,C: 후회스럽다
+TK_2017_23,0,B,B,B
+TK_2017_24,0,A,A,A
+TK_2017_25,0,C,C,C
+TK_2017_26,0,D,D,D
+TK_2017_27,0,C,C,C
+TK_2017_28,0,B,B,B: 조상과 후손의 연결이라는
+TK_2017_29,0,C,C,C
+TK_2017_30,0,D,D,D: 의사 결정 단계를 단순화하려는
+TK_2017_31,0,A,A,A
+TK_2017_32,0,C,C,C
+TK_2017_33,0,D,D,D
+TK_2017_34,0,D,D,D
+TK_2017_35,0,B,B,B
+TK_2017_36,0,C,C,C
+TK_2017_37,0,A,A,A: 일의 결과를 책임지는 것이 진정한 사과이다.
+TK_2017_38,0,D,C,C
+TK_2017_39,0,D,C,C
+TK_2017_40,0,C,C,C
+TK_2017_41,0,C,C,C: 감격스럽다
+TK_2017_42,0,A,A,A
+TK_2017_43,0,C,C,C
+TK_2017_44,0,D,D,D
+TK_2017_45,0,A,D,D
+TK_2017_46,0,D,D,D
+TK_2017_47,0,D,D,D
+TK_2017_48,0,C,C,C: 기술이 완벽하게 개발되지 않은
+TK_2018_5,0,C,C,C
+TK_2018_6,0,D,D,D: 빨래방
+TK_2018_7,0,C,C,C
+TK_2018_8,0,B,B,B
+TK_2018_9,0,D,D,D
+TK_2018_10,0,A,A,A
+TK_2018_11,0,B,B,B
+TK_2018_12,0,C,C,C: (다)-(가)-(라)-(나)
+TK_2018_13,0,D,D,D: (라)-(나)-(가)-(다)
+TK_2018_14,0,A,A,A
+TK_2018_15,0,B,B,B: 현실 속의 작고 소소한
+TK_2018_16,0,C,C,C: 씨앗을 수집하는
+TK_2018_17,0,C,C,C
+TK_2018_18,0,C,C,C
+TK_2018_19,0,D,D,D
+TK_2018_20,0,C,C,C
+TK_2018_21,0,D,D,D: 죄송스럽다
+TK_2018_22,0,B,B,B
+TK_2018_23,0,A,A,A
+TK_2018_24,0,C,C,C
+TK_2018_25,0,B,B,B
+TK_2018_26,0,B,B,B: 수업에 보다 집중할
+TK_2018_27,0,D,D,D
+TK_2018_28,0,B,B,B: 유리에 막을 입힌
+TK_2018_29,0,A,A,A: 기호가 만들어진
+TK_2018_30,0,C,C,C
+TK_2018_31,0,C,C,C
+TK_2018_32,0,A,A,A
+TK_2018_33,0,C,C,C
+TK_2018_34,0,B,B,B
+TK_2018_35,0,D,D,D
+TK_2018_36,0,D,D,D
+TK_2018_37,0,A,,정답: A
+TK_2018_38,0,B,A,A
+TK_2018_39,0,D,,정답 (Answer): D
+TK_2018_40,0,B,B,B: 서운하다
+TK_2018_41,0,D,D,D
+TK_2018_42,0,D,D,D
+TK_2018_43,0,B,D,D
+TK_2018_44,0,A,,정답: B
+TK_2018_45,0,D,A,A
+TK_2018_46,0,B,B,B: 세제 지원 조건의 문제점을 지적하려고
+TK_2018_47,0,A,A,A
+TK_2018_48,0,D,D,D: 신성장 기술에 대한 세제 지원 정책을 긍정적으로 평가하고 있다.
+TK_2019_5,0,A,A,A
+TK_2019_6,0,B,B,B: 은행
+TK_2019_7,0,D,D,D: 환경 보호
+TK_2019_8,0,A,A,A
+TK_2019_9,0,B,B,B
+TK_2019_10,0,A,A,A
+TK_2019_11,0,C,C,C
+TK_2019_12,0,A,A,A: (가)-(다)-(나)-(라)
+TK_2019_13,0,C,C,C: (라) - (가) - (나) - (다)
+TK_2019_14,0,C,C,C: (라)-(가)-(다)-(나)
+TK_2019_15,0,D,D,D
+TK_2019_16,0,B,B,B
+TK_2019_17,0,D,D,D
+TK_2019_18,0,C,C,C: 게다가
+TK_2019_19,0,C,C,C
+TK_2019_20,0,B,B,B: 진땀을 흘려
+TK_2019_21,0,C,C,C
+TK_2019_22,0,A,A,A: 걱정스럽다
+TK_2019_23,0,B,B,B
+TK_2019_24,0,A,A,A
+TK_2019_25,0,D,D,D
+TK_2019_26,0,C,C,C
+TK_2019_27,0,D,D,D
+TK_2019_28,0,D,D,D
+TK_2019_29,0,B,B,B: 취재 경계선이 무너지는
+TK_2019_30,0,A,A,A: 환자가 약값을 조금 더 내게
+TK_2019_31,0,B,B,B
+TK_2019_32,0,C,C,C
+TK_2019_33,0,B,B,B
+TK_2019_34,0,A,A,A
+TK_2019_35,0,D,D,D
+TK_2019_36,0,C,C,C: 버섯은 숲에서 나무들의 정보 교환을 돕는 역할을 한다.
+TK_2019_37,0,D,D,D
+TK_2019_38,0,A,,정답: A
+TK_2019_39,0,C,C,C
+TK_2019_40,0,B,B,B
+TK_2019_41,0,A,A,A: 불안하다
+TK_2019_42,0,A,D,D
+TK_2019_43,0,D,D,D
+TK_2019_44,0,C,C,C
+TK_2019_45,0,D,,정답: A
+TK_2019_46,0,C,C,C
+TK_2019_47,0,D,D,D
+TK_2019_48,0,B,B,B: 업무의 충돌과 혼선으로
+TK_2019_49,0,B,B,B: 자치경찰제가 주민에게 미칠 긍정적 영향을 기대하고 있다.
+TK_2022_5,0,C,C,C
+TK_2022_6,0,B,B,B
+TK_2022_7,0,B,B,B
+TK_2022_8,0,A,A,A
+TK_2022_9,0,A,A,A
+TK_2022_10,0,B,B,B
+TK_2022_11,0,B,B,B
+TK_2022_12,0,A,A,A
+TK_2022_13,0,D,D,D
+TK_2022_14,0,B,A,A: (가)-(다)-(나)-(라)
+TK_2022_15,0,C,C,C: 다양한 물건에 붙여
+TK_2022_16,0,B,B,B: 디자인을 신중하게
+TK_2022_17,0,C,C,C: 일본의 텃새가 관찰된
+TK_2022_18,0,D,D,D
+TK_2022_19,0,A,A,A
+TK_2022_20,0,C,C,C
+TK_2022_21,0,C,C,C
+TK_2022_22,0,A,A,A: 반갑고 감격스럽다
+TK_2022_23,0,D,D,D
+TK_2022_24,0,A,A,A
+TK_2022_25,0,C,C,C
+TK_2022_26,0,A,A,A
+TK_2022_27,0,D,D,D
+TK_2022_28,0,A,A,A: 적정량의 물을 뿌리는
+TK_2022_29,0,B,B,B: 공이 잘 보이게 하려는
+TK_2022_30,0,D,D,D
+TK_2022_31,0,D,D,D
+TK_2022_32,0,A,A,A
+TK_2022_33,0,D,D,D
+TK_2022_34,0,B,B,B
+TK_2022_35,0,D,D,D
+TK_2022_36,0,D,D,D
+TK_2022_37,0,B,B,B
+TK_2022_41,0,B,B,B: 의심스럽다
+TK_2022_42,0,A,A,A
+TK_2022_43,0,C,C,C: 미지의 땅을 찾아 떠났기
+TK_2022_44,0,D,D,D
+TK_2022_45,0,A,A,A
+TK_2022_46,0,C,C,C
