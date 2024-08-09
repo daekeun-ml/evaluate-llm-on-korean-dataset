@@ -26,7 +26,7 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 |                       |            |                          |                        |                             |                               | unit: correct_mean         |
 | --------------------- | ---------- | ------------------------ | ---------------------- | --------------------------- | ----------------------------- | -------------------------- |
-| category_big          | category   | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) | Llama-3.1-8B-Instruct |
+| category_big          | category   | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) | Llama-3.1<br>8B-Instruct |
 | Culture               | Economy    | 0.81                     | 0.95                   | 0.90                        | 0.64                          | 0.42                       |
 | Culture               | Geography  | 0.78                     | 0.82                   | 0.82                        | 0.53                          | 0.34                       |
 | Culture               | History    | 0.48                     | 0.68                   | 0.46                        | 0.33                          | 0.23                       |
@@ -47,7 +47,7 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 |                       |                          |                        |                             |                               | unit: correct_mean    |
 | --------------------- | ------------------------ | ---------------------- | --------------------------- | ----------------------------- | --------------------- |
-| category              | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) | Llama-3.1-8B-Instruct |
+| category              | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) | Llama-3.1<br>8B-Instruct |
 | General Knowledge     | 0.53                     | 0.77                   | 0.66                        | 0.41                          | 0.18                  |
 | History               | 0.85                     | 0.92                   | 0.79                        | 0.30                          | 0.15                  |
 | Loan Words            | 0.76                     | 0.80                   | 0.78                        | 0.59                          | 0.21                  |
