@@ -1,0 +1,16 @@
+__pycache__
+.venv
+.env
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+.ipynb_checkpoints/
+test.ipynb
+debug.log
+
+evals/
+CLIcK/
+
