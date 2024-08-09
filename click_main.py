@@ -16,6 +16,9 @@ from langchain_huggingface import HuggingFaceEndpoint
 from langchain.schema.output_parser import StrOutputParser
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain_openai import AzureChatOpenAI
+from langchain_community.llms.azureml_endpoint import AzureMLOnlineEndpoint
+from langchain_community.llms.azureml_endpoint import CustomOpenAIContentFormatter
+
 from logger import logger
 
 
@@ -30,21 +33,20 @@ def format_timespan(seconds):
 class CustomStrOutputParser(StrOutputParser):
     def parse(self, text: str) -> str:
         response = text.strip().replace('"', "").replace("'", "")
-        if response.startswith("A"):
+        if response.startswith("A") | response.find("(Answer): A"):
             pred = "A"
-        elif response.startswith("B"):
+        elif response.startswith("B") | response.find("(Answer): B"):
             pred = "B"
-        elif response.startswith("C"):
+        elif response.startswith("C") | response.find("(Answer): C"):
             pred = "C"
-        elif response.startswith("D"):
+        elif response.startswith("D") | response.find("(Answer): D"):
             pred = "D"
-        elif response.startswith("E"):
+        elif response.startswith("E") | response.find("(Answer): E"):
             pred = "E"
         else:
             pred = ""  # Wrong answer
 
         return pred, response
-
 
 def get_prompt(x) -> str:
     num_choices = len(x["choices"])
@@ -89,7 +91,6 @@ def get_prompt(x) -> str:
     else:
         raise ValueError(f"Invalid number of choices: {num_choices} (ID: {x['id']})")
 
-
 def get_prompt_template():
     system_prompt = """You are an AI assistant who reads a given question and solves multiple choice questions.
     You don't need to write a detailed explanation of your answer in sentences. Just answer in one word."""
@@ -109,7 +110,6 @@ def get_prompt_template():
         ]
     )
     return prompt
-
 
 def get_answer(x) -> str:
     answer_idx = [xx.strip() for xx in x["choices"]].index(x["answer"].strip())
@@ -162,6 +162,22 @@ def benchmark(args):
             temperature=temperature,
             max_new_tokens=max_tokens,
             huggingfacehub_api_token=os.getenv("HF_API_TOKEN")
+        )
+
+    elif args.model_provider == "azureml":
+        logger.info("Using Azure ML endpoint as model provider.")
+        MODEL_NAME = os.getenv("AZURE_ML_DEPLOYMENT_NAME")
+        AZURE_ML_ENDPOINT_URL = os.getenv("AZURE_ML_ENDPOINT_URL")
+        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE")
+        AZURE_ML_API_KEY = os.getenv("AZURE_ML_API_KEY")
+        
+        llm = AzureMLOnlineEndpoint(
+            endpoint_url=AZURE_ML_ENDPOINT_URL,
+            endpoint_api_type=AZURE_ML_ENDPOINT_TYPE,
+            endpoint_api_key=AZURE_ML_API_KEY,
+            content_formatter=CustomOpenAIContentFormatter(),
+            model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens
+            }
         )
 
     click_ds = load_dataset("EunsuKim/CLIcK")["train"]
@@ -270,7 +286,7 @@ if __name__ == "__main__":
     parser.add_argument("--temperature", type=float, default=0.01)
     
     args = parser.parse_args()
-    valid_providers = ["azureopenai", "openai", "huggingface"]
+    valid_providers = ["azureopenai", "openai", "huggingface", "azureml"]
     assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
 
     logger.info(args)
