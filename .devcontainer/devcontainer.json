@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/python
 {
-    "name": "Generate Synthetic QnAs from real-world data",
+    "name": "Korean language proficiency evaluation for LLM/SLM models using CLIcK and HAE-RAE dataset",
     // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
     "image": "mcr.microsoft.com/devcontainers/python:3.11",
     "features": {
