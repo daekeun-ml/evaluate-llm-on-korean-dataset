@@ -24,37 +24,38 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 ### CLIcK
 
-|                       |            |                          |                        | unit: correct mean          |
-| --------------------- | ---------- | ------------------------ | ---------------------- | --------------------------- |
-| category_big          | category   | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) |
-| Culture               | Economy    | 0.81                     | 0.95                   | 0.90                        |
-| Culture               | Geography  | 0.78                     | 0.82                   | 0.82                        |
-| Culture               | History    | 0.48                     | 0.68                   | 0.46                        |
-| Culture               | Law        | 0.58                     | 0.71                   | 0.61                        |
-| Culture               | Politics   | 0.83                     | 0.89                   | 0.89                        |
-| Culture               | Pop Culure | 0.85                     | 0.98                   | 0.93                        |
-| Culture               | Society    | 0.86                     | 0.92                   | 0.87                        |
-| Culture               | Tradition  | 0.73                     | 0.88                   | 0.79                        |
-| Language              | Functional | 0.65                     | 0.84                   | 0.80                        |
-| Language              | Grammar    | 0.43                     | 0.57                   | 0.48                        |
-| Language              | Textual    | 0.81                     | 0.91                   | 0.87                        |
-| category_big average: |            |                          |                        |
-| Culture               |            | **0.71**                     | **0.82**                   | **0.74**                        |
-| Language              |            | **0.64**                     | **0.77**                   | **0.71**                        |
+|                       |            |                          |                        |                           | unit: correct mean        |
+| --------------------- | ---------- | ------------------------ | ---------------------- | ------------------------- | --------------------------|
+| category_big          | category   | GPT-4o-mini<br>(2024-07-18) | GPT-4o<br>(2024-05-13)    | GPT-4-turbo<br>(2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) |
+| Culture               | Economy    | 0.81                     | 0.95                   | 0.90                      | 0.64                      |
+| Culture               | Geography  | 0.78                     | 0.82                   | 0.82                      | 0.53                      |
+| Culture               | History    | 0.48                     | 0.68                   | 0.46                      | 0.33                      |
+| Culture               | Law        | 0.58                     | 0.71                   | 0.61                      | 0.42                      |
+| Culture               | Politics   | 0.83                     | 0.89                   | 0.89                      | 0.65                      |
+| Culture               | Pop Culture| 0.85                     | 0.98                   | 0.93                      | 0.73                      |
+| Culture               | Society    | 0.86                     | 0.92                   | 0.87                      | 0.72                      |
+| Culture               | Tradition  | 0.73                     | 0.88                   | 0.79                      | 0.56                      |
+| Language              | Functional | 0.65                     | 0.84                   | 0.80                      | 0.39                      |
+| Language              | Grammar    | 0.43                     | 0.57                   | 0.48                      | 0.30                      |
+| Language              | Textual    | 0.81                     | 0.91                   | 0.87                      | 0.62                      |
+| category_big average  |            |                          |                        |                           |                         |
+| Culture               |           | **0.71**                | **0.82**               | **0.74**                  | **0.54**                  |
+| Language          |            | **0.64**                | **0.77**               | **0.71**                  | **0.46**                  |
+
 
 ### HAE_RAE_BENCH 1.0
 
-|                       |                          |                        | unit: correct mean          |
-| --------------------- | ------------------------ | ---------------------- | --------------------------- |
-| category              | GPT-4o-mini (2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4<br>(turbo-2024-04-09) |
-| General Knowledge     | 0.53                     | 0.77                   | 0.66                        |
-| History               | 0.85                     | 0.92                   | 0.79                        |
-| Loan Words            | 0.76                     | 0.80                   | 0.78                        |
-| Rare Words            | 0.82                     | 0.88                   | 0.79                        |
-| Reading Comprehension | 0.77                     | 0.85                   | 0.80                        |
-| Standard Nomenclature | 0.76                     | 0.89                   | 0.79                        |
-| overall average:      |                          |                        |                             |
-|                       | **0.75**                     | **0.85**                   | **0.77**                        |
+|                       |                          |                        |                             | unit: correct mean          |
+| --------------------- | ------------------------ | ---------------------- | --------------------------- |---------------------------  |
+| category              | GPT-4o-mini<br>(2024-07-18) | GPT-4o<br>(2024-05-13) | GPT-4-turbu<br>(2024-04-09) | GPT-3.5-turbo<br>(2023-06-13) |
+| General Knowledge     | 0.53                     | 0.77                   | 0.66                        | 0.41                        |
+| History               | 0.85                     | 0.92                   | 0.79                        | 0.30                        |
+| Loan Words            | 0.76                     | 0.80                   | 0.78                        | 0.59                        |
+| Rare Words            | 0.82                     | 0.88                   | 0.79                        | 0.60                        |
+| Reading Comprehension | 0.77                     | 0.85                   | 0.80                        | 0.56                        |
+| Standard Nomenclature | 0.76                     | 0.89                   | 0.79                        | 0.54                        |
+| overall average:      |                          |                        |                             |                             |
+|                       | **0.75**                 | **0.85**               | **0.77**                    | **0.50**                    |
 
 ## Quick Start
 
