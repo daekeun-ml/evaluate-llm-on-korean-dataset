@@ -123,6 +123,7 @@ def benchmark(args):
     IS_DEBUG = args.is_debug
     MAX_RETRIES = args.max_retries
     DELAY_INCREMENT = 30
+    MODEL_VERSION = None
 
     num_debug_samples = args.num_debug_samples
     batch_size = args.batch_size
