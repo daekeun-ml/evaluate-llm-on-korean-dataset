@@ -16,6 +16,8 @@ from langchain_huggingface import HuggingFaceEndpoint
 from langchain.schema.output_parser import StrOutputParser
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain_openai import AzureChatOpenAI
+from langchain_community.llms.azureml_endpoint import AzureMLOnlineEndpoint
+from langchain_community.llms.azureml_endpoint import CustomOpenAIContentFormatter
 from logger import logger
 
 
@@ -30,15 +32,15 @@ def format_timespan(seconds):
 class CustomStrOutputParser(StrOutputParser):
     def parse(self, text: str) -> str:
         response = text.strip().replace('"', "").replace("'", "")
-        if response.startswith("A"):
+        if response.startswith("A") | response.find("(Answer): A"):
             pred = "A"
-        elif response.startswith("B"):
+        elif response.startswith("B") | response.find("(Answer): B"):
             pred = "B"
-        elif response.startswith("C"):
+        elif response.startswith("C") | response.find("(Answer): C"):
             pred = "C"
-        elif response.startswith("D"):
+        elif response.startswith("D") | response.find("(Answer): D"):
             pred = "D"
-        elif response.startswith("E"):
+        elif response.startswith("E") | response.find("(Answer): E"):
             pred = "E"
         else:
             pred = ""  # Wrong answer
@@ -90,6 +92,7 @@ def benchmark(args):
     IS_DEBUG = args.is_debug
     MAX_RETRIES = args.max_retries
     DELAY_INCREMENT = 30
+    MODEL_VERSION = None
 
     num_debug_samples = args.num_debug_samples
     batch_size = args.batch_size
@@ -129,6 +132,21 @@ def benchmark(args):
             huggingfacehub_api_token=os.getenv("HF_API_TOKEN")
         )
 
+    elif args.model_provider == "azureml":
+        logger.info("Using Azure ML endpoint as model provider.")
+        MODEL_NAME = os.getenv("AZURE_ML_DEPLOYMENT_NAME")
+        AZURE_ML_ENDPOINT_URL = os.getenv("AZURE_ML_ENDPOINT_URL")
+        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE")
+        AZURE_ML_API_KEY = os.getenv("AZURE_ML_API_KEY")
+        
+        llm = AzureMLOnlineEndpoint(
+            endpoint_url=AZURE_ML_ENDPOINT_URL,
+            endpoint_api_type=AZURE_ML_ENDPOINT_TYPE,
+            endpoint_api_key=AZURE_ML_API_KEY,
+            content_formatter=CustomOpenAIContentFormatter(),
+            model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens
+            }
+        )
 
     # Initialize an empty list to store the datasets
     haerae_ds_list = []
@@ -237,7 +255,7 @@ if __name__ == "__main__":
     parser.add_argument("--temperature", type=float, default=0.01)
     
     args = parser.parse_args()
-    valid_providers = ["azureopenai", "openai", "huggingface"]
+    valid_providers = ["azureopenai", "openai", "huggingface", "azureml"]
     assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
 
     logger.info(args)
