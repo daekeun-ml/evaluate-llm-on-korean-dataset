@@ -17,7 +17,7 @@ from langchain.schema.output_parser import StrOutputParser
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, HumanMessagePromptTemplate, SystemMessagePromptTemplate
 from langchain_openai import AzureChatOpenAI
 from langchain_community.llms.azureml_endpoint import AzureMLOnlineEndpoint
-from langchain_community.llms.azureml_endpoint import CustomOpenAIContentFormatter
+from util.phi3_formatter import CustomPhi3ContentFormatter
 
 from logger import logger
 
@@ -33,15 +33,15 @@ def format_timespan(seconds):
 class CustomStrOutputParser(StrOutputParser):
     def parse(self, text: str) -> str:
         response = text.strip().replace('"', "").replace("'", "")
-        if response.startswith("A") | response.find("(Answer): A"):
+        if response.startswith("A"):
             pred = "A"
-        elif response.startswith("B") | response.find("(Answer): B"):
+        elif response.startswith("B"):
             pred = "B"
-        elif response.startswith("C") | response.find("(Answer): C"):
+        elif response.startswith("C"):
             pred = "C"
-        elif response.startswith("D") | response.find("(Answer): D"):
+        elif response.startswith("D"):
             pred = "D"
-        elif response.startswith("E") | response.find("(Answer): E"):
+        elif response.startswith("E"):
             pred = "E"
         else:
             pred = ""  # Wrong answer
@@ -168,16 +168,16 @@ def benchmark(args):
         logger.info("Using Azure ML endpoint as model provider.")
         MODEL_NAME = os.getenv("AZURE_ML_DEPLOYMENT_NAME")
         AZURE_ML_ENDPOINT_URL = os.getenv("AZURE_ML_ENDPOINT_URL")
-        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE")
+        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE") # https://python.langchain.com/v0.2/api_reference/community/llms/langchain_community.llms.azureml_endpoint.AzureMLEndpointApiType.html#langchain_community.llms.azureml_endpoint.AzureMLEndpointApiType
         AZURE_ML_API_KEY = os.getenv("AZURE_ML_API_KEY")
         
         llm = AzureMLOnlineEndpoint(
             endpoint_url=AZURE_ML_ENDPOINT_URL,
             endpoint_api_type=AZURE_ML_ENDPOINT_TYPE,
             endpoint_api_key=AZURE_ML_API_KEY,
-            content_formatter=CustomOpenAIContentFormatter(),
+            content_formatter=CustomPhi3ContentFormatter(),
             model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens
-            }
+            }              
         )
 
     click_ds = load_dataset("EunsuKim/CLIcK")["train"]
@@ -278,8 +278,8 @@ if __name__ == "__main__":
 
     parser.add_argument("--is_debug", type=bool, default=False)
     parser.add_argument("--num_debug_samples", type=int, default=20)
-    parser.add_argument("--model_provider", type=str, default="azureopenai")
-    parser.add_argument("--hf_model_id", type=str, default="mistralai/Mistral-7B-Instruct-v0.2")
+    parser.add_argument("--model_provider", type=str, default="azureml")
+    parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
     parser.add_argument("--batch_size", type=int, default=10)
     parser.add_argument("--max_retries", type=int, default=3)
     parser.add_argument("--max_tokens", type=int, default=256)
