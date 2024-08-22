@@ -66,8 +66,8 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 | Language            | Grammar                 | 0.22                  | 0.28                  |0.29                  |
 | Language            | Textual                 | 0.22                  | 0.55                  |0.73                  |
 |**category_big average**:|                     |                       |                       |                      |
-| Culture             |                         | **0.35**              | **0.44**              |**0.58**              |
-| Language            |                         | **0.20**              | **0.41**              |**0.52**              |
+| Culture             |                         | **0.50**              | **0.44**              |**0.58**              |
+| Language            |                         | **0.40**              | **0.41**              |**0.52**              |
 
 
 ### HAE_RAE_BENCH 1.0
@@ -96,7 +96,7 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 |Reading Comprehension|0.23                 |0.43                 | 0.64                 | 
 |Standard Nomenclature|0.19                 |0.44                 | 0.66                 | 
 |overall average:     |                     |                     |                      |  
-|                     |**0.19**             |**0.42**             | **0.61**             | 
+|                     |**0.52**             |**0.42**             | **0.61**             | 
 
 
 
