@@ -8,6 +8,12 @@ from langchain_community.llms.azureml_endpoint import (
     AzureMLEndpointApiType,
     ContentFormatterBase,
 )
+messages = [ 
+    {"role": "system", "content": "You are a helpful AI assistant."}, 
+    {"role": "user", "content": "Can you provide ways to eat combinations of bananas and dragonfruits?"}, 
+    {"role": "assistant", "content": "Sure! Here are some ways to eat bananas and dragonfruits together: 1. Banana and dragonfruit smoothie: Blend bananas and dragonfruits together with some milk and honey. 2. Banana and dragonfruit salad: Mix sliced bananas and dragonfruits together with some lemon juice and honey."}, 
+    {"role": "user", "content": "What about solving an 2x + 3 = 7 equation?"}, 
+] 
 
 
 class CustomPhi3ContentFormatter(ContentFormatterBase):
@@ -15,24 +21,35 @@ class CustomPhi3ContentFormatter(ContentFormatterBase):
 
     @property
     def supported_api_types(self) -> List[AzureMLEndpointApiType]:
-        return [AzureMLEndpointApiType.serverless]
+        return [AzureMLEndpointApiType.dedicated, AzureMLEndpointApiType.serverless]
 
     def format_request_payload(  # type: ignore[override]
         self, prompt: str, model_kwargs: Dict, api_type: AzureMLEndpointApiType
     ) -> bytes:
         """Formats the request according to the chosen api"""
         prompt = ContentFormatterBase.escape_special_characters(prompt)
-        if api_type in [
-            AzureMLEndpointApiType.serverless
-        ]:
+        if api_type == AzureMLEndpointApiType.serverless:
             request_payload = json.dumps(
                 {
                     "messages": [
                         {"role": "user", "content": f'"{prompt}"'}
-                    ]
+                    ],
+                    "parameters": model_kwargs
                 }
             )
-
+        elif api_type == AzureMLEndpointApiType.dedicated:
+            request_payload = json.dumps(
+                {
+                    "input_data": {
+                        "input_string": [
+                        {
+                            "role": "user",
+                            "content": f'"{prompt}"'
+                        }
+                    ]},
+                    "parameters": model_kwargs
+                }
+            )
         else:
             raise ValueError(
                 f"`api_type` {api_type} is not supported by this formatter"
@@ -43,14 +60,26 @@ class CustomPhi3ContentFormatter(ContentFormatterBase):
         self, output: bytes, api_type: AzureMLEndpointApiType
     ) -> Generation:
         """Formats response"""
-        if api_type in [
-            AzureMLEndpointApiType.serverless
-        ]:
+        response = output.decode('UTF-8')
+
+        if api_type == AzureMLEndpointApiType.dedicated:
             try:
-                choice = json.loads(output.decode('UTF-8'))["choices"][0]['message']['content']
+                response_dict = json.loads(response)
+                choice = response_dict.get("output").strip()
+            except json.JSONDecodeError:
+                choice = "ERROR"
             except (KeyError, IndexError, TypeError) as e:
                 raise ValueError(self.format_error_msg.format(api_type=api_type)) from e  # type: ignore[union-attr]
-            return Generation(text=choice)
+            return Generation(text=choice) 
         
-        raise ValueError(f"`api_type` {api_type} is not supported by this formatter")
+        elif api_type == AzureMLEndpointApiType.serverless:
+            try:
+                response_dict = json.loads(response)
+                choice = response_dict["choices"][0]['message']['content']
+            except json.JSONDecodeError:
+                choice = "ERROR"                
+            except (KeyError, IndexError, TypeError) as e:
+                raise ValueError(self.format_error_msg.format(api_type=api_type)) from e  # type: ignore[union-attr]
+            return Generation(text=choice)            
 
+        raise ValueError(f"`api_type` {api_type} is not supported by this formatter")

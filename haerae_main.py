@@ -248,7 +248,7 @@ if __name__ == "__main__":
 
     parser.add_argument("--is_debug", type=bool, default=False)
     parser.add_argument("--num_debug_samples", type=int, default=20)
-    parser.add_argument("--model_provider", type=str, default="azureml")
+    parser.add_argument("--model_provider", type=str, default="azureopenai")
     parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
     parser.add_argument("--batch_size", type=int, default=10)
     parser.add_argument("--max_retries", type=int, default=3)
@@ -256,7 +256,7 @@ if __name__ == "__main__":
     parser.add_argument("--temperature", type=float, default=0.01)
     
     args = parser.parse_args()
-    valid_providers = ["azureopenai", "openai", "huggingface", "azureml"]
+    valid_providers = ["azureopenai", "openai", "azureml", "huggingface"]
     assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
 
     logger.info(args)

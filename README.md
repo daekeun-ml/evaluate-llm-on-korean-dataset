@@ -3,6 +3,7 @@
 ## Overview
 
 With the continuous emergence of various LLM/SLM models, there is a need for robust evaluation datasets for non-English languages such as Korean. CLIcK (Cultural and Linguistic Intelligence in Korean) and HAE_RAE_BENCH 1.0 fill this gap by providing a rich, well-categorized dataset that focuses on cultural and linguistic aspects, enabling detailed evaluation of Korean language models. This code performs benchmarking on two datasets with minimal time and effort.
+- unit: correct_mean; Only the second decimal place was used. For exact results, please refer to the results folder.
 
 ### CLIcK (Cultural and Linguistic Intelligence in Korean)
 This dataset assesses Korean language proficiency in the subject areas of Korean Culture (History, Geography, Law, Politics, Society, Tradition, Economy, Pop culture) and Korean Language (Textual, Functional, Grammar). There are a total of 1,995 sample data in 11 categories. This dataset presents 4- or 5-choice multiple choice questions. Depending on the question, additional context is given.
@@ -22,44 +23,85 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 ## Results
 
+🔥 Aug 22, 2024: Added **Phi-3-5-mini-instruct** and **Phi-3.5-MoE-instruct** benchmark results. Phi-3.5 is Microsoft's latest open source model that has begun to properly support multiple languages, and its Korean performance has been greatly improved, as shown in the benchmark results below.
+
+🔥 Aug 22, 2024: Added **Llama-3-1-8B-instruct** benchmark results. Of course, fine-tuned Llama-3.1 with Korean dataset may perform better, but we only compared it with the vanilla model.
+
+🔥 Aug 9, 2024: Added Azure OpenAI **GPT-3.5-turbo (2023-06-13)**, **GPT-4-turbo (2024-04-09)**, **GPT-4o (2024-05-13)**, and **GPT-4o-mini (2024-07-18)** benchmark results.
+
 ### CLIcK
 
-|               |                  |              |                  |                    |               |unit: correct_mean   |               |
-|---------------------|------------------------|--------------------|------------------------|--------------------------|---------------------|---------------------|---------------------|
-|category_big         |category                |GPT-4o-mini (2024-07-18)|GPT-4o  (2024-05-13)    |GPT-4 (turbo-2024-04-09)  |GPT-3.5-turbo (2023-06-13)|Llama-3.1-8B-Instruct|Phi-3-5-mini-instruct|
-|Culture              |Economy                 |0.81                |0.95                    |0.90                      |0.64                 |0.42                 |0.61                 |
-|Culture              |Geography               |0.78                |0.82                    |0.82                      |0.53                 |0.34                 |0.46                 |
-|Culture              |History                 |0.48                |0.68                    |0.46                      |0.33                 |0.23                 |0.26                 |
-|Culture              |Law                     |0.58                |0.71                    |0.61                      |0.42                 |0.32                 |0.32                 |
-|Culture              |Politics                |0.83                |0.89                    |0.89                      |0.65                 |0.39                 |0.55                 |
-|Culture              |Pop Culure              |0.85                |0.98                    |0.93                      |0.73                 |0.39                 |0.61                 |
-|Culture              |Society                 |0.86                |0.92                    |0.87                      |0.72                 |0.44                 |0.54                 |
-|Culture              |Tradition               |0.73                |0.88                    |0.79                      |0.56                 |0.37                 |0.48                 |
-|Language             |Functional              |0.65                |0.84                    |0.80                      |0.39                 |0.13                 |0.38                 |
-|Language             |Grammar                 |0.43                |0.57                    |0.48                      |0.30                 |0.22                 |0.28                 |
-|Language             |Textual                 |0.81                |0.91                    |0.87                      |0.62                 |0.22                 |0.55                 |
-|category_big average:|                        |                    |                        |                          |                     |                     |                     |
-|Culture              |                        |**0.71**                |**0.82**                    |**0.74**                      |**0.54**                 |**0.35**                 |**0.44**                 |
-|Language             |                        |**0.64**                |**0.77**                    |**0.71**                      |**0.46**                 |**0.20**                 |**0.41**                 |
+#### Propritery models
+ 
+|category_big         |category                |GPT-4o-mini<br>(2024-07-18)|GPT-4o<br>(2024-05-13) |GPT-4-turbo<br>(2024-04-09)|GPT-3.5-turbo<br>(2023-06-13)|
+|---------------------|------------------------|--------------------|------------------------|--------------------------|---------------------|
+|Culture              |Economy                 |0.81                |0.95                    |0.90                      |0.64                 |
+|Culture              |Geography               |0.78                |0.82                    |0.82                      |0.53                 |
+|Culture              |History                 |0.48                |0.68                    |0.46                      |0.33                 |
+|Culture              |Law                     |0.58                |0.71                    |0.61                      |0.42                 |
+|Culture              |Politics                |0.83                |0.89                    |0.89                      |0.65                 |
+|Culture              |Pop Culure              |0.85                |0.98                    |0.93                      |0.73                 |
+|Culture              |Society                 |0.86                |0.92                    |0.87                      |0.72                 |
+|Culture              |Tradition               |0.73                |0.88                    |0.79                      |0.56                 |
+|Language             |Functional              |0.65                |0.84                    |0.80                      |0.39                 |
+|Language             |Grammar                 |0.43                |0.57                    |0.48                      |0.30                 |
+|Language             |Textual                 |0.81                |0.91                    |0.87                      |0.62                 |
+|**category_big average**:|                    |                    |                        |                          |                     |  
+|Culture              |                        |**0.71**            |**0.82**                |**0.74**                  |**0.54**             |
+|Language             |                        |**0.64**            |**0.77**                |**0.71**                  |**0.46**             |
+
+#### Open source models
+
+| category_big        | category                |Llama-3.1<br>8B-Instruct|Phi-3-5<br>mini-instruct|Phi-3-5<br>MoE-instruct|
+|---------------------|-------------------------|-----------------------|-----------------------|-----------------------|
+| Culture             | Economy                 | 0.42                  | 0.61                  |0.77                  |
+| Culture             | Geography               | 0.34                  | 0.46                  |0.60                  |
+| Culture             | History                 | 0.23                  | 0.26                  |0.33                  |
+| Culture             | Law                     | 0.32                  | 0.32                  |0.52                  |
+| Culture             | Politics                | 0.39                  | 0.55                  |0.70                  |
+| Culture             | Pop Culture             | 0.39                  | 0.61                  |0.80                  |
+| Culture             | Society                 | 0.44                  | 0.54                  |0.74                  |
+| Culture             | Tradition               | 0.37                  | 0.48                  |0.58                  |
+| Language            | Functional              | 0.13                  | 0.38                  |0.48                  |
+| Language            | Grammar                 | 0.22                  | 0.28                  |0.29                  |
+| Language            | Textual                 | 0.22                  | 0.55                  |0.73                  |
+|**category_big average**:|                     |                       |                       |                      |
+| Culture             |                         | **0.35**              | **0.44**              |**0.58**              |
+| Language            |                         | **0.20**              | **0.41**              |**0.52**              |
 
 
 ### HAE_RAE_BENCH 1.0
 
-|               |                  |              |                  |                    |unit: correct_mean   |               |
-|---------------------|------------------------|--------------------|------------------------|--------------------------|---------------------|---------------------|
-|category             |GPT-4o-mini<br>(2024-07-18)|GPT-4o<br>(2024-05-13)|GPT-4<br>(turbo-2024-04-09)|GPT-3.5-turbo<br>(2023-06-13)|Llama-3.1<br>8B-Instruct|Phi-3-5<br>mini-instruct|
-|General Knowledge    |0.53                    |0.77                |0.66                    |0.41                      |0.18                 |0.31                 |
-|History              |0.85                    |0.92                |0.79                    |0.30                      |0.15                 |0.32                 |
-|Loan Words           |0.76                    |0.80                |0.78                    |0.59                      |0.21                 |0.48                 |
-|Rare Words           |0.82                    |0.88                |0.79                    |0.60                      |0.20                 |0.55                 |
-|Reading Comprehension|0.77                    |0.85                |0.80                    |0.56                      |0.23                 |0.43                 |
-|Standard Nomenclature|0.76                    |0.89                |0.79                    |0.54                      |0.19                 |0.44                 |
-|overall average:     |                        |                    |                        |                          |                     |                     |
-|                     |**0.75**                    |**0.85**                |**0.77**                    |**0.50**                      |**0.19**                 |**0.42**                 |
+#### Propritery models
+ 
+|category_big         |GPT-4o-mini<br>(2024-07-18)|GPT-4o<br>(2024-05-13) |GPT-4-turbo<br>(2024-04-09)|GPT-3.5-turbo<br>(2023-06-13)|
+|---------------------|------------------------|--------------------|------------------------|--------------------------|
+|General Knowledge    |0.53                    |0.77                |0.66                    |0.41                      |
+|History              |0.85                    |0.92                |0.79                    |0.30                      |
+|Loan Words           |0.76                    |0.80                |0.78                    |0.59                      |
+|Rare Words           |0.82                    |0.88                |0.79                    |0.60                      |
+|Reading Comprehension|0.77                    |0.85                |0.80                    |0.56                      |
+|Standard Nomenclature|0.76                    |0.89                |0.79                    |0.54                      |
+|**overall average**: |                        |                    |                        |                          |  
+|                     |**0.75**                |**0.85**            |**0.77**                |**0.50**                  |
+
+#### Open source models
+ 
+|category             |Llama-3.1<br>8B-Instruct|Phi-3-5<br>mini-instruct|Phi-3-5<br>MoE-instruct|
+|---------------------|------------------------|--------------------|------------------------|
+|General Knowledge    |0.18                 |0.31                 | 0.39                 | 
+|History              |0.15                 |0.32                 | 0.60                 | 
+|Loan Words           |0.21                 |0.48                 | 0.70                 | 
+|Rare Words           |0.20                 |0.55                 | 0.63                 | 
+|Reading Comprehension|0.23                 |0.43                 | 0.64                 | 
+|Standard Nomenclature|0.19                 |0.44                 | 0.66                 | 
+|overall average:     |                     |                     |                      |  
+|                     |**0.19**             |**0.42**             | **0.61**             | 
 
 
 
 ## Quick Start
+
 
 ### GitHub Codespace
 Please start a new project by connecting to Codespace Project. The environment required for hands-on is automatically configured through devcontainer, so you only need to run a Jupyter notebook.
@@ -80,7 +122,7 @@ Please do not forget to modify the .env file to match your account. Rename `.env
 AZURE_OPENAI_ENDPOINT=<YOUR_OPEN_ENDPOINT>
 AZURE_OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 AZURE_OPENAI_API_VERSION=<YOUR_OPENAI_API_VERSION>
-AZURE_OPENAI_DEPLOYMENT_NAME=<YOUR_DEPLOYMENT_NAME> (e.g., gpt-4o-mini)>
+AZURE_OPENAI_DEPLOYMENT_NAME=<YOUR_DEPLOYMENT_NAME> (e.g., gpt-4o-mini)
 OPENAI_MODEL_VERSION=<YOUR_OPENAI_MODEL_VERSION> (e.g., 2024-07-18)>
 ```
 
@@ -88,10 +130,21 @@ OPENAI_MODEL_VERSION=<YOUR_OPENAI_MODEL_VERSION> (e.g., 2024-07-18)>
 ```ini
 OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 OPENAI_DEPLOYMENT_NAME=<YOUR_OPENAI_API_VERSION>
-OPENAI_MODEL_VERSION=<YOUR_OPENAI_MODEL_VERSION> (e.g., 2024-07-18)>
+OPENAI_MODEL_VERSION=<YOUR_OPENAI_MODEL_VERSION> (e.g., 2024-07-18)
+```
+
+### Azure ML
+You can create endpoints by provisioning a managed compute host or using the serverless option.
+For Phi-3.5, if you do not have a managed GPU compute quota, you can temporarily use Microsoft's shared quota for 168 hours. For more information, please refer to these links: [Phi-3.5 deployment](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3?tabs=phi-3-5&pivots=programming-language-python), [Azure ML deployment](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-deploy-model)
+```ini
+AZURE_ML_DEPLOYMENT_NAME=<YOUR_ML_DEPLOYMENT_NAME>
+AZURE_ML_ENDPOINT_URL=<YOUR_ML_ENDPOINT_URL>
+AZURE_ML_ENDPOINT_TYPE=<YOUR_ML_ENDPOINT_TYPE> (dedicated or serverless)
+AZURE_ML_API_KEY=<YOUR_ML_API_KEY>
 ```
 
 ### Hugging Face
+Please refer to [this guide](https://huggingface.co/docs/hub/security-tokens) to generate a Hugging Face token.
 ```ini
 HF_API_TOKEN=<YOUR_HF_API_TOKEN>
 ```

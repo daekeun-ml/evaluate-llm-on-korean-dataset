@@ -32,7 +32,9 @@ def format_timespan(seconds):
 
 class CustomStrOutputParser(StrOutputParser):
     def parse(self, text: str) -> str:
+
         response = text.strip().replace('"', "").replace("'", "")
+
         if response.startswith("A"):
             pred = "A"
         elif response.startswith("B"):
@@ -151,7 +153,6 @@ def benchmark(args):
             max_tokens=max_tokens,
             max_retries=MAX_RETRIES
         )
-
     elif args.model_provider == "huggingface":
         if temperature == 0.0: # in case of not supporting 0.0 for some SLM, set to 0.01
             temperature = 0.01 
@@ -168,7 +169,7 @@ def benchmark(args):
         logger.info("Using Azure ML endpoint as model provider.")
         MODEL_NAME = os.getenv("AZURE_ML_DEPLOYMENT_NAME")
         AZURE_ML_ENDPOINT_URL = os.getenv("AZURE_ML_ENDPOINT_URL")
-        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE") # https://python.langchain.com/v0.2/api_reference/community/llms/langchain_community.llms.azureml_endpoint.AzureMLEndpointApiType.html#langchain_community.llms.azureml_endpoint.AzureMLEndpointApiType
+        AZURE_ML_ENDPOINT_TYPE = os.getenv("AZURE_ML_ENDPOINT_TYPE") # "serverless" or "dedicated"
         AZURE_ML_API_KEY = os.getenv("AZURE_ML_API_KEY")
         
         llm = AzureMLOnlineEndpoint(
@@ -176,8 +177,7 @@ def benchmark(args):
             endpoint_api_type=AZURE_ML_ENDPOINT_TYPE,
             endpoint_api_key=AZURE_ML_API_KEY,
             content_formatter=CustomPhi3ContentFormatter(),
-            model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens
-            }              
+            model_kwargs={"temperature": temperature, "max_new_tokens": max_tokens}              
         )
 
     click_ds = load_dataset("EunsuKim/CLIcK")["train"]
@@ -278,15 +278,15 @@ if __name__ == "__main__":
 
     parser.add_argument("--is_debug", type=bool, default=False)
     parser.add_argument("--num_debug_samples", type=int, default=20)
-    parser.add_argument("--model_provider", type=str, default="azureml")
-    parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
+    parser.add_argument("--model_provider", type=str, default="azureopenai")
+    parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-MoE-instruct")
     parser.add_argument("--batch_size", type=int, default=10)
     parser.add_argument("--max_retries", type=int, default=3)
     parser.add_argument("--max_tokens", type=int, default=256)
     parser.add_argument("--temperature", type=float, default=0.01)
     
     args = parser.parse_args()
-    valid_providers = ["azureopenai", "openai", "huggingface", "azureml"]
+    valid_providers = ["azureopenai", "openai", "azureml", "huggingface"]
     assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
 
     logger.info(args)
