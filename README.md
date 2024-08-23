@@ -54,17 +54,17 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
 
 | category_big        | category                |Llama-3.1<br>8B-Instruct|Phi-3-5<br>mini-instruct|Phi-3-5<br>MoE-instruct|
 |---------------------|-------------------------|-----------------------|-----------------------|-----------------------|
-| Culture             | Economy                 | 0.42                  | 0.61                  |0.77                  |
-| Culture             | Geography               | 0.34                  | 0.46                  |0.60                  |
-| Culture             | History                 | 0.23                  | 0.26                  |0.33                  |
-| Culture             | Law                     | 0.32                  | 0.32                  |0.52                  |
-| Culture             | Politics                | 0.39                  | 0.55                  |0.70                  |
-| Culture             | Pop Culture             | 0.39                  | 0.61                  |0.80                  |
-| Culture             | Society                 | 0.44                  | 0.54                  |0.74                  |
-| Culture             | Tradition               | 0.37                  | 0.48                  |0.58                  |
-| Language            | Functional              | 0.13                  | 0.38                  |0.48                  |
+| Culture             | Economy                 | 0.66                  | 0.61                  |0.77                  |
+| Culture             | Geography               | 0.54                  | 0.46                  |0.60                  |
+| Culture             | History                 | 0.29                  | 0.26                  |0.33                  |
+| Culture             | Law                     | 0.44                  | 0.32                  |0.52                  |
+| Culture             | Politics                | 0.59                  | 0.55                  |0.70                  |
+| Culture             | Pop Culture             | 0.60                  | 0.61                  |0.80                  |
+| Culture             | Society                 | 0.65                  | 0.54                  |0.74                  |
+| Culture             | Tradition               | 0.54                  | 0.48                  |0.58                  |
+| Language            | Functional              | 0.32                  | 0.38                  |0.48                  |
 | Language            | Grammar                 | 0.22                  | 0.28                  |0.29                  |
-| Language            | Textual                 | 0.22                  | 0.55                  |0.73                  |
+| Language            | Textual                 | 0.59                  | 0.55                  |0.73                  |
 |**category_big average**:|                     |                       |                       |                      |
 | Culture             |                         | **0.50**              | **0.44**              |**0.58**              |
 | Language            |                         | **0.40**              | **0.41**              |**0.52**              |
@@ -89,12 +89,12 @@ In particular, we modified the code to run on Azure OpenAI & Hugging Face and ad
  
 |category             |Llama-3.1<br>8B-Instruct|Phi-3-5<br>mini-instruct|Phi-3-5<br>MoE-instruct|
 |---------------------|------------------------|--------------------|------------------------|
-|General Knowledge    |0.18                 |0.31                 | 0.39                 | 
-|History              |0.15                 |0.32                 | 0.60                 | 
-|Loan Words           |0.21                 |0.48                 | 0.70                 | 
-|Rare Words           |0.20                 |0.55                 | 0.63                 | 
-|Reading Comprehension|0.23                 |0.43                 | 0.64                 | 
-|Standard Nomenclature|0.19                 |0.44                 | 0.66                 | 
+|General Knowledge    |0.34                 |0.31                 | 0.39                 | 
+|History              |0.44                 |0.32                 | 0.60                 | 
+|Loan Words           |0.63                 |0.48                 | 0.70                 | 
+|Rare Words           |0.63                 |0.55                 | 0.63                 | 
+|Reading Comprehension|0.51                 |0.43                 | 0.64                 | 
+|Standard Nomenclature|0.58                 |0.44                 | 0.66                 | 
 |overall average:     |                     |                     |                      |  
 |                     |**0.52**             |**0.42**             | **0.61**             | 
 
