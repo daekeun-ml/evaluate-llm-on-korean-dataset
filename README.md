@@ -1,4 +1,4 @@
-# Korean language proficiency evaluation for LLM/SLM models using CLIcK and HAE-RAE dataset
+# Korean language proficiency evaluation for LLM/SLM models using KMMLU, CLIcK, and HAE-RAE dataset
 
 ## Overview
 
@@ -255,13 +255,36 @@ HF_API_TOKEN=<YOUR_HF_API_TOKEN>
 ```
 
 Execute the command to perform the evaluation. (The evaluation results are saved in the `./results` folder and `./evals`.)
+Below is an example.
    
 ```bash
-python click_main.py
+#!/bin/bash
+model_provider="azureopenai"
 
-python haerae_main.py
+# CLIcK
+python3 click_main.py \
+      --model_provider "$model_provider" \
+      --batch_size 20 \
+      --max_tokens 512 \
+      --temperature 0.01 \
+      --template_type basic
 
-python kmmlu_main.py
+# HAERAE
+python3 haerae_main.py \
+      --model_provider "$model_provider" \
+      --batch_size 20 \
+      --max_tokens 512 \
+      --temperature 0.01 \
+      --template_type basic
+
+# KMMLU
+python3 kmmlu_main.py \
+      --model_provider "$model_provider" \
+      --batch_size 20 \
+      --max_tokens 512 \
+      --temperature 0.01 \
+      --template_type basic \
+      --is_hard False
 ```
 
 ### Tunable parameters
@@ -314,6 +337,7 @@ azure-gpt-4o-mini Benchmark results (temperature=0.0)
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2309.02706}, 
 }
+
 @misc{son2024kmmlumeasuringmassivemultitask,
       title={KMMLU: Measuring Massive Multitask Language Understanding in Korean}, 
       author={Guijin Son and Hanwool Lee and Sungdong Kim and Seungone Kim and Niklas Muennighoff and Taekyoon Choi and Cheonbok Park and Kang Min Yoo and Stella Biderman},
