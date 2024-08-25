@@ -76,7 +76,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 | Language        | Textual     |                  73.33 |                   54.74 |                           33.33 |                   59.65 |    91.58 |         80.7  |         87.37 |           62.11 |
 
 ### HAE_RAE_BENCH 1.0
-#### Accuracy by category
+
 #### Accuracy by category
 | category              |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Phi-3-mini-128k-instruct-June |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo |   GPT-3.5-turbo |
 |:----------------------|-----------------------:|------------------------:|--------------------------------:|------------------------:|---------:|--------------:|--------------:|----------------:|

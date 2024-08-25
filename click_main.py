@@ -284,7 +284,7 @@ if __name__ == "__main__":
     load_dotenv()
     parser = argparse.ArgumentParser(description='Options')
 
-    parser.add_argument("--is_debug", type=bool, default=False)
+    parser.add_argument("--is_debug", type=bool, default=True)
     parser.add_argument("--num_debug_samples", type=int, default=20)
     parser.add_argument("--model_provider", type=str, default="azureopenai")
     parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-MoE-instruct")
