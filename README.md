@@ -47,6 +47,11 @@ The prompt is the same as the CLIcK paper prompt. The experimental results may v
 
 Since most of them are ChatCompletion or instruction fine-tuned models, the variation may be large compared to the results of other group's experiments. However, our experimental results show that the trend follows similarly under the same experimental conditions. (e.g., GPT-4o: 70.57/GPT-4o-mini: 60.31 in Experimental Condition 1; GPT-4o: 67.76/GPT-4o-mini: 57.53 in Experimental Condition 2).
 
+- GPT-4o: 2024-05-13 version
+- GPT-4o-mini: 2024-07-18 version
+- GPT-4-turbo: 2024-04-09 version
+- GPT-3.5-turbo: 2023-06-13 version
+
 ### CLIcK
 #### Accuracy by supercategory
 | supercategory   |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo |   GPT-3.5-turbo |
