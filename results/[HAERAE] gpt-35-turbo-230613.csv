@@ -43,7 +43,7 @@ General Knowledge,C,C,C
 General Knowledge,B,C,C
 General Knowledge,D,D,D
 General Knowledge,B,A,A
-General Knowledge,C,C,C
+General Knowledge,C,B,B
 General Knowledge,A,B,B
 General Knowledge,D,D,D
 General Knowledge,E,A,A
@@ -77,7 +77,7 @@ General Knowledge,B,A,A
 General Knowledge,C,C,C
 General Knowledge,D,A,A
 General Knowledge,C,A,A
-General Knowledge,B,E,E
+General Knowledge,B,C,C
 General Knowledge,C,A,A
 General Knowledge,C,C,C
 General Knowledge,C,C,C
@@ -134,10 +134,10 @@ General Knowledge,D,A,A
 General Knowledge,E,A,A
 General Knowledge,B,B,B
 General Knowledge,C,C,C
-General Knowledge,A,A,A: 남매 (Siblings)
+General Knowledge,A,A,A
 General Knowledge,C,C,C
 General Knowledge,B,B,B
-General Knowledge,E,D,D
+General Knowledge,E,C,C
 General Knowledge,C,C,C
 General Knowledge,A,B,B
 General Knowledge,D,D,D
@@ -187,7 +187,7 @@ History,E,B,B
 History,E,C,C
 History,D,B,B
 History,E,E,E
-History,C,A,A
+History,C,B,B
 History,C,B,B
 History,C,C,C
 History,E,E,E
@@ -340,7 +340,7 @@ History,D,C,C
 History,D,A,A
 History,B,A,A
 History,A,B,B
-History,B,B,B
+History,B,A,A
 History,E,C,C
 History,D,B,B
 History,D,C,C
@@ -378,7 +378,7 @@ Loan Words,A,B,B
 Loan Words,A,A,A
 Loan Words,C,C,C
 Loan Words,E,E,E
-Loan Words,C,A,A
+Loan Words,C,D,D
 Loan Words,C,C,C
 Loan Words,A,A,A
 Loan Words,E,C,C
@@ -456,7 +456,7 @@ Loan Words,B,B,B
 Loan Words,D,C,C
 Loan Words,C,C,C
 Loan Words,D,D,D
-Loan Words,E,C,C
+Loan Words,E,B,B
 Loan Words,A,B,B
 Loan Words,E,C,C
 Loan Words,E,E,E
@@ -649,7 +649,7 @@ Rare Words,E,E,E
 Rare Words,D,B,B
 Rare Words,B,B,B
 Rare Words,D,D,D
-Rare Words,E,D,D
+Rare Words,E,A,A
 Rare Words,E,E,E
 Rare Words,B,B,B
 Rare Words,E,E,E
@@ -711,7 +711,7 @@ Rare Words,B,A,A
 Rare Words,E,E,E
 Rare Words,A,C,C
 Rare Words,E,E,E
-Rare Words,C,C,C
+Rare Words,C,A,A
 Rare Words,C,C,C
 Rare Words,E,E,E
 Rare Words,C,C,C
@@ -755,7 +755,7 @@ Rare Words,D,B,B
 Rare Words,D,D,D
 Rare Words,A,C,C
 Rare Words,B,B,B
-Rare Words,B,D,D
+Rare Words,B,B,B
 Rare Words,C,B,B
 Rare Words,E,D,D
 Rare Words,C,C,C
@@ -834,7 +834,7 @@ Rare Words,B,B,B
 Rare Words,E,B,B
 Rare Words,D,B,B
 Rare Words,A,A,A
-Rare Words,B,D,D
+Rare Words,B,A,A
 Rare Words,A,C,C
 Rare Words,E,C,C
 Rare Words,B,B,B
@@ -850,7 +850,7 @@ Rare Words,B,A,A
 Rare Words,D,D,D
 Rare Words,E,C,C
 Rare Words,A,A,A
-Rare Words,B,D,D
+Rare Words,B,B,B
 Rare Words,E,E,E
 Rare Words,D,C,C
 Rare Words,D,D,D
@@ -1026,12 +1026,12 @@ Reading Comprehension,B,B,B
 Reading Comprehension,C,A,A
 Reading Comprehension,B,B,B
 Reading Comprehension,D,D,D
-Reading Comprehension,C,E,E
+Reading Comprehension,C,C,C
 Reading Comprehension,C,C,C
 Reading Comprehension,A,A,A
 Reading Comprehension,A,A,A
 Reading Comprehension,D,D,D
-Reading Comprehension,C,C,C
+Reading Comprehension,C,A,A
 Reading Comprehension,B,B,B
 Reading Comprehension,D,D,D
 Reading Comprehension,B,A,A
@@ -1203,7 +1203,7 @@ Reading Comprehension,D,C,C
 Reading Comprehension,A,C,C
 Reading Comprehension,D,C,C
 Reading Comprehension,D,D,D
-Reading Comprehension,C,E,E
+Reading Comprehension,C,C,C
 Reading Comprehension,B,B,B
 Reading Comprehension,D,B,B
 Reading Comprehension,B,B,B
@@ -1214,7 +1214,7 @@ Reading Comprehension,C,C,C
 Reading Comprehension,A,B,B
 Reading Comprehension,A,A,A
 Reading Comprehension,D,D,D
-Reading Comprehension,C,C,C
+Reading Comprehension,C,B,B
 Reading Comprehension,B,B,B
 Reading Comprehension,C,C,C
 Reading Comprehension,A,C,C
@@ -1295,7 +1295,7 @@ Reading Comprehension,D,C,C
 Reading Comprehension,D,D,D
 Reading Comprehension,D,A,A
 Reading Comprehension,B,B,B
-Reading Comprehension,B,B,B
+Reading Comprehension,B,C,C
 Reading Comprehension,B,C,C
 Reading Comprehension,C,C,C
 Reading Comprehension,A,A,A
@@ -1413,7 +1413,7 @@ Standard Nomenclature,A,A,A
 Standard Nomenclature,B,B,B
 Standard Nomenclature,E,C,C
 Standard Nomenclature,C,C,C
-Standard Nomenclature,E,A,A
+Standard Nomenclature,E,B,B
 Standard Nomenclature,E,C,C
 Standard Nomenclature,D,D,D
 Standard Nomenclature,B,B,B
@@ -1452,7 +1452,7 @@ Standard Nomenclature,A,B,B
 Standard Nomenclature,E,A,A
 Standard Nomenclature,B,B,B
 Standard Nomenclature,A,B,B
-Standard Nomenclature,E,E,E
+Standard Nomenclature,E,C,C
 Standard Nomenclature,A,C,C
 Standard Nomenclature,C,D,D
 Standard Nomenclature,B,C,C

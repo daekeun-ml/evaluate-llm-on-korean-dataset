@@ -10,6 +10,7 @@ __pycache__
 .ipynb_checkpoints/
 test.ipynb
 debug.log
+run_all_gpts.sh
 
 evals/
 CLIcK/

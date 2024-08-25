@@ -1,0 +1,4105 @@
+category,answer,pred,response
+Maritime-Engineering,B,C,C
+Maritime-Engineering,A,D,D
+Maritime-Engineering,D,D,D
+Maritime-Engineering,A,A,A
+Maritime-Engineering,D,B,B
+Maritime-Engineering,D,B,B: 5.9%
+Maritime-Engineering,A,D,D
+Maritime-Engineering,C,D,D
+Maritime-Engineering,C,C,C: 25㎜ 이상
+Maritime-Engineering,C,C,C
+Maritime-Engineering,A,D,D
+Maritime-Engineering,C,C,C
+Maritime-Engineering,C,C,C
+Maritime-Engineering,A,B,B
+Maritime-Engineering,A,B,B
+Maritime-Engineering,B,C,C
+Maritime-Engineering,C,D,D
+Maritime-Engineering,D,B,B
+Maritime-Engineering,D,B,B
+Maritime-Engineering,A,B,B
+Maritime-Engineering,D,D,D
+Maritime-Engineering,A,A,A
+Maritime-Engineering,D,B,B: 11.5
+Maritime-Engineering,A,D,D: 6배이상
+Maritime-Engineering,D,D,D
+Maritime-Engineering,B,C,C
+Maritime-Engineering,D,C,C
+Maritime-Engineering,A,B,B
+Maritime-Engineering,C,C,C
+Maritime-Engineering,C,C,C
+Maritime-Engineering,A,C,C
+Maritime-Engineering,B,C,C
+Maritime-Engineering,D,B,B
+Maritime-Engineering,A,C,C
+Maritime-Engineering,D,C,C
+Maritime-Engineering,D,C,C: 540㎜
+Maritime-Engineering,A,D,D
+Maritime-Engineering,A,B,B
+Maritime-Engineering,B,B,B
+Maritime-Engineering,D,B,B
+Maritime-Engineering,B,C,C
+Maritime-Engineering,C,B,B
+Maritime-Engineering,B,C,C
+Maritime-Engineering,B,B,B
+Maritime-Engineering,B,B,B
+Maritime-Engineering,B,B,B: 3배
+Maritime-Engineering,A,C,C
+Maritime-Engineering,A,C,C
+Maritime-Engineering,A,C,C
+Maritime-Engineering,C,C,C
+Maritime-Engineering,B,C,C
+Maritime-Engineering,C,C,C
+Maritime-Engineering,A,D,D
+Maritime-Engineering,B,D,D
+Maritime-Engineering,D,B,"B: 1/2 이하, 400"
+Maritime-Engineering,B,C,C
+Maritime-Engineering,D,D,D
+Maritime-Engineering,C,B,B
+Maritime-Engineering,A,B,B: 90cm 선수트림
+Maritime-Engineering,B,B,B
+Maritime-Engineering,B,A,A
+Maritime-Engineering,A,C,C
+Maritime-Engineering,C,B,B
+Maritime-Engineering,B,C,C
+Maritime-Engineering,A,B,B
+Maritime-Engineering,A,D,D
+Maritime-Engineering,A,B,B
+Maritime-Engineering,D,C,C
+Maritime-Engineering,B,D,D
+Maritime-Engineering,A,D,D
+Maritime-Engineering,B,C,C
+Maritime-Engineering,D,C,C: 32.5MPa
+Maritime-Engineering,A,D,D
+Maritime-Engineering,B,B,B
+Maritime-Engineering,A,B,B
+Maritime-Engineering,B,C,C
+Maritime-Engineering,B,D,D
+Maritime-Engineering,D,C,C
+Maritime-Engineering,D,B,B
+Maritime-Engineering,D,C,C
+Maritime-Engineering,B,D,D
+Maritime-Engineering,B,B,B: 5배 이상
+Maritime-Engineering,B,B,B
+Maritime-Engineering,A,C,C
+Maritime-Engineering,D,C,C
+Maritime-Engineering,A,C,C: 200㎜
+Maritime-Engineering,A,C,C
+Maritime-Engineering,B,B,B
+Maritime-Engineering,A,D,D
+Maritime-Engineering,C,D,D
+Maritime-Engineering,D,C,C
+Maritime-Engineering,C,B,B
+Maritime-Engineering,A,C,C
+Maritime-Engineering,C,B,B: 38㎜ 이상
+Maritime-Engineering,B,B,B: 약 1.15배
+Maritime-Engineering,B,B,B
+Maritime-Engineering,A,D,D
+Maritime-Engineering,C,C,C
+Maritime-Engineering,A,D,D
+Maritime-Engineering,D,C,C: 76.2㎜
+Materials-Engineering,C,D,D
+Materials-Engineering,C,C,C
+Materials-Engineering,B,B,B
+Materials-Engineering,C,C,C
+Materials-Engineering,A,D,D
+Materials-Engineering,B,A,A
+Materials-Engineering,B,C,C
+Materials-Engineering,A,B,B: 1/10000 시간
+Materials-Engineering,C,C,C
+Materials-Engineering,C,B,"B: α = 34, P = 66"
+Materials-Engineering,D,D,D
+Materials-Engineering,B,B,B
+Materials-Engineering,B,B,B
+Materials-Engineering,D,C,C
+Materials-Engineering,D,B,B
+Materials-Engineering,C,D,D
+Materials-Engineering,A,B,B
+Materials-Engineering,B,C,C
+Materials-Engineering,B,C,C
+Materials-Engineering,A,C,C
+Materials-Engineering,B,B,B
+Materials-Engineering,B,B,B
+Materials-Engineering,D,D,D
+Materials-Engineering,C,C,C
+Materials-Engineering,D,B,B: 3501
+Materials-Engineering,A,C,C
+Materials-Engineering,B,C,C
+Materials-Engineering,D,B,B: 0.135mm 인장
+Materials-Engineering,B,B,B
+Materials-Engineering,D,B,B
+Materials-Engineering,D,D,D
+Materials-Engineering,B,B,B
+Materials-Engineering,A,D,D
+Materials-Engineering,D,D,D
+Materials-Engineering,B,C,C
+Materials-Engineering,C,D,D
+Materials-Engineering,B,B,B: 125
+Materials-Engineering,C,B,B
+Materials-Engineering,B,A,A: 2 ~ 3 mm 정도
+Materials-Engineering,D,C,C
+Materials-Engineering,A,A,A
+Materials-Engineering,B,D,D
+Materials-Engineering,B,D,D
+Materials-Engineering,D,B,"B: A = 50, C = 40"
+Materials-Engineering,A,C,C
+Materials-Engineering,A,B,B
+Materials-Engineering,C,B,B
+Materials-Engineering,B,D,D
+Materials-Engineering,A,C,C
+Materials-Engineering,B,D,D
+Materials-Engineering,B,D,D
+Materials-Engineering,D,D,D
+Materials-Engineering,D,B,B
+Materials-Engineering,D,D,D
+Materials-Engineering,B,C,C
+Materials-Engineering,D,C,C
+Materials-Engineering,C,C,C
+Materials-Engineering,B,C,C
+Materials-Engineering,D,C,C
+Materials-Engineering,B,B,B: 13.5%
+Materials-Engineering,A,C,C
+Materials-Engineering,B,C,C
+Materials-Engineering,B,C,C
+Materials-Engineering,B,B,B
+Materials-Engineering,C,D,D
+Materials-Engineering,C,B,B
+Materials-Engineering,B,C,C
+Materials-Engineering,C,D,D
+Materials-Engineering,B,B,B
+Materials-Engineering,B,C,C
+Materials-Engineering,A,C,C
+Materials-Engineering,D,D,D
+Materials-Engineering,B,D,D
+Materials-Engineering,A,D,D
+Materials-Engineering,C,C,C
+Materials-Engineering,D,B,B
+Materials-Engineering,B,C,C
+Materials-Engineering,B,B,B
+Materials-Engineering,B,C,C
+Materials-Engineering,A,B,B
+Materials-Engineering,B,D,D
+Materials-Engineering,C,B,B: 23.9 × 10-6
+Materials-Engineering,A,B,B
+Materials-Engineering,B,B,"B: a = b = c, α = β = γ ="
+Materials-Engineering,A,C,C
+Materials-Engineering,B,B,B
+Materials-Engineering,C,C,C
+Materials-Engineering,A,C,C
+Materials-Engineering,B,D,D
+Materials-Engineering,C,B,B: 1 : 1.5
+Materials-Engineering,D,D,D
+Materials-Engineering,D,C,C
+Materials-Engineering,C,D,D
+Materials-Engineering,C,C,C
+Materials-Engineering,C,B,B
+Materials-Engineering,B,B,B
+Materials-Engineering,C,B,B
+Materials-Engineering,C,C,C
+Materials-Engineering,D,B,B
+Materials-Engineering,A,D,D
+Railway-And-Automotive-Engineering,A,D,D
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,D,A,A
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,B,C,C: 17530
+Railway-And-Automotive-Engineering,A,C,C
+Railway-And-Automotive-Engineering,D,B,B: 8.96
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,B,B,B: 4.2
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,B,B,B: 32.2
+Railway-And-Automotive-Engineering,C,D,D
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,D,B,B: 33rpm감속
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,C,B,B: 78.5 MPa
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,D,B,B: 6.42kgf/m
+Railway-And-Automotive-Engineering,D,B,B
+Railway-And-Automotive-Engineering,C,C,C
+Railway-And-Automotive-Engineering,C,D,D
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,C,C,C
+Railway-And-Automotive-Engineering,D,B,"B: 장갑, 용접안경"
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,D,D,D
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,D,B,B
+Railway-And-Automotive-Engineering,D,D,D
+Railway-And-Automotive-Engineering,D,B,B: 355rpm
+Railway-And-Automotive-Engineering,D,B,B: -1.1kJ
+Railway-And-Automotive-Engineering,C,D,D
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,A,B,B: 31.2
+Railway-And-Automotive-Engineering,C,C,C
+Railway-And-Automotive-Engineering,A,D,D
+Railway-And-Automotive-Engineering,B,A,A
+Railway-And-Automotive-Engineering,D,B,B
+Railway-And-Automotive-Engineering,B,B,"B: 4, -53°"
+Railway-And-Automotive-Engineering,A,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,B,B,B: 0.0724
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,B,B: 430mm × 65mm
+Railway-And-Automotive-Engineering,D,A,A
+Railway-And-Automotive-Engineering,A,D,D
+Railway-And-Automotive-Engineering,C,C,C
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,C,D,D
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,A,B,B: 0.52mm
+Railway-And-Automotive-Engineering,A,B,B
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,A,A
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,D,B,B: 약 25km/h
+Railway-And-Automotive-Engineering,B,C,C: 1057N
+Railway-And-Automotive-Engineering,C,C,C
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,D,D,D
+Railway-And-Automotive-Engineering,B,B,B
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,D,C,C: UCL = 5.77
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,A,B,B
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,D,B,B: 50°
+Railway-And-Automotive-Engineering,C,D,D
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,D,B,B
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,B,C,C
+Railway-And-Automotive-Engineering,A,D,D
+Railway-And-Automotive-Engineering,A,B,B: 10.42
+Railway-And-Automotive-Engineering,D,B,B: 20[%]
+Railway-And-Automotive-Engineering,A,B,B
+Railway-And-Automotive-Engineering,A,D,D
+Railway-And-Automotive-Engineering,B,D,D
+Railway-And-Automotive-Engineering,B,B,B: 25
+Railway-And-Automotive-Engineering,A,B,B
+Railway-And-Automotive-Engineering,C,B,B
+Railway-And-Automotive-Engineering,D,C,C
+Railway-And-Automotive-Engineering,B,C,C
+Biology,B,A,A
+Biology,D,B,B
+Biology,B,D,D
+Biology,A,C,C
+Biology,C,C,C
+Biology,A,C,C
+Biology,B,B,B
+Biology,B,B,B
+Biology,B,C,C
+Biology,C,D,D
+Biology,D,B,B
+Biology,A,B,B
+Biology,C,C,C
+Biology,D,D,D
+Biology,A,D,D
+Biology,C,D,D
+Biology,C,C,C
+Biology,A,C,C
+Biology,D,B,B
+Biology,A,D,D
+Biology,C,B,B
+Biology,D,D,D
+Biology,D,D,D
+Biology,D,B,B
+Biology,C,B,B
+Biology,D,C,C
+Biology,B,B,B
+Biology,A,B,B
+Biology,A,C,C
+Biology,A,B,B
+Biology,D,B,B
+Biology,B,B,B
+Biology,C,B,B
+Biology,D,D,D
+Biology,B,B,B
+Biology,C,B,B
+Biology,D,C,C
+Biology,A,A,A
+Biology,D,B,B
+Biology,B,C,C
+Biology,B,C,C
+Biology,D,C,C
+Biology,D,D,D
+Biology,C,B,B
+Biology,D,B,B: 9347.5
+Biology,D,B,B: 약 47.6kg
+Biology,C,B,B
+Biology,C,B,B
+Biology,B,C,C
+Biology,B,B,B
+Biology,D,A,A
+Biology,A,C,C
+Biology,C,B,B
+Biology,C,C,C
+Biology,A,C,C
+Biology,B,C,C
+Biology,A,B,B
+Biology,C,B,B
+Biology,A,C,C
+Biology,A,D,D
+Biology,D,C,C
+Biology,C,D,D
+Biology,B,D,D
+Biology,D,D,D
+Biology,B,B,B
+Biology,A,D,D
+Biology,D,B,B
+Biology,D,B,B
+Biology,A,C,C
+Biology,A,D,D
+Biology,A,C,C
+Biology,A,C,C
+Biology,C,C,C
+Biology,D,C,C
+Biology,C,D,D
+Biology,D,C,C
+Biology,A,C,C
+Biology,C,C,C
+Biology,D,D,D
+Biology,A,D,D
+Biology,B,D,D
+Biology,B,C,C
+Biology,A,C,C
+Biology,C,D,D
+Biology,B,C,C
+Biology,D,C,C
+Biology,C,D,D
+Biology,B,D,D
+Biology,A,D,D
+Biology,B,C,C
+Biology,D,B,B
+Biology,A,B,B: 720
+Biology,B,C,C
+Biology,D,A,A
+Biology,D,B,B
+Biology,B,D,D
+Biology,B,B,B
+Biology,A,B,B
+Biology,D,B,B
+Biology,D,B,B
+Public-Safety,C,D,D
+Public-Safety,D,B,B
+Public-Safety,B,C,C
+Public-Safety,D,B,B: 20 m
+Public-Safety,D,B,B
+Public-Safety,B,D,D
+Public-Safety,D,B,B: 2.3
+Public-Safety,A,B,B
+Public-Safety,B,B,B: 21.5m 이상
+Public-Safety,B,C,C
+Public-Safety,B,B,B: 0.5m
+Public-Safety,B,C,C
+Public-Safety,C,B,B: 147[g]
+Public-Safety,D,D,D
+Public-Safety,D,C,C
+Public-Safety,C,D,D
+Public-Safety,D,A,A
+Public-Safety,D,C,C
+Public-Safety,B,B,B: 10-2(g)
+Public-Safety,B,B,B: 1000
+Public-Safety,B,B,B
+Public-Safety,D,B,B: 0.67 이상
+Public-Safety,B,B,B
+Public-Safety,C,D,D
+Public-Safety,A,C,C
+Public-Safety,B,D,D
+Public-Safety,C,D,D
+Public-Safety,D,B,B: 4.0×10^2[V]
+Public-Safety,C,B,B
+Public-Safety,B,D,D
+Public-Safety,B,D,D
+Public-Safety,D,C,C
+Public-Safety,C,C,C
+Public-Safety,C,B,B: 80%
+Public-Safety,D,B,B
+Public-Safety,B,C,C
+Public-Safety,D,C,C
+Public-Safety,D,C,C
+Public-Safety,D,B,B: 2.6 × 10^3(V)
+Public-Safety,B,B,B
+Public-Safety,C,C,C
+Public-Safety,D,D,D
+Public-Safety,B,C,C
+Public-Safety,B,D,D
+Public-Safety,D,D,D
+Public-Safety,C,B,B: 4.45t/m²
+Public-Safety,D,B,B: 44.8
+Public-Safety,D,C,C
+Public-Safety,D,C,C
+Public-Safety,B,C,C
+Public-Safety,B,B,B
+Public-Safety,D,B,B
+Public-Safety,C,D,D
+Public-Safety,D,B,B: 15.5분
+Public-Safety,B,D,D
+Public-Safety,C,D,D
+Public-Safety,D,B,B
+Public-Safety,B,D,D
+Public-Safety,D,D,D
+Public-Safety,C,C,C
+Public-Safety,C,B,B
+Public-Safety,C,B,B
+Public-Safety,C,A,A
+Public-Safety,B,C,C
+Public-Safety,D,C,C
+Public-Safety,A,B,B
+Public-Safety,B,C,C
+Public-Safety,D,B,B
+Public-Safety,B,D,D
+Public-Safety,A,C,C
+Public-Safety,D,B,B
+Public-Safety,D,C,C
+Public-Safety,D,C,C
+Public-Safety,C,B,B
+Public-Safety,B,D,D
+Public-Safety,A,C,C
+Public-Safety,A,D,D
+Public-Safety,C,C,C
+Public-Safety,D,B,B
+Public-Safety,B,B,B: 20.45kg
+Public-Safety,C,B,B
+Public-Safety,C,D,D
+Public-Safety,D,C,C
+Public-Safety,D,D,D
+Public-Safety,D,D,D
+Public-Safety,D,B,B
+Public-Safety,D,B,B
+Public-Safety,B,B,B: 3.01 × 10^22개
+Public-Safety,D,C,C
+Public-Safety,D,D,D
+Public-Safety,B,B,B
+Public-Safety,B,B,B
+Public-Safety,B,A,A
+Public-Safety,C,C,C: 96mm
+Public-Safety,C,B,B: 2260V
+Public-Safety,D,C,C
+Public-Safety,A,D,D
+Public-Safety,D,B,B: 1.6
+Public-Safety,C,B,B
+Public-Safety,D,B,B
+Criminal-Law,A,B,B
+Criminal-Law,A,C,C
+Criminal-Law,B,D,D
+Criminal-Law,A,B,B
+Criminal-Law,D,B,B
+Criminal-Law,A,D,D
+Criminal-Law,D,D,D
+Criminal-Law,B,D,D
+Criminal-Law,D,C,C
+Criminal-Law,A,C,C
+Criminal-Law,B,C,C
+Criminal-Law,A,D,D
+Criminal-Law,B,B,B
+Criminal-Law,B,D,D
+Criminal-Law,C,C,C
+Criminal-Law,D,D,D
+Criminal-Law,A,D,D
+Criminal-Law,B,C,C
+Criminal-Law,B,C,C
+Criminal-Law,C,C,C
+Criminal-Law,A,C,C
+Criminal-Law,D,B,B
+Criminal-Law,B,B,B: ×○ ○××
+Criminal-Law,A,C,C
+Criminal-Law,D,C,C
+Criminal-Law,B,D,D
+Criminal-Law,D,D,D
+Criminal-Law,B,B,B
+Criminal-Law,A,B,B: ○ ○○×
+Criminal-Law,C,D,D
+Criminal-Law,B,B,B
+Criminal-Law,B,D,D
+Criminal-Law,A,D,D
+Criminal-Law,C,D,D
+Criminal-Law,B,D,D
+Criminal-Law,C,D,D
+Criminal-Law,D,C,C
+Criminal-Law,D,D,D
+Criminal-Law,B,C,C
+Criminal-Law,D,D,D
+Criminal-Law,D,B,B
+Criminal-Law,D,D,D
+Criminal-Law,D,C,C
+Criminal-Law,B,C,C
+Criminal-Law,A,D,D
+Criminal-Law,D,B,B: ×○×○
+Criminal-Law,B,D,D
+Criminal-Law,B,C,C
+Criminal-Law,A,D,D
+Criminal-Law,B,C,C
+Criminal-Law,A,D,D
+Criminal-Law,D,D,D
+Criminal-Law,B,D,D
+Criminal-Law,A,D,D
+Criminal-Law,D,C,C
+Criminal-Law,A,D,D
+Criminal-Law,B,D,D
+Criminal-Law,B,C,C
+Criminal-Law,D,C,C
+Criminal-Law,A,C,C
+Criminal-Law,A,C,C
+Criminal-Law,B,C,C
+Criminal-Law,B,C,C
+Criminal-Law,B,D,D
+Criminal-Law,D,D,D
+Criminal-Law,D,C,C
+Criminal-Law,A,C,C
+Criminal-Law,D,B,B: ○ ○××
+Criminal-Law,C,C,C
+Criminal-Law,C,D,D
+Criminal-Law,A,C,C
+Criminal-Law,B,C,C
+Criminal-Law,B,D,D
+Criminal-Law,C,B,B
+Criminal-Law,C,B,B
+Criminal-Law,C,D,D
+Criminal-Law,B,C,C
+Criminal-Law,D,C,C
+Criminal-Law,C,B,B
+Criminal-Law,D,D,D
+Criminal-Law,C,C,C
+Criminal-Law,A,C,C
+Criminal-Law,C,D,D
+Criminal-Law,B,C,C
+Criminal-Law,C,D,D
+Criminal-Law,D,D,D
+Criminal-Law,C,C,C
+Criminal-Law,C,D,D
+Criminal-Law,A,D,D
+Criminal-Law,B,C,C
+Criminal-Law,A,B,B
+Criminal-Law,C,D,D
+Criminal-Law,A,D,D
+Criminal-Law,C,C,C
+Criminal-Law,A,B,B
+Criminal-Law,D,D,D
+Criminal-Law,A,D,D
+Criminal-Law,B,C,C
+Criminal-Law,B,D,D
+Criminal-Law,D,D,D
+Information-Technology,D,D,D
+Information-Technology,B,B,B
+Information-Technology,D,B,B
+Information-Technology,A,C,C
+Information-Technology,D,D,D
+Information-Technology,D,B,B: 300
+Information-Technology,D,B,B
+Information-Technology,B,C,C
+Information-Technology,B,C,C
+Information-Technology,B,B,B
+Information-Technology,D,B,B
+Information-Technology,A,D,D
+Information-Technology,C,C,C
+Information-Technology,C,D,D
+Information-Technology,D,C,C
+Information-Technology,D,C,C
+Information-Technology,D,D,D
+Information-Technology,C,B,B
+Information-Technology,D,C,C
+Information-Technology,C,D,D
+Information-Technology,C,C,C
+Information-Technology,B,C,C
+Information-Technology,C,A,A
+Information-Technology,B,C,C
+Information-Technology,B,D,D
+Information-Technology,B,B,B
+Information-Technology,B,A,A
+Information-Technology,D,B,B
+Information-Technology,B,C,C
+Information-Technology,D,A,A
+Information-Technology,D,B,B
+Information-Technology,B,C,C
+Information-Technology,A,C,C
+Information-Technology,B,B,B
+Information-Technology,C,C,C
+Information-Technology,B,B,B
+Information-Technology,C,C,C
+Information-Technology,D,B,B
+Information-Technology,C,D,D
+Information-Technology,C,D,D
+Information-Technology,C,A,A
+Information-Technology,B,B,B: 48W
+Information-Technology,B,C,C
+Information-Technology,C,A,A
+Information-Technology,D,B,B
+Information-Technology,D,A,A
+Information-Technology,D,D,D
+Information-Technology,C,C,C
+Information-Technology,B,C,C
+Information-Technology,B,A,A
+Information-Technology,B,C,C
+Information-Technology,C,B,B
+Information-Technology,D,B,B
+Information-Technology,D,C,C
+Information-Technology,D,D,D
+Information-Technology,A,C,C
+Information-Technology,C,B,B
+Information-Technology,C,B,B
+Information-Technology,B,B,B: 1100010101100
+Information-Technology,B,B,B
+Information-Technology,C,C,C
+Information-Technology,C,B,B
+Information-Technology,B,B,B: 40
+Information-Technology,D,B,B
+Information-Technology,D,B,B
+Information-Technology,D,D,D
+Information-Technology,D,B,B: 1000
+Information-Technology,C,B,B
+Information-Technology,D,C,C
+Information-Technology,B,B,B
+Information-Technology,D,B,B
+Information-Technology,C,A,A
+Information-Technology,D,D,D
+Information-Technology,B,D,D
+Information-Technology,B,A,A
+Information-Technology,B,B,B
+Information-Technology,D,D,D
+Information-Technology,C,D,D
+Information-Technology,B,D,D
+Information-Technology,D,B,B: 1.25
+Information-Technology,B,D,D
+Information-Technology,C,B,B
+Information-Technology,C,B,B
+Information-Technology,C,B,B
+Information-Technology,D,C,C
+Information-Technology,D,C,C
+Information-Technology,D,D,D
+Information-Technology,C,B,B
+Information-Technology,B,B,B: -27 ~ + (27-1)
+Information-Technology,B,C,C
+Information-Technology,D,C,C
+Information-Technology,B,B,B
+Information-Technology,D,C,C
+Information-Technology,B,C,C
+Information-Technology,C,B,B
+Information-Technology,D,C,C
+Information-Technology,B,C,C
+Information-Technology,A,D,D
+Information-Technology,D,C,C
+Information-Technology,D,D,D
+Geomatics,C,B,B: 50m
+Geomatics,C,C,C
+Geomatics,B,B,B
+Geomatics,B,D,D
+Geomatics,D,B,B
+Geomatics,B,B,B: 1275.48m
+Geomatics,B,D,D
+Geomatics,C,D,D
+Geomatics,D,C,C
+Geomatics,B,D,D
+Geomatics,B,D,D
+Geomatics,D,C,C: 3000
+Geomatics,C,B,B: 46.2m
+Geomatics,B,C,C
+Geomatics,D,B,B
+Geomatics,B,C,C: ± 1.0235mm
+Geomatics,D,C,C
+Geomatics,C,C,C
+Geomatics,B,C,C
+Geomatics,B,C,C
+Geomatics,A,C,C
+Geomatics,A,C,C
+Geomatics,A,D,D
+Geomatics,B,D,D
+Geomatics,D,B,B: 1.23mm
+Geomatics,D,B,B
+Geomatics,D,B,B
+Geomatics,D,C,C
+Geomatics,C,A,A
+Geomatics,C,B,B: 11.5m2
+Geomatics,B,B,B
+Geomatics,A,C,C
+Geomatics,D,D,D
+Geomatics,C,B,B: 1.000002742
+Geomatics,C,D,D
+Geomatics,B,B,B
+Geomatics,C,B,"B: 동경 127° , 북위"
+Geomatics,A,D,D
+Geomatics,D,B,B
+Geomatics,B,B,B: 100.894m
+Geomatics,D,B,B: 1/125초
+Geomatics,D,A,A: 28842.2m2
+Geomatics,B,B,B
+Geomatics,D,B,B: -0.062m
+Geomatics,B,B,B: 약10배
+Geomatics,B,B,B: 64 %
+Geomatics,C,A,A
+Geomatics,C,B,B
+Geomatics,C,C,C: 500m
+Geomatics,B,B,B: ± 1.5mm
+Geomatics,B,C,C
+Geomatics,B,A,A
+Geomatics,A,C,C
+Geomatics,D,C,C
+Geomatics,D,B,B: 1282.68m
+Geomatics,B,B,B
+Geomatics,D,D,D
+Geomatics,C,D,D
+Geomatics,C,D,D
+Geomatics,D,D,D
+Geomatics,A,D,D
+Geomatics,A,C,C
+Geomatics,D,B,B: 49.99m2
+Geomatics,D,C,C
+Geomatics,D,A,A
+Geomatics,D,D,D
+Geomatics,D,C,C
+Geomatics,D,C,C
+Geomatics,D,C,C
+Geomatics,C,D,D
+Geomatics,D,B,B
+Geomatics,D,B,B
+Geomatics,C,D,D
+Geomatics,D,B,B: 0.34km2
+Geomatics,C,C,C
+Geomatics,D,C,C
+Geomatics,D,C,C
+Geomatics,B,C,C
+Geomatics,D,C,C: 1.0cm
+Geomatics,B,D,D
+Geomatics,C,C,C
+Geomatics,D,C,C
+Geomatics,B,B,B
+Geomatics,C,B,B: 7.4㎜
+Geomatics,B,C,C
+Geomatics,B,C,C
+Geomatics,C,D,D
+Geomatics,C,B,B: 3° 24‘ 52“
+Geomatics,D,C,C
+Geomatics,A,D,D
+Geomatics,D,C,C
+Geomatics,D,B,B: 14.3m
+Geomatics,B,B,B: ±24㎜
+Geomatics,C,D,D
+Geomatics,B,B,B: 8.1 cm
+Geomatics,C,C,C
+Geomatics,B,D,D
+Geomatics,B,C,C
+Geomatics,C,B,B: 50.264m
+Geomatics,C,D,D
+Management,D,B,B
+Management,B,D,D
+Management,A,D,D
+Management,A,A,A
+Management,C,D,D
+Management,A,D,D
+Management,B,C,C
+Management,D,D,D
+Management,B,C,C
+Management,B,C,"C: 감가상각비 1,2"
+Management,B,D,D
+Management,A,D,D
+Management,A,B,B
+Management,A,B,B
+Management,B,B,B
+Management,D,D,D
+Management,D,C,C
+Management,A,D,D
+Management,A,C,C
+Management,D,B,B
+Management,B,D,D
+Management,C,D,D
+Management,C,C,C
+Management,A,D,D
+Management,A,D,D
+Management,A,D,D
+Management,C,D,D
+Management,B,B,B
+Management,A,C,C
+Management,C,C,C
+Management,C,D,D
+Management,D,C,C
+Management,B,C,C
+Management,D,B,B
+Management,A,D,D
+Management,C,B,B
+Management,D,C,C
+Management,D,D,D
+Management,D,C,C
+Management,A,A,A
+Management,A,D,D
+Management,D,D,D
+Management,A,C,C
+Management,B,D,D
+Management,C,D,D
+Management,D,B,B
+Management,A,D,D
+Management,B,D,D
+Management,C,C,C
+Management,C,D,D
+Management,A,C,C
+Management,A,C,C
+Management,B,B,B
+Management,C,D,D
+Management,A,D,D
+Management,A,D,D
+Management,A,D,D
+Management,B,D,D
+Management,C,D,D
+Management,A,C,C
+Management,A,C,C
+Management,C,C,C
+Management,A,B,B
+Management,D,D,D
+Management,C,C,C
+Management,D,B,B
+Management,C,C,C
+Management,D,C,C
+Management,D,B,B
+Management,B,C,C
+Management,B,D,D
+Management,D,C,C
+Management,B,A,A
+Management,B,C,C
+Management,D,B,B
+Management,C,D,D
+Management,B,C,C
+Management,D,D,D
+Management,B,D,D
+Management,B,B,B
+Management,A,C,C
+Management,D,D,D
+Management,A,C,C
+Management,A,A,A
+Management,A,B,B
+Management,B,D,D
+Management,C,B,B
+Management,A,B,B
+Management,C,B,B
+Management,C,D,D
+Management,B,B,B
+Management,B,A,A
+Management,B,D,D
+Management,D,B,B
+Management,A,D,D
+Management,D,C,C
+Management,B,B,B
+Management,A,B,B
+Management,D,C,C
+Management,C,B,B
+Math,A,B,B
+Math,A,B,B
+Math,A,B,B
+Math,C,B,B
+Math,A,B,B
+Math,B,B,B: -1
+Math,C,A,A
+Math,A,B,B
+Math,C,A,A
+Math,A,C,C
+Math,A,B,B
+Math,D,B,B: 2√5
+Math,D,C,C
+Math,C,C,C
+Math,B,B,"B: [210.2, 229.8]"
+Math,C,B,B
+Math,B,D,D: 97점
+Math,C,A,A
+Math,C,C,C
+Math,B,B,B
+Math,A,C,C
+Math,D,B,B
+Math,C,C,C
+Math,D,B,B
+Math,A,C,C
+Math,C,B,B
+Math,B,B,B
+Math,C,C,C
+Math,A,B,B
+Math,D,B,B
+Math,A,C,C
+Math,A,C,C: √2/9
+Math,C,A,"A, B, C, D 중 특정"
+Math,D,C,C
+Math,A,B,B: 17
+Math,C,C,C
+Math,A,C,C
+Math,A,C,C
+Math,A,C,C
+Math,B,D,D
+Math,C,D,D: x3 ＜ x2 ＜ x1
+Math,B,B,B
+Math,B,A,A
+Math,B,B,B
+Math,C,B,B
+Math,A,C,C
+Math,A,B,B: 86
+Math,A,B,B: √7
+Math,C,B,B: -21
+Math,C,B,B
+Math,A,A,A
+Math,D,B,B
+Math,A,B,B: 14
+Math,A,C,C
+Math,D,C,C
+Math,D,B,B
+Math,D,B,B
+Math,C,A,A
+Math,A,B,B
+Math,B,C,C
+Math,C,B,B: 2/15
+Math,C,B,B
+Math,B,C,C
+Math,C,B,B: 3/11
+Math,A,C,C
+Math,C,A,A: 173.04≤ m ≤ 17
+Math,C,D,D
+Math,C,C,C
+Math,C,B,B
+Math,D,B,B
+Math,A,B,B
+Math,C,C,C
+Math,C,B,B: 1/5
+Math,C,C,C
+Math,B,B,B
+Math,D,B,B
+Math,D,C,C
+Math,A,B,B: -1＜m＜2
+Math,B,B,B
+Math,D,B,B
+Math,A,B,B
+Math,A,B,B
+Math,C,C,C
+Math,B,B,B: 1
+Math,D,B,B
+Math,A,B,B: -14
+Math,B,B,B
+Math,C,B,B: -6
+Math,A,C,C
+Math,D,B,B
+Math,A,B,B: -8/3
+Math,A,B,B: 2√3
+Math,A,C,C: 2√2
+Math,C,,"Im sorry, but without the specific matrix or additional context, it"
+Math,A,B,B: 16
+Math,B,B,B
+Math,C,C,C
+Math,D,B,"B: (-12, -8)"
+Math,C,C,C
+Math,D,C,C: 7/18
+Accounting,B,B,B: 10 120
+Accounting,A,C,C
+Accounting,A,D,D
+Accounting,B,D,D
+Accounting,B,D,D
+Accounting,D,B,B
+Accounting,A,B,"B: ￦ 340,000"
+Accounting,A,D,D
+Accounting,A,B,B
+Accounting,B,D,D
+Accounting,A,D,"D: ￦1,000 과 대"
+Accounting,D,B,B: 금융자산 평가
+Accounting,A,C,"C: ￦ 12,200"
+Accounting,B,D,D
+Accounting,D,C,C
+Accounting,B,B,"B: ￦ 15,000"
+Accounting,D,B,B: 당기손실
+Accounting,C,B,B
+Accounting,B,B,B: 평가이익 ￦
+Accounting,A,D,D
+Accounting,D,D,D
+Accounting,D,B,B: 20×2년 말 손
+Accounting,D,D,D
+Accounting,C,D,D
+Accounting,A,B,"B: ￦1, 932,100"
+Accounting,C,B,B: 감가상각 누
+Accounting,A,D,D
+Accounting,C,B,B
+Accounting,C,D,D
+Accounting,A,D,D
+Accounting,A,D,D
+Accounting,D,B,"B: (대) 보험료 2,"
+Accounting,B,B,B
+Accounting,D,D,D
+Accounting,D,B,"B: ￦45,000"
+Accounting,C,B,B
+Accounting,D,C,"C: ￦50,000"
+Accounting,C,B,B
+Accounting,B,A,A
+Accounting,D,D,D
+Accounting,C,B,B
+Accounting,B,C,C
+Accounting,D,B,B
+Accounting,B,C,C
+Accounting,A,C,"C: ₩1,250,000"
+Accounting,D,D,D
+Chemistry,B,D,D
+Chemistry,D,C,C
+Chemistry,B,C,C
+Chemistry,B,B,B
+Chemistry,B,D,D
+Chemistry,B,D,D
+Chemistry,D,D,D
+Chemistry,B,D,D
+Chemistry,B,D,D
+Chemistry,C,C,C
+Chemistry,B,D,D
+Chemistry,A,D,D
+Chemistry,D,A,A
+Chemistry,A,C,C
+Chemistry,C,B,B: 3000cm-1
+Chemistry,C,C,C
+Chemistry,B,B,B
+Chemistry,A,B,B: 9.71(±0.2)
+Chemistry,B,C,C
+Chemistry,A,C,C
+Chemistry,C,D,D
+Chemistry,D,C,C
+Chemistry,D,B,B
+Chemistry,A,D,D
+Chemistry,B,B,B: 1.0M
+Chemistry,B,C,C
+Chemistry,C,D,D
+Chemistry,A,B,B
+Chemistry,A,C,C
+Chemistry,A,C,C
+Chemistry,D,B,B: 2.0×10-6 M
+Chemistry,D,B,B
+Chemistry,B,C,C
+Chemistry,A,C,C
+Chemistry,B,D,D
+Chemistry,D,B,B
+Chemistry,D,B,B: 193.5
+Chemistry,C,D,D
+Chemistry,C,B,B: 1:2.77
+Chemistry,C,C,C
+Chemistry,B,C,C
+Chemistry,B,B,B
+Chemistry,B,C,C
+Chemistry,A,D,D
+Chemistry,A,B,B: 18.32% ± 0.2%
+Chemistry,A,B,B
+Chemistry,A,D,D
+Chemistry,D,B,B
+Chemistry,A,B,B
+Chemistry,A,D,D
+Chemistry,A,B,B: 3.4×10^-4
+Chemistry,B,C,C
+Chemistry,C,A,A
+Chemistry,A,D,D
+Chemistry,B,B,B
+Chemistry,D,D,D
+Chemistry,A,D,D
+Chemistry,A,B,B
+Chemistry,B,B,B
+Chemistry,D,C,C
+Chemistry,A,B,B: 3.3×10-4
+Chemistry,A,B,B
+Chemistry,B,B,B
+Chemistry,C,C,C
+Chemistry,C,C,C: 6.1×10-8 %
+Chemistry,C,D,D
+Chemistry,D,C,C
+Chemistry,D,D,D
+Chemistry,A,B,B: 7.00
+Chemistry,A,B,B
+Chemistry,D,B,B
+Chemistry,A,D,D
+Chemistry,B,B,B
+Chemistry,B,B,B
+Chemistry,A,A,A
+Chemistry,C,C,C
+Chemistry,C,D,D
+Chemistry,C,C,C
+Chemistry,A,D,D
+Chemistry,C,C,C
+Chemistry,C,D,D
+Chemistry,D,D,D
+Chemistry,B,B,B
+Chemistry,D,B,B: 1.76 × 10-7
+Chemistry,B,C,C
+Chemistry,A,D,D
+Chemistry,B,B,B
+Chemistry,A,D,D
+Chemistry,D,B,B
+Chemistry,A,B,B: 3.39
+Chemistry,B,C,C
+Chemistry,C,D,D
+Chemistry,A,B,B
+Chemistry,D,C,"C: 2, 9, 8"
+Chemistry,C,C,C
+Chemistry,C,C,C
+Chemistry,C,B,B
+Chemistry,C,C,C: ±0.0043
+Chemistry,D,D,D
+Chemistry,B,D,D
+Nondestructive-Testing,C,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,A,C,C
+Nondestructive-Testing,B,B,B: 1.3 이상 4.0 이하
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,A,B,B
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,D,D,D
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,C,D,D
+Nondestructive-Testing,C,B,B: 0.125mm이하
+Nondestructive-Testing,A,D,D
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,B,B: 2 : 1
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,A,C,C
+Nondestructive-Testing,D,B,B: 0.8
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,C,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,B,B,B: 75
+Nondestructive-Testing,B,B,B: 32℃ ∼ 45℃
+Nondestructive-Testing,D,A,A
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,C,B,"B: 최저는 0.5,"
+Nondestructive-Testing,C,D,D
+Nondestructive-Testing,C,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,D,D,D
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,C,B,B
+Nondestructive-Testing,B,B,B: 1000A로서 10인
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,A,D,D
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,A,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,B,B,B: ±10% 이내
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,A,B,B
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,B,B: 98MPa~392MPa
+Nondestructive-Testing,A,D,D
+Nondestructive-Testing,C,C,C
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,C,D,D
+Nondestructive-Testing,A,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,D,D,D
+Nondestructive-Testing,A,B,B
+Nondestructive-Testing,C,B,B
+Nondestructive-Testing,A,C,C
+Nondestructive-Testing,C,C,C
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,D,A,A: 300A
+Nondestructive-Testing,D,C,C
+Nondestructive-Testing,A,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,C,B,B
+Nondestructive-Testing,C,C,C
+Nondestructive-Testing,B,C,C
+Nondestructive-Testing,D,B,B
+Nondestructive-Testing,B,D,D
+Nondestructive-Testing,B,B,B
+Nondestructive-Testing,C,D,D
+Nondestructive-Testing,B,C,C
+Computer-Science,D,D,D
+Computer-Science,C,C,C
+Computer-Science,C,D,D
+Computer-Science,D,C,C
+Computer-Science,D,B,B
+Computer-Science,C,D,D
+Computer-Science,B,C,C
+Computer-Science,B,C,C
+Computer-Science,D,D,D
+Computer-Science,D,D,D
+Computer-Science,B,B,B
+Computer-Science,B,C,C
+Computer-Science,D,C,C
+Computer-Science,D,B,B
+Computer-Science,D,D,D
+Computer-Science,D,B,B
+Computer-Science,D,A,A
+Computer-Science,C,C,C
+Computer-Science,A,B,B
+Computer-Science,D,D,D
+Computer-Science,C,B,B
+Computer-Science,D,D,D
+Computer-Science,D,C,C
+Computer-Science,D,C,C
+Computer-Science,B,B,B
+Computer-Science,D,B,B
+Computer-Science,D,B,B
+Computer-Science,B,C,C
+Computer-Science,C,C,C
+Computer-Science,C,C,C
+Computer-Science,C,C,C
+Computer-Science,D,A,A
+Computer-Science,B,D,D
+Computer-Science,D,C,C
+Computer-Science,D,C,C
+Computer-Science,B,D,D
+Computer-Science,D,D,D
+Computer-Science,B,B,B
+Computer-Science,B,D,D
+Computer-Science,D,D,D
+Computer-Science,D,B,B: 1600MB/s
+Computer-Science,B,D,D
+Computer-Science,D,A,A
+Computer-Science,B,D,D
+Computer-Science,D,C,C
+Computer-Science,B,C,C
+Computer-Science,D,D,D
+Computer-Science,D,C,C
+Computer-Science,C,D,D
+Computer-Science,C,C,C
+Computer-Science,D,C,C
+Computer-Science,B,C,C
+Computer-Science,C,C,C
+Computer-Science,D,D,D
+Computer-Science,B,D,D
+Computer-Science,C,B,B
+Computer-Science,B,C,C
+Computer-Science,B,B,B
+Computer-Science,B,C,C
+Computer-Science,D,D,D
+Computer-Science,D,B,"B: 9,600[bps]"
+Computer-Science,B,C,C
+Computer-Science,D,B,B
+Computer-Science,B,D,D
+Computer-Science,D,D,D
+Computer-Science,B,C,C
+Computer-Science,D,B,B
+Computer-Science,B,B,B
+Computer-Science,C,C,C
+Computer-Science,C,D,D
+Computer-Science,C,A,A
+Computer-Science,B,B,B
+Computer-Science,D,D,D
+Computer-Science,D,C,C
+Computer-Science,C,C,C
+Computer-Science,B,A,A
+Computer-Science,C,B,B
+Computer-Science,D,A,A: /S
+Computer-Science,B,B,B
+Computer-Science,C,B,B
+Computer-Science,C,B,B
+Computer-Science,D,D,D
+Computer-Science,C,A,A
+Computer-Science,D,D,D
+Computer-Science,D,D,D
+Computer-Science,B,D,D
+Computer-Science,C,B,B
+Computer-Science,D,B,B
+Computer-Science,C,C,C
+Computer-Science,C,C,C
+Computer-Science,B,B,B
+Computer-Science,C,D,D
+Computer-Science,D,C,C
+Computer-Science,B,A,A
+Computer-Science,D,B,B
+Computer-Science,C,D,D
+Computer-Science,B,B,B
+Computer-Science,C,C,C
+Computer-Science,D,D,D
+Computer-Science,B,C,C
+Ecology,A,B,B
+Ecology,C,D,D
+Ecology,C,B,B
+Ecology,B,D,D
+Ecology,C,B,B
+Ecology,B,B,B
+Ecology,B,A,A
+Ecology,B,C,C
+Ecology,B,B,B
+Ecology,C,D,D
+Ecology,D,B,B
+Ecology,B,B,B
+Ecology,A,C,C
+Ecology,D,B,B: 199.06m
+Ecology,B,B,B: 0.05 이하
+Ecology,B,D,D
+Ecology,C,C,C
+Ecology,D,B,B
+Ecology,D,B,B: 72cm
+Ecology,B,C,C
+Ecology,B,C,C
+Ecology,D,B,B: 650000원
+Ecology,C,B,B
+Ecology,B,C,C
+Ecology,D,B,B
+Ecology,A,C,C
+Ecology,C,C,C
+Ecology,B,C,C
+Ecology,B,B,B
+Ecology,D,C,C
+Ecology,B,B,B
+Ecology,B,D,D
+Ecology,C,B,B
+Ecology,D,C,C
+Ecology,C,D,D
+Ecology,B,C,C
+Ecology,B,B,B
+Ecology,D,B,B: 400m2
+Ecology,B,D,D
+Ecology,B,B,B
+Ecology,C,D,D
+Ecology,B,B,B
+Ecology,D,D,D
+Ecology,A,C,C
+Ecology,B,B,B
+Ecology,B,B,B
+Ecology,C,B,B
+Ecology,D,A,A
+Ecology,D,D,D
+Ecology,C,B,B
+Ecology,D,B,B
+Ecology,B,C,C
+Ecology,D,D,D
+Ecology,B,C,C
+Ecology,D,B,B
+Ecology,B,C,C
+Ecology,A,D,D
+Ecology,B,B,B: 10.2%
+Ecology,B,B,B
+Ecology,C,B,B: 4800L
+Ecology,D,D,D
+Ecology,D,C,C
+Ecology,B,A,A
+Ecology,B,D,D
+Ecology,D,C,C
+Ecology,C,D,D
+Ecology,C,C,C
+Ecology,B,C,C
+Ecology,C,A,A
+Ecology,D,B,B
+Ecology,B,C,C
+Ecology,B,B,"B: 183,000원"
+Ecology,B,C,C
+Ecology,B,B,B
+Ecology,B,C,C
+Ecology,B,D,D
+Ecology,B,D,D
+Ecology,B,C,C
+Ecology,A,B,B
+Ecology,C,C,C
+Ecology,B,A,A
+Ecology,B,B,B
+Ecology,D,B,B
+Ecology,D,C,C
+Ecology,D,B,B: 12 만원/m3
+Ecology,B,D,D
+Ecology,D,C,C
+Ecology,C,D,D
+Ecology,B,B,B
+Ecology,D,B,B
+Ecology,C,D,D
+Ecology,D,B,B
+Ecology,C,D,D
+Ecology,C,C,C
+Ecology,B,B,B: 약 85700명
+Ecology,B,B,B
+Ecology,B,C,C
+Ecology,B,C,C
+Ecology,B,C,C
+Ecology,B,D,D
+Health,D,C,C
+Health,A,D,D
+Health,C,D,D
+Health,A,D,D
+Health,B,C,C
+Health,A,D,D
+Health,C,B,B
+Health,B,C,C
+Health,D,B,B
+Health,B,C,C
+Health,A,C,C
+Health,C,D,D
+Health,C,D,D
+Health,A,B,B: 5도 이상
+Health,B,A,A
+Health,C,C,C
+Health,C,B,B
+Health,B,D,D
+Health,C,B,B
+Health,D,B,B
+Health,D,C,C
+Health,D,D,D
+Health,A,D,D
+Political-Science-And-Sociology,B,B,B
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,B,B,B
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,B,C,C
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,B,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,D,B,B
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,B,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,B,C,C
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,B,C,C
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,B,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,D,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,C,B,B
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,C,B,B
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,A,A,A
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,D,B,B
+Political-Science-And-Sociology,B,C,C
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,D,B,B
+Political-Science-And-Sociology,C,D,D
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,C,C,C
+Political-Science-And-Sociology,D,C,C
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,D,B,B
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,A,C,C
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,D,D,D
+Political-Science-And-Sociology,A,D,D
+Political-Science-And-Sociology,B,D,D
+Political-Science-And-Sociology,A,B,B
+Political-Science-And-Sociology,B,C,C
+Political-Science-And-Sociology,C,B,B
+Political-Science-And-Sociology,C,B,B
+Political-Science-And-Sociology,B,D,D
+Patent,D,B,B
+Patent,B,D,D
+Patent,C,D,D
+Patent,C,D,D
+Patent,D,C,C
+Patent,C,D,D
+Patent,C,B,B
+Patent,B,B,B
+Patent,C,B,B
+Patent,C,D,D
+Patent,B,D,D
+Patent,B,D,D
+Patent,D,C,C
+Patent,B,D,D
+Patent,C,D,D
+Patent,B,A,A
+Patent,B,B,B
+Patent,C,C,C
+Patent,B,C,C
+Patent,B,C,C
+Patent,B,D,D
+Patent,B,C,C
+Patent,C,C,C
+Patent,B,D,D
+Patent,C,B,B
+Patent,A,C,C
+Patent,A,D,D
+Patent,A,C,C
+Patent,C,D,D
+Patent,A,D,D
+Patent,A,C,C
+Patent,A,D,D
+Patent,A,C,C
+Patent,A,C,C
+Patent,A,B,B
+Patent,A,B,B
+Patent,A,D,D
+Patent,A,D,D
+Patent,A,D,D
+Patent,B,D,D
+Patent,B,B,B
+Patent,D,D,D
+Patent,C,D,D
+Patent,C,D,D
+Patent,C,C,C
+Patent,C,D,D
+Patent,D,D,D
+Patent,A,D,D
+Patent,A,B,B
+Patent,A,C,C
+Patent,A,D,D
+Electrical-Engineering,C,C,C
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,D,D
+Electrical-Engineering,D,B,B
+Electrical-Engineering,D,C,C
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,B,B
+Electrical-Engineering,D,C,C
+Electrical-Engineering,D,C,C
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,B,B: 140
+Electrical-Engineering,B,B,B
+Electrical-Engineering,D,A,A
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,B,B
+Electrical-Engineering,B,B,B
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,C,C
+Electrical-Engineering,B,C,C
+Electrical-Engineering,A,C,C
+Electrical-Engineering,C,C,C
+Electrical-Engineering,B,D,D
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,C,C: 648000
+Electrical-Engineering,D,B,B
+Electrical-Engineering,C,D,D
+Electrical-Engineering,D,C,C: 153[V]
+Electrical-Engineering,C,C,C
+Electrical-Engineering,D,B,B
+Electrical-Engineering,A,C,C
+Electrical-Engineering,B,C,C
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,B,B
+Electrical-Engineering,C,C,C
+Electrical-Engineering,B,C,C
+Electrical-Engineering,D,D,D
+Electrical-Engineering,B,B,B: 63[kV]
+Electrical-Engineering,D,B,B
+Electrical-Engineering,D,B,B: 21068
+Electrical-Engineering,D,D,D
+Electrical-Engineering,B,D,D
+Electrical-Engineering,C,B,B: 5.24
+Electrical-Engineering,D,D,D
+Electrical-Engineering,D,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,B,D,D
+Electrical-Engineering,B,B,B
+Electrical-Engineering,D,A,A
+Electrical-Engineering,C,D,D
+Electrical-Engineering,C,B,B: 32
+Electrical-Engineering,B,B,B
+Electrical-Engineering,C,B,B: 2336
+Electrical-Engineering,B,C,C
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,B,B: 12360
+Electrical-Engineering,B,B,B: 5 ×10^-4[S]
+Electrical-Engineering,B,B,B
+Electrical-Engineering,D,C,C
+Electrical-Engineering,D,C,C: 1.24-j0.68
+Electrical-Engineering,C,D,D
+Electrical-Engineering,C,D,D
+Electrical-Engineering,C,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,B,D,D
+Electrical-Engineering,D,B,B
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,D,B,B: 150
+Electrical-Engineering,D,B,B: 1:4
+Electrical-Engineering,C,A,A
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,D,D
+Electrical-Engineering,D,A,A
+Electrical-Engineering,B,D,D
+Electrical-Engineering,D,C,C
+Electrical-Engineering,D,D,D
+Electrical-Engineering,D,B,B
+Electrical-Engineering,D,C,C
+Electrical-Engineering,D,C,C
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,D,A,A
+Electrical-Engineering,D,C,C
+Electrical-Engineering,B,B,B: 60[Hz]
+Electrical-Engineering,D,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,C,D,D
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,B,B: 10[Ω]
+Electrical-Engineering,D,B,B: 3.6
+Electrical-Engineering,D,C,C
+Electrical-Engineering,C,B,B: 사용압력의 1.2
+Electrical-Engineering,D,C,C
+Electrical-Engineering,D,B,B
+Electrical-Engineering,D,B,B
+Electrical-Engineering,B,C,C
+Electrical-Engineering,C,B,B
+Electrical-Engineering,D,D,D
+Electrical-Engineering,B,C,C
+Electronics-Engineering,D,C,C
+Electronics-Engineering,D,D,D
+Electronics-Engineering,B,C,C
+Electronics-Engineering,D,B,B: πdJ
+Electronics-Engineering,C,D,D
+Electronics-Engineering,C,C,C
+Electronics-Engineering,D,A,A
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,B,B: 10.5×10-2
+Electronics-Engineering,D,B,B: 6.3×10-3[cm]
+Electronics-Engineering,B,B,B
+Electronics-Engineering,C,A,A
+Electronics-Engineering,B,D,D
+Electronics-Engineering,C,C,C
+Electronics-Engineering,C,B,B
+Electronics-Engineering,D,D,D
+Electronics-Engineering,A,C,C
+Electronics-Engineering,D,B,B
+Electronics-Engineering,C,A,A
+Electronics-Engineering,B,D,D
+Electronics-Engineering,B,B,B: 1564Å
+Electronics-Engineering,B,C,C
+Electronics-Engineering,B,B,B: 22.4[㎃]
+Electronics-Engineering,C,C,C
+Electronics-Engineering,D,C,C
+Electronics-Engineering,D,B,B
+Electronics-Engineering,D,D,D
+Electronics-Engineering,D,D,D
+Electronics-Engineering,D,A,A
+Electronics-Engineering,B,B,B: 3.67∠-45°[A
+Electronics-Engineering,B,B,B: 0.3 [MHz]
+Electronics-Engineering,C,B,B: Vm/√2
+Electronics-Engineering,D,D,D
+Electronics-Engineering,D,B,B
+Electronics-Engineering,C,C,C
+Electronics-Engineering,D,A,A
+Electronics-Engineering,C,D,D
+Electronics-Engineering,D,B,B
+Electronics-Engineering,B,D,D
+Electronics-Engineering,B,D,D
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,D,D
+Electronics-Engineering,B,D,D
+Electronics-Engineering,D,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,C,C,C
+Electronics-Engineering,C,B,B: 98[㎑]
+Electronics-Engineering,B,C,C
+Electronics-Engineering,B,B,B: 01101101
+Electronics-Engineering,B,D,D
+Electronics-Engineering,C,B,B
+Electronics-Engineering,D,B,B: 0.8[V]
+Electronics-Engineering,C,B,B
+Electronics-Engineering,C,B,B
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,C,C
+Electronics-Engineering,B,C,C
+Electronics-Engineering,B,B,B: 1.44×10-5[N
+Electronics-Engineering,B,B,B: Eydz=Ezdy
+Electronics-Engineering,D,B,"B: 3A, 유도성"
+Electronics-Engineering,D,C,C: 26 Bit 이상
+Electronics-Engineering,B,B,B: Df≒0.1%
+Electronics-Engineering,C,C,C
+Electronics-Engineering,B,B,B
+Electronics-Engineering,C,B,B
+Electronics-Engineering,C,B,B: (11101)2
+Electronics-Engineering,D,B,B: 9.7
+Electronics-Engineering,D,B,B: 139
+Electronics-Engineering,B,C,C
+Electronics-Engineering,A,A,A
+Electronics-Engineering,B,C,C
+Electronics-Engineering,D,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,C,D,D
+Electronics-Engineering,C,B,B: 2/π
+Electronics-Engineering,C,A,A
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,D,D
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,A,A
+Electronics-Engineering,C,D,D
+Electronics-Engineering,C,C,C
+Electronics-Engineering,B,D,D
+Electronics-Engineering,B,B,B: 1.4
+Electronics-Engineering,D,B,B
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,B,B
+Electronics-Engineering,B,D,D
+Electronics-Engineering,D,C,C
+Electronics-Engineering,A,C,C
+Electronics-Engineering,D,C,C
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,B,B
+Electronics-Engineering,B,C,C
+Electronics-Engineering,C,B,B: 6.3
+Electronics-Engineering,A,B,B
+Electronics-Engineering,D,D,D
+Korean-History,C,D,D
+Korean-History,A,D,D
+Korean-History,C,C,C
+Korean-History,C,B,B
+Korean-History,B,D,D
+Korean-History,C,D,D
+Korean-History,B,D,D
+Korean-History,A,D,D
+Korean-History,C,B,B: (가)→(라)→(나)→(다
+Korean-History,A,D,D
+Korean-History,B,C,C
+Korean-History,D,C,C
+Korean-History,C,D,D
+Korean-History,B,D,D
+Korean-History,B,C,C
+Korean-History,C,C,C
+Korean-History,A,D,D
+Korean-History,C,B,B
+Korean-History,C,C,C
+Korean-History,B,C,C
+Korean-History,A,D,D
+Korean-History,A,D,D
+Korean-History,A,D,D
+Korean-History,A,D,D
+Korean-History,D,D,D
+Korean-History,D,C,C
+Korean-History,D,C,C
+Korean-History,C,B,B
+Korean-History,B,C,C
+Korean-History,B,C,C
+Korean-History,A,D,D
+Korean-History,C,B,B
+Korean-History,C,B,B
+Korean-History,B,D,D
+Korean-History,D,C,C
+Korean-History,B,D,D
+Korean-History,A,D,D
+Korean-History,D,C,C
+Korean-History,C,C,C
+Korean-History,C,D,D
+Korean-History,C,B,B
+Korean-History,C,D,D
+Korean-History,D,D,D
+Korean-History,C,C,C
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,D,B,B: 11260cm3/s
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,C,B,B
+Gas-Technology-And-Engineering,B,B,B: 200 L/h
+Gas-Technology-And-Engineering,D,B,B: 130 mmH2O
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,A,C,C
+Gas-Technology-And-Engineering,A,C,C
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,C,C,C
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,A,A
+Gas-Technology-And-Engineering,C,B,B: 10%
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,A,D,D
+Gas-Technology-And-Engineering,D,B,B: 300mm2 이상
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,C,B,B: 1/150 ~ 1/300
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,A,C,C
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,C,B,B: 7atm
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,B,B: 4.83
+Gas-Technology-And-Engineering,C,C,C
+Gas-Technology-And-Engineering,C,C,C
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,A,D,D
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,A,D,D
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,A,B,B: 0.585
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,C,B,B
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,C,C,C
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,C,D,D
+Gas-Technology-And-Engineering,D,B,B: 30㎝
+Gas-Technology-And-Engineering,B,A,A
+Gas-Technology-And-Engineering,C,B,B
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,B,B,B: 33%
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,D,D: 156.25m3
+Gas-Technology-And-Engineering,B,C,C: 0.313
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,A,D,D
+Gas-Technology-And-Engineering,C,B,B
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,B,B: 3661
+Gas-Technology-And-Engineering,B,B,B: 13.8
+Gas-Technology-And-Engineering,B,A,A
+Gas-Technology-And-Engineering,B,B,B: 13480
+Gas-Technology-And-Engineering,B,A,A
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,D,D
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,A,C,C
+Gas-Technology-And-Engineering,C,B,B: 88K
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,B,C,C
+Gas-Technology-And-Engineering,B,B,B
+Gas-Technology-And-Engineering,B,D,D
+Gas-Technology-And-Engineering,D,C,C
+Gas-Technology-And-Engineering,D,B,B
+Gas-Technology-And-Engineering,C,C,C
+Gas-Technology-And-Engineering,A,C,C
+Gas-Technology-And-Engineering,A,B,B: 1.5배 이상
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,A,C,C: 1650㎏f
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,C,C,C
+Machine-Design-And-Manufacturing,A,B,B: 18.4
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,C,C,C
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,C,C,C
+Machine-Design-And-Manufacturing,B,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,D,B,B
+Machine-Design-And-Manufacturing,D,B,B
+Machine-Design-And-Manufacturing,B,D,D
+Machine-Design-And-Manufacturing,C,C,C
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,D,B,B
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,D,B,B
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,D,B,B: 10배
+Machine-Design-And-Manufacturing,D,C,C: 18°
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,C,B,B: 6mm
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,B,D,D
+Machine-Design-And-Manufacturing,A,B,B
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,A,B,B: 4.6
+Machine-Design-And-Manufacturing,D,B,B: 1.86
+Machine-Design-And-Manufacturing,D,A,A
+Machine-Design-And-Manufacturing,C,A,A
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,A,B,B: η = 32.2%
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,A,A,A
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,A,C,C
+Machine-Design-And-Manufacturing,B,B,B: 1.0
+Machine-Design-And-Manufacturing,B,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,B,D,D
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,A,D,D
+Machine-Design-And-Manufacturing,B,B,B: 6.25
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,C,B,B: 1264.86
+Machine-Design-And-Manufacturing,A,A,A: 17.85
+Machine-Design-And-Manufacturing,A,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,A,B,B: 0.01
+Machine-Design-And-Manufacturing,B,A,A
+Machine-Design-And-Manufacturing,B,B,B: 2.63
+Machine-Design-And-Manufacturing,A,D,D: 80
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,C,B,B: 2.196
+Machine-Design-And-Manufacturing,C,C,C: 0.024
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,D,B,B: 123mm
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,B,B,B
+Machine-Design-And-Manufacturing,A,A,A
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,B,C,C
+Machine-Design-And-Manufacturing,D,B,B: 25.6
+Machine-Design-And-Manufacturing,C,D,D
+Machine-Design-And-Manufacturing,D,D,D
+Machine-Design-And-Manufacturing,C,B,B
+Machine-Design-And-Manufacturing,B,B,B: 60
+Machine-Design-And-Manufacturing,A,D,D
+Machine-Design-And-Manufacturing,D,C,C
+Machine-Design-And-Manufacturing,D,B,B
+Chemical-Engineering,D,C,C
+Chemical-Engineering,B,B,B
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,D,D
+Chemical-Engineering,D,B,B: 2931
+Chemical-Engineering,A,B,B
+Chemical-Engineering,D,C,C
+Chemical-Engineering,A,D,D
+Chemical-Engineering,B,D,D
+Chemical-Engineering,C,C,C
+Chemical-Engineering,A,B,B: 2.72
+Chemical-Engineering,B,B,B
+Chemical-Engineering,B,B,B
+Chemical-Engineering,C,D,D
+Chemical-Engineering,C,C,C
+Chemical-Engineering,C,B,B: 4646kg
+Chemical-Engineering,B,C,C
+Chemical-Engineering,D,C,C
+Chemical-Engineering,C,A,A
+Chemical-Engineering,C,B,B: 0.522
+Chemical-Engineering,A,D,D
+Chemical-Engineering,B,B,B: 1.78
+Chemical-Engineering,C,C,C
+Chemical-Engineering,C,C,C
+Chemical-Engineering,B,D,D
+Chemical-Engineering,A,B,B: 0.062
+Chemical-Engineering,A,C,C
+Chemical-Engineering,B,D,D
+Chemical-Engineering,A,C,C: 78.8%
+Chemical-Engineering,A,C,C
+Chemical-Engineering,D,B,B: 3×10^14 Hz
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,D,D
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,C,C
+Chemical-Engineering,D,D,D
+Chemical-Engineering,A,C,C
+Chemical-Engineering,A,C,C
+Chemical-Engineering,C,B,B
+Chemical-Engineering,A,B,B: 21.8
+Chemical-Engineering,D,B,B
+Chemical-Engineering,D,B,B: 1/2
+Chemical-Engineering,D,B,B
+Chemical-Engineering,B,B,B: -3.0
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,C,C
+Chemical-Engineering,D,D,D: rA=-2CA0.5CB
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,B,B: 3.50
+Chemical-Engineering,B,D,D
+Chemical-Engineering,A,C,C
+Chemical-Engineering,B,C,C
+Chemical-Engineering,D,A,A
+Chemical-Engineering,A,C,C
+Chemical-Engineering,C,B,B: 20.3
+Chemical-Engineering,C,C,C
+Chemical-Engineering,A,D,D
+Chemical-Engineering,B,B,B: 5.3× 1019cal/year
+Chemical-Engineering,D,C,C
+Chemical-Engineering,B,C,C
+Chemical-Engineering,B,B,B: 약 12.6분
+Chemical-Engineering,A,D,D
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,B,B: 0.372
+Chemical-Engineering,B,B,B: 1.049
+Chemical-Engineering,D,C,C
+Chemical-Engineering,C,B,B
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,B,B
+Chemical-Engineering,D,D,D
+Chemical-Engineering,B,B,B
+Chemical-Engineering,C,B,B
+Chemical-Engineering,C,C,C
+Chemical-Engineering,D,C,C
+Chemical-Engineering,B,B,B: 51.5
+Chemical-Engineering,B,B,B: 77.78
+Chemical-Engineering,D,B,B: 21.4kg
+Chemical-Engineering,A,B,B: 300
+Chemical-Engineering,B,D,D
+Chemical-Engineering,A,B,B: 296.43
+Chemical-Engineering,B,D,D
+Chemical-Engineering,C,B,B: 555.6℃
+Chemical-Engineering,B,B,B
+Chemical-Engineering,D,B,B: 400kg
+Chemical-Engineering,A,B,B: 1703
+Chemical-Engineering,D,C,C: 62.5%
+Chemical-Engineering,A,B,B
+Chemical-Engineering,D,D,D: -950
+Chemical-Engineering,B,C,C
+Chemical-Engineering,B,A,A
+Chemical-Engineering,A,B,B: PA=2π-π0
+Chemical-Engineering,A,C,C
+Chemical-Engineering,A,D,D
+Chemical-Engineering,D,B,B
+Chemical-Engineering,D,B,B
+Chemical-Engineering,C,B,B
+Chemical-Engineering,D,B,B: 190
+Chemical-Engineering,A,B,B: 0.3326m3
+Chemical-Engineering,A,A,A
+Chemical-Engineering,C,B,B
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,A,B,B
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,B,B,B
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,D,B,B: 2.7[V]
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,A,C,C
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,C,D,"D: B=120[KHz], mf =6"
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,B,B: 96.2
+Telecommunications-And-Wireless-Technology,C,A,A
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,C,A,A
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,B,B: 5.6[MHz]
+Telecommunications-And-Wireless-Technology,B,B,B
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,C,C
+Telecommunications-And-Wireless-Technology,C,B,B: 24[kbps]
+Telecommunications-And-Wireless-Technology,B,B,"B: 8, 180[㎑]"
+Telecommunications-And-Wireless-Technology,B,B,B: 156[㎑]
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,C,C
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,A,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,C,C
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,A,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,B,B,B
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,B,B,B: 0.4[mW]
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,C,C,C
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,B,B,B
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,C,B,B: 96.67 [W]
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,B,B: 312.5[V]
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,A,B,B
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,D,D,D
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,B,C,C
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,B,D,D
+Telecommunications-And-Wireless-Technology,D,C,C
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,B,A,A
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,B,B,B: 9.0
+Telecommunications-And-Wireless-Technology,D,A,A
+Telecommunications-And-Wireless-Technology,C,B,B
+Telecommunications-And-Wireless-Technology,C,D,D
+Telecommunications-And-Wireless-Technology,D,B,B
+Telecommunications-And-Wireless-Technology,B,C,C
+Food-Processing,C,B,B
+Food-Processing,D,C,C
+Food-Processing,C,B,B
+Food-Processing,B,D,D
+Food-Processing,B,D,D
+Food-Processing,B,D,D
+Food-Processing,B,B,B
+Food-Processing,B,C,C
+Food-Processing,B,B,B
+Food-Processing,D,C,C
+Food-Processing,A,D,D
+Food-Processing,A,D,D
+Food-Processing,C,B,B
+Food-Processing,A,C,C
+Food-Processing,C,D,D
+Food-Processing,C,C,C
+Food-Processing,D,C,C
+Food-Processing,A,D,D
+Food-Processing,D,B,B
+Food-Processing,C,D,D
+Food-Processing,D,C,C
+Food-Processing,D,C,C
+Food-Processing,D,B,B: 54.3kg
+Food-Processing,D,B,B
+Food-Processing,D,D,D
+Food-Processing,B,D,D
+Food-Processing,D,B,B
+Food-Processing,B,C,C
+Food-Processing,B,C,C
+Food-Processing,B,D,D
+Food-Processing,D,C,C
+Food-Processing,D,D,D
+Food-Processing,C,B,B
+Food-Processing,D,C,C
+Food-Processing,C,C,C
+Food-Processing,D,B,B
+Food-Processing,C,B,B
+Food-Processing,D,D,D
+Food-Processing,D,B,B: 1.52mPaㆍs
+Food-Processing,D,D,D
+Food-Processing,B,A,A
+Food-Processing,B,A,A
+Food-Processing,C,C,C
+Food-Processing,A,B,B
+Food-Processing,C,B,B
+Food-Processing,D,B,B: 2.0 mg/L를 넘지
+Food-Processing,A,B,B
+Food-Processing,C,C,C
+Food-Processing,D,B,B
+Food-Processing,A,C,C
+Food-Processing,C,C,C
+Food-Processing,C,D,D
+Food-Processing,B,C,C
+Food-Processing,C,B,B
+Food-Processing,C,D,D
+Food-Processing,C,B,B
+Food-Processing,A,D,D
+Food-Processing,D,B,B
+Food-Processing,C,C,C
+Food-Processing,D,D,D
+Food-Processing,C,D,D
+Food-Processing,C,C,C
+Food-Processing,D,B,B
+Food-Processing,B,D,D
+Food-Processing,B,C,C
+Food-Processing,D,C,"C: 유지 86%, 물 32"
+Food-Processing,A,D,D
+Food-Processing,C,C,C
+Food-Processing,B,D,D
+Food-Processing,A,A,A
+Food-Processing,C,D,D
+Food-Processing,C,C,C
+Food-Processing,A,B,B
+Food-Processing,A,D,D
+Food-Processing,B,D,D
+Food-Processing,B,D,D
+Food-Processing,B,B,B
+Food-Processing,A,C,C
+Food-Processing,D,B,B
+Food-Processing,C,C,C
+Food-Processing,D,B,B
+Food-Processing,D,C,C
+Food-Processing,B,B,B
+Food-Processing,B,B,B
+Food-Processing,C,D,D
+Food-Processing,C,B,B
+Food-Processing,D,C,C
+Food-Processing,B,C,C
+Food-Processing,C,D,D
+Food-Processing,C,C,C
+Food-Processing,D,B,B
+Food-Processing,D,B,B
+Food-Processing,D,D,D
+Food-Processing,B,C,C
+Food-Processing,B,D,D
+Food-Processing,A,B,B
+Food-Processing,B,B,B
+Food-Processing,D,B,B
+Food-Processing,A,B,B
+Food-Processing,D,C,C
+Social-Welfare,B,C,C
+Social-Welfare,C,B,B: 0.279＜p＜0
+Social-Welfare,A,C,C
+Social-Welfare,A,C,C
+Social-Welfare,D,B,B
+Social-Welfare,D,C,C
+Social-Welfare,D,B,B
+Social-Welfare,A,B,B
+Social-Welfare,D,C,C
+Social-Welfare,D,D,D
+Social-Welfare,B,C,C
+Social-Welfare,D,B,B: 0.87
+Social-Welfare,B,C,C: 제1종 오류를 범
+Social-Welfare,D,D,D
+Social-Welfare,D,C,C: 13.3 戎 0.69
+Social-Welfare,B,C,C
+Social-Welfare,A,C,C
+Social-Welfare,B,C,C
+Social-Welfare,B,D,D
+Social-Welfare,B,B,B
+Social-Welfare,D,C,C: 0.45±0.0920
+Social-Welfare,D,D,D
+Social-Welfare,D,B,B
+Social-Welfare,D,D,D
+Social-Welfare,B,D,D
+Social-Welfare,B,D,D
+Social-Welfare,D,C,"C: 평균 :30,"
+Social-Welfare,C,D,D
+Social-Welfare,D,C,C
+Social-Welfare,B,D,D
+Social-Welfare,C,D,D
+Social-Welfare,D,D,"D: 남자 : 90명, 여자 :"
+Social-Welfare,C,B,B
+Social-Welfare,D,C,C
+Social-Welfare,B,C,C
+Social-Welfare,B,B,B: 0.025
+Social-Welfare,A,C,C
+Social-Welfare,C,B,B: 1.02
+Social-Welfare,B,B,B
+Social-Welfare,D,B,B
+Social-Welfare,B,D,D
+Social-Welfare,B,B,B
+Social-Welfare,B,B,B
+Social-Welfare,C,C,C
+Social-Welfare,A,D,D
+Social-Welfare,C,D,D
+Social-Welfare,C,B,B: 71.96
+Social-Welfare,C,D,D
+Social-Welfare,A,C,C
+Social-Welfare,B,C,C: 21%
+Social-Welfare,A,B,B: 0.04
+Social-Welfare,C,B,B: 1.03%
+Social-Welfare,C,D,D
+Social-Welfare,B,D,D
+Social-Welfare,C,D,D
+Social-Welfare,D,B,B: 324.3
+Social-Welfare,A,D,D
+Social-Welfare,C,C,C
+Social-Welfare,B,B,B
+Social-Welfare,A,B,B
+Social-Welfare,B,B,B
+Social-Welfare,C,B,"B: 90.48, 40"
+Social-Welfare,D,B,B
+Social-Welfare,C,C,C
+Social-Welfare,B,D,D
+Social-Welfare,D,D,D
+Social-Welfare,B,C,C
+Social-Welfare,A,B,"B: (42.54, 42.86)"
+Social-Welfare,D,C,C
+Social-Welfare,A,B,B
+Social-Welfare,B,C,C
+Social-Welfare,B,B,"B: 기대값 : 360,"
+Social-Welfare,C,B,B
+Social-Welfare,A,C,C
+Social-Welfare,B,A,A: 0.01
+Social-Welfare,C,B,B: 5개
+Social-Welfare,D,B,B
+Social-Welfare,A,A,A
+Social-Welfare,D,C,C
+Social-Welfare,D,C,C
+Social-Welfare,D,D,D
+Social-Welfare,C,B,B
+Social-Welfare,B,B,"B: (8.68, 11.32)"
+Social-Welfare,D,C,C
+Social-Welfare,D,D,D: 4개
+Social-Welfare,A,D,D
+Social-Welfare,A,B,B: 22±7.21
+Social-Welfare,B,B,B
+Social-Welfare,D,C,C
+Social-Welfare,A,C,C
+Social-Welfare,D,D,D
+Social-Welfare,B,B,B
+Social-Welfare,D,D,D
+Social-Welfare,C,D,D
+Social-Welfare,C,D,D
+Social-Welfare,B,A,A
+Social-Welfare,B,C,C
+Social-Welfare,C,C,C
+Social-Welfare,B,C,"C: 평균 : 3.0,"
+Social-Welfare,C,C,C
+Real-Estate,D,C,C
+Real-Estate,B,B,B
+Real-Estate,A,D,D
+Real-Estate,D,C,C
+Real-Estate,C,B,B
+Real-Estate,D,B,B
+Real-Estate,C,D,D
+Real-Estate,A,B,B: 50
+Real-Estate,D,C,C
+Real-Estate,C,C,C
+Real-Estate,C,A,A
+Real-Estate,D,D,D
+Real-Estate,D,D,D
+Real-Estate,D,C,C
+Real-Estate,D,D,D
+Real-Estate,B,D,D
+Real-Estate,D,B,B
+Real-Estate,C,D,D
+Real-Estate,A,C,C
+Real-Estate,B,C,C
+Real-Estate,A,C,C
+Real-Estate,A,C,C
+Real-Estate,B,C,C
+Real-Estate,D,D,D
+Real-Estate,B,D,D
+Real-Estate,C,D,D
+Real-Estate,C,B,B
+Real-Estate,D,B,B
+Real-Estate,C,D,D
+Real-Estate,B,C,C
+Real-Estate,D,D,D
+Real-Estate,D,B,B
+Real-Estate,D,C,C
+Real-Estate,A,D,D
+Real-Estate,C,D,D
+Real-Estate,D,B,B
+Real-Estate,A,D,D
+Real-Estate,D,D,D
+Real-Estate,D,D,D
+Real-Estate,A,D,D
+Real-Estate,A,B,B
+Real-Estate,B,D,D
+Real-Estate,D,D,D
+Real-Estate,A,B,B
+Real-Estate,C,C,C
+Real-Estate,B,D,D
+Real-Estate,A,D,D
+Real-Estate,D,D,D
+Real-Estate,D,C,C
+Real-Estate,D,B,B
+Real-Estate,D,D,D
+Real-Estate,B,D,D
+Real-Estate,B,B,B
+Real-Estate,B,C,C
+Real-Estate,A,D,D
+Real-Estate,D,D,D
+Real-Estate,B,C,C
+Real-Estate,B,C,C
+Real-Estate,C,D,D
+Real-Estate,B,C,C
+Real-Estate,C,D,D
+Real-Estate,B,D,D
+Real-Estate,D,D,D
+Real-Estate,A,B,B
+Real-Estate,B,C,C
+Real-Estate,B,C,C
+Real-Estate,B,C,C
+Real-Estate,A,D,D
+Real-Estate,D,D,D
+Real-Estate,C,D,D
+Real-Estate,B,D,D
+Real-Estate,A,D,D
+Real-Estate,D,B,B
+Real-Estate,A,C,C
+Real-Estate,D,D,D
+Real-Estate,D,D,D
+Real-Estate,C,B,B
+Real-Estate,C,D,D
+Real-Estate,C,C,C
+Real-Estate,D,D,D
+Real-Estate,B,D,D
+Real-Estate,B,D,D
+Real-Estate,C,D,D
+Real-Estate,B,D,D
+Real-Estate,B,C,C
+Real-Estate,D,B,B
+Real-Estate,B,C,C
+Real-Estate,D,B,B: 50 상승
+Real-Estate,A,D,D
+Marketing,D,B,B
+Marketing,C,A,A
+Marketing,A,C,C
+Marketing,B,B,B
+Marketing,B,D,D
+Marketing,A,B,B
+Marketing,B,D,D
+Marketing,B,B,B
+Marketing,D,D,D
+Marketing,A,D,D
+Marketing,C,B,B
+Marketing,A,C,C
+Marketing,C,B,B
+Marketing,D,D,D
+Marketing,C,C,C
+Marketing,D,D,D
+Marketing,C,C,C
+Marketing,B,C,C
+Marketing,A,D,D
+Marketing,B,D,D
+Marketing,C,C,C
+Marketing,B,B,B
+Marketing,D,D,D
+Marketing,A,C,C
+Marketing,D,D,D
+Marketing,B,C,C
+Marketing,C,D,D
+Marketing,D,D,D
+Marketing,A,B,B
+Marketing,A,D,D
+Marketing,B,A,A
+Marketing,D,B,B
+Marketing,D,D,D
+Marketing,A,C,C
+Marketing,D,D,D
+Marketing,B,D,D
+Marketing,D,C,C
+Marketing,A,B,B
+Marketing,B,D,D
+Marketing,A,A,A
+Marketing,D,A,A
+Marketing,B,B,B
+Marketing,D,D,D
+Marketing,C,B,B
+Marketing,C,C,C
+Marketing,D,C,C
+Marketing,D,D,D
+Marketing,D,A,A
+Marketing,B,D,D
+Marketing,A,C,C
+Marketing,C,B,B
+Marketing,D,C,C
+Marketing,B,D,D
+Marketing,C,B,B
+Marketing,C,A,A
+Marketing,C,C,C
+Marketing,A,D,D
+Marketing,C,C,C
+Marketing,D,B,B
+Marketing,C,A,A
+Marketing,C,C,C
+Marketing,B,C,C
+Marketing,A,B,B
+Marketing,D,D,D
+Marketing,A,D,D
+Marketing,D,D,D
+Marketing,A,C,C
+Marketing,A,D,D
+Marketing,B,D,D
+Marketing,A,B,B
+Marketing,B,D,D
+Marketing,D,C,C
+Marketing,C,C,C
+Marketing,C,C,C
+Marketing,D,C,C
+Marketing,D,C,C
+Marketing,D,B,B
+Marketing,B,D,D
+Marketing,D,C,C
+Marketing,B,A,A
+Marketing,A,C,C
+Marketing,A,A,A
+Marketing,D,D,D
+Marketing,C,A,A
+Marketing,A,C,C
+Marketing,D,D,D
+Marketing,A,B,B
+Marketing,A,C,C
+Marketing,B,D,D
+Marketing,C,C,C
+Marketing,D,B,B
+Marketing,C,B,B
+Marketing,A,D,D
+Marketing,B,D,D
+Marketing,D,D,D
+Marketing,C,C,C
+Marketing,D,C,C
+Marketing,D,B,B
+Marketing,B,C,C
+Marketing,C,D,D
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,B,A,A
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,A,B,B: 30%
+Mechanical-Engineering,B,B,B: 3.5/π
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,A,B,B
+Mechanical-Engineering,D,B,B: 1.7×10-5
+Mechanical-Engineering,A,B,B
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,C,B,B: 300
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,D,B,B: 1.57
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,D,D,D
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,C,D,D
+Mechanical-Engineering,A,B,B: 9.2
+Mechanical-Engineering,A,B,B
+Mechanical-Engineering,B,B,B: 60000kgf-m
+Mechanical-Engineering,C,B,B: 0.158
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,D,D,D
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,D,A,A
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,C,D,D
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,B,B: 78.5√n
+Mechanical-Engineering,B,B,B: 1.09×10-3 m
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,D,D,D
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,D,A,A
+Mechanical-Engineering,C,D,D
+Mechanical-Engineering,C,B,B: 450㎜
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,C,D,D
+Mechanical-Engineering,C,B,B: 2.0m
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,D,A,A
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,D,B,B: 5.00
+Mechanical-Engineering,B,B,B: 58.5
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,C,C,C
+Mechanical-Engineering,D,B,B: 약 317.70
+Mechanical-Engineering,C,B,B
+Mechanical-Engineering,B,C,C
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,D,D,D
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,B,B,B: 5.1
+Mechanical-Engineering,D,B,"B: T2=459.7 K, △"
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,B,D,D
+Mechanical-Engineering,B,B,B
+Mechanical-Engineering,D,B,B
+Mechanical-Engineering,D,C,C
+Mechanical-Engineering,A,B,B
+Fashion,C,D,D
+Fashion,B,B,B
+Fashion,A,B,B
+Fashion,C,B,B
+Fashion,D,C,C
+Fashion,C,C,C
+Fashion,A,C,C
+Fashion,B,B,B
+Fashion,B,B,B: {A.H} over {4}+3cm
+Fashion,D,B,B
+Fashion,B,B,B
+Fashion,C,D,D
+Fashion,D,B,B
+Fashion,B,B,B
+Fashion,C,C,C
+Fashion,D,C,C
+Fashion,A,D,D
+Fashion,A,B,B: 15℃
+Fashion,A,C,C
+Fashion,C,B,B
+Fashion,B,B,B
+Fashion,B,C,C
+Fashion,D,D,D
+Fashion,A,C,C
+Fashion,C,D,D
+Fashion,D,B,B
+Fashion,D,B,B
+Fashion,A,B,B
+Fashion,C,D,D
+Fashion,D,B,B
+Fashion,B,B,B
+Fashion,C,D,D
+Fashion,D,C,C
+Fashion,C,D,D
+Fashion,B,D,D
+Fashion,A,D,D
+Fashion,B,C,C
+Fashion,C,D,D
+Fashion,A,D,D
+Fashion,C,D,D
+Fashion,B,D,D
+Fashion,D,C,C
+Fashion,A,D,D
+Fashion,A,C,C
+Fashion,A,B,B
+Fashion,A,D,D
+Fashion,B,C,C
+Fashion,C,C,C
+Fashion,D,D,D
+Fashion,D,B,B
+Fashion,D,C,C
+Fashion,D,C,C
+Fashion,C,B,B
+Fashion,A,B,B
+Fashion,D,C,C
+Fashion,B,A,A
+Fashion,B,B,B
+Fashion,C,B,B
+Fashion,B,B,B
+Fashion,B,C,C
+Fashion,C,B,B
+Fashion,D,B,B
+Fashion,D,B,B
+Fashion,D,C,C
+Fashion,C,B,B: 100만원 이하의 과
+Fashion,C,C,C
+Fashion,B,C,C
+Fashion,B,D,D
+Fashion,C,D,D
+Fashion,B,C,C
+Fashion,B,B,B
+Fashion,A,B,B
+Fashion,D,D,D
+Fashion,D,C,C
+Fashion,B,C,C
+Fashion,B,D,D
+Fashion,B,D,D
+Fashion,A,B,B
+Fashion,D,B,B
+Fashion,A,D,D
+Fashion,D,C,C
+Fashion,A,C,C
+Fashion,D,B,B
+Fashion,C,C,C
+Fashion,D,B,B
+Fashion,B,B,B
+Fashion,C,A,A
+Fashion,C,B,B
+Fashion,A,C,C
+Fashion,A,B,B
+Fashion,B,B,B
+Fashion,A,D,D
+Fashion,C,D,D
+Fashion,A,D,D
+Fashion,C,D,D
+Fashion,A,C,C
+Fashion,D,D,D
+Fashion,D,C,C
+Fashion,C,D,D
+Fashion,D,C,C
+Psychology,A,B,B
+Psychology,D,C,C
+Psychology,A,B,B
+Psychology,B,C,C
+Psychology,A,D,D
+Psychology,B,D,D
+Psychology,B,B,B: 약 67.7%
+Psychology,B,C,C
+Psychology,A,C,C
+Psychology,C,C,C
+Psychology,A,B,B
+Psychology,B,C,C
+Psychology,B,C,C
+Psychology,D,C,C
+Psychology,B,C,C
+Psychology,B,D,D
+Psychology,C,B,B
+Psychology,C,D,D
+Psychology,D,C,C
+Psychology,C,D,D
+Psychology,B,D,D
+Psychology,A,B,B
+Psychology,B,D,D
+Psychology,B,D,D
+Psychology,D,C,C
+Psychology,B,D,D
+Psychology,A,C,C
+Psychology,C,B,B
+Psychology,C,D,D
+Psychology,D,D,D
+Psychology,B,A,A
+Psychology,A,C,C
+Psychology,D,D,D
+Psychology,D,C,C
+Psychology,D,D,D
+Psychology,D,C,C
+Psychology,A,C,C
+Psychology,A,C,C
+Psychology,D,C,C
+Psychology,C,C,C
+Psychology,B,D,D
+Psychology,A,D,D
+Psychology,D,C,C
+Psychology,D,D,D
+Psychology,B,D,D
+Psychology,B,D,D
+Psychology,B,C,C
+Psychology,B,B,B
+Psychology,A,B,B
+Psychology,D,D,D
+Psychology,D,B,B
+Psychology,D,D,D
+Psychology,D,C,C
+Psychology,A,C,C
+Psychology,B,D,D
+Psychology,C,C,C
+Psychology,A,C,C
+Psychology,B,D,D
+Psychology,A,C,C
+Psychology,A,B,B
+Psychology,A,B,B
+Psychology,B,D,D
+Psychology,A,C,C
+Psychology,B,D,D
+Psychology,B,A,A
+Psychology,D,B,B
+Psychology,D,C,C
+Psychology,B,C,C
+Psychology,C,D,D
+Psychology,A,D,D
+Psychology,A,B,B
+Psychology,B,B,B
+Psychology,D,D,D
+Psychology,B,D,D
+Psychology,A,D,D
+Psychology,D,B,B
+Psychology,A,B,B
+Psychology,C,B,B
+Psychology,B,D,D
+Psychology,A,B,B
+Psychology,D,D,D
+Psychology,A,C,C
+Psychology,B,D,D
+Psychology,A,D,D
+Psychology,A,D,D
+Psychology,D,C,C
+Psychology,A,C,C
+Psychology,C,D,D
+Psychology,A,C,C
+Psychology,D,B,B
+Psychology,D,B,B
+Psychology,B,C,C
+Psychology,A,D,D
+Psychology,B,D,D
+Psychology,D,B,B
+Psychology,A,C,C
+Psychology,A,D,D
+Psychology,C,D,D
+Psychology,D,D,D
+Psychology,D,B,B
+Taxation,A,C,C
+Taxation,D,C,C
+Taxation,A,C,C
+Taxation,D,D,D
+Taxation,C,D,D
+Taxation,A,C,C
+Taxation,B,D,D
+Taxation,D,C,C
+Taxation,B,D,D
+Taxation,A,D,D
+Taxation,A,C,C
+Taxation,A,C,C
+Taxation,D,D,D
+Taxation,D,D,D
+Taxation,A,C,C
+Taxation,B,C,C
+Taxation,A,D,D
+Taxation,A,C,C
+Taxation,C,D,D
+Taxation,B,C,C
+Taxation,B,C,C
+Taxation,A,D,D
+Taxation,C,D,D
+Taxation,D,C,C
+Taxation,C,D,D
+Taxation,A,B,B
+Taxation,D,D,D
+Taxation,B,D,D
+Taxation,C,C,C
+Taxation,C,D,D
+Taxation,D,C,C
+Taxation,A,D,D
+Taxation,A,C,C
+Taxation,B,D,D
+Taxation,D,B,B
+Taxation,C,D,D
+Taxation,C,C,C
+Taxation,B,D,D
+Taxation,C,C,C
+Taxation,B,B,B
+Taxation,B,D,D
+Taxation,D,C,C
+Taxation,C,D,D
+Taxation,C,D,D
+Taxation,D,D,D
+Taxation,B,D,D
+Taxation,B,D,D
+Taxation,A,D,D
+Taxation,A,D,D
+Taxation,D,C,C
+Taxation,C,D,D
+Taxation,A,C,C
+Taxation,C,B,B
+Taxation,D,C,C
+Taxation,B,C,C
+Taxation,D,B,B
+Taxation,A,C,C
+Taxation,A,B,B
+Taxation,C,D,D
+Taxation,A,B,B
+Taxation,A,C,C
+Taxation,B,B,B
+Taxation,C,D,D
+Taxation,C,D,D
+Taxation,A,D,D
+Taxation,D,B,B
+Taxation,D,D,D
+Taxation,C,D,D
+Taxation,A,B,B
+Taxation,C,B,B
+Taxation,C,D,D
+Taxation,B,D,D
+Taxation,D,C,C
+Taxation,B,D,D
+Taxation,A,B,B
+Taxation,B,B,B
+Taxation,B,C,C
+Taxation,D,D,D
+Taxation,C,D,D
+Taxation,B,B,B
+Taxation,B,A,A
+Taxation,A,D,D
+Taxation,B,B,B
+Taxation,D,B,B
+Taxation,D,D,D
+Taxation,D,C,C
+Taxation,A,D,D
+Taxation,A,C,C
+Taxation,C,D,D
+Taxation,C,D,D
+Taxation,C,D,D
+Taxation,C,D,D
+Taxation,B,D,D
+Taxation,B,C,C
+Taxation,D,C,C
+Taxation,B,C,C
+Environmental-Science,C,C,C
+Environmental-Science,D,B,B
+Environmental-Science,C,C,C
+Environmental-Science,C,B,B: 14 이하
+Environmental-Science,D,B,B
+Environmental-Science,C,B,B
+Environmental-Science,D,B,B: 약 3.6m3/sec
+Environmental-Science,D,D,D
+Environmental-Science,C,D,D
+Environmental-Science,B,D,D
+Environmental-Science,C,B,B: 76m3 air/kg-BOD
+Environmental-Science,C,C,C
+Environmental-Science,B,B,B: 10 이하
+Environmental-Science,D,B,B
+Environmental-Science,B,C,C
+Environmental-Science,C,C,C
+Environmental-Science,B,D,D
+Environmental-Science,C,D,D
+Environmental-Science,D,C,C
+Environmental-Science,B,B,B: 약 66ug/m3
+Environmental-Science,D,B,B: 260mg/L
+Environmental-Science,C,B,B: 48 mg/L\n\n해
+Environmental-Science,D,D,D
+Environmental-Science,C,C,C
+Environmental-Science,B,C,C
+Environmental-Science,D,B,B: 약 25
+Environmental-Science,B,B,B: 1.16
+Environmental-Science,C,B,B: 1.6m
+Environmental-Science,B,C,C
+Environmental-Science,C,B,B: 약 2.4
+Environmental-Science,B,D,D
+Environmental-Science,C,C,C
+Environmental-Science,B,B,B
+Environmental-Science,B,D,D
+Environmental-Science,D,C,C
+Environmental-Science,D,B,B: 약 28.2
+Environmental-Science,C,B,B: 약 320m3
+Environmental-Science,C,C,C
+Environmental-Science,D,C,C
+Environmental-Science,D,C,C
+Environmental-Science,C,B,B
+Environmental-Science,D,C,C
+Environmental-Science,C,B,B: 19.8 Sm3/Sm3
+Environmental-Science,D,D,D
+Environmental-Science,D,B,B
+Environmental-Science,B,B,B: 51.3kg/h
+Environmental-Science,B,C,C
+Environmental-Science,C,B,B
+Environmental-Science,C,B,B
+Environmental-Science,C,B,B
+Environmental-Science,B,D,D
+Environmental-Science,B,D,D
+Environmental-Science,C,B,B: 70일
+Environmental-Science,C,C,C
+Environmental-Science,C,D,D
+Environmental-Science,B,D,D
+Environmental-Science,D,B,B: 0.83 kg
+Environmental-Science,D,B,B: 약 5700
+Environmental-Science,C,C,C
+Environmental-Science,D,B,B: 7.64%
+Environmental-Science,B,C,C
+Environmental-Science,C,B,B
+Environmental-Science,C,B,"B: BOD 60mg/ℓ 이하, CO"
+Environmental-Science,C,B,B
+Environmental-Science,B,D,D
+Environmental-Science,D,B,B
+Environmental-Science,C,B,B
+Environmental-Science,C,B,B: 약 0.17m/min
+Environmental-Science,D,C,C
+Environmental-Science,B,C,C
+Environmental-Science,B,D,D
+Environmental-Science,C,B,B
+Environmental-Science,C,C,C
+Environmental-Science,C,D,D
+Environmental-Science,C,C,C
+Environmental-Science,C,D,D
+Environmental-Science,B,D,D
+Environmental-Science,B,B,B: 약 1.26 m/hr
+Environmental-Science,C,C,C
+Environmental-Science,A,D,D
+Environmental-Science,D,D,D
+Environmental-Science,D,B,B
+Environmental-Science,C,C,C
+Environmental-Science,C,B,B: 40 이하
+Environmental-Science,C,C,C
+Environmental-Science,D,B,B: 약 3.83
+Environmental-Science,D,B,B
+Environmental-Science,D,C,C
+Environmental-Science,D,D,D
+Environmental-Science,D,D,D
+Environmental-Science,C,D,D
+Environmental-Science,D,C,C
+Environmental-Science,D,B,B: 약 22
+Environmental-Science,C,B,B: 9 m3
+Environmental-Science,D,B,B: 12.9mg/L
+Environmental-Science,D,D,D
+Environmental-Science,B,B,B: 10.7
+Environmental-Science,D,C,C
+Environmental-Science,C,B,B
+Environmental-Science,C,D,D
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,A,B,B: 20
+Refrigerating-Machinery,D,D,D
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,C,B,B: 8.75㎏/h
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,D,B,B: 8.37
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,C,B,B
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,A,B,B: 7.5
+Refrigerating-Machinery,B,B,B: 39.76 RT
+Refrigerating-Machinery,C,B,B: 약 3.07 kJ/K
+Refrigerating-Machinery,C,C,C: 49.7℃
+Refrigerating-Machinery,B,C,C: 3708 ㎉/h
+Refrigerating-Machinery,D,B,B: 218℃
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,B,B: 3.7℃
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,C,B,B
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,B,B,B: -15℃
+Refrigerating-Machinery,A,C,C
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,B,B,B: 91.4kcal
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,D,C,C
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,D,B,B: 284
+Refrigerating-Machinery,A,C,C
+Refrigerating-Machinery,A,B,B: 175.2
+Refrigerating-Machinery,D,B,B: 10416.7
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,B,B,B: 3000 N ．m
+Refrigerating-Machinery,D,A,A
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,D,D,D
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,B,B
+Refrigerating-Machinery,B,B,B: 5℃
+Refrigerating-Machinery,D,B,B: 83.3℃
+Refrigerating-Machinery,B,A,A
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,C,B,B: 2.5kg/h
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,A,A,A
+Refrigerating-Machinery,B,B,B
+Refrigerating-Machinery,C,B,B
+Refrigerating-Machinery,D,C,C
+Refrigerating-Machinery,D,B,B: 157
+Refrigerating-Machinery,D,C,C
+Refrigerating-Machinery,D,B,B: 7.8 ℃
+Refrigerating-Machinery,D,B,B: 11.75m
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,C,B,B: 1.7kW
+Refrigerating-Machinery,D,B,B: 3.04
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,D,B,B: 1733.3kcal
+Refrigerating-Machinery,C,B,B
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,A,D,D
+Refrigerating-Machinery,B,B,B: 109.7kJ
+Refrigerating-Machinery,B,C,C
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,C,B,B
+Refrigerating-Machinery,B,B,B: 69.4
+Refrigerating-Machinery,B,D,D
+Refrigerating-Machinery,D,B,B
+Refrigerating-Machinery,B,B,B
+Refrigerating-Machinery,C,D,D
+Refrigerating-Machinery,D,C,C
+Refrigerating-Machinery,C,C,C
+Refrigerating-Machinery,D,C,C
+Education,A,D,D
+Education,D,B,B
+Education,B,D,D
+Education,A,C,C
+Education,C,D,D
+Education,C,B,B
+Education,D,D,D
+Education,C,C,C
+Education,B,D,D
+Education,B,C,C
+Education,A,D,D
+Education,B,B,B
+Education,A,D,D
+Education,D,B,B
+Education,B,D,D
+Education,B,D,D
+Education,D,D,D
+Education,B,C,C
+Education,C,B,B
+Education,C,C,C
+Education,B,D,D
+Education,B,A,A
+Education,B,C,C
+Industrial-Engineer,B,B,B
+Industrial-Engineer,C,C,C
+Industrial-Engineer,B,B,B
+Industrial-Engineer,A,C,C
+Industrial-Engineer,C,C,"C: 4배, 150mm"
+Industrial-Engineer,C,C,C
+Industrial-Engineer,C,C,C
+Industrial-Engineer,D,C,C
+Industrial-Engineer,C,B,B
+Industrial-Engineer,B,C,C
+Industrial-Engineer,D,D,D
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,C,C
+Industrial-Engineer,B,C,C
+Industrial-Engineer,B,C,C
+Industrial-Engineer,C,A,A
+Industrial-Engineer,C,D,D
+Industrial-Engineer,D,C,C
+Industrial-Engineer,D,B,B
+Industrial-Engineer,B,D,D
+Industrial-Engineer,B,B,B
+Industrial-Engineer,C,C,C
+Industrial-Engineer,D,C,C
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,D,D
+Industrial-Engineer,D,D,D
+Industrial-Engineer,C,B,B
+Industrial-Engineer,C,D,D
+Industrial-Engineer,D,A,A
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,B,B
+Industrial-Engineer,C,C,C
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,D,D
+Industrial-Engineer,D,C,C
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,C,C
+Industrial-Engineer,C,B,B
+Industrial-Engineer,D,C,C
+Industrial-Engineer,C,B,B: 3.5㎝이하
+Industrial-Engineer,C,D,D
+Industrial-Engineer,C,B,B: 1414
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,C,C
+Industrial-Engineer,D,A,A
+Industrial-Engineer,C,B,B: 18[mA]
+Industrial-Engineer,B,C,C
+Industrial-Engineer,A,C,C
+Industrial-Engineer,D,B,B
+Industrial-Engineer,B,B,B
+Industrial-Engineer,C,C,C
+Industrial-Engineer,B,C,C
+Industrial-Engineer,C,A,A
+Industrial-Engineer,C,D,D
+Industrial-Engineer,B,D,D
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,C,C
+Industrial-Engineer,C,B,B: 0.02%
+Industrial-Engineer,C,B,B: 2πfoXcosø
+Industrial-Engineer,B,C,"C: 25㎝, 오목"
+Industrial-Engineer,C,B,B
+Industrial-Engineer,B,D,D
+Industrial-Engineer,D,B,"B: 1,200"
+Industrial-Engineer,B,D,D
+Industrial-Engineer,B,D,D
+Industrial-Engineer,C,D,D
+Industrial-Engineer,D,C,C
+Industrial-Engineer,D,D,D
+Industrial-Engineer,C,C,C
+Industrial-Engineer,B,D,D
+Industrial-Engineer,C,A,A
+Industrial-Engineer,C,D,D
+Industrial-Engineer,D,D,D
+Industrial-Engineer,D,C,C
+Industrial-Engineer,C,C,C: 4.75×10-7W/m2
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,C,C
+Industrial-Engineer,A,B,B
+Industrial-Engineer,D,C,C: 9.2
+Industrial-Engineer,B,B,B
+Industrial-Engineer,B,C,C
+Industrial-Engineer,C,C,C
+Industrial-Engineer,B,C,C
+Industrial-Engineer,D,B,B
+Industrial-Engineer,B,B,B
+Industrial-Engineer,C,D,D
+Industrial-Engineer,C,B,B: 0.03
+Industrial-Engineer,B,B,B
+Industrial-Engineer,C,B,B
+Industrial-Engineer,C,B,B
+Industrial-Engineer,B,D,D
+Industrial-Engineer,B,B,B
+Industrial-Engineer,D,A,A
+Industrial-Engineer,D,B,B: 2.55
+Industrial-Engineer,D,C,C
+Industrial-Engineer,D,B,B: 12.02
+Industrial-Engineer,D,B,B
+Industrial-Engineer,D,B,B
+Civil-Engineering,B,B,B: 15m
+Civil-Engineering,B,B,B: 0.486m
+Civil-Engineering,D,B,B: 1/200
+Civil-Engineering,D,B,B
+Civil-Engineering,C,D,D
+Civil-Engineering,C,D,D
+Civil-Engineering,C,D,D
+Civil-Engineering,C,B,B
+Civil-Engineering,D,B,B
+Civil-Engineering,C,B,B
+Civil-Engineering,B,C,C
+Civil-Engineering,D,B,B: 387mm
+Civil-Engineering,D,B,"B: 약 42,500m3/"
+Civil-Engineering,B,C,C
+Civil-Engineering,D,B,B: 0.215 kg/cm2
+Civil-Engineering,D,B,B
+Civil-Engineering,C,C,C
+Civil-Engineering,B,D,D
+Civil-Engineering,C,D,D
+Civil-Engineering,B,B,B
+Civil-Engineering,D,B,B
+Civil-Engineering,B,D,D
+Civil-Engineering,C,D,D
+Civil-Engineering,B,B,B: 0.26 m
+Civil-Engineering,D,B,B: 2420m
+Civil-Engineering,D,D,D
+Civil-Engineering,B,C,C
+Civil-Engineering,D,B,B: 11.3kN ∙ m
+Civil-Engineering,D,B,B
+Civil-Engineering,D,C,C
+Civil-Engineering,B,C,C
+Civil-Engineering,B,B,B
+Civil-Engineering,B,C,C
+Civil-Engineering,C,B,B: 50 mg/L
+Civil-Engineering,A,B,B: 52.4
+Civil-Engineering,D,D,D
+Civil-Engineering,D,B,B: 47.6 m3/day
+Civil-Engineering,B,C,C
+Civil-Engineering,C,B,B
+Civil-Engineering,D,B,B: 9.26m3/sec
+Civil-Engineering,A,B,B
+Civil-Engineering,B,D,D
+Civil-Engineering,D,D,D
+Civil-Engineering,B,A,A
+Civil-Engineering,B,C,C
+Civil-Engineering,B,C,C
+Civil-Engineering,D,C,C
+Civil-Engineering,D,B,B: 3.37×10^6 kg/cm^
+Civil-Engineering,B,D,D
+Civil-Engineering,D,C,C
+Civil-Engineering,B,B,B
+Civil-Engineering,A,D,D
+Civil-Engineering,B,C,C
+Civil-Engineering,C,D,D
+Civil-Engineering,B,B,B
+Civil-Engineering,D,C,C
+Civil-Engineering,B,C,C
+Civil-Engineering,B,C,C
+Civil-Engineering,D,B,B
+Civil-Engineering,B,A,A
+Civil-Engineering,D,B,B: 32.274m2
+Civil-Engineering,C,A,A: 36000m3/day
+Civil-Engineering,B,D,D
+Civil-Engineering,D,B,B
+Civil-Engineering,D,B,B: 327.320m
+Civil-Engineering,B,C,C
+Civil-Engineering,D,B,B
+Civil-Engineering,C,B,B
+Civil-Engineering,B,C,C
+Civil-Engineering,B,B,B
+Civil-Engineering,B,B,B
+Civil-Engineering,D,D,D
+Civil-Engineering,C,B,"B: 500,000m3"
+Civil-Engineering,B,B,B
+Civil-Engineering,D,B,B
+Civil-Engineering,B,C,C
+Civil-Engineering,B,A,A
+Civil-Engineering,B,D,D
+Civil-Engineering,B,C,C: 2.6㎜
+Civil-Engineering,D,B,B: 0.215kg/cm2
+Civil-Engineering,D,B,B: 15 미터
+Civil-Engineering,D,C,C: 4.8mm
+Civil-Engineering,D,B,B
+Civil-Engineering,D,A,A
+Civil-Engineering,D,C,C
+Civil-Engineering,D,C,C
+Civil-Engineering,D,D,D
+Civil-Engineering,D,B,B
+Civil-Engineering,C,D,D
+Civil-Engineering,B,C,C
+Civil-Engineering,B,B,B
+Civil-Engineering,B,D,D
+Civil-Engineering,D,C,C
+Civil-Engineering,C,D,D
+Civil-Engineering,C,B,B: 3.28 kg/cm2
+Civil-Engineering,C,C,C
+Civil-Engineering,D,C,C
+Civil-Engineering,D,D,D
+Civil-Engineering,C,B,B: 0.732
+Civil-Engineering,B,C,C
+Energy-Management,C,D,D
+Energy-Management,A,B,B: 3.63
+Energy-Management,B,D,D
+Energy-Management,B,B,B
+Energy-Management,A,B,B: 18.8
+Energy-Management,B,B,B
+Energy-Management,C,D,D
+Energy-Management,A,C,C
+Energy-Management,C,B,"B: 1,684 kg/h"
+Energy-Management,B,D,D
+Energy-Management,A,B,B: 19.5
+Energy-Management,B,D,D
+Energy-Management,C,B,B
+Energy-Management,D,B,B: 0.75mm
+Energy-Management,C,B,B: Q = 7.33 × 10-5
+Energy-Management,B,C,C
+Energy-Management,B,B,B: 11.9 mmH2O
+Energy-Management,B,C,C
+Energy-Management,C,C,C
+Energy-Management,D,B,B
+Energy-Management,D,B,B
+Energy-Management,B,B,B: 2.42cal/℃
+Energy-Management,A,B,B
+Energy-Management,D,B,B
+Energy-Management,A,B,B
+Energy-Management,C,B,B: 1756
+Energy-Management,B,B,B: 7.3x10^6[㎉/
+Energy-Management,A,B,B: 0.361
+Energy-Management,B,B,B: 9.98
+Energy-Management,A,C,C
+Energy-Management,C,B,B: 17.8PS
+Energy-Management,B,B,B: 23.1
+Energy-Management,D,B,B: 93.7
+Energy-Management,C,C,C
+Energy-Management,A,A,A
+Energy-Management,A,B,B
+Energy-Management,A,B,B: -344㎉
+Energy-Management,B,C,C
+Energy-Management,C,D,D
+Energy-Management,A,B,B
+Energy-Management,D,B,B
+Energy-Management,A,C,C
+Energy-Management,B,C,C
+Energy-Management,B,D,D
+Energy-Management,D,B,B
+Energy-Management,C,B,B
+Energy-Management,A,C,C
+Energy-Management,A,B,B: 1.96
+Energy-Management,B,C,C
+Energy-Management,B,D,D
+Energy-Management,C,C,C
+Energy-Management,B,B,B
+Energy-Management,C,C,C
+Energy-Management,C,A,A: 76.7
+Energy-Management,A,B,B: 3.23
+Energy-Management,C,C,C
+Energy-Management,C,B,B
+Energy-Management,B,A,A
+Energy-Management,B,D,D
+Energy-Management,D,D,D
+Energy-Management,C,B,B
+Energy-Management,A,D,D
+Energy-Management,A,C,C
+Energy-Management,C,C,C
+Energy-Management,C,D,D
+Energy-Management,B,C,C
+Energy-Management,B,D,D
+Energy-Management,B,C,C
+Energy-Management,A,C,C
+Energy-Management,B,D,D
+Energy-Management,B,B,B
+Energy-Management,B,D,D: 전열효율 : 7
+Energy-Management,C,C,C
+Energy-Management,D,B,B
+Energy-Management,A,B,B
+Energy-Management,D,B,B: 19.7
+Energy-Management,A,C,C
+Energy-Management,B,D,D
+Energy-Management,B,D,D
+Energy-Management,B,D,D
+Energy-Management,D,B,B
+Energy-Management,D,B,B
+Energy-Management,A,B,B
+Energy-Management,B,B,B: 14.7
+Energy-Management,B,B,B: 74.9%
+Energy-Management,C,B,B: 38.9%
+Energy-Management,B,C,C
+Energy-Management,B,C,C
+Energy-Management,A,B,B
+Energy-Management,B,A,A
+Energy-Management,B,B,B
+Energy-Management,B,B,B: 0.12℃
+Energy-Management,B,B,B
+Energy-Management,D,B,B
+Energy-Management,B,C,C
+Energy-Management,B,C,C
+Energy-Management,B,C,C
+Energy-Management,B,D,D
+Energy-Management,D,B,B: 3.56
+Energy-Management,C,B,B
+Law,A,C,C
+Law,B,B,B
+Law,A,B,B
+Law,D,D,D
+Law,A,C,C
+Law,A,D,D
+Law,A,B,B
+Law,B,D,D
+Law,B,D,D
+Law,B,D,D
+Law,B,C,C
+Law,B,B,B
+Law,A,D,D
+Law,C,B,B
+Law,B,B,B
+Law,C,D,D
+Law,B,B,B
+Law,C,B,B
+Law,A,B,B
+Law,D,D,D
+Law,C,D,D
+Law,A,B,B
+Law,C,C,C
+Law,D,C,C
+Law,C,B,B
+Law,D,B,B
+Law,B,D,D
+Law,D,B,B
+Law,A,A,A
+Law,C,C,C
+Law,D,C,C
+Law,D,D,D
+Law,D,D,D
+Law,D,D,D
+Law,B,C,C
+Law,C,D,D
+Law,B,D,D
+Law,A,D,D
+Law,D,D,D
+Law,D,D,D
+Law,C,D,D
+Law,B,D,D
+Law,B,D,D
+Law,C,B,B
+Law,A,D,D
+Law,C,D,D
+Law,A,B,B
+Law,D,D,D
+Law,D,B,B
+Law,C,D,D
+Law,A,A,A
+Law,A,D,D
+Law,C,D,D
+Law,B,B,B
+Law,B,D,D
+Law,C,C,C
+Law,B,C,C
+Law,B,B,B
+Law,A,D,D
+Law,A,D,D
+Law,C,B,B
+Law,B,B,B
+Law,A,B,B
+Law,C,D,D
+Law,B,D,D
+Law,D,D,D
+Law,B,D,D
+Law,C,C,C
+Law,A,B,B
+Law,A,D,D
+Law,C,A,A
+Law,C,D,D
+Law,B,D,D
+Law,C,B,B
+Law,D,D,D
+Law,D,C,C
+Law,A,B,B
+Law,D,D,D
+Law,B,D,D
+Law,A,C,C
+Law,B,D,D
+Law,B,C,C
+Law,C,D,D
+Law,A,D,D
+Law,B,B,B
+Law,B,C,C
+Law,C,D,D
+Law,C,B,B
+Law,A,B,B
+Law,D,D,D
+Law,C,D,D
+Law,B,B,B
+Law,B,C,C
+Law,B,C,C
+Law,D,D,D
+Law,A,B,B
+Law,A,C,C
+Law,B,D,D
+Law,C,C,C
+Law,B,D,D
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,C,D,D
+Agricultural-Sciences,D,B,B: 35%/day
+Agricultural-Sciences,B,C,C: 방습포장 종자
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,D,B,B: 약 1/400
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,C,D,D
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,A,C,C
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,C,A,A
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,A,D,D
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,A,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,B,A,A
+Agricultural-Sciences,A,C,C
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,A,A,A
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,A,C,C
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,C,C,C
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,C,D,D
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,D,B,B: 2.7 × 10^4 kg
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,B,B,"B: 39,900cc"
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,A,D,D
+Agricultural-Sciences,B,C,C
+Agricultural-Sciences,A,D,D
+Agricultural-Sciences,D,B,B
+Agricultural-Sciences,A,C,C
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,A,D,D
+Agricultural-Sciences,D,D,D
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,B,B,B: 60일
+Agricultural-Sciences,C,A,A
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,B,D,D
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,C,D,D
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,C,B,B
+Agricultural-Sciences,A,B,B
+Agricultural-Sciences,B,B,B
+Agricultural-Sciences,D,C,C
+Agricultural-Sciences,A,C,C
+Interior-Architecture-And-Design,D,C,C
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,D,B,B
+Interior-Architecture-And-Design,D,B,B
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,A,D,D
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,C,A,A
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,D,B,B: 3cm 이상
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,A,C,C
+Interior-Architecture-And-Design,B,B,B: 1000ppm이하
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,A,C,C
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,A,C,C
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,D,A,A
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,A,C,C
+Interior-Architecture-And-Design,C,B,"B: 2,000m2 이내마다"
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,A,B,B: 2000m 이상
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,D,C,C
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,B,"B: 색상 5R, 명도 8"
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,D,B,B
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,D,B,B
+Interior-Architecture-And-Design,A,D,D
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,D,A,A
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,D,C,C
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,B,B,B: 300 ~ 500
+Interior-Architecture-And-Design,B,A,A
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,D,B,B
+Interior-Architecture-And-Design,C,C,C
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,B,C,C
+Interior-Architecture-And-Design,A,D,D
+Interior-Architecture-And-Design,C,D,D
+Interior-Architecture-And-Design,B,B,B: 약 1800 kg/cm2
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,B,B,B
+Interior-Architecture-And-Design,B,D,D
+Interior-Architecture-And-Design,D,C,C
+Interior-Architecture-And-Design,D,D,D
+Interior-Architecture-And-Design,C,B,B
+Interior-Architecture-And-Design,C,B,B: 거실 바닥 면
+Interior-Architecture-And-Design,B,D,D
+Aviation-Engineering-And-Maintenance,C,B,B: 18.7
+Aviation-Engineering-And-Maintenance,D,C,C: 10000rpm
+Aviation-Engineering-And-Maintenance,C,C,C
+Aviation-Engineering-And-Maintenance,D,A,A
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,B,B: 240
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,A,D,D
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,A,B,B
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,A,C,C
+Aviation-Engineering-And-Maintenance,D,A,A
+Aviation-Engineering-And-Maintenance,C,A,A
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,C,B,"B: Dp = 80㎏f,D ="
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,A,B,B: 70.2
+Aviation-Engineering-And-Maintenance,D,B,B: 16.90
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,A,D,D
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,C,C
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,A,D,D
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,A,D,D
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,A,B,B
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,C,C,C
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,C,B,B
+Aviation-Engineering-And-Maintenance,C,A,A
+Aviation-Engineering-And-Maintenance,B,C,C
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,B,A,A
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,D,B,B
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,D,A,A: 0.080 인치
+Aviation-Engineering-And-Maintenance,C,D,D
+Aviation-Engineering-And-Maintenance,D,D,D
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,C,C
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,B,B,B
+Aviation-Engineering-And-Maintenance,D,A,A
+Aviation-Engineering-And-Maintenance,B,D,D
+Aviation-Engineering-And-Maintenance,A,B,B: 5/16 inch이하
+Aviation-Engineering-And-Maintenance,A,B,B
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,C,C,C
+Aviation-Engineering-And-Maintenance,D,C,C
+Aviation-Engineering-And-Maintenance,D,C,C
+Construction,B,D,D
+Construction,C,B,B
+Construction,D,B,B
+Construction,D,B,B
+Construction,D,C,C
+Construction,A,D,D
+Construction,D,C,C
+Construction,C,C,C
+Construction,D,C,C
+Construction,D,B,B
+Construction,B,B,B: 3m 이상
+Construction,C,C,C
+Construction,C,D,D
+Construction,B,D,D
+Construction,D,B,B
+Construction,B,B,B
+Construction,B,D,D
+Construction,C,B,B
+Construction,B,B,B
+Construction,B,D,D
+Construction,D,D,D
+Construction,C,C,C
+Construction,C,C,C
+Construction,C,B,B
+Construction,D,C,C
+Construction,B,D,D
+Construction,D,B,B
+Construction,D,B,B: 3V / 2A
+Construction,C,B,B: 비탈면적의 1/4
+Construction,B,D,D
+Construction,D,B,B: 16.5kJ
+Construction,B,D,D
+Construction,D,B,B: 33 tonf· m
+Construction,D,C,C
+Construction,C,C,C
+Construction,D,B,B
+Construction,B,B,B
+Construction,B,D,D
+Construction,D,C,C
+Construction,B,B,B
+Construction,D,D,D
+Construction,C,C,C
+Construction,B,D,D
+Construction,D,C,C
+Construction,D,B,B
+Construction,D,B,B
+Construction,C,C,C
+Construction,D,B,B
+Construction,B,B,B
+Construction,C,B,B: 4600 kJ/h
+Construction,C,B,B: 153.2㎜
+Construction,B,C,C
+Construction,C,D,D
+Construction,B,B,B
+Construction,C,B,B
+Construction,D,C,C
+Construction,B,D,D
+Construction,D,B,B
+Construction,B,D,D
+Construction,B,D,D
+Construction,D,D,D
+Construction,C,D,D
+Construction,A,B,B
+Construction,D,C,C
+Construction,C,B,B: 97.7
+Construction,B,B,B
+Construction,D,C,C
+Construction,D,B,B
+Construction,C,C,C
+Construction,D,C,C
+Construction,D,C,C
+Construction,C,C,C
+Construction,B,B,B
+Construction,C,C,C
+Construction,D,C,C
+Construction,C,A,A
+Construction,B,B,B: 116 W
+Construction,D,B,B
+Construction,B,B,B
+Construction,B,D,D
+Construction,B,D,D
+Construction,B,D,D
+Construction,D,C,C
+Construction,D,D,D
+Construction,D,C,C
+Construction,B,D,D
+Construction,C,D,D
+Construction,C,C,C
+Construction,B,C,C
+Construction,B,C,C
+Construction,A,C,C
+Construction,C,C,C
+Construction,B,D,D
+Construction,B,C,C
+Construction,C,B,B
+Construction,B,C,C
+Construction,D,D,D
+Construction,C,D,D
+Construction,D,B,B
+Construction,D,D,D
+Economics,D,D,D
+Economics,B,C,C
+Economics,D,B,"B: 110,000원"
+Economics,B,D,D
+Economics,C,B,"B: 비용이 60,000원 과"
+Economics,D,D,D
+Economics,D,C,C
+Economics,A,C,C
+Economics,C,C,C
+Economics,A,D,D
+Economics,C,C,C
+Economics,B,B,B: (차) 미수수익 : 10
+Economics,C,B,"B: 1,020,000원"
+Economics,B,B,B
+Economics,C,A,A
+Economics,D,B,B
+Economics,A,D,D
+Economics,A,B,B
+Economics,A,B,B
+Economics,A,C,C
+Economics,C,C,C
+Economics,D,C,C
+Economics,A,B,B
+Economics,B,D,D
+Economics,A,C,C
+Economics,D,B,B
+Economics,A,D,D
+Economics,B,D,D
+Economics,A,D,D
+Economics,A,C,C
+Economics,A,B,B: 유형자산처분
+Economics,A,D,D
+Economics,B,B,"B: 200,000원 과소"
+Economics,B,D,D
+Economics,D,B,B
+Economics,B,C,C
+Economics,A,D,D
+Economics,D,C,C
+Economics,B,C,C
+Economics,D,D,D
+Economics,C,B,B
+Economics,D,C,C

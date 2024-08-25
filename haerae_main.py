@@ -64,25 +64,32 @@ def get_answer(x) -> str:
     return x["answer"].upper().strip()
 
 
-def get_prompt_template():
-    system_prompt = """You are an AI assistant who reads a given question and solves multiple choice questions.
-    You don't need to write a detailed explanation of your answer in sentences. Just answer in one word."""
-    system_message_template = SystemMessagePromptTemplate.from_template(system_prompt)
-    human_prompt = [
-        {
-            "type": "text",
-            "text": "{question}"
-        },
-    ]
-    human_message_template = HumanMessagePromptTemplate.from_template(human_prompt)
-
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            system_message_template,
-            human_message_template
+def get_prompt_template(template_type):
+    
+    if template_type == "basic":
+        prompt = PromptTemplate.from_template("{question}")
+    elif template_type == "chat":
+        system_prompt = """You are an AI assistant who reads a given question and solves multiple choice questions.
+        You don't need to write a detailed explanation of your answer in sentences. Just answer in one word."""
+        system_message_template = SystemMessagePromptTemplate.from_template(system_prompt)
+        human_prompt = [
+            {
+                "type": "text",
+                "text": "{question}"
+            },
         ]
-    )
+        human_message_template = HumanMessagePromptTemplate.from_template(human_prompt)
+
+        prompt = ChatPromptTemplate.from_messages(
+            [
+                system_message_template,
+                human_message_template
+            ]
+        )        
+    else:
+        raise Exception("Invalid 'template_type' value. Please choose from ['basic', 'chat']")
     return prompt
+
 
 
 def get_answer(x) -> str:
@@ -169,7 +176,7 @@ def benchmark(args):
 
     all_batch = [{"category": x["category"], "question": get_prompt(x), "answer": get_answer(x)} for x in tqdm(haerae_ds)]    
     responses = []
-    prompt_template = get_prompt_template()
+    prompt_template = get_prompt_template(args.template_type)
     chain = prompt_template | llm | CustomStrOutputParser()
 
     logger.info(f"====== [START] Generate answers to questions given by LLM. =====")
@@ -224,7 +231,7 @@ def benchmark(args):
     logger.info(f"====== [START] Evaluation end =====")
 
 
-def evaluate(csv_path="results/[HAERAE] gpt-4o-mini-2024-07-18.csv"):
+def evaluate(csv_path):
 
     result = pd.read_csv(csv_path)
     result["correct"] = result["answer"] == result["pred"]
@@ -239,14 +246,14 @@ def evaluate(csv_path="results/[HAERAE] gpt-4o-mini-2024-07-18.csv"):
 
     os.makedirs("evals", exist_ok=True)
     filename = csv_path.split("/")[-1].split(".")[0]
-    category_avg.to_csv(f"evals/[HAERAE] eval-{filename}.csv", index=False)
+    category_avg.to_csv(f"evals/{filename}-eval.csv", index=False)
 
 
 if __name__ == "__main__":
     load_dotenv()
     parser = argparse.ArgumentParser(description='Options')
 
-    parser.add_argument("--is_debug", type=bool, default=False)
+    parser.add_argument("--is_debug", type=bool, default=True)
     parser.add_argument("--num_debug_samples", type=int, default=20)
     parser.add_argument("--model_provider", type=str, default="azureopenai")
     parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
@@ -254,10 +261,14 @@ if __name__ == "__main__":
     parser.add_argument("--max_retries", type=int, default=3)
     parser.add_argument("--max_tokens", type=int, default=256)
     parser.add_argument("--temperature", type=float, default=0.01)
+    parser.add_argument("--template_type", type=str, default="basic")    
     
     args = parser.parse_args()
     valid_providers = ["azureopenai", "openai", "azureml", "huggingface"]
-    assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
+    assert args.model_provider in valid_providers, f"Invalid 'model_provider' value. Please choose from {valid_providers}."
+    
+    valid_template_types = ["basic", "chat"]
+    assert args.template_type in valid_template_types, f"Invalid 'template_type' value. Please choose from {valid_template_types}."
 
     logger.info(args)
     benchmark(args)
