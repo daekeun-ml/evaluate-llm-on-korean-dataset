@@ -61,34 +61,40 @@ def get_answer(x) -> str:
     return x["answer"].upper().strip()
 
 
-def get_prompt_template():
-    system_prompt = """You are an AI assistant who reads a given question and solves multiple choice questions.
-    You don't need to write a detailed explanation of your answer in sentences. Just answer in one word."""
-    system_message_template = SystemMessagePromptTemplate.from_template(system_prompt)
-    human_prompt = [
-        {
-            "type": "text",
-            "text": "{question}"
-        },
-    ]
-    human_message_template = HumanMessagePromptTemplate.from_template(human_prompt)
-
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            system_message_template,
-            human_message_template
-        ]
-    )
-    return prompt
-
-
-def get_answer(x) -> str:
-    return x["answer"].upper().strip()
-
-
 def map_answer(answer):
     answer_mapping = {1: 'A', 2: 'B', 3: 'C', 4: 'D'}
     return answer_mapping[answer]
+
+
+def convert_to_pascal_case(category):
+    return '-'.join(word.capitalize() for word in category.split('_'))
+
+
+def get_prompt_template(template_type):
+    
+    if template_type == "basic":
+        prompt = PromptTemplate.from_template("{question}")
+    elif template_type == "chat":
+        system_prompt = """You are an AI assistant who reads a given question and solves multiple choice questions.
+        You don't need to write a detailed explanation of your answer in sentences. Just answer in one word."""
+        system_message_template = SystemMessagePromptTemplate.from_template(system_prompt)
+        human_prompt = [
+            {
+                "type": "text",
+                "text": "{question}"
+            },
+        ]
+        human_message_template = HumanMessagePromptTemplate.from_template(human_prompt)
+
+        prompt = ChatPromptTemplate.from_messages(
+            [
+                system_message_template,
+                human_message_template
+            ]
+        )        
+    else:
+        raise Exception("Invalid 'template_type' value. Please choose from ['basic', 'chat']")
+    return prompt
 
 
 def benchmark(args):
@@ -102,6 +108,34 @@ def benchmark(args):
     batch_size = args.batch_size
     max_tokens = args.max_tokens
     temperature = args.temperature
+
+    if args.is_hard:
+        hf_dataset_id = "HAERAE-HUB/KMMLU"
+        dataset_name = "KMMLU"
+        kmmlu_category = [
+            'Accounting', 'Agricultural-Sciences', 'Aviation-Engineering-and-Maintenance', 'Biology', 'Chemical-Engineering', 'Chemistry', 
+            'Civil-Engineering', 'Computer-Science', 'Construction', 'Criminal-Law', 'Ecology', 'Economics', 'Education', 
+            'Electrical-Engineering', 'Electronics-Engineering', 'Energy-Management', 'Environmental-Science', 'Fashion', 
+            'Food-Processing', 'Gas-Technology-and-Engineering', 'Geomatics', 'Health', 'Industrial-Engineer', 'Information-Technology', 
+            'Interior-Architecture-and-Design', 'Korean-History', 'Law', 'Machine-Design-and-Manufacturing', 'Management', 
+            'Maritime-Engineering', 'Marketing', 'Materials-Engineering', 'Math', 'Mechanical-Engineering', 'Nondestructive-Testing', 
+            'Patent', 'Political-Science-and-Sociology', 'Psychology', 'Public-Safety', 'Railway-and-Automotive-Engineering', 
+            'Real-Estate', 'Refrigerating-Machinery', 'Social-Welfare', 'Taxation', 'Telecommunications-and-Wireless-Technology'
+        ]
+    
+    else:
+        hf_dataset_id = "HAERAE-HUB/KMMLU-HARD"
+        dataset_name = "KMMLU-HARD"
+        kmmlu_category = [
+            'accounting', 'agricultural_sciences', 'aviation_engineering_and_maintenance', 'biology', 'chemical_engineering', 'chemistry', 
+            'civil_engineering', 'computer_science', 'construction', 'criminal_law', 'ecology', 'economics', 'education', 
+            'electrical_engineering', 'electronics_engineering', 'energy_management', 'environmental_science', 'fashion', 
+            'food_processing', 'gas_technology_and_engineering', 'geomatics', 'health', 'industrial_engineer', 'information_technology', 
+            'interior_architecture_and_design', 'korean_history', 'law', 'machine_design_and_manufacturing', 'management', 
+            'maritime_engineering', 'marketing', 'materials_engineering', 'math', 'mechanical_engineering', 'nondestructive_testing', 
+            'patent', 'political_science_and_sociology', 'psychology', 'public_safety', 'railway_and_automotive_engineering', 
+            'real_estate', 'refrigerating_machinery', 'social_welfare', 'taxation', 'telecommunications_and_wireless_technology'
+        ]
 
     if args.model_provider == "azureopenai":
         logger.info("Using Azure OpenAI model provider.")
@@ -152,38 +186,34 @@ def benchmark(args):
             }              
         )
 
+    if args.hf_private_dataset is not None:
+        kmmlu_ds = load_dataset(args.hf_private_dataset)["train"]
+    else:
+        # Initialize an empty list to store the datasets
+        kmmlu_ds_list = []
 
-    # Initialize an empty list to store the datasets
-    kmmlu_ds_list = []
-    kmmlu_category = [
-        'Accounting', 'Agricultural-Sciences', 'Aviation-Engineering-and-Maintenance', 'Biology', 'Chemical-Engineering', 'Chemistry', 
-        'Civil-Engineering', 'Computer-Science', 'Construction', 'Criminal-Law', 'Ecology', 'Economics', 'Education', 
-        'Electrical-Engineering', 'Electronics-Engineering', 'Energy-Management', 'Environmental-Science', 'Fashion', 
-        'Food-Processing', 'Gas-Technology-and-Engineering', 'Geomatics', 'Health', 'Industrial-Engineer', 'Information-Technology', 
-        'Interior-Architecture-and-Design', 'Law', 'Machine-Design-and-Manufacturing', 'Management', 'Maritime-Engineering', 
-        'Marketing', 'Materials-Engineering', 'Mechanical-Engineering', 'Nondestructive-Testing', 'Patent', 
-        'Political-Science-and-Sociology', 'Psychology', 'Public-Safety', 'Railway-and-Automotive-Engineering', 'Real-Estate', 
-        'Refrigerating-Machinery', 'Social-Welfare', 'Taxation', 'Telecommunications-and-Wireless-Technology', 'Korean-History', 'Math'
-    ]
+        # Load the datasets and append to the list with their respective categories
+        for c in kmmlu_category:
+            ds = load_dataset(hf_dataset_id, c)["test"]
+            df = ds.to_pandas()
+            df["category"] = c
+            kmmlu_ds_list.append(df)
 
-    # Load the datasets and append to the list with their respective categories
-    for c in kmmlu_category:
-        ds = load_dataset("HAERAE-HUB/KMMLU", c)["test"]
-        df = ds.to_pandas()
-        df["category"] = c
-        kmmlu_ds_list.append(df)
+        # Concatenate all the dataframes into a single dataframe
+        combined_df = pd.concat(kmmlu_ds_list, ignore_index=True)
+        kmmlu_ds = Dataset.from_pandas(combined_df)
 
-    # Concatenate all the dataframes into a single dataframe
-    combined_df = pd.concat(kmmlu_ds_list, ignore_index=True)
-    kmmlu_ds = Dataset.from_pandas(combined_df)
-    kmmlu_ds = kmmlu_ds.map(lambda x: {'answer': map_answer(x['answer'])})
+        if args.is_hard:
+            kmmlu_ds = kmmlu_ds.map(lambda x: {'category': convert_to_pascal_case(x['category'])})    
+
+        kmmlu_ds = kmmlu_ds.map(lambda x: {'answer': map_answer(x['answer'])}) 
 
     if IS_DEBUG:
         kmmlu_ds = kmmlu_ds.select(range(num_debug_samples))
 
     all_batch = [{"category": x["category"], "question": get_prompt(x), "answer": get_answer(x)} for x in tqdm(kmmlu_ds)]    
     responses = []
-    prompt_template = get_prompt_template()
+    prompt_template = get_prompt_template(args.template_type)
     chain = prompt_template | llm | CustomStrOutputParser()
 
     logger.info(f"====== [START] Generate answers to questions given by LLM. =====")
@@ -229,7 +259,7 @@ def benchmark(args):
 
     df = pd.DataFrame(responses)
     os.makedirs("results", exist_ok=True)
-    csv_path = f"results/[HAERAE] {MODEL_NAME}-{MODEL_VERSION}.csv"
+    csv_path = f"results/[{dataset_name}] {MODEL_NAME}-{MODEL_VERSION}.csv"
     logger.info(f"====== Generated CSV file - CSV_PATH: {csv_path} =====")
     df.to_csv(csv_path, index=False)
 
@@ -238,7 +268,7 @@ def benchmark(args):
     logger.info(f"====== [START] Evaluation end =====")
 
 
-def evaluate(csv_path="results/[KMMLU] gpt-4o-mini-2024-07-18.csv"):
+def evaluate(csv_path):
 
     result = pd.read_csv(csv_path)
     result["correct"] = result["answer"] == result["pred"]
@@ -253,7 +283,7 @@ def evaluate(csv_path="results/[KMMLU] gpt-4o-mini-2024-07-18.csv"):
 
     os.makedirs("evals", exist_ok=True)
     filename = csv_path.split("/")[-1].split(".")[0]
-    category_avg.to_csv(f"evals/[HAERAE] eval-{filename}.csv", index=False)
+    category_avg.to_csv(f"evals/{filename}-eval.csv", index=False)
 
 
 if __name__ == "__main__":
@@ -268,10 +298,17 @@ if __name__ == "__main__":
     parser.add_argument("--max_retries", type=int, default=3)
     parser.add_argument("--max_tokens", type=int, default=256)
     parser.add_argument("--temperature", type=float, default=0.01)
-    
+    parser.add_argument("--template_type", type=str, default="basic")
+    parser.add_argument("--is_hard", type=str, default=True)
+    parser.add_argument("--hf_private_dataset", type=str, default=None)
+
     args = parser.parse_args()
+
     valid_providers = ["azureopenai", "openai", "azureml", "huggingface"]
-    assert args.model_provider in valid_providers, f"Invalid model_provider value. Please choose from {valid_providers}."
+    assert args.model_provider in valid_providers, f"Invalid 'model_provider' value. Please choose from {valid_providers}."
+    
+    valid_template_types = ["basic", "chat"]
+    assert args.template_type in valid_template_types, f"Invalid 'template_type' value. Please choose from {valid_template_types}."
 
     logger.info(args)
     benchmark(args)
