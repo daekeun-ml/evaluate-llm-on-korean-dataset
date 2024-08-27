@@ -10,7 +10,7 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 from datasets import Dataset, load_dataset
 
-from prompts import TYPE_1, TYPE_2, TYPE_3, TYPE_4
+from prompts import TYPE_1, TYPE_2, TYPE_3, TYPE_4, TYPE_MMLU_FEW_SHOT
 from langchain_openai import AzureChatOpenAI, ChatOpenAI
 from langchain_huggingface import HuggingFaceEndpoint
 from langchain.schema.output_parser import StrOutputParser
@@ -47,15 +47,37 @@ class CustomStrOutputParser(StrOutputParser):
         return pred, response
 
 
-def get_prompt(x) -> str:
-    return TYPE_2.format(
-        QUESTION=x["question"],
-        A=x["A"],
-        B=x["B"],
-        C=x["C"],
-        D=x["D"],
-    )
+def generate_few_shots_prompt(data):
+    prompt = ""
+    for i, row in enumerate(data):
+        prompt += f"## Example {i+1}:\n"
+        prompt += f"Category: {row['category']}\n"
+        prompt += f"질문 (Question): {row['question']}\n"
+        prompt += f"보기 (Options)\nA: {row['A']}, B: {row['B']}, C: {row['C']}, D: {row['D']}\n"
+        prompt += f"정답 (Answer): {row['answer']}\n\n"
+    return prompt
 
+
+def get_prompt(x, few_shots=None) -> str:
+    if few_shots is None:
+        return TYPE_2.format(
+            CATEGORY=x["category"],
+            QUESTION=x["question"],
+            A=x["A"],
+            B=x["B"],
+            C=x["C"],
+            D=x["D"],
+        )        
+    else:
+        return TYPE_MMLU_FEW_SHOT.format(
+            FEW_SHOTS=few_shots,
+            CATEGORY=x["category"],
+            QUESTION=x["question"],
+            A=x["A"],
+            B=x["B"],
+            C=x["C"],
+            D=x["D"],
+        )
 
 def get_answer(x) -> str:
     return x["answer"].upper().strip()
@@ -103,6 +125,7 @@ def benchmark(args):
     MAX_RETRIES = args.max_retries
     DELAY_INCREMENT = 30
     MODEL_VERSION = None
+    FEW_SHOTS = "5shot" if args.use_few_shots else "0shot"
 
     num_debug_samples = args.num_debug_samples
     batch_size = args.batch_size
@@ -110,20 +133,6 @@ def benchmark(args):
     temperature = args.temperature
 
     if args.is_hard:
-        hf_dataset_id = "HAERAE-HUB/KMMLU"
-        dataset_name = "KMMLU"
-        kmmlu_category = [
-            'Accounting', 'Agricultural-Sciences', 'Aviation-Engineering-and-Maintenance', 'Biology', 'Chemical-Engineering', 'Chemistry', 
-            'Civil-Engineering', 'Computer-Science', 'Construction', 'Criminal-Law', 'Ecology', 'Economics', 'Education', 
-            'Electrical-Engineering', 'Electronics-Engineering', 'Energy-Management', 'Environmental-Science', 'Fashion', 
-            'Food-Processing', 'Gas-Technology-and-Engineering', 'Geomatics', 'Health', 'Industrial-Engineer', 'Information-Technology', 
-            'Interior-Architecture-and-Design', 'Korean-History', 'Law', 'Machine-Design-and-Manufacturing', 'Management', 
-            'Maritime-Engineering', 'Marketing', 'Materials-Engineering', 'Math', 'Mechanical-Engineering', 'Nondestructive-Testing', 
-            'Patent', 'Political-Science-and-Sociology', 'Psychology', 'Public-Safety', 'Railway-and-Automotive-Engineering', 
-            'Real-Estate', 'Refrigerating-Machinery', 'Social-Welfare', 'Taxation', 'Telecommunications-and-Wireless-Technology'
-        ]
-    
-    else:
         hf_dataset_id = "HAERAE-HUB/KMMLU-HARD"
         dataset_name = "KMMLU-HARD"
         kmmlu_category = [
@@ -136,6 +145,20 @@ def benchmark(args):
             'patent', 'political_science_and_sociology', 'psychology', 'public_safety', 'railway_and_automotive_engineering', 
             'real_estate', 'refrigerating_machinery', 'social_welfare', 'taxation', 'telecommunications_and_wireless_technology'
         ]
+    
+    else:
+        hf_dataset_id = "HAERAE-HUB/KMMLU"
+        dataset_name = "KMMLU"
+        kmmlu_category = [
+            'Accounting', 'Agricultural-Sciences', 'Aviation-Engineering-and-Maintenance', 'Biology', 'Chemical-Engineering', 'Chemistry', 
+            'Civil-Engineering', 'Computer-Science', 'Construction', 'Criminal-Law', 'Ecology', 'Economics', 'Education', 
+            'Electrical-Engineering', 'Electronics-Engineering', 'Energy-Management', 'Environmental-Science', 'Fashion', 
+            'Food-Processing', 'Gas-Technology-and-Engineering', 'Geomatics', 'Health', 'Industrial-Engineer', 'Information-Technology', 
+            'Interior-Architecture-and-Design', 'Korean-History', 'Law', 'Machine-Design-and-Manufacturing', 'Management', 
+            'Maritime-Engineering', 'Marketing', 'Materials-Engineering', 'Math', 'Mechanical-Engineering', 'Nondestructive-Testing', 
+            'Patent', 'Political-Science-and-Sociology', 'Psychology', 'Public-Safety', 'Railway-and-Automotive-Engineering', 
+            'Real-Estate', 'Refrigerating-Machinery', 'Social-Welfare', 'Taxation', 'Telecommunications-and-Wireless-Technology'
+        ]        
 
     if args.model_provider == "azureopenai":
         logger.info("Using Azure OpenAI model provider.")
@@ -186,86 +209,107 @@ def benchmark(args):
             }              
         )
 
-    if args.hf_private_dataset is not None:
-        kmmlu_ds = load_dataset(args.hf_private_dataset)["train"]
-    else:
-        # Initialize an empty list to store the datasets
-        kmmlu_ds_list = []
-
-        # Load the datasets and append to the list with their respective categories
-        for c in kmmlu_category:
-            ds = load_dataset(hf_dataset_id, c)["test"]
-            df = ds.to_pandas()
-            df["category"] = c
-            kmmlu_ds_list.append(df)
-
-        # Concatenate all the dataframes into a single dataframe
-        combined_df = pd.concat(kmmlu_ds_list, ignore_index=True)
-        kmmlu_ds = Dataset.from_pandas(combined_df)
-
-        if args.is_hard:
-            kmmlu_ds = kmmlu_ds.map(lambda x: {'category': convert_to_pascal_case(x['category'])})    
-
-        kmmlu_ds = kmmlu_ds.map(lambda x: {'answer': map_answer(x['answer'])}) 
-
-    if IS_DEBUG:
-        kmmlu_ds = kmmlu_ds.select(range(num_debug_samples))
-
-    all_batch = [{"category": x["category"], "question": get_prompt(x), "answer": get_answer(x)} for x in tqdm(kmmlu_ds)]    
-    responses = []
-    prompt_template = get_prompt_template(args.template_type)
-    chain = prompt_template | llm | CustomStrOutputParser()
-
     logger.info(f"====== [START] Generate answers to questions given by LLM. =====")
+    if args.use_few_shots:
+        logger.info(f"===== Use Few-shots Prompt.")
+    else:
+        logger.info(f"===== Use Zero-shot Prompt.") 
     logger.info(f"====== deployment name: {MODEL_NAME}, model version: {MODEL_VERSION} =====")
-    t0 = time.time()
+    responses = []
+    
+    # Load the datasets and append to the list with their respective categories
+    for c in kmmlu_category:
+        logger.info(f"##### Category [{c}] Processing...") 
+        ds_dict = load_dataset(hf_dataset_id, c)
 
-    with tqdm(total=len(all_batch), desc="Processing Answers") as pbar:
+        # For few-shot prompts, we need to generate a prompt with examples
+        ds_dev = ds_dict["dev"]
+        ds_dev = ds_dev.map(lambda x: {'answer': map_answer(x['answer'])})
+        if args.is_hard:        
+            ds_dev = ds_dev.map(lambda x: {'category': convert_to_pascal_case(x['category'])})                
+        else:
+            ds_dev = ds_dev.rename_column("Category", "category")
 
-        for i in range(0, len(all_batch), batch_size):
-            mini_batch = all_batch[i:i+batch_size]
-            retries = 0
-            
-            while retries <= MAX_RETRIES:
-                try:
-                    preds = chain.batch(mini_batch, {"max_concurrency": batch_size})
-                    # If no exception, add questions and answers to all_answers
-                    for qna, pred in zip(mini_batch, preds):
-                        responses.append({"category": qna["category"], "answer": qna["answer"], "pred": pred[0], "response": pred[1]})
-                    break  # Exit the retry loop once successful
-                except RateLimitError as rate_limit_error:
-                    delay = (retries + 1) * DELAY_INCREMENT
-                    logger.warning(f"{rate_limit_error}. Retrying in {delay} seconds...")
-                    time.sleep(delay)
-                    retries += 1
+        ds = ds_dict["test"]
+        ds = ds.map(lambda x: {'answer': map_answer(x['answer'])})
+        if args.is_hard:
+            ds = ds.map(lambda x: {'category': convert_to_pascal_case(x['category'])})                   
+        else:
+            ds = ds.rename_column("Category", "category")    
+    
+        if IS_DEBUG:
+            ds = ds.select(range(num_debug_samples))
 
-                    if retries > MAX_RETRIES:
-                        logger.error(f"Max retries reached this batch. Skipping to next batch.")
+        if args.use_few_shots:
+            few_shots = generate_few_shots_prompt(ds_dev)
+        else:
+            few_shots = None
+
+        #all_batch = [{"category": x["category"], "question": get_prompt(x, few_shots), "answer": get_answer(x)} for x in tqdm(ds)]   
+        all_batch = [{"category": c, "question": get_prompt(x, few_shots), "answer": get_answer(x)} for x in tqdm(ds)]   
+
+        prompt_template = get_prompt_template(args.template_type)
+        chain = prompt_template | llm | CustomStrOutputParser()
+
+        t0 = time.time()
+
+        with tqdm(total=len(all_batch), desc="Processing Answers") as pbar:
+
+            for i in range(0, len(all_batch), batch_size):
+                mini_batch = all_batch[i:i+batch_size]
+                retries = 0
+                
+                while retries <= MAX_RETRIES:
+                    try:
+                        preds = chain.batch(mini_batch, {"max_concurrency": batch_size})
+                        # If no exception, add questions and answers to all_answers
+                        for qna, pred in zip(mini_batch, preds):
+                            responses.append({"category": qna["category"], "answer": qna["answer"], "pred": pred[0], "response": pred[1]})
+                        break  # Exit the retry loop once successful
+                    except RateLimitError as rate_limit_error:
+                        delay = (retries + 1) * DELAY_INCREMENT
+                        logger.warning(f"{rate_limit_error}. Retrying in {delay} seconds...")
+                        time.sleep(delay)
+                        retries += 1
+
+                        if retries > MAX_RETRIES:
+                            logger.error(f"Max retries reached this batch. Skipping to next batch.")
+                            break
+                    except openai.BadRequestError as e:
+                        logger.error(f"BadRequestError: {e}. Skipping this batch.")
+                        logger.info(f"Question: {qna['question']}")
                         break
-                except openai.BadRequestError as e:
-                    logger.error(f"BadRequestError: {e}. Skipping this batch.")
-                    logger.info(f"Question: {qna['question']}")
-                    break
-                except Exception as e:
-                    logger.error(f"Error in process_inputs: {e}")
-                    break            
-            
-            pbar.set_postfix({"current_batch": f"{i//batch_size + 1}/{(len(all_batch) + (batch_size-1))//batch_size}"})
-            pbar.update(len(mini_batch))
+                    except Exception as e:
+                        logger.error(f"Error in process_inputs: {e}")
+                        break            
+                
+                pbar.set_postfix({"current_batch": f"{i//batch_size + 1}/{(len(all_batch) + (batch_size-1))//batch_size}"})
+                pbar.update(len(mini_batch))
 
-    t1 = time.time()
-    timespan = format_timespan(t1 - t0)
-    logger.info(f"===== [DONE] Generating Answer dataset took {timespan}")
+        t1 = time.time()
+        acc = evaluate_each_category(responses, c)
+        timespan = format_timespan(t1 - t0)
+        logger.info(f"##### Category [{c}] accuracy: {acc}") 
+        logger.info(f"##### Generating Answers for Category [{c}] took {timespan}")
 
+    logger.info("====== [DONE] Completed Generating Answers to Questions given by LLM. =====")
     df = pd.DataFrame(responses)
     os.makedirs("results", exist_ok=True)
-    csv_path = f"results/[{dataset_name}] {MODEL_NAME}-{MODEL_VERSION}.csv"
+    csv_path = f"results/[{dataset_name}] {MODEL_NAME}-{MODEL_VERSION}-{FEW_SHOTS}.csv"
     logger.info(f"====== Generated CSV file - CSV_PATH: {csv_path} =====")
     df.to_csv(csv_path, index=False)
 
     logger.info(f"====== [START] Evaluation start - CSV_PATH: {csv_path} =====")
     evaluate(csv_path)
     logger.info(f"====== [START] Evaluation end =====")
+
+
+def evaluate_each_category(responses, category):
+    df = pd.DataFrame(responses)
+    df = df[df["category"] == category]
+    df["correct"] = df["answer"] == df["pred"]
+    acc = round(df["correct"].mean()*100, 2)
+    return acc
 
 
 def evaluate(csv_path):
@@ -290,8 +334,8 @@ if __name__ == "__main__":
     load_dotenv()
     parser = argparse.ArgumentParser(description='Options')
 
-    parser.add_argument("--is_debug", type=bool, default=False)
-    parser.add_argument("--num_debug_samples", type=int, default=20)
+    parser.add_argument("--is_debug", type=bool, default=True)
+    parser.add_argument("--num_debug_samples", type=int, default=10)
     parser.add_argument("--model_provider", type=str, default="azureopenai")
     parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
     parser.add_argument("--batch_size", type=int, default=10)
@@ -300,7 +344,7 @@ if __name__ == "__main__":
     parser.add_argument("--temperature", type=float, default=0.01)
     parser.add_argument("--template_type", type=str, default="basic")
     parser.add_argument("--is_hard", type=str, default=False)
-    parser.add_argument("--hf_private_dataset", type=str, default=None)
+    parser.add_argument("--use_few_shots", type=str, default=True)    
 
     args = parser.parse_args()
 
