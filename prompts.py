@@ -37,7 +37,6 @@ TYPE_MMLU_FEW_SHOT = """주어진 질문을 천천히 읽고, 적절한 정답�
 
 {FEW_SHOTS}
 
-Category: {CATEGORY}
 질문 (Question): {QUESTION}
 보기 (Options):
 A: {A}, B: {B}, C: {C}, D: {D}

@@ -907,7 +907,7 @@ Math,A,A,A: 6
 Math,B,B,B
 Math,C,B,B: 2
 Math,A,B,B
-Math,C,,정답 (Answer): B
+Math,C,B,정답 (Answer): B
 Math,A,A,A
 Math,A,B,B
 Math,D,B,B
@@ -1457,7 +1457,7 @@ Ecology,C,,"질문에 주어진 정보를 바탕으로 합리식을 이용하여
 \[ A = 10 \times"
 Ecology,C,B,B
 Ecology,B,B,B: 약 85700명
-Ecology,B,,정답 (Answer): C
+Ecology,B,C,정답 (Answer): C
 Ecology,B,B,B
 Ecology,B,C,C
 Ecology,B,D,D
@@ -1584,7 +1584,7 @@ Patent,C,B,B
 Patent,C,D,D
 Patent,B,D,D
 Patent,C,C,C
-Patent,C,,정답 (Answer): D
+Patent,C,D,정답 (Answer): D
 Patent,B,D,D
 Patent,B,B,B
 Patent,D,C,C
@@ -1836,7 +1836,7 @@ Korean-History,B,B,B
 Korean-History,A,D,D
 Korean-History,C,B,B
 Korean-History,A,D,D
-Korean-History,B,,정답 (Answer): A
+Korean-History,B,A,정답 (Answer): A
 Korean-History,D,C,C
 Korean-History,C,B,B
 Korean-History,B,B,B
@@ -2113,7 +2113,7 @@ Chemical-Engineering,A,A,A: 5.2
 Chemical-Engineering,D,D,D
 Chemical-Engineering,D,B,B
 Chemical-Engineering,D,B,B: 8wt%
-Chemical-Engineering,B,,정답 (Answer): B
+Chemical-Engineering,B,B,정답 (Answer): B
 Chemical-Engineering,B,B,B
 Chemical-Engineering,D,B,B: 3
 Chemical-Engineering,D,A,A
@@ -2466,7 +2466,7 @@ Social-Welfare,D,B,B
 Social-Welfare,C,C,C
 Social-Welfare,C,B,B
 Social-Welfare,B,B,B
-Social-Welfare,B,,정답 (Answer): C
+Social-Welfare,B,C,정답 (Answer): C
 Social-Welfare,C,D,D: 9/32
 Social-Welfare,B,A,A
 Social-Welfare,C,B,B
@@ -2713,7 +2713,7 @@ Mechanical-Engineering,B,A,A
 Mechanical-Engineering,C,B,B
 Mechanical-Engineering,B,B,B
 Mechanical-Engineering,B,A,A: 62.5√n
-Mechanical-Engineering,B,,정답 (Answer): B
+Mechanical-Engineering,B,B,정답 (Answer): B
 Mechanical-Engineering,B,B,B
 Mechanical-Engineering,B,B,B: 0.48°
 Mechanical-Engineering,B,D,D
@@ -2756,7 +2756,7 @@ Mechanical-Engineering,B,C,C
 Mechanical-Engineering,D,C,C
 Mechanical-Engineering,B,B,B
 Mechanical-Engineering,B,B,B
-Mechanical-Engineering,D,,정답 (Answer): D
+Mechanical-Engineering,D,D,정답 (Answer): D
 Mechanical-Engineering,D,C,C: 84.4
 Mechanical-Engineering,A,A,A
 Fashion,C,D,D
@@ -3100,7 +3100,7 @@ Environmental-Science,D,D,D
 Environmental-Science,C,B,B: 19.8 Sm3/Sm3
 Environmental-Science,D,B,B
 Environmental-Science,D,D,D
-Environmental-Science,B,,정답 (Answer): B
+Environmental-Science,B,B,정답 (Answer): B
 Environmental-Science,B,C,C
 Environmental-Science,C,C,C
 Environmental-Science,C,B,B
@@ -3293,7 +3293,7 @@ Industrial-Engineer,D,A,A
 Industrial-Engineer,C,A,A: 0.5 ㎜
 Industrial-Engineer,D,D,D
 Industrial-Engineer,D,D,D
-Industrial-Engineer,D,,정답 (Answer): B
+Industrial-Engineer,D,B,정답 (Answer): B
 Industrial-Engineer,B,A,A
 Industrial-Engineer,B,B,B
 Industrial-Engineer,C,B,B
@@ -3353,7 +3353,7 @@ Industrial-Engineer,C,B,B
 Industrial-Engineer,B,B,B
 Industrial-Engineer,B,A,A
 Industrial-Engineer,D,C,C
-Industrial-Engineer,D,,정답 (Answer): B
+Industrial-Engineer,D,B,정답 (Answer): B
 Industrial-Engineer,D,C,C
 Industrial-Engineer,D,B,B: 12.02
 Industrial-Engineer,D,C,C
@@ -3430,7 +3430,7 @@ Civil-Engineering,B,C,C
 Civil-Engineering,B,B,B
 Civil-Engineering,B,B,B
 Civil-Engineering,D,B,B
-Civil-Engineering,C,,정답 (Answer): B
+Civil-Engineering,C,B,정답 (Answer): B
 Civil-Engineering,B,D,D
 Civil-Engineering,D,B,B: 27“
 Civil-Engineering,B,C,C
@@ -3484,7 +3484,7 @@ Energy-Management,A,A,A: 90
 Energy-Management,D,B,B
 Energy-Management,A,A,A
 Energy-Management,C,C,C: 1856
-Energy-Management,B,,정답 (Answer): B
+Energy-Management,B,B,정답 (Answer): B
 Energy-Management,A,B,B
 Energy-Management,B,B,B
 Energy-Management,A,A,A
@@ -3493,7 +3493,7 @@ Energy-Management,B,B,B
 Energy-Management,D,C,C
 Energy-Management,C,C,C
 Energy-Management,A,A,A
-Energy-Management,A,,정답 (Answer): A
+Energy-Management,A,A,정답 (Answer): A
 Energy-Management,A,A,A: 344㎉
 Energy-Management,B,B,B
 Energy-Management,C,C,C
@@ -3503,7 +3503,7 @@ Energy-Management,A,C,C
 Energy-Management,B,B,B
 Energy-Management,B,D,D
 Energy-Management,D,B,B
-Energy-Management,C,,정답 (Answer): B
+Energy-Management,C,B,정답 (Answer): B
 Energy-Management,A,B,B
 Energy-Management,A,B,B
 Energy-Management,B,B,B: 1.2m
@@ -4010,7 +4010,7 @@ Construction,D,C,C: 13대
 Construction,B,C,C
 Construction,B,C,C
 Construction,D,B,B
-Construction,B,,정답 (Answer): B
+Construction,B,B,정답 (Answer): B
 Construction,D,D,D
 Construction,C,D,D
 Construction,B,D,D
@@ -4072,7 +4072,7 @@ Construction,C,A,A
 Construction,D,D,D
 Construction,D,C,C
 Economics,D,D,D
-Economics,B,,정답 (Answer): D
+Economics,B,D,정답 (Answer): D
 Economics,D,B,"B: 110,000원"
 Economics,B,C,C
 Economics,C,C,C

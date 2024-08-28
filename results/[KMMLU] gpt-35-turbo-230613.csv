@@ -9427,7 +9427,7 @@ Electrical-Engineering,C,D,D
 Electrical-Engineering,B,C,C
 Electrical-Engineering,C,B,B
 Electrical-Engineering,D,C,C
-Electrical-Engineering,B,,정답 (Answer): C
+Electrical-Engineering,B,C,정답 (Answer): C
 Electrical-Engineering,B,B,B
 Electrical-Engineering,C,B,B
 Electrical-Engineering,D,B,B
@@ -23435,7 +23435,7 @@ Maritime-Engineering,D,D,D
 Maritime-Engineering,B,A,A
 Maritime-Engineering,C,B,B
 Maritime-Engineering,C,C,C
-Maritime-Engineering,A,,정답 (Answer): C
+Maritime-Engineering,A,C,정답 (Answer): C
 Maritime-Engineering,D,B,B
 Maritime-Engineering,A,C,C: 5db
 Maritime-Engineering,B,B,B
@@ -25967,7 +25967,7 @@ Mechanical-Engineering,C,A,A: 네이벌 황동(naval brass)
 Mechanical-Engineering,D,A,A
 Mechanical-Engineering,D,B,B
 Mechanical-Engineering,B,B,B
-Mechanical-Engineering,C,,정답 (Answer): A
+Mechanical-Engineering,C,A,정답 (Answer): A
 Mechanical-Engineering,C,C,C
 Mechanical-Engineering,C,C,C
 Mechanical-Engineering,B,C,C
@@ -32364,7 +32364,7 @@ Social-Welfare,C,C,C: 0.488
 Social-Welfare,B,B,B
 Social-Welfare,B,C,C
 Social-Welfare,C,A,A
-Social-Welfare,C,,정답 (Answer): B
+Social-Welfare,C,B,정답 (Answer): B
 Social-Welfare,D,B,B
 Social-Welfare,C,C,C
 Social-Welfare,B,C,C: 1/12
@@ -34574,7 +34574,7 @@ Math,D,C,C
 Math,D,A,A: 4
 Math,D,C,C: 2015
 Math,C,C,C: 15
-Math,C,,정답 (Answer): A
+Math,C,A,정답 (Answer): A
 Math,B,C,C
 Math,B,C,C: -3
 Math,B,C,C
@@ -34606,7 +34606,7 @@ Math,B,C,C
 Math,C,C,C
 Math,D,C,C: 7/27
 Math,C,A,A
-Math,D,,정답 (Answer): A
+Math,D,A,정답 (Answer): A
 Math,B,C,C: 1024
 Math,A,C,C: 16
 Math,C,C,C
@@ -34721,7 +34721,7 @@ Math,A,B,B
 Math,B,C,C: 13
 Math,A,C,C
 Math,A,C,C: 2√2
-Math,C,,정답 (Answer): C
+Math,C,C,정답 (Answer): C
 Math,C,C,C
 Math,A,B,B: 4√2
 Math,D,C,C: 36

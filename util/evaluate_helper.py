@@ -1,11 +1,22 @@
-import os
+import re
 import json
-import argparse
+import numpy as np
 import pandas as pd
 
 def convert_to_pascal_case(category):
     exceptions = {'and'} 
     return '-'.join(word.capitalize() if word.lower() not in exceptions else word.lower() for word in category.split('-'))
+
+
+def extract_single_alphabet_answer(row):
+    pred = row['pred']
+    
+    if isinstance(pred, float) and np.isnan(pred) or (isinstance(pred, str) and len(pred.strip()) == 0):
+        match = re.search(r'정답(?: \(Answer\))?: (\w)', row['response'])
+        return match.group(1) if match else None
+    else:
+        return pred
+    
 
 def evaluate(csv_path, dataset="CLIcK", verbose=False):
     
@@ -83,7 +94,7 @@ def get_markdown_accuracy_with_overall(exp_group, *dfs, overall_acc):
     return md
 
 
-def print_experiments(dataset, csv_path_dict):
+def get_experiments_md(dataset, csv_path_dict, postfix=None):
     exp_group = list(csv_path_dict.keys())
     overall_acc = [None]*len(csv_path_dict)
     category_acc = [None]*len(csv_path_dict)
@@ -92,20 +103,24 @@ def print_experiments(dataset, csv_path_dict):
     for idx, (k, csv_path) in enumerate(csv_path_dict.items()):
         overall_acc[idx], category_acc[idx], supercategory_acc[idx] = evaluate(csv_path_dict[k], dataset)
 
-        
+    if postfix is None:
+        title = f"### {dataset}\n\n" 
+    else:
+        title = f"### {dataset} ({postfix})\n\n"         
+
     if dataset == "HAERAE":
         category_acc_md = get_markdown_accuracy_with_overall(
             exp_group, *category_acc, overall_acc=overall_acc
         )
-        str_md = f"### {dataset}\n\n" 
+        str_md = title
         str_md += f"#### Accuracy by category\n" + category_acc_md         
     else:
         category_acc_md = get_markdown_accuracy(exp_group, *category_acc)
         supercategory_acc_md = get_markdown_accuracy_with_overall(
             exp_group, *supercategory_acc, overall_acc=overall_acc
         )
-        str_md = f"### {dataset}\n\n" 
+        str_md = title
         str_md += f"#### Accuracy by supercategory\n" + supercategory_acc_md + "\n\n"
         str_md += f"#### Accuracy by category\n" + category_acc_md
 
-    print(str_md)
+    return str_md

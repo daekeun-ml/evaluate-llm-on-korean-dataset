@@ -1,0 +1,4231 @@
+category,answer,pred,response
+accounting,B,C,"C: 25 60
+
+설명:"
+accounting,A,C,"C: ￦ 585,000"
+accounting,A,D,D
+accounting,B,B,B: 개별 판매가
+accounting,B,D,D
+accounting,D,B,B
+accounting,A,B,"B: ￦340,000"
+accounting,A,D,D: 20× 3년 말 해
+accounting,A,B,B: 정부가 부과하는 방식의
+accounting,B,D,D: 자산은 과소계상되
+accounting,A,D,"D: ￦1,000 과소"
+accounting,D,D,D: 금융자산 평가
+accounting,A,C,"C: ￦ 12,200"
+accounting,B,D,D
+accounting,D,C,C
+accounting,B,C,"C: ￦ 25,000"
+accounting,D,B,B: 당기손실
+accounting,C,B,B: 비용의 성격별
+accounting,B,A,A: 평가이익 ￦
+accounting,A,D,D
+accounting,D,D,D: 20× 1년 말 인식
+accounting,D,D,D
+accounting,D,B,B
+accounting,C,B,"B: ￦40,000"
+accounting,A,B,"B: ￦1, 932,100"
+accounting,C,B,B: 감가상각 누
+accounting,A,D,D: 현금과 부족￦
+accounting,C,C,"C
+
+정답은 C로, 이는"
+accounting,C,D,D
+accounting,A,D,D
+accounting,A,A,A
+accounting,D,B,B: (차) 선급보험
+accounting,B,D,D: 당기순이익 과
+accounting,D,D,D
+accounting,D,D,"D: ￦55,000
+
+공정"
+accounting,C,B,B: 건물
+accounting,D,B,"B: ￦30,000\n\n"
+accounting,C,B,B: 비교가능성은 근
+accounting,B,B,"B: ￦475,000"
+accounting,D,C,C
+accounting,C,B,"B: 510,000원"
+accounting,B,D,D
+accounting,D,B,B
+accounting,B,C,C
+accounting,A,C,"C: ₩1,250,000"
+accounting,D,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,A,B,B: 거래단위
+agricultural_sciences,C,C,C
+agricultural_sciences,C,D,D
+agricultural_sciences,D,B,B: 35%/day
+agricultural_sciences,B,B,B: 방습포장 종자가
+agricultural_sciences,B,D,D
+agricultural_sciences,A,B,B: 0.01%
+agricultural_sciences,B,B,B
+agricultural_sciences,C,D,D
+agricultural_sciences,D,D,D
+agricultural_sciences,A,C,C
+agricultural_sciences,D,B,B: 약 1/400
+agricultural_sciences,C,B,B: 원칙적으로 5
+agricultural_sciences,B,C,C
+agricultural_sciences,D,B,B: 30
+agricultural_sciences,C,D,D
+agricultural_sciences,C,D,D
+agricultural_sciences,D,D,D: 0~4℃ 냉암
+agricultural_sciences,B,C,C
+agricultural_sciences,C,C,C
+agricultural_sciences,D,D,D: 21
+agricultural_sciences,D,C,C: 80%
+agricultural_sciences,D,B,B
+agricultural_sciences,D,D,D
+agricultural_sciences,D,C,"C: 종피: 2n, 배"
+agricultural_sciences,B,D,D
+agricultural_sciences,D,D,D
+agricultural_sciences,A,C,C
+agricultural_sciences,C,D,D
+agricultural_sciences,C,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,A,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,C,D,D
+agricultural_sciences,D,D,D
+agricultural_sciences,A,D,D
+agricultural_sciences,D,C,C
+agricultural_sciences,B,D,D
+agricultural_sciences,B,B,B: 글라신(근사미)
+agricultural_sciences,A,C,C
+agricultural_sciences,C,C,C
+agricultural_sciences,B,B,B: MEP 실험법
+agricultural_sciences,C,B,B
+agricultural_sciences,B,B,B
+agricultural_sciences,D,D,D
+agricultural_sciences,C,B,B
+agricultural_sciences,D,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,D,D,D
+agricultural_sciences,B,D,D
+agricultural_sciences,A,A,A
+agricultural_sciences,D,C,C: 3년 이하의 징역
+agricultural_sciences,A,C,C
+agricultural_sciences,D,D,D: 정밀도는 측정
+agricultural_sciences,A,C,C
+agricultural_sciences,B,D,D
+agricultural_sciences,B,D,D: 50만원 이하
+agricultural_sciences,C,C,C
+agricultural_sciences,C,B,B
+agricultural_sciences,C,B,B: 채취한 시료를
+agricultural_sciences,C,D,D
+agricultural_sciences,A,D,D: 탈크(talc)
+agricultural_sciences,D,C,C
+agricultural_sciences,D,B,B: 25
+agricultural_sciences,B,B,B
+agricultural_sciences,D,B,B: 2.7 × 10^4 kg
+agricultural_sciences,B,D,D
+agricultural_sciences,B,C,C
+agricultural_sciences,B,A,A
+agricultural_sciences,D,C,C: 3시간
+agricultural_sciences,D,C,C
+agricultural_sciences,D,D,D
+agricultural_sciences,B,B,B: 약 10 시간
+agricultural_sciences,B,B,"B: 39,900cc"
+agricultural_sciences,B,B,B: 수리전도도
+agricultural_sciences,B,D,D
+agricultural_sciences,A,D,D
+agricultural_sciences,B,C,C
+agricultural_sciences,A,D,D
+agricultural_sciences,D,B,B: 160
+agricultural_sciences,A,D,D
+agricultural_sciences,B,C,C
+agricultural_sciences,A,D,D
+agricultural_sciences,D,C,C
+agricultural_sciences,C,B,B
+agricultural_sciences,B,B,B: 60일
+agricultural_sciences,C,D,D: 62.5
+agricultural_sciences,C,D,D
+agricultural_sciences,C,B,B
+agricultural_sciences,B,D,D
+agricultural_sciences,B,C,C
+agricultural_sciences,C,D,D
+agricultural_sciences,B,C,C
+agricultural_sciences,C,B,B
+agricultural_sciences,A,B,B: 상 추
+agricultural_sciences,B,B,B
+agricultural_sciences,D,C,C: 10
+agricultural_sciences,A,D,D
+aviation_engineering_and_maintenance,C,B,B: 18.7
+aviation_engineering_and_maintenance,D,D,D: 12000rpm
+aviation_engineering_and_maintenance,C,C,C: 0.1
+aviation_engineering_and_maintenance,D,A,A
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,D,C,C: 물 발열량
+aviation_engineering_and_maintenance,C,B,B: 240
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,D,B,B
+aviation_engineering_and_maintenance,A,D,D: B급 화재
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,A,B,B
+aviation_engineering_and_maintenance,D,C,C: 0.58
+aviation_engineering_and_maintenance,B,C,C: 익단 속도를 음
+aviation_engineering_and_maintenance,B,C,C
+aviation_engineering_and_maintenance,D,D,D: 13
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,A,D,D
+aviation_engineering_and_maintenance,D,A,A: 68.8
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,B,B
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,D,C,C
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,C,"C: Dp = 70㎏f,D ="
+aviation_engineering_and_maintenance,B,B,B: A = b^2/S
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,A,B,B: 70.2
+aviation_engineering_and_maintenance,D,B,B: 16.90
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,D,C,C: 0.0065
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,B,B,B: 5196
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,A,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,C,C
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,A,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,B,A,A: 2239.5
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,D,C,C: 118°
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,A,D,D: 필요마력이 증
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,A,B,B: 8
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,D,A,A: 무게
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,B,A,A
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,B,B,B: 0.41
+aviation_engineering_and_maintenance,D,C,C
+aviation_engineering_and_maintenance,D,D,D: 9333 HP
+aviation_engineering_and_maintenance,B,A,A
+aviation_engineering_and_maintenance,B,A,A
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,D,B,B: 추진효율= 0
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,D,A,A: 0.080 인치
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,D,A,A
+aviation_engineering_and_maintenance,B,D,D
+aviation_engineering_and_maintenance,A,B,B: 5/16 inch이하
+aviation_engineering_and_maintenance,A,D,D: 8
+aviation_engineering_and_maintenance,D,D,D: 80
+aviation_engineering_and_maintenance,C,C,C
+aviation_engineering_and_maintenance,D,A,A
+aviation_engineering_and_maintenance,D,C,C
+biology,B,D,D
+biology,D,B,B
+biology,B,D,D
+biology,A,D,D
+biology,C,B,B: 200mesh
+biology,A,D,D
+biology,B,A,A
+biology,B,B,B
+biology,B,D,D
+biology,C,D,D
+biology,D,B,B
+biology,A,B,B
+biology,C,D,D
+biology,D,D,D
+biology,A,D,D
+biology,C,D,D
+biology,C,B,B
+biology,A,C,C
+biology,D,A,A
+biology,A,D,D
+biology,C,B,B
+biology,D,D,D
+biology,D,D,D
+biology,D,B,B
+biology,C,B,B
+biology,D,D,D
+biology,B,B,B
+biology,A,B,B
+biology,A,C,C
+biology,A,D,D
+biology,D,D,D
+biology,B,B,B
+biology,C,B,B
+biology,D,D,D
+biology,B,D,D
+biology,C,B,B
+biology,D,C,C
+biology,A,A,A
+biology,D,A,A
+biology,B,D,D
+biology,B,B,B
+biology,D,D,D
+biology,D,D,D
+biology,C,B,B
+biology,D,B,B: 9347.5
+biology,D,B,B: 약 47.6kg
+biology,C,B,B
+biology,C,B,B
+biology,B,D,D
+biology,B,D,D
+biology,D,A,A
+biology,A,B,B
+biology,C,B,B
+biology,C,D,D
+biology,A,C,C
+biology,B,A,A
+biology,A,B,B
+biology,C,A,A
+biology,A,D,D
+biology,A,D,D
+biology,D,A,A
+biology,C,B,B
+biology,B,D,D
+biology,D,D,D
+biology,B,D,D
+biology,A,D,D
+biology,D,A,A
+biology,D,D,D
+biology,A,C,C
+biology,A,D,D
+biology,A,D,D
+biology,A,D,D
+biology,C,C,C
+biology,D,A,A
+biology,C,A,A
+biology,D,D,D
+biology,A,C,C
+biology,C,C,C
+biology,D,D,D
+biology,A,D,D
+biology,B,D,D
+biology,B,D,D
+biology,A,B,B
+biology,C,D,D
+biology,B,B,B
+biology,D,A,A
+biology,C,D,D
+biology,B,C,C
+biology,A,D,D
+biology,B,D,D
+biology,D,B,B
+biology,A,B,B
+biology,B,C,C
+biology,D,A,A
+biology,D,A,A
+biology,B,D,D
+biology,B,A,A
+biology,A,D,D
+biology,D,C,C
+biology,D,A,A
+chemical_engineering,D,A,A: 20
+chemical_engineering,B,B,B
+chemical_engineering,B,B,B
+chemical_engineering,D,D,D
+chemical_engineering,D,B,B: 2931
+chemical_engineering,A,D,D
+chemical_engineering,D,C,C
+chemical_engineering,A,D,D: n=1/2
+chemical_engineering,B,D,D
+chemical_engineering,C,B,B
+chemical_engineering,A,A,A: 1.43
+chemical_engineering,B,D,D
+chemical_engineering,B,C,C
+chemical_engineering,C,D,D
+chemical_engineering,C,C,C
+chemical_engineering,C,B,B: 4646kg
+chemical_engineering,B,B,"B: 낮은 압력,"
+chemical_engineering,D,C,C: 287.31℃
+chemical_engineering,C,A,A: 19371
+chemical_engineering,C,B,B: 0.522
+chemical_engineering,A,D,D
+chemical_engineering,B,B,B: 1.78
+chemical_engineering,C,C,C
+chemical_engineering,C,D,D
+chemical_engineering,B,D,D
+chemical_engineering,A,B,B: 0.062
+chemical_engineering,A,C,C
+chemical_engineering,B,D,D
+chemical_engineering,A,C,C: 78.8%
+chemical_engineering,A,D,D: 12000
+chemical_engineering,D,B,B: 3×10^14 Hz
+chemical_engineering,B,A,A
+chemical_engineering,D,B,B
+chemical_engineering,B,B,B
+chemical_engineering,D,C,C
+chemical_engineering,D,B,B
+chemical_engineering,A,C,C
+chemical_engineering,A,C,C: 1차
+chemical_engineering,C,D,D: t/k(1-XAn)-1/n-1
+chemical_engineering,A,B,B: 21.8
+chemical_engineering,D,B,B: Rittinger 법칙
+chemical_engineering,D,B,B: 1/2
+chemical_engineering,D,D,D: 18wt%
+chemical_engineering,B,B,B: -3.0
+chemical_engineering,B,B,B: 0.693
+chemical_engineering,D,D,D
+chemical_engineering,D,D,D: rA=-2CA0.5CB
+chemical_engineering,B,A,A
+chemical_engineering,D,B,B: 3.50
+chemical_engineering,B,D,D: CH3COOH
+chemical_engineering,A,B,B: 0.230
+chemical_engineering,B,B,B
+chemical_engineering,D,A,A: 0 에 접근한다.
+chemical_engineering,A,C,C
+chemical_engineering,C,D,D: 25.3
+chemical_engineering,C,A,A: 788.7
+chemical_engineering,A,B,B: 괴상중합
+chemical_engineering,B,B,B: 5.3× 1019cal/year
+chemical_engineering,D,C,C: 19110
+chemical_engineering,B,C,C: V = -aT + bP + 상수
+chemical_engineering,B,B,B
+chemical_engineering,A,D,D
+chemical_engineering,B,D,D
+chemical_engineering,D,B,B: 0.372
+chemical_engineering,B,B,B: 1.049
+chemical_engineering,D,B,B: 78%
+chemical_engineering,C,B,B
+chemical_engineering,B,A,A: 유니온(union)
+chemical_engineering,D,D,D
+chemical_engineering,D,D,D
+chemical_engineering,B,D,D
+chemical_engineering,C,D,D
+chemical_engineering,C,C,"C
+
+설명: 전체 에"
+chemical_engineering,D,B,B
+chemical_engineering,B,B,B: 51.5
+chemical_engineering,B,B,B
+chemical_engineering,D,B,B
+chemical_engineering,A,B,B: 300
+chemical_engineering,B,D,D
+chemical_engineering,A,A,A: 196.43
+chemical_engineering,B,D,D
+chemical_engineering,C,B,B: 555.6℃
+chemical_engineering,B,B,B: 329
+chemical_engineering,D,B,B: 400kg
+chemical_engineering,A,D,D: 1903
+chemical_engineering,D,D,D: 80%
+chemical_engineering,A,B,B: 연소실
+chemical_engineering,D,D,D: -950
+chemical_engineering,B,D,D
+chemical_engineering,B,A,A
+chemical_engineering,A,B,B: PA=2π-π0
+chemical_engineering,A,C,C: ln2×84000J
+chemical_engineering,A,D,D: N
+chemical_engineering,D,A,A: 3.24
+chemical_engineering,D,B,B
+chemical_engineering,C,A,A: 1.033
+chemical_engineering,D,D,D: 257
+chemical_engineering,A,B,B: 0.3326m3
+chemical_engineering,A,A,A
+chemical_engineering,C,D,D: 904℃
+chemistry,B,D,D
+chemistry,D,C,C
+chemistry,B,C,C
+chemistry,B,B,B: CQ(Calibration Qualification)
+chemistry,B,D,D: 전열증발화
+chemistry,B,B,B
+chemistry,D,D,D
+chemistry,B,D,D
+chemistry,B,D,D
+chemistry,C,C,C
+chemistry,B,D,D
+chemistry,A,D,D
+chemistry,D,A,A: C6H6
+chemistry,A,C,C: 0.59V
+chemistry,C,B,B: 3000cm-1
+chemistry,C,B,B: 화학이온화(Cl)-기
+chemistry,B,B,B
+chemistry,A,D,D: 9.706(±0.06)
+chemistry,B,D,D
+chemistry,A,A,A
+chemistry,C,D,D
+chemistry,D,D,D: 하이포아염소산
+chemistry,D,B,B: 0.99
+chemistry,A,D,D
+chemistry,B,A,A: 0.10M
+chemistry,B,D,D
+chemistry,C,D,D
+chemistry,A,B,B: 투광도의 -log값
+chemistry,A,C,C
+chemistry,A,D,D: O-64%
+chemistry,D,D,D
+chemistry,D,B,B
+chemistry,B,C,C
+chemistry,A,C,C
+chemistry,B,D,D
+chemistry,D,D,D
+chemistry,D,B,B: 193.5
+chemistry,C,D,D
+chemistry,C,B,B: 1:2.77
+chemistry,C,D,D
+chemistry,B,C,C
+chemistry,B,B,"B
+
+설명 (Explanation):
+
+이"
+chemistry,B,A,A
+chemistry,A,C,C
+chemistry,A,A,A: 18.32% ± 0.1%
+chemistry,A,D,D: 실험실간
+chemistry,A,D,D
+chemistry,D,B,B: 11
+chemistry,A,D,D
+chemistry,A,B,B: 복사선 검출기
+chemistry,A,A,A: 2.1×10^-4
+chemistry,B,C,C
+chemistry,C,A,A
+chemistry,A,D,D
+chemistry,B,B,B
+chemistry,D,D,D
+chemistry,A,D,D
+chemistry,A,B,B: 2[H+]+[K+]=[OH-]+
+chemistry,B,B,B
+chemistry,D,D,D
+chemistry,A,A,A: 2.1×10^-4
+chemistry,A,B,B: 7944
+chemistry,B,B,B
+chemistry,C,A,A
+chemistry,C,D,D: 7.5×10-8 %
+chemistry,C,D,D: 0.102M
+chemistry,D,C,C
+chemistry,D,D,D
+chemistry,A,A,A: 7.02
+chemistry,A,B,B
+chemistry,D,B,B
+chemistry,A,D,D
+chemistry,B,C,C
+chemistry,B,D,D
+chemistry,A,A,A: 10.9
+chemistry,C,D,D
+chemistry,C,D,D
+chemistry,C,B,B
+chemistry,A,D,D
+chemistry,C,A,"A
+
+설명 (Explanation): 형"
+chemistry,C,D,D
+chemistry,D,C,C
+chemistry,B,B,B
+chemistry,D,B,B: 1.76 × 10-7
+chemistry,B,D,D
+chemistry,A,D,D
+chemistry,B,B,B: 17.6
+chemistry,A,D,D
+chemistry,D,B,B: 1.71m
+chemistry,A,B,B: 3.39
+chemistry,B,D,D
+chemistry,C,D,D
+chemistry,A,D,D
+chemistry,D,C,C
+chemistry,C,B,B: 0.36
+chemistry,C,A,A: 0.121M
+chemistry,C,A,A
+chemistry,C,D,D: ±0.0048
+chemistry,D,C,C
+chemistry,B,D,D
+civil_engineering,B,B,B: 15m
+civil_engineering,B,B,B: 0.486m
+civil_engineering,D,D,D: 1/600
+civil_engineering,D,A,A: 복원중
+civil_engineering,C,D,D: 1/40.000
+civil_engineering,C,D,D
+civil_engineering,C,D,D
+civil_engineering,C,A,A: 25m3/sec
+civil_engineering,D,B,"B: 24
+
+설명: 우수"
+civil_engineering,C,B,B
+civil_engineering,B,B,"B: 3%
+
+설명: 오차는"
+civil_engineering,D,B,"B: 387mm
+
+이 문제는 기"
+civil_engineering,D,B,"B: 약 42,500m3/"
+civil_engineering,B,D,D: 612.9 kNㆍm
+civil_engineering,D,B,B: 0.215 kg/cm2
+civil_engineering,D,B,B
+civil_engineering,C,B,B: 소규모 프로젝
+civil_engineering,B,D,D
+civil_engineering,C,D,D
+civil_engineering,B,A,A: 사화
+civil_engineering,D,B,"B: 집적의 이익,"
+civil_engineering,B,D,D
+civil_engineering,C,D,D
+civil_engineering,B,B,"B: 0.26 m
+
+설명:"
+civil_engineering,D,B,B: 2420m
+civil_engineering,D,D,D
+civil_engineering,B,C,C
+civil_engineering,D,B,B: 11.3kN ∙ m
+civil_engineering,D,B,B
+civil_engineering,D,C,C
+civil_engineering,B,C,C
+civil_engineering,B,B,B: 4.42분
+civil_engineering,B,A,A: 5 ~ 20 cm
+civil_engineering,C,B,"B: 50 mg/L
+
+공식:
+1"
+civil_engineering,A,A,"A: 48.2
+
+해석:
+이"
+civil_engineering,D,D,D
+civil_engineering,D,D,D: 57.6 m3/day
+civil_engineering,B,D,"D: 1114회
+
+설명:"
+civil_engineering,C,B,B: 부양면에 대한 단면1
+civil_engineering,D,A,A: 10.72m3/sec
+civil_engineering,A,B,B: 휨인장응력에
+civil_engineering,B,B,B: 211kN
+civil_engineering,D,D,D
+civil_engineering,B,A,A
+civil_engineering,B,B,B: 25mm
+civil_engineering,B,D,D: 612.9kN ∙ m
+civil_engineering,D,C,C: 300kg
+civil_engineering,D,B,B: 3.37×10^6 kg/cm²
+civil_engineering,B,D,D
+civil_engineering,D,C,C
+civil_engineering,B,D,"D
+
+정답을 결정하기"
+civil_engineering,A,D,"D: d/4 이하, 30 cm 이하"
+civil_engineering,B,C,C
+civil_engineering,C,D,D
+civil_engineering,B,B,B: 이동성
+civil_engineering,D,C,C
+civil_engineering,B,A,"A: 7,720㎏"
+civil_engineering,B,C,C: 자연보전권역
+civil_engineering,D,D,D: 2774 kN
+civil_engineering,B,A,A: 25cm
+civil_engineering,D,B,B: 32.274m2
+civil_engineering,C,A,A: 36000m3/day
+civil_engineering,B,B,B
+civil_engineering,D,D,D
+civil_engineering,D,B,B: 327.320m
+civil_engineering,B,D,D: 3.0 t/m2
+civil_engineering,D,B,B: 3kg/cm2
+civil_engineering,C,D,D
+civil_engineering,B,C,C: 31.2%
+civil_engineering,B,B,B: 400 ∼ 800m
+civil_engineering,B,B,B: 1.0cm
+civil_engineering,D,D,D: 20% 이내에서 1000
+civil_engineering,C,B,"B: 500,000m3"
+civil_engineering,B,D,D
+civil_engineering,D,B,B: 27
+civil_engineering,B,D,"D: 0° , 180° , 270"
+civil_engineering,B,D,D: D/H = 4
+civil_engineering,B,B,B
+civil_engineering,B,B,B: 3.8㎜
+civil_engineering,D,B,B: 0.215kg/cm2
+civil_engineering,D,D,D: 25 미터
+civil_engineering,D,C,C: 4.8mm
+civil_engineering,D,D,D
+civil_engineering,D,A,A
+civil_engineering,D,B,"B: 6.525cm
+
+해결"
+civil_engineering,D,B,B: 8개소
+civil_engineering,D,D,D
+civil_engineering,D,B,B: 0.28
+civil_engineering,C,D,D
+civil_engineering,B,B,B: 단지기능
+civil_engineering,B,B,"B: 1.40t/m2
+
+설"
+civil_engineering,B,D,D
+civil_engineering,D,B,B: ±25.5mm
+civil_engineering,C,C,"C
+
+정답은 철근의"
+civil_engineering,C,B,"B: 3.28 kg/cm2
+
+절"
+civil_engineering,C,D,D
+civil_engineering,D,C,C
+civil_engineering,D,D,D
+civil_engineering,C,B,B: 0.732
+civil_engineering,B,B,B: 315mm
+computer_science,D,B,B
+computer_science,C,C,C
+computer_science,C,D,D
+computer_science,D,C,C
+computer_science,D,B,B: 13
+computer_science,C,D,D
+computer_science,B,C,C
+computer_science,B,C,C
+computer_science,D,B,B
+computer_science,D,D,D
+computer_science,B,B,B
+computer_science,B,B,B: 컴퓨터활용
+computer_science,D,A,A
+computer_science,D,B,B
+computer_science,D,D,D
+computer_science,D,C,C
+computer_science,D,A,A
+computer_science,C,D,D: 60
+computer_science,A,B,B
+computer_science,D,B,B
+computer_science,C,B,B
+computer_science,D,D,D
+computer_science,D,B,B
+computer_science,D,C,C: 4800
+computer_science,B,C,C
+computer_science,D,B,B
+computer_science,D,B,B
+computer_science,B,B,B
+computer_science,C,D,D
+computer_science,C,C,C
+computer_science,C,C,C
+computer_science,D,A,A
+computer_science,B,A,A
+computer_science,D,B,B
+computer_science,D,C,C
+computer_science,B,D,D
+computer_science,D,D,D
+computer_science,B,B,B: 1024 Byte
+computer_science,B,D,D
+computer_science,D,D,D
+computer_science,D,B,B: 1600MB/s
+computer_science,B,B,B
+computer_science,D,A,A
+computer_science,B,C,C
+computer_science,D,D,D: 스크래치 스
+computer_science,B,C,C
+computer_science,D,D,D
+computer_science,D,D,D
+computer_science,C,B,B
+computer_science,C,C,C
+computer_science,D,C,C
+computer_science,B,B,B
+computer_science,C,D,D
+computer_science,D,D,D
+computer_science,B,D,D
+computer_science,C,B,B
+computer_science,B,D,D
+computer_science,B,D,D
+computer_science,B,B,B
+computer_science,D,D,D
+computer_science,D,B,"B: 9,600[bps]"
+computer_science,B,D,D
+computer_science,D,B,B
+computer_science,B,D,D
+computer_science,D,D,D
+computer_science,B,C,C
+computer_science,D,B,B
+computer_science,B,B,B: 섹터 인덱스(Sector
+computer_science,C,C,C
+computer_science,C,B,B: 사전 인쇄
+computer_science,C,A,A: 기능적 응
+computer_science,B,B,B
+computer_science,D,B,B
+computer_science,D,C,C
+computer_science,C,C,C: 이용약관
+computer_science,B,B,B
+computer_science,C,B,B
+computer_science,D,C,C: BACKUP *.* A: /D
+computer_science,B,B,B
+computer_science,C,B,B
+computer_science,C,D,D
+computer_science,D,D,D
+computer_science,C,A,A
+computer_science,D,B,B
+computer_science,D,B,B
+computer_science,B,D,D
+computer_science,C,B,B
+computer_science,D,B,B
+computer_science,C,D,D
+computer_science,C,D,D
+computer_science,B,B,B
+computer_science,C,D,D
+computer_science,D,C,C
+computer_science,B,A,A
+computer_science,D,A,A
+computer_science,C,B,B: 명령어 순서
+computer_science,B,B,B
+computer_science,C,C,C
+computer_science,D,D,D
+computer_science,B,C,C: 70GB
+construction,B,D,D
+construction,C,B,B: 플레밍의 오
+construction,D,B,B: 3㎾
+construction,D,B,B
+construction,D,C,C: 29.4
+construction,A,D,D
+construction,D,C,C: 0.9㎏cm2
+construction,C,D,D
+construction,D,C,C
+construction,D,C,C
+construction,B,B,B: 3m 이상
+construction,C,D,D
+construction,C,A,A
+construction,B,D,D
+construction,D,B,B: 5.5t/m
+construction,B,B,B
+construction,B,D,D: 7일 이내
+construction,C,B,B: 30m
+construction,B,A,A
+construction,B,D,D
+construction,D,D,D
+construction,C,C,C: xy = 2
+construction,C,B,B: 9.0
+construction,C,B,B
+construction,D,C,C
+construction,B,D,D
+construction,D,D,D
+construction,D,B,B: 3V / 2A
+construction,C,B,B: 비탈면적의 1/4
+construction,B,D,D
+construction,D,B,B: 16.5kJ
+construction,B,D,D: 85 룩스
+construction,D,B,B: 33 tonf· m
+construction,D,C,C
+construction,C,D,D
+construction,D,B,B: 10대
+construction,B,B,B
+construction,B,D,D
+construction,D,B,B: 63.5[m3]
+construction,B,B,"B: 21,642 m3/h"
+construction,D,B,B
+construction,C,B,B
+construction,B,D,D
+construction,D,B,B
+construction,D,C,C
+construction,D,B,B
+construction,C,C,C: 40 ∼ 60분
+construction,D,B,B: 540㎉/h
+construction,B,B,B: 11대
+construction,C,C,C: 5670 kJ/h
+construction,C,B,B: 153.2㎜
+construction,B,C,C
+construction,C,D,D
+construction,B,B,B: 0.002
+construction,C,D,D
+construction,D,C,C: 300대
+construction,B,D,D
+construction,D,B,B: 2.604
+construction,B,D,D
+construction,B,A,A
+construction,D,B,B
+construction,C,D,D
+construction,A,B,B
+construction,D,D,D
+construction,C,B,B: 97.7
+construction,B,D,D
+construction,D,B,B: 0.6
+construction,D,B,B: 327
+construction,C,D,D
+construction,D,B,B: 12.4kNㆍm
+construction,D,A,A
+construction,C,D,D: 분말도 시험 -
+construction,B,B,B
+construction,C,B,B
+construction,D,B,B: 15
+construction,C,A,A: 1150
+construction,B,B,B: 116 W
+construction,D,B,B: 10%
+construction,B,D,D
+construction,B,D,D
+construction,B,D,D
+construction,B,A,A
+construction,D,B,B: 3000매
+construction,D,D,D
+construction,D,B,B: 80섹션
+construction,B,B,B
+construction,C,A,A: 필요 이상의 넓은
+construction,C,C,C: 7.12m
+construction,B,B,B: 4.5
+construction,B,A,A
+construction,A,B,B: 6.0m3
+construction,C,C,C
+construction,B,D,D
+construction,B,C,C: 0.2
+construction,C,B,B: 5.62 m²
+construction,B,C,C: 0.0124
+construction,D,D,D
+construction,C,D,D
+construction,D,C,C
+construction,D,C,C
+criminal_law,A,D,D\n\n질문 (Question): 상소의
+criminal_law,A,C,"C: ○ ○× ○
+
+설명:\"
+criminal_law,B,D,D: 소장은 금치를
+criminal_law,A,D,D: 합법 지향적
+criminal_law,D,D,D
+criminal_law,A,D,D: 프랜차이즈 이
+criminal_law,D,D,D
+criminal_law,B,D,D
+criminal_law,D,C,C: 甲은 A를 살해할
+criminal_law,A,C,C
+criminal_law,B,D,D
+criminal_law,A,D,D
+criminal_law,B,D,D
+criminal_law,B,D,D: 소장은 징벌
+criminal_law,C,D,D
+criminal_law,D,D,"D: 피고인 신 문제도 ,"
+criminal_law,A,D,D: 법원의 치료명
+criminal_law,B,D,D: 기소유예 처분
+criminal_law,B,C,C: 문서 위조죄가 공공의
+criminal_law,C,D,D
+criminal_law,A,C,C: 성폭력 범
+criminal_law,D,D,D: 설문조사는 정치
+criminal_law,B,B,"B: ×○ ○××
+
+설명:"
+criminal_law,A,D,D
+criminal_law,D,D,D: 형의 선고 유예기
+criminal_law,B,D,D: 법원이 스토킹
+criminal_law,D,D,D: 치료감호심
+criminal_law,B,D,D
+criminal_law,A,A,"A: ○ ○××
+
+설명:\n"
+criminal_law,C,D,D
+criminal_law,B,D,D
+criminal_law,B,D,D
+criminal_law,A,D,D: 법원이 성명 모용 사
+criminal_law,C,D,"D
+
+설명: 소년원장이 보"
+criminal_law,B,D,D
+criminal_law,C,D,D: 집중 감독 보
+criminal_law,D,A,A: 피고인이 유죄
+criminal_law,D,D,D: 가석방 심사위원회
+criminal_law,B,C,C: 피의자의 감정 유
+criminal_law,D,D,D
+criminal_law,D,D,D: 약식명령에 대한
+criminal_law,D,D,D
+criminal_law,D,D,D: ㄹ－ B\n\n이는 보
+criminal_law,B,C,C
+criminal_law,A,D,D
+criminal_law,D,A,A: ○×××\n\n귀
+criminal_law,B,D,D\n\n설명: 고등
+criminal_law,B,C,C: BDCA\n\n설명:\n<
+criminal_law,A,D,D\n\n질문 (Question): 피
+criminal_law,B,D,D
+criminal_law,A,D,D\n\n질문 (Question): 탄
+criminal_law,D,D,D: 소장은 수형자의 부모
+criminal_law,B,D,D: 교정시설의 장은
+criminal_law,A,D,D: 상소 기간 중 또
+criminal_law,D,D,D: 가석방 취소자의
+criminal_law,A,D,D
+criminal_law,B,D,D\n\n질문 (Question): 항
+criminal_law,B,C,C: 사법경찰관
+criminal_law,D,C,C: ○ ○×○\n\n이유:
+criminal_law,A,D,D
+criminal_law,A,D,D
+criminal_law,B,D,D
+criminal_law,B,D,D\n\n설명: 소년법
+criminal_law,B,D,D: 1894년에 마련
+criminal_law,D,D,D: 비행 하위문화를
+criminal_law,D,D,D
+criminal_law,A,D,D: 선고하는 벌금이
+criminal_law,D,A,"A: ○×○○
+정답을"
+criminal_law,C,D,D
+criminal_law,C,A,"Answer: B
+
+설명: 유기징"
+criminal_law,A,C,C
+criminal_law,B,C,C
+criminal_law,B,D,D: 법원은 치루터
+criminal_law,C,B,B: 의료(치료
+criminal_law,C,C,C
+criminal_law,C,D,D
+criminal_law,B,D,"D: 음란물 , 사행"
+criminal_law,D,D,D
+criminal_law,C,D,D
+criminal_law,D,D,D\n\n설명: 여신전문
+criminal_law,C,D,D
+criminal_law,A,D,"D
+
+설명: 노인 수"
+criminal_law,C,D,D: 소년을 보호할 수
+criminal_law,B,D,D
+criminal_law,C,D,D
+criminal_law,D,D,D: 비 범죄화의 유
+criminal_law,C,C,C
+criminal_law,C,D,D: 2020년 6월 1일(월
+criminal_law,A,D,D\n\n질문 (Question): 서
+criminal_law,B,C,C
+criminal_law,A,A,A: 수용자의 처우 또
+criminal_law,C,D,D
+criminal_law,A,D,D: 소장은 수용자를 외부
+criminal_law,C,D,D: 범죄로 이어지기
+criminal_law,A,D,D
+criminal_law,D,D,D: 간통 사건에
+criminal_law,A,D,D\n정답 (Answer): D\n\n
+criminal_law,B,C,C
+criminal_law,B,C,C: 피고인은 유죄
+criminal_law,D,D,D: 피해자를 항거
+ecology,A,D,D
+ecology,C,C,C
+ecology,C,B,B
+ecology,B,D,D
+ecology,C,D,D
+ecology,B,C,C
+ecology,B,D,D
+ecology,B,D,D
+ecology,B,B,B: 윤벌기
+ecology,C,D,D
+ecology,D,C,C
+ecology,B,D,D
+ecology,A,C,C
+ecology,D,B,B: 199.06m
+ecology,B,C,C: 0.02 이하
+ecology,B,D,D
+ecology,C,D,D: 자연환경보전지역
+ecology,D,D,D
+ecology,D,D,D: 92cm
+ecology,B,C,C
+ecology,B,B,B: 칼륨과 붕소
+ecology,D,C,C: 700000원
+ecology,C,C,C
+ecology,B,C,C
+ecology,D,B,B
+ecology,A,C,C: 상렬현상(霜裂
+ecology,C,D,D
+ecology,B,A,A: 습지조사에 관한
+ecology,B,D,D
+ecology,D,B,B: 바닥막이
+ecology,B,D,D
+ecology,B,B,B
+ecology,C,B,B
+ecology,D,C,C
+ecology,C,D,D: 윤벌령 (Yǔn
+ecology,B,C,C: 평면구조(平面構造
+ecology,B,C,C
+ecology,D,D,D: 800m2
+ecology,B,B,B
+ecology,B,B,B: 7% 이하
+ecology,C,D,D: 시가지경관지구
+ecology,B,B,B: 매붙임수로
+ecology,D,D,D: 사전환경성검토
+ecology,A,C,C
+ecology,B,B,B
+ecology,B,D,D
+ecology,C,B,B: 6월하순∼7월중순
+ecology,D,B,B
+ecology,D,D,D
+ecology,C,B,B
+ecology,D,A,A: 73 ~ 80
+ecology,B,C,C: 생산관리지역
+ecology,D,D,D
+ecology,B,C,C: 생산녹지지역
+ecology,D,B,B: 이익 500만원\n\
+ecology,B,C,C: 골쌓기
+ecology,A,B,B
+ecology,B,B,B: 10.2%
+ecology,B,C,C
+ecology,C,C,C: 8300L
+ecology,D,D,D
+ecology,D,D,D
+ecology,B,B,B
+ecology,B,D,D
+ecology,D,C,C
+ecology,C,D,D
+ecology,C,D,D
+ecology,B,C,C
+ecology,C,A,A
+ecology,D,B,B: 2 ~ 3년
+ecology,B,C,C
+ecology,B,D,"D: 489,000원"
+ecology,B,D,"D: 현사시나무
+
+해설:"
+ecology,B,C,C: 지역특성을 교려한
+ecology,B,D,D
+ecology,B,D,D
+ecology,B,D,D
+ecology,B,C,C
+ecology,A,D,D
+ecology,C,B,B
+ecology,B,A,A
+ecology,B,D,D
+ecology,D,B,B
+ecology,D,C,C
+ecology,D,B,B: 12 만원/m3\n\n
+ecology,B,D,D
+ecology,D,D,D: 550본
+ecology,C,D,D
+ecology,B,D,D
+ecology,D,B,B: 와이제 측고기
+ecology,C,D,D
+ecology,D,B,B: 과학기술과 시장경제
+ecology,C,D,D
+ecology,C,C,C: 여름포자를 형
+ecology,B,B,B: 약 85700명
+ecology,B,C,C: 20m3/ha
+ecology,B,C,C
+ecology,B,C,C
+ecology,B,C,C
+ecology,B,D,D
+economics,D,D,D
+economics,B,C,"C: 30,000원"
+economics,D,B,"B: 110,000원"
+economics,B,D,D
+economics,C,D,"D: 유동자산이 60,000원"
+economics,D,C,C: (차) 보험료 90
+economics,D,D,D
+economics,A,B,B: 매출채권이
+economics,C,C,"C: 800,000원"
+economics,A,D,D
+economics,C,C,C
+economics,B,D,D: (차) 이자수익 : 10
+economics,C,B,"B: 1,020,000원"
+economics,B,B,B: 영세율 적용대상
+economics,C,C,"C: 2,000원 - 매"
+economics,D,C,C
+economics,A,D,D
+economics,A,B,B
+economics,A,A,A
+economics,A,C,C
+economics,C,D,D
+economics,D,C,C
+economics,A,B,B
+economics,B,D,D
+economics,A,D,D
+economics,D,B,B
+economics,A,D,D
+economics,B,D,D
+economics,A,D,D
+economics,A,C,C: 부채가 과대계상
+economics,A,C,C: 유형자산처분
+economics,A,D,D
+economics,B,B,"B: 200,000원 과소"
+economics,B,D,D: (차) 임 대 료
+economics,D,B,B
+economics,B,D,D
+economics,A,D,D
+economics,D,D,D
+economics,B,A,A
+economics,D,C,C
+economics,C,D,D: 매입에누리
+economics,D,C,C
+education,A,D,D
+education,D,C,C: 유형III
+education,B,D,D
+education,A,C,C
+education,C,D,D
+education,C,D,D
+education,D,B,B
+education,C,C,C
+education,B,D,D
+education,B,C,C: 심미적 감성－
+education,A,D,D
+education,B,B,B: 한성사범학교관제의
+education,A,A,A
+education,D,B,B
+education,B,D,D
+education,B,D,D
+education,D,D,D
+education,B,C,C
+education,C,B,B: 지난번보다 더
+education,C,D,D
+education,B,D,D
+education,B,D,D
+education,B,D,D
+electrical_engineering,C,D,D
+electrical_engineering,C,C,C
+electrical_engineering,D,D,D
+electrical_engineering,D,B,B
+electrical_engineering,D,C,"C
+
+설명: 소방시설의"
+electrical_engineering,C,B,B
+electrical_engineering,D,D,D: 파형율
+electrical_engineering,D,C,C
+electrical_engineering,D,C,C
+electrical_engineering,B,A,A
+electrical_engineering,B,D,D: 200
+electrical_engineering,B,B,B
+electrical_engineering,D,A,A: 216
+electrical_engineering,C,B,B
+electrical_engineering,D,D,D
+electrical_engineering,B,B,B
+electrical_engineering,C,B,B: 3.69
+electrical_engineering,D,C,C
+electrical_engineering,B,C,C
+electrical_engineering,A,C,C: 4.0
+electrical_engineering,C,C,C: 9000kVA
+electrical_engineering,B,C,C
+electrical_engineering,B,C,C
+electrical_engineering,B,C,C: 648000
+electrical_engineering,D,B,B
+electrical_engineering,C,C,C
+electrical_engineering,D,B,B: 143[V]
+electrical_engineering,C,D,D
+electrical_engineering,D,A,A
+electrical_engineering,A,C,"C
+
+질문 (Question): 가제"
+electrical_engineering,B,D,D
+electrical_engineering,B,B,B
+electrical_engineering,B,A,A
+electrical_engineering,C,C,C
+electrical_engineering,B,C,C
+electrical_engineering,D,A,A
+electrical_engineering,B,B,B
+electrical_engineering,D,C,C
+electrical_engineering,D,D,D
+electrical_engineering,D,C,C
+electrical_engineering,B,A,A
+electrical_engineering,C,B,B
+electrical_engineering,D,D,D
+electrical_engineering,D,B,B
+electrical_engineering,B,D,D
+electrical_engineering,B,D,D
+electrical_engineering,B,B,B
+electrical_engineering,D,A,A
+electrical_engineering,C,D,D
+electrical_engineering,C,B,B
+electrical_engineering,B,B,B
+electrical_engineering,C,B,B
+electrical_engineering,B,B,B
+electrical_engineering,C,B,B
+electrical_engineering,D,B,B: 12360
+electrical_engineering,B,B,B: 5 ×10^-4[S]
+electrical_engineering,B,B,B
+electrical_engineering,D,D,D: 2.0m
+electrical_engineering,D,D,D
+electrical_engineering,C,D,D
+electrical_engineering,C,D,D
+electrical_engineering,C,D,D
+electrical_engineering,B,D,D
+electrical_engineering,B,D,D
+electrical_engineering,D,B,B
+electrical_engineering,B,D,D
+electrical_engineering,B,B,B: 111.1[V]
+electrical_engineering,D,B,B: 150
+electrical_engineering,D,B,B
+electrical_engineering,C,A,A
+electrical_engineering,B,B,B
+electrical_engineering,B,D,D
+electrical_engineering,D,A,A: 절연 파괴시
+electrical_engineering,B,D,D
+electrical_engineering,D,C,C: 3.5
+electrical_engineering,D,D,D
+electrical_engineering,D,B,B: 330
+electrical_engineering,D,D,D
+electrical_engineering,D,D,D
+electrical_engineering,B,D,D
+electrical_engineering,B,D,D
+electrical_engineering,B,C,C
+electrical_engineering,D,A,A
+electrical_engineering,D,C,C: -2/3
+electrical_engineering,B,B,B
+electrical_engineering,D,C,C
+electrical_engineering,B,D,D
+electrical_engineering,C,D,D
+electrical_engineering,C,B,B: 207.5
+electrical_engineering,D,B,B
+electrical_engineering,D,A,A
+electrical_engineering,D,D,D
+electrical_engineering,C,D,D: 사용압력의 2
+electrical_engineering,D,B,B: 3.5
+electrical_engineering,D,B,B
+electrical_engineering,D,B,B
+electrical_engineering,B,C,C
+electrical_engineering,C,B,B
+electrical_engineering,D,D,D
+electrical_engineering,B,B,B
+electronics_engineering,D,C,C
+electronics_engineering,D,D,D
+electronics_engineering,B,B,B: 2500[AT/m]
+electronics_engineering,D,B,B: πdJ
+electronics_engineering,C,D,D
+electronics_engineering,C,C,C
+electronics_engineering,D,A,A
+electronics_engineering,B,C,C
+electronics_engineering,C,C,C: 1.05×10^5
+electronics_engineering,D,B,B: 6.3×10-3[cm]
+electronics_engineering,B,B,B
+electronics_engineering,C,C,C
+electronics_engineering,B,A,A
+electronics_engineering,C,D,D
+electronics_engineering,C,A,A
+electronics_engineering,D,D,D
+electronics_engineering,A,A,A
+electronics_engineering,D,B,B
+electronics_engineering,C,A,A
+electronics_engineering,B,A,A
+electronics_engineering,B,D,D
+electronics_engineering,B,B,B
+electronics_engineering,B,B,B: 22.4[㎃]
+electronics_engineering,C,A,A
+electronics_engineering,D,C,C
+electronics_engineering,D,D,D
+electronics_engineering,D,D,D
+electronics_engineering,D,D,D
+electronics_engineering,D,B,B
+electronics_engineering,B,B,B: 3.67∠-45°[A
+electronics_engineering,B,B,B: 0.3 [MHz]
+electronics_engineering,C,B,B
+electronics_engineering,D,D,D
+electronics_engineering,D,D,D
+electronics_engineering,C,D,D
+electronics_engineering,D,A,A: 40[dB]
+electronics_engineering,C,D,D: 200
+electronics_engineering,D,B,B
+electronics_engineering,B,D,D
+electronics_engineering,B,D,D
+electronics_engineering,B,B,B
+electronics_engineering,C,D,D
+electronics_engineering,B,C,C
+electronics_engineering,D,B,B
+electronics_engineering,B,B,B
+electronics_engineering,B,D,D
+electronics_engineering,C,D,D
+electronics_engineering,C,B,B: 98[㎑]
+electronics_engineering,B,C,C
+electronics_engineering,B,B,B
+electronics_engineering,B,A,A
+electronics_engineering,C,D,D
+electronics_engineering,D,B,B: 0.8[V]
+electronics_engineering,C,A,A
+electronics_engineering,C,B,B: 3[%]
+electronics_engineering,B,C,C: 3.2[V]
+electronics_engineering,C,B,B
+electronics_engineering,B,D,D: 53.5ns
+electronics_engineering,B,C,C
+electronics_engineering,B,C,C
+electronics_engineering,D,B,"B: 3A, 유도성"
+electronics_engineering,D,B,B: 24 Bit 이상
+electronics_engineering,B,B,B: Df≒0.1%
+electronics_engineering,C,B,B
+electronics_engineering,B,B,B
+electronics_engineering,C,B,B
+electronics_engineering,C,B,B: (11101)2
+electronics_engineering,D,B,B: 9.7
+electronics_engineering,D,A,A: 129
+electronics_engineering,B,A,A
+electronics_engineering,A,D,D
+electronics_engineering,B,D,D
+electronics_engineering,D,B,B
+electronics_engineering,B,D,D
+electronics_engineering,C,D,D
+electronics_engineering,C,B,B
+electronics_engineering,C,A,A
+electronics_engineering,B,B,B
+electronics_engineering,B,B,B: 5√2
+electronics_engineering,B,D,D
+electronics_engineering,B,C,C
+electronics_engineering,C,D,D
+electronics_engineering,C,D,D
+electronics_engineering,C,C,C
+electronics_engineering,B,D,D
+electronics_engineering,B,B,B
+electronics_engineering,D,B,B
+electronics_engineering,B,B,B
+electronics_engineering,C,D,D
+electronics_engineering,B,D,D
+electronics_engineering,D,D,D
+electronics_engineering,A,A,A
+electronics_engineering,D,C,C
+electronics_engineering,B,B,B: 14
+electronics_engineering,B,B,B: π/2 만큼 느
+electronics_engineering,B,B,B: 6.25
+electronics_engineering,B,D,D
+electronics_engineering,C,B,B: 6.3
+electronics_engineering,A,B,B
+electronics_engineering,D,D,D
+energy_management,C,D,D
+energy_management,A,A,A: 2.97
+energy_management,B,D,D: 280
+energy_management,B,D,D
+energy_management,A,B,B: 18.8
+energy_management,B,B,B: 7.53
+energy_management,C,D,D
+energy_management,A,C,C
+energy_management,C,B,"B: 1,684 kg/h"
+energy_management,B,D,D
+energy_management,A,B,B: 19.5
+energy_management,B,A,A
+energy_management,C,B,B: 0.287
+energy_management,D,B,B: 0.75mm
+energy_management,C,A,A: 5.33 × 10-5
+energy_management,B,C,C
+energy_management,B,B,B: 11.9 mmH2O
+energy_management,B,A,A: 439 kcal
+energy_management,C,C,C
+energy_management,D,B,B: tr = Hℓ+Q / G Cpm
+energy_management,D,B,B: 18.8
+energy_management,B,D,D: 6.21cal/℃
+energy_management,A,B,B: 80
+energy_management,D,B,B: 12
+energy_management,A,B,B: 232
+energy_management,C,A,A: 1656
+energy_management,B,B,B: 7.3x10^6[㎉/
+energy_management,A,B,B: 0.361
+energy_management,B,B,B: 9.98
+energy_management,A,D,D
+energy_management,C,B,B: 17.8PS
+energy_management,B,B,B: 23.1
+energy_management,D,B,B: 93.7
+energy_management,C,C,C: 1.38cal/K
+energy_management,A,A,A
+energy_management,A,A,A: 133.7
+energy_management,A,B,B: -344㎉
+energy_management,B,B,B: 129kJ
+energy_management,C,D,D
+energy_management,A,B,B
+energy_management,D,B,B: 4.8m2
+energy_management,A,D,D
+energy_management,B,B,B: 70
+energy_management,B,D,D
+energy_management,D,D,D: 탄산나트륨
+energy_management,C,B,B: 0.533
+energy_management,A,C,C
+energy_management,A,B,B: 1.96
+energy_management,B,D,D: 1.8m
+energy_management,B,D,D: 계속 사용검사
+energy_management,C,A,A
+energy_management,B,B,B
+energy_management,C,D,D
+energy_management,C,A,A: 76.7
+energy_management,A,B,B: 3.23
+energy_management,C,C,C
+energy_management,C,B,B: 22.03
+energy_management,B,D,D
+energy_management,B,D,D
+energy_management,D,B,B
+energy_management,C,B,B: 8.1
+energy_management,A,D,D
+energy_management,A,C,C: 1200℃
+energy_management,C,C,C
+energy_management,C,D,D
+energy_management,B,C,C
+energy_management,B,D,D: 5 kg/㎠
+energy_management,B,D,D
+energy_management,A,D,D
+energy_management,B,D,D: 콕
+energy_management,B,D,D
+energy_management,B,D,D: 전열효율 : 7
+energy_management,C,D,D: 50
+energy_management,D,B,B: 오일펌프 형식
+energy_management,A,B,B: 387
+energy_management,D,B,B: 19.7
+energy_management,A,B,B: 정격부하
+energy_management,B,D,D
+energy_management,B,D,D
+energy_management,B,C,C
+energy_management,D,B,B
+energy_management,D,B,B: 1.246kcal/(kgㆍK
+energy_management,A,B,B
+energy_management,B,D,D: 28.7
+energy_management,B,A,A: 78.3%
+energy_management,C,C,C: 59.7%
+energy_management,B,C,C: 20 kg/h
+energy_management,B,D,D: 7.05 kcal /m2·h·
+energy_management,A,B,B: 19.4
+energy_management,B,D,D
+energy_management,B,D,D
+energy_management,B,B,B: 0.12℃
+energy_management,B,B,B: 5.2%
+energy_management,D,D,D: 30mm 이상
+energy_management,B,A,A
+energy_management,B,C,C
+energy_management,B,D,D: 20
+energy_management,B,D,D: 92.5
+energy_management,D,B,B: 3.56
+energy_management,C,B,B: 1.87
+environmental_science,C,B,B: 24mg/L
+environmental_science,D,B,B: 63
+environmental_science,C,D,D
+environmental_science,C,B,B: 14 이하
+environmental_science,D,B,B: 2.12
+environmental_science,C,B,B: 시설의 규모에
+environmental_science,D,B,B: 약 3.6m3/sec
+environmental_science,D,D,D
+environmental_science,C,D,D
+environmental_science,B,D,D
+environmental_science,C,B,B: 76m3 air/kg-BOD
+environmental_science,C,B,B: 0.768
+environmental_science,B,B,B: 10 이하
+environmental_science,D,B,B
+environmental_science,B,D,D
+environmental_science,C,B,B
+environmental_science,B,D,D
+environmental_science,C,A,A
+environmental_science,D,D,D: 1.67
+environmental_science,B,B,B: 약 66ug/m3
+environmental_science,D,C,C
+environmental_science,C,B,"B: 48 mg/L
+
+해설:"
+environmental_science,D,D,D
+environmental_science,C,B,B: 8.57mg/L
+environmental_science,B,C,C
+environmental_science,D,B,B: 약 25
+environmental_science,B,B,B: 1.16
+environmental_science,C,B,B: 1.6m
+environmental_science,B,C,C
+environmental_science,C,A,A
+environmental_science,B,D,D
+environmental_science,C,D,D: 에틸알코올
+environmental_science,B,D,D: 5억원
+environmental_science,B,B,B
+environmental_science,D,C,C
+environmental_science,D,B,B
+environmental_science,C,B,B: 약 320m3
+environmental_science,C,B,B: 92%
+environmental_science,D,C,C
+environmental_science,D,B,B: 0.03mg/L
+environmental_science,C,B,B
+environmental_science,D,C,C
+environmental_science,C,B,B: 19.8 Sm3/Sm3
+environmental_science,D,D,D: 50만원이하의 과태
+environmental_science,D,B,B: 매연
+environmental_science,B,B,B: 51.3kg/h
+environmental_science,B,D,D
+environmental_science,C,D,D: 오염물질 1
+environmental_science,C,C,C
+environmental_science,C,C,C
+environmental_science,B,D,D
+environmental_science,B,D,D
+environmental_science,C,D,D
+environmental_science,C,D,D
+environmental_science,C,D,D
+environmental_science,B,D,D
+environmental_science,D,B,B: 0.83 kg
+environmental_science,D,B,B: 약 5700
+environmental_science,C,D,D
+environmental_science,D,B,B: 7.64%
+environmental_science,B,D,D
+environmental_science,C,B,B: 용기에 들어 있지 아
+environmental_science,C,D,"D: BOD 80mg/ℓ 이하, CO"
+environmental_science,C,C,C
+environmental_science,B,D,D
+environmental_science,D,B,B
+environmental_science,C,D,D: 유기금속화합물
+environmental_science,C,B,B: 약 0.17m/min
+environmental_science,D,B,B
+environmental_science,B,B,B
+environmental_science,B,D,D
+environmental_science,C,B,B
+environmental_science,C,B,B: 4.9
+environmental_science,C,D,D: 1.33
+environmental_science,C,D,D: 1.5
+environmental_science,C,D,D
+environmental_science,B,C,C
+environmental_science,B,D,D: 약 0.62 m/hr
+environmental_science,C,D,D
+environmental_science,A,D,D
+environmental_science,D,B,B
+environmental_science,D,B,B
+environmental_science,C,C,C: 114kg/h
+environmental_science,C,B,B: 40 이하
+environmental_science,C,C,C
+environmental_science,D,B,B: 약 3.83
+environmental_science,D,D,D
+environmental_science,D,C,C
+environmental_science,D,D,D
+environmental_science,D,D,D: 100만원 이하의 과
+environmental_science,C,D,D
+environmental_science,D,B,B: 1.5m3
+environmental_science,D,B,B: 약 22
+environmental_science,C,B,B: 9 m3
+environmental_science,D,B,B: 12.9mg/L
+environmental_science,D,D,"D: 3년, 환경부장관"
+environmental_science,B,B,B: 10.7
+environmental_science,D,C,C: 약 110L
+environmental_science,C,B,B
+environmental_science,C,D,D
+fashion,C,D,D
+fashion,B,B,B: 1.1.1.트리클로로
+fashion,A,B,B: 한색
+fashion,C,D,D
+fashion,D,D,D
+fashion,C,A,A
+fashion,A,C,C
+fashion,B,C,C
+fashion,B,B,B: {A.H} over {4}+3cm
+fashion,D,B,B
+fashion,B,B,B: 색상에 따른
+fashion,C,D,D
+fashion,D,B,B
+fashion,B,B,B
+fashion,C,D,D
+fashion,D,D,D
+fashion,A,D,D
+fashion,A,B,B: 15℃
+fashion,A,B,B
+fashion,C,C,C
+fashion,B,B,B
+fashion,B,C,C
+fashion,D,C,C
+fashion,A,C,C
+fashion,C,D,D
+fashion,D,A,A
+fashion,D,D,D
+fashion,A,D,D
+fashion,C,D,D
+fashion,D,B,B
+fashion,B,B,B
+fashion,C,D,D
+fashion,D,D,D
+fashion,C,D,D
+fashion,B,B,B
+fashion,A,D,D
+fashion,B,B,B
+fashion,C,D,D
+fashion,A,B,B
+fashion,C,D,D
+fashion,B,D,D
+fashion,D,D,D
+fashion,A,C,C
+fashion,A,A,A
+fashion,A,B,B
+fashion,A,D,D
+fashion,B,A,A
+fashion,C,C,C
+fashion,D,C,C
+fashion,D,B,B: 충동적 구매의
+fashion,D,D,D
+fashion,D,C,C
+fashion,C,B,B
+fashion,A,B,B
+fashion,D,C,C
+fashion,B,A,A
+fashion,B,C,C
+fashion,C,D,D
+fashion,B,B,B
+fashion,B,C,C
+fashion,C,B,B
+fashion,D,B,B
+fashion,D,B,B: 30-45%
+fashion,D,C,C
+fashion,C,D,D: 300만원 이하의 과
+fashion,C,D,D
+fashion,B,C,C: (스커트 길이抉
+fashion,B,B,B
+fashion,C,D,D
+fashion,B,C,C
+fashion,B,A,A
+fashion,A,D,D: 100만 원
+fashion,D,D,D
+fashion,D,D,D
+fashion,B,A,A
+fashion,B,D,D
+fashion,B,C,C
+fashion,A,D,D
+fashion,D,D,D
+fashion,A,D,D
+fashion,D,D,D
+fashion,A,A,A: (스커트 길이×1.
+fashion,D,B,B: 영업정지 15일
+fashion,C,C,C
+fashion,D,B,B: 달콤한 냄
+fashion,B,B,B
+fashion,C,D,D
+fashion,C,B,B: 가법 혼색
+fashion,A,C,C
+fashion,A,D,D
+fashion,B,B,B
+fashion,A,D,D
+fashion,C,C,C
+fashion,A,D,D
+fashion,C,C,C
+fashion,A,B,B
+fashion,D,A,A
+fashion,D,C,C: 45 ~ 60초
+fashion,C,D,D
+fashion,D,D,D
+food_processing,C,B,B
+food_processing,D,D,D
+food_processing,C,B,B
+food_processing,B,D,D
+food_processing,B,D,D
+food_processing,B,D,D
+food_processing,B,B,B
+food_processing,B,C,C
+food_processing,B,B,B
+food_processing,D,D,D
+food_processing,A,A,A
+food_processing,A,D,D
+food_processing,C,B,B
+food_processing,A,D,D
+food_processing,C,D,D
+food_processing,C,D,D
+food_processing,D,B,B
+food_processing,A,D,D
+food_processing,D,A,A
+food_processing,C,D,D
+food_processing,D,D,D
+food_processing,D,B,B: 20%
+food_processing,D,B,B
+food_processing,D,B,B
+food_processing,D,C,C
+food_processing,B,D,D
+food_processing,D,D,D
+food_processing,B,C,C
+food_processing,B,D,D
+food_processing,B,A,A
+food_processing,D,C,C
+food_processing,D,D,D
+food_processing,C,B,B
+food_processing,D,C,C
+food_processing,C,D,D
+food_processing,D,B,B
+food_processing,C,C,C
+food_processing,D,D,D
+food_processing,D,D,D
+food_processing,D,D,D
+food_processing,B,A,A
+food_processing,B,A,A
+food_processing,C,C,C
+food_processing,A,B,B
+food_processing,C,D,D
+food_processing,D,B,B
+food_processing,A,B,B
+food_processing,C,C,C
+food_processing,D,B,B
+food_processing,A,B,B
+food_processing,C,D,D
+food_processing,C,D,D
+food_processing,B,B,B
+food_processing,C,B,B
+food_processing,C,D,D
+food_processing,C,B,B
+food_processing,A,D,D
+food_processing,D,B,B
+food_processing,C,D,D
+food_processing,D,A,A
+food_processing,C,D,D
+food_processing,C,D,D
+food_processing,D,D,D
+food_processing,B,D,D
+food_processing,B,D,D
+food_processing,D,D,D
+food_processing,A,D,D
+food_processing,C,B,B
+food_processing,B,D,D
+food_processing,A,B,B
+food_processing,C,B,B
+food_processing,C,B,B
+food_processing,A,D,D
+food_processing,A,D,D
+food_processing,B,D,D
+food_processing,B,D,D
+food_processing,B,B,B
+food_processing,A,C,C
+food_processing,D,B,B
+food_processing,C,A,"A
+
+해설: 글루"
+food_processing,D,B,B
+food_processing,D,B,B
+food_processing,B,B,B
+food_processing,B,B,B
+food_processing,C,D,D
+food_processing,C,B,B
+food_processing,D,D,D
+food_processing,B,D,D
+food_processing,C,D,D
+food_processing,C,D,D
+food_processing,D,B,B
+food_processing,D,B,B
+food_processing,D,D,D
+food_processing,B,C,C
+food_processing,B,C,C
+food_processing,A,B,B
+food_processing,B,B,B
+food_processing,D,D,D
+food_processing,A,D,D
+food_processing,D,D,D
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,B,B: 0.2
+gas_technology_and_engineering,D,A,A
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,D,B,B: 11260cm3/s
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,C,B,B: 0.457
+gas_technology_and_engineering,B,D,D: 400 L/h
+gas_technology_and_engineering,D,B,B: 130 mmH2O
+gas_technology_and_engineering,B,B,B
+gas_technology_and_engineering,A,C,C: 3
+gas_technology_and_engineering,A,D,D
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,C,C: 584
+gas_technology_and_engineering,C,D,D: -183
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,D,A,A: 77
+gas_technology_and_engineering,C,B,B: 10%
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,A,D,D
+gas_technology_and_engineering,D,B,B: 300mm2 이상
+gas_technology_and_engineering,D,B,B: 72.6m3
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,C,B,B: 1/150 ~ 1/300
+gas_technology_and_engineering,D,C,C
+gas_technology_and_engineering,B,D,D: ML-1T-2
+gas_technology_and_engineering,A,C,C: 17.46
+gas_technology_and_engineering,B,B,B: 1.53
+gas_technology_and_engineering,C,B,B: 7atm
+gas_technology_and_engineering,D,B,B: 11.59
+gas_technology_and_engineering,D,B,B: 4.83
+gas_technology_and_engineering,C,B,B
+gas_technology_and_engineering,C,C,C
+gas_technology_and_engineering,B,D,D: 5123
+gas_technology_and_engineering,A,C,C
+gas_technology_and_engineering,D,C,C: 기밀시험
+gas_technology_and_engineering,D,B,B: 5 ~ 30kPa
+gas_technology_and_engineering,B,C,C: 약 1.3 냉동
+gas_technology_and_engineering,B,C,C
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,A,D,D
+gas_technology_and_engineering,B,C,C
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,A,B,B: 0.585
+gas_technology_and_engineering,D,C,C
+gas_technology_and_engineering,C,B,B: 탱크를 냉
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,B,B: 0.05
+gas_technology_and_engineering,C,D,D: {(P1-P0)×r}÷4
+gas_technology_and_engineering,D,B,B: 특수방폭구조
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,C,C: 2.3
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,B,B,B
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,B,C,C: 0.29m
+gas_technology_and_engineering,B,C,C
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,A,A: 1.6
+gas_technology_and_engineering,C,D,D
+gas_technology_and_engineering,D,C,C: 50㎝
+gas_technology_and_engineering,B,B,B
+gas_technology_and_engineering,C,B,B: 23.2
+gas_technology_and_engineering,B,B,B: 11 기압
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,B,B: 33%
+gas_technology_and_engineering,D,D,D: 580
+gas_technology_and_engineering,D,B,B: 27.8
+gas_technology_and_engineering,D,C,C: 6240
+gas_technology_and_engineering,D,D,D: 156.25m3
+gas_technology_and_engineering,B,A,A: 0.113
+gas_technology_and_engineering,D,B,B
+gas_technology_and_engineering,D,B,B: 10^-4
+gas_technology_and_engineering,A,D,D: 126
+gas_technology_and_engineering,C,B,B: 0.5MPa
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,B,B: 3661
+gas_technology_and_engineering,B,A,"A: 12.6
+
+해설: Darcy"
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,C,"C: 2967.3
+
+해설:"
+gas_technology_and_engineering,B,A,A: W = 0.9dV2
+gas_technology_and_engineering,B,B,B: W = 0.3dV
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,A,A
+gas_technology_and_engineering,B,C,C: 1.71
+gas_technology_and_engineering,D,C,C
+gas_technology_and_engineering,D,D,D: 13
+gas_technology_and_engineering,A,D,D: 8L/m2ㆍmin
+gas_technology_and_engineering,C,B,B: 88K
+gas_technology_and_engineering,B,C,C
+gas_technology_and_engineering,B,C,C: 1919
+gas_technology_and_engineering,B,B,B: ± 4%
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,D,C,C: 0.02
+gas_technology_and_engineering,D,D,D: 53분
+gas_technology_and_engineering,C,A,A
+gas_technology_and_engineering,A,A,A
+gas_technology_and_engineering,A,B,B: 1.5배 이상
+geomatics,C,B,B
+geomatics,C,B,B
+geomatics,B,B,B
+geomatics,B,D,D
+geomatics,D,B,B
+geomatics,B,A,A
+geomatics,B,D,D
+geomatics,C,D,D
+geomatics,D,C,C
+geomatics,B,B,B
+geomatics,B,A,A
+geomatics,D,C,C
+geomatics,C,B,B
+geomatics,B,D,D
+geomatics,D,B,B
+geomatics,B,B,B
+geomatics,D,B,B
+geomatics,C,B,B
+geomatics,B,C,C
+geomatics,B,B,B
+geomatics,A,D,D
+geomatics,A,B,B
+geomatics,A,D,D
+geomatics,B,D,D
+geomatics,D,B,B
+geomatics,D,B,B
+geomatics,D,B,"B: λ, by"
+geomatics,D,B,B
+geomatics,C,A,A
+geomatics,C,B,B
+geomatics,B,B,B
+geomatics,A,C,C
+geomatics,D,D,D
+geomatics,C,B,B
+geomatics,C,B,B
+geomatics,B,D,D
+geomatics,C,D,D
+geomatics,A,D,D
+geomatics,D,B,B
+geomatics,B,B,B
+geomatics,D,D,D
+geomatics,D,A,A
+geomatics,B,B,B
+geomatics,D,B,B
+geomatics,B,B,B: 약10배
+geomatics,B,B,B
+geomatics,C,D,D
+geomatics,C,B,B
+geomatics,C,B,B: 300m
+geomatics,B,B,B
+geomatics,B,B,B
+geomatics,B,A,A
+geomatics,A,A,A
+geomatics,D,C,C
+geomatics,D,B,B
+geomatics,B,D,D
+geomatics,D,D,D
+geomatics,C,D,D
+geomatics,C,D,D
+geomatics,D,A,A
+geomatics,A,D,D
+geomatics,A,D,D
+geomatics,D,B,B
+geomatics,D,C,C
+geomatics,D,A,A
+geomatics,D,B,B
+geomatics,D,B,B
+geomatics,D,C,C
+geomatics,D,B,B
+geomatics,C,D,D
+geomatics,D,B,B
+geomatics,D,B,B
+geomatics,C,D,D
+geomatics,D,B,B
+geomatics,C,B,B
+geomatics,D,B,B
+geomatics,D,B,B
+geomatics,B,B,B
+geomatics,D,B,B
+geomatics,B,D,D
+geomatics,C,C,C
+geomatics,D,D,D
+geomatics,B,A,A
+geomatics,C,B,B
+geomatics,B,D,D
+geomatics,B,B,B
+geomatics,C,B,B
+geomatics,C,B,B
+geomatics,D,C,C
+geomatics,A,B,B
+geomatics,D,C,C
+geomatics,D,B,B
+geomatics,B,C,C
+geomatics,C,A,A
+geomatics,B,B,B
+geomatics,C,C,C
+geomatics,B,D,D
+geomatics,B,A,A
+geomatics,C,B,B
+geomatics,C,D,D
+health,D,D,D
+health,A,D,D: 참여형 리더
+health,C,D,D
+health,A,D,D
+health,B,C,C
+health,A,D,D
+health,C,A,A
+health,B,C,C
+health,D,C,C
+health,B,D,D
+health,A,C,C
+health,C,D,D: 중요한 사안에 대해
+health,C,D,D
+health,A,D,D: 17도 이상
+health,B,A,A: 국민연금 기금
+health,C,A,A
+health,C,A,A
+health,B,D,D
+health,C,D,D
+health,D,B,B
+health,D,C,C
+health,D,D,D
+health,A,D,D
+industrial_engineer,B,B,B
+industrial_engineer,C,C,C
+industrial_engineer,B,A,A
+industrial_engineer,A,B,B: 0.68
+industrial_engineer,C,C,"C: 4배, 150mm"
+industrial_engineer,C,C,C
+industrial_engineer,C,D,D
+industrial_engineer,D,D,D
+industrial_engineer,C,D,D
+industrial_engineer,B,B,B: -1
+industrial_engineer,D,B,B
+industrial_engineer,B,D,D
+industrial_engineer,B,B,B
+industrial_engineer,B,C,C
+industrial_engineer,B,C,C
+industrial_engineer,B,D,D
+industrial_engineer,C,D,D
+industrial_engineer,C,D,D: 23.4
+industrial_engineer,D,C,C
+industrial_engineer,D,B,B
+industrial_engineer,B,D,D
+industrial_engineer,B,B,B: 0.4
+industrial_engineer,C,C,C
+industrial_engineer,D,D,D
+industrial_engineer,B,D,D
+industrial_engineer,B,D,D
+industrial_engineer,D,D,D
+industrial_engineer,C,D,D
+industrial_engineer,C,D,D
+industrial_engineer,D,A,A
+industrial_engineer,D,D,D
+industrial_engineer,D,B,B
+industrial_engineer,C,C,C
+industrial_engineer,D,C,C
+industrial_engineer,D,D,D
+industrial_engineer,D,B,B: 17kgf/㎝²
+industrial_engineer,B,B,B
+industrial_engineer,B,C,C: 1800
+industrial_engineer,C,B,B: 2m 이상
+industrial_engineer,D,D,D
+industrial_engineer,C,B,B: 3.5㎝이하
+industrial_engineer,C,D,D
+industrial_engineer,C,B,B: 1414
+industrial_engineer,B,D,D
+industrial_engineer,B,B,B: 색도
+industrial_engineer,D,A,A
+industrial_engineer,C,B,B: 18[mA]
+industrial_engineer,B,D,D
+industrial_engineer,A,B,B
+industrial_engineer,D,B,B: 2.54
+industrial_engineer,B,D,D
+industrial_engineer,C,B,B: 945Hz
+industrial_engineer,B,C,C
+industrial_engineer,C,A,A: 30mm 이하
+industrial_engineer,C,D,D
+industrial_engineer,B,D,D
+industrial_engineer,D,B,B: 6개
+industrial_engineer,D,D,D
+industrial_engineer,C,B,B: 0.02%
+industrial_engineer,C,B,B
+industrial_engineer,B,D,"D: 30㎝, 오목"
+industrial_engineer,C,B,B
+industrial_engineer,B,D,D
+industrial_engineer,D,B,"B: 1,200"
+industrial_engineer,B,D,D
+industrial_engineer,B,D,D
+industrial_engineer,C,D,D
+industrial_engineer,D,C,C
+industrial_engineer,D,D,D
+industrial_engineer,C,B,B: ± 0.5dB 이내
+industrial_engineer,B,D,D
+industrial_engineer,C,A,A: 90
+industrial_engineer,C,D,D
+industrial_engineer,D,D,D
+industrial_engineer,D,C,C
+industrial_engineer,C,C,C
+industrial_engineer,D,B,B: 240
+industrial_engineer,D,B,B
+industrial_engineer,D,C,C
+industrial_engineer,A,C,C
+industrial_engineer,D,C,C: 9.2
+industrial_engineer,B,B,B: 자유음장
+industrial_engineer,B,D,D
+industrial_engineer,C,B,B
+industrial_engineer,B,C,C
+industrial_engineer,D,B,B
+industrial_engineer,B,B,B: Yellow필터의 삭감
+industrial_engineer,C,D,D
+industrial_engineer,C,B,B: 0.03
+industrial_engineer,B,D,D
+industrial_engineer,C,D,D
+industrial_engineer,C,B,B
+industrial_engineer,B,D,D
+industrial_engineer,B,B,B
+industrial_engineer,D,A,A
+industrial_engineer,D,B,B: 2.55
+industrial_engineer,D,A,A
+industrial_engineer,D,B,B: 12.02
+industrial_engineer,D,B,B: 59dB
+industrial_engineer,D,B,B: 1.5시간
+information_technology,D,D,D
+information_technology,B,A,A
+information_technology,D,B,B: Top Silk Screen
+information_technology,A,C,C
+information_technology,D,D,D
+information_technology,D,B,B: 300
+information_technology,D,B,B: 50
+information_technology,B,D,D
+information_technology,B,C,C: Ω/cm²
+information_technology,B,B,B: 90° 늦다.
+information_technology,D,B,B
+information_technology,A,A,A
+information_technology,C,D,D
+information_technology,C,D,D
+information_technology,D,B,B: 4개
+information_technology,D,C,C: 25[㎃]
+information_technology,D,A,A
+information_technology,C,B,B
+information_technology,D,B,B: 16J
+information_technology,C,D,D
+information_technology,C,D,D: 2000
+information_technology,B,C,C
+information_technology,C,A,A
+information_technology,B,D,D
+information_technology,B,D,D
+information_technology,B,B,B
+information_technology,B,C,C
+information_technology,D,D,D
+information_technology,B,C,C
+information_technology,D,A,A
+information_technology,D,B,B
+information_technology,B,D,D
+information_technology,A,C,C
+information_technology,B,B,B
+information_technology,C,C,C
+information_technology,B,B,B
+information_technology,C,B,B: 약 4.8[μH]
+information_technology,D,B,B
+information_technology,C,D,D
+information_technology,C,D,D
+information_technology,C,A,A
+information_technology,B,B,B: 48W
+information_technology,B,C,C
+information_technology,C,D,D
+information_technology,D,B,B
+information_technology,D,D,D
+information_technology,D,A,A
+information_technology,C,C,C: N = 2n-1
+information_technology,B,D,D
+information_technology,B,A,A
+information_technology,B,D,D
+information_technology,C,B,B
+information_technology,D,B,B
+information_technology,D,D,D
+information_technology,D,D,D
+information_technology,A,A,A
+information_technology,C,D,D
+information_technology,C,D,D
+information_technology,B,B,B: 1100010101100
+information_technology,B,B,B: 800개
+information_technology,C,B,B
+information_technology,C,D,D
+information_technology,B,A,A: 35
+information_technology,D,B,B
+information_technology,D,B,B
+information_technology,D,B,B
+information_technology,D,B,B: 1000
+information_technology,C,B,B: 1110
+information_technology,D,A,"A: 입력 2개,"
+information_technology,B,D,D: 9장
+information_technology,D,C,C
+information_technology,C,A,A
+information_technology,D,D,D
+information_technology,B,D,D
+information_technology,B,A,A
+information_technology,B,B,B: 새로운 언어에
+information_technology,D,B,B: -2 x 10^-3[개]
+information_technology,C,D,D
+information_technology,B,D,D
+information_technology,D,D,D
+information_technology,B,D,D
+information_technology,C,C,C
+information_technology,C,A,A: Service Program
+information_technology,C,B,B: 40[㏈]
+information_technology,D,D,D
+information_technology,D,C,C
+information_technology,D,D,D
+information_technology,C,B,B
+information_technology,B,D,D: +27 ~ + (27+1)
+information_technology,B,C,C
+information_technology,D,C,C: 2×10^3[개]
+information_technology,B,B,B
+information_technology,D,D,D
+information_technology,B,D,D
+information_technology,C,B,B: 20[dB]
+information_technology,D,A,A
+information_technology,B,C,C
+information_technology,A,D,D
+information_technology,D,C,C
+information_technology,D,D,D
+interior_architecture_and_design,D,C,"C: 관객의 머리,"
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,B,B: 연두와 보라는
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,B,B: 보라
+interior_architecture_and_design,B,B,B: 보색을 섞으면
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,B,B: 비상방송설비
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,B,B,B: 노랑
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,B,B: 약 30%
+interior_architecture_and_design,D,D,D: 5cm 이상
+interior_architecture_and_design,B,D,"D
+
+설명: D. B. Judd의"
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,B,B: Purple
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,B,B: 1000ppm이하
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,B,B: 톤을 이용한 효과
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,D,D: 7cm
+interior_architecture_and_design,D,C,C
+interior_architecture_and_design,C,D,D: 45분-10시간
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,B,B
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,C,C
+interior_architecture_and_design,A,C,C
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,A,"A
+
+정답은 A로, 플라"
+interior_architecture_and_design,C,A,A: 10m
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,B,B: 유성 바니쉬 : 내
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,C,"C
+
+해설: 점토의"
+interior_architecture_and_design,B,B,B: 300~500
+interior_architecture_and_design,B,C,C
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,C,B,"B: 2,000m2 이내마다"
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,B,B: 20%
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,B,B,B
+interior_architecture_and_design,A,B,B: 2000m 이상
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,B,A,A: 2/1
+interior_architecture_and_design,C,D,D: 500m2
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,B,B,B: 2~3
+interior_architecture_and_design,B,B,"B: 색상 5R, 명도 8"
+interior_architecture_and_design,C,B,B: 290mm
+interior_architecture_and_design,B,C,C
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,D,D: 정량적 표시장
+interior_architecture_and_design,D,A,A: 0.3mm
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,D,D: 운동경기장 맨
+interior_architecture_and_design,D,A,"A
+
+설명: VMD(Visual Merchandising"
+interior_architecture_and_design,C,B,B
+interior_architecture_and_design,C,A,A
+interior_architecture_and_design,B,B,B: 자기질
+interior_architecture_and_design,B,B,B: 4대
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,C,C
+interior_architecture_and_design,C,C,C
+interior_architecture_and_design,B,B,B: 300 ~ 500
+interior_architecture_and_design,B,A,A
+interior_architecture_and_design,C,A,A: 기둥의 최소폭
+interior_architecture_and_design,D,B,B
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,D,D: 친근성의 원리
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,B,A,A: 약 1200 kg/cm2
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,B,B: 가속도의 사용
+interior_architecture_and_design,B,C,C
+interior_architecture_and_design,D,C,C
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,B,B
+interior_architecture_and_design,C,A,A: 거실 바닥 면
+interior_architecture_and_design,B,D,D: 등가색환계
+korean_history,C,D,D: 고구려의 수도였
+korean_history,A,D,D: 대한제국의 외교권
+korean_history,C,A,A
+korean_history,C,D,"D: ㄷ, ㄹ"
+korean_history,B,D,D: 의열단의 기 본
+korean_history,C,B,B: 망이 ㆍ망소이
+korean_history,B,C,C: 독립군을 양성
+korean_history,A,D,D: 함경도의 방곡
+korean_history,C,A,A: (가)→(나)→(다)→(라
+korean_history,A,D,D: 국가가 동전을 대량
+korean_history,B,A,A: (가)
+korean_history,D,D,D: 역분전이라는 토지
+korean_history,C,C,C: 원에만 권당을
+korean_history,B,D,D: 공인에게 비용을 지
+korean_history,B,D,D
+korean_history,C,C,C: 태조 때 명으
+korean_history,A,D,D: 12목을 설치
+korean_history,C,A,A: (나)→(다)→(라)→(가
+korean_history,C,D,D: 동의 수세 보원
+korean_history,B,C,C: ㉡－ 저잣
+korean_history,A,D,D: 금속활자인
+korean_history,A,D,D: 향약구급방이
+korean_history,A,B,"B: 박, 석, 김씨가 교"
+korean_history,A,A,A: (가)→(라)→(나)→(다
+korean_history,D,D,D: 일본의 중재 없이
+korean_history,D,D,D
+korean_history,D,D,D: 재정 확보를 위하여
+korean_history,C,D,D
+korean_history,B,D,"D: ㄷ, ㄹ"
+korean_history,B,C,C: (가)가 빼앗긴
+korean_history,A,D,D
+korean_history,C,B,B: 대전회통이 편
+korean_history,C,D,D: 비타협 적 민
+korean_history,B,D,D: 이 법률에 의해
+korean_history,D,D,D: 지계 발급 사
+korean_history,B,C,"C: 명도전, 반량전"
+korean_history,A,D,D: 철이 많이 생
+korean_history,D,D,D: 대한광복 군 정부
+korean_history,C,D,D
+korean_history,C,D,D: 조선에 사는 일본인이
+korean_history,C,C,C: 박제가 한치윤
+korean_history,C,D,D
+korean_history,D,D,D: (가)는 황포 군
+korean_history,C,A,A: (가)→(나)→(라)→(다
+law,A,D,D
+law,B,B,B
+law,A,C,C
+law,D,D,D
+law,A,C,C
+law,A,D,D
+law,A,D,D
+law,B,D,D
+law,B,D,D
+law,B,D,D
+law,B,C,C
+law,B,D,D
+law,A,D,D
+law,C,B,B
+law,B,B,B
+law,C,D,D
+law,B,B,B
+law,C,D,D
+law,A,A,A
+law,D,D,D
+law,C,D,D
+law,A,B,B
+law,C,D,D
+law,D,B,B
+law,C,D,D
+law,D,C,C
+law,B,D,D
+law,D,D,D
+law,A,A,A
+law,C,C,C
+law,D,C,C
+law,D,D,D
+law,D,A,A
+law,D,B,B
+law,B,C,C: 인화점이 70℃
+law,C,D,D
+law,B,D,D
+law,A,D,D
+law,D,D,D
+law,D,D,D
+law,C,D,D
+law,B,D,D
+law,B,D,D
+law,C,D,D
+law,A,D,D
+law,C,D,D
+law,A,B,B
+law,D,D,D
+law,D,D,D
+law,C,D,D
+law,A,D,D
+law,A,B,B
+law,C,D,D
+law,B,B,B: 컴퓨터시설
+law,B,D,D
+law,C,D,D
+law,B,C,C
+law,B,B,B
+law,A,D,D
+law,A,D,D
+law,C,B,B: 혼합적 행정
+law,B,D,D
+law,A,B,B
+law,C,D,D
+law,B,D,D
+law,D,D,D
+law,B,D,D
+law,C,D,D
+law,A,D,D
+law,A,D,D
+law,C,D,D
+law,C,D,D
+law,B,D,D
+law,C,D,D
+law,D,B,B
+law,D,B,B
+law,A,D,D
+law,D,D,D
+law,B,D,D
+law,A,D,D
+law,B,D,D
+law,B,D,D
+law,C,D,D
+law,A,D,D
+law,B,B,B
+law,B,C,C
+law,C,D,D
+law,C,D,D
+law,A,D,D
+law,D,D,D
+law,C,D,D
+law,B,B,B
+law,B,C,C
+law,B,D,D
+law,D,D,D
+law,A,D,D
+law,A,C,C
+law,B,B,B
+law,C,A,A
+law,B,D,D
+machine_design_and_manufacturing,C,D,D: 14%
+machine_design_and_manufacturing,B,D,D: 3.5
+machine_design_and_manufacturing,A,D,D: 169.3㎏f
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,C,C,C
+machine_design_and_manufacturing,A,A,A: 14.6
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,A,A
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,C,C
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,B,C,C
+machine_design_and_manufacturing,D,B,B: C의 자승근에 정비
+machine_design_and_manufacturing,D,B,B: 440
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,C,C,C
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,C,C
+machine_design_and_manufacturing,C,B,B: 가단주철 인장강도 2
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,D,B,B
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,D,B,B
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,C,B,B: 300 - 500kgf/cm^
+machine_design_and_manufacturing,D,B,B: 10배
+machine_design_and_manufacturing,D,D,D: 9°
+machine_design_and_manufacturing,D,D,D: G04 X0.5 ;
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,B,B: 6mm
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,A,B,B: 4.91
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,A,B,B: 4.6
+machine_design_and_manufacturing,D,B,B: 1.86
+machine_design_and_manufacturing,D,D,D: 8.3
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,A,D,D: η = 48.8%
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,A,B,B
+machine_design_and_manufacturing,B,B,B: 8
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,B,B,B: 1.039
+machine_design_and_manufacturing,D,B,B: 고온취성
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,B,B,B: 1.0
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,C,B,B: 플래시버트 용
+machine_design_and_manufacturing,D,B,B: 25 ton
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,C,C,C
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,B,D,D: 62.5
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,B,B,"B: 중심(2, -3, 5),"
+machine_design_and_manufacturing,C,B,B: 1264.86
+machine_design_and_manufacturing,A,A,A: 17.85
+machine_design_and_manufacturing,A,D,D: 49.99mm
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,A,B,B: 0.01
+machine_design_and_manufacturing,B,A,A
+machine_design_and_manufacturing,B,B,B: 2.63
+machine_design_and_manufacturing,A,D,D: 80
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,C,B,B: 2.196
+machine_design_and_manufacturing,C,C,C: 0.024
+machine_design_and_manufacturing,B,C,C
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,D,B,B: 4
+machine_design_and_manufacturing,D,D,D: 163mm
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,B,C,C: 3600㎏f
+machine_design_and_manufacturing,B,B,B
+machine_design_and_manufacturing,B,A,A
+machine_design_and_manufacturing,A,A,A
+machine_design_and_manufacturing,D,C,C: 0.63 PS
+machine_design_and_manufacturing,B,C,C
+machine_design_and_manufacturing,D,D,D: 12.6
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,B,B,B: 60
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,D,B,B
+management,D,B,B: 10km
+management,B,D,D
+management,A,D,D
+management,A,A,A: 과업 책임성(
+management,C,D,D
+management,A,D,D
+management,B,C,C
+management,D,C,C: 점포면적과 이
+management,B,B,B: 4km
+management,B,D,"D: 감가상각비 1,2"
+management,B,A,A
+management,A,D,D
+management,A,B,B
+management,A,D,D
+management,B,D,D
+management,D,D,D
+management,D,C,C
+management,A,D,D
+management,A,D,D
+management,D,D,D
+management,B,D,D
+management,C,D,D
+management,C,D,D
+management,A,D,D
+management,A,D,D
+management,A,D,D
+management,C,D,D
+management,B,A,A
+management,A,C,C
+management,C,B,B
+management,C,D,D
+management,D,C,C: 14개의 거래
+management,B,D,D
+management,D,D,D: 보증금+(월임차
+management,A,D,D
+management,C,B,B
+management,D,C,C: 유통업체
+management,D,D,D
+management,D,C,C
+management,A,B,B
+management,A,D,D
+management,D,D,D
+management,A,D,D: 19.2
+management,B,D,D
+management,C,D,D: 1요인 실험 모수
+management,D,D,D
+management,A,D,D
+management,B,D,D
+management,C,D,D
+management,C,D,D
+management,A,C,C
+management,A,C,C: 277시간
+management,B,B,B: A도시를 기준으로
+management,C,A,A
+management,A,D,D
+management,A,D,D
+management,A,D,D
+management,B,D,D
+management,C,D,D
+management,A,C,C
+management,A,C,C
+management,C,A,A
+management,A,D,D
+management,D,D,D
+management,C,C,C
+management,D,B,B
+management,C,C,C
+management,D,C,C
+management,D,B,B
+management,B,D,D
+management,B,D,D
+management,D,C,C
+management,B,A,A: 탐색적 조사(
+management,B,A,A
+management,D,D,D
+management,C,D,D: 이익잉여금의
+management,B,D,D: ±3.0σ
+management,D,D,D
+management,B,D,D
+management,B,B,B
+management,A,D,D
+management,D,D,D
+management,A,C,C: 탐색 - 인지 -
+management,A,A,A
+management,A,A,A
+management,B,D,D
+management,C,B,B: 6km
+management,A,D,D: 260%
+management,C,A,A: 본사 건물
+management,C,D,D
+management,B,D,D
+management,B,A,A
+management,B,D,D
+management,D,B,B: 18개
+management,A,B,B
+management,D,C,C
+management,B,B,B
+management,A,D,D
+management,D,D,D
+management,C,C,C
+maritime_engineering,B,C,C
+maritime_engineering,A,D,D
+maritime_engineering,D,D,D
+maritime_engineering,A,A,A
+maritime_engineering,D,B,B
+maritime_engineering,D,B,B: 5.9%
+maritime_engineering,A,D,"D: 4배, 5㎝"
+maritime_engineering,C,D,D
+maritime_engineering,C,B,B: 20㎜ 이상
+maritime_engineering,C,D,D
+maritime_engineering,A,B,B
+maritime_engineering,C,B,B
+maritime_engineering,C,C,C
+maritime_engineering,A,B,B
+maritime_engineering,A,B,B
+maritime_engineering,B,D,D
+maritime_engineering,C,B,B
+maritime_engineering,D,B,B
+maritime_engineering,D,B,B
+maritime_engineering,A,B,B
+maritime_engineering,D,D,D
+maritime_engineering,A,D,D
+maritime_engineering,D,B,B: 11.5
+maritime_engineering,A,D,D
+maritime_engineering,D,D,D
+maritime_engineering,B,D,D
+maritime_engineering,D,B,B
+maritime_engineering,A,B,B
+maritime_engineering,C,B,B
+maritime_engineering,C,B,B
+maritime_engineering,A,B,B
+maritime_engineering,B,D,D
+maritime_engineering,D,C,C
+maritime_engineering,A,C,C
+maritime_engineering,D,B,B
+maritime_engineering,D,B,B: 440㎜
+maritime_engineering,A,D,D
+maritime_engineering,A,B,B
+maritime_engineering,B,B,B: 40㎜
+maritime_engineering,D,B,B
+maritime_engineering,B,B,B
+maritime_engineering,C,B,B
+maritime_engineering,B,B,B
+maritime_engineering,B,B,B
+maritime_engineering,B,D,D
+maritime_engineering,B,B,B
+maritime_engineering,A,B,B
+maritime_engineering,A,A,A
+maritime_engineering,A,C,C
+maritime_engineering,C,B,B
+maritime_engineering,B,D,D
+maritime_engineering,C,C,C: 25㎜
+maritime_engineering,A,D,D
+maritime_engineering,B,B,B: 1/5
+maritime_engineering,D,B,"B: 1/2 이하, 400"
+maritime_engineering,B,C,C: 7.5 m/sec
+maritime_engineering,D,C,C
+maritime_engineering,C,B,B
+maritime_engineering,A,B,B: 90cm 선수트림
+maritime_engineering,B,D,D
+maritime_engineering,B,A,A
+maritime_engineering,A,B,B
+maritime_engineering,C,B,B: 약 2.7g/cm33
+maritime_engineering,B,D,D
+maritime_engineering,A,B,B
+maritime_engineering,A,D,D
+maritime_engineering,A,B,B
+maritime_engineering,D,D,D
+maritime_engineering,B,D,D
+maritime_engineering,A,D,D
+maritime_engineering,B,C,C
+maritime_engineering,D,A,"A: 18.8MPa
+
+해설:"
+maritime_engineering,A,D,D
+maritime_engineering,B,B,B: 107.1 tonf
+maritime_engineering,A,B,B
+maritime_engineering,B,C,C
+maritime_engineering,B,D,D
+maritime_engineering,D,C,C
+maritime_engineering,D,B,B
+maritime_engineering,D,C,C
+maritime_engineering,B,B,B
+maritime_engineering,B,B,B: 5배 이상
+maritime_engineering,B,B,B
+maritime_engineering,A,B,B: 9db
+maritime_engineering,D,D,D
+maritime_engineering,A,D,D: 100㎜
+maritime_engineering,A,A,A
+maritime_engineering,B,A,A
+maritime_engineering,A,D,D
+maritime_engineering,C,D,D
+maritime_engineering,D,C,C: 9.1mg/L
+maritime_engineering,C,B,B
+maritime_engineering,A,D,D
+maritime_engineering,C,B,B: 38㎜ 이상
+maritime_engineering,B,B,B: 약 1.15배
+maritime_engineering,B,B,B
+maritime_engineering,A,D,D
+maritime_engineering,C,D,D
+maritime_engineering,A,D,D
+maritime_engineering,D,C,C: 76.2㎜
+marketing,D,D,D: 상대적 시장점유
+marketing,C,A,A
+marketing,A,C,C: 소비자 측면
+marketing,B,A,A
+marketing,B,D,D
+marketing,A,A,A: 의사결정나무 분
+marketing,B,D,D
+marketing,B,D,D
+marketing,D,D,D
+marketing,A,D,D
+marketing,C,B,B
+marketing,A,A,A: 고객 개인 정보
+marketing,C,D,D
+marketing,D,A,A
+marketing,C,A,A
+marketing,D,D,D
+marketing,C,D,D
+marketing,B,B,B
+marketing,A,D,D
+marketing,B,D,D
+marketing,C,C,C
+marketing,B,A,A
+marketing,D,C,C
+marketing,A,C,C
+marketing,D,D,D
+marketing,B,D,D
+marketing,C,A,A
+marketing,D,D,D
+marketing,A,D,D: 시계열조사
+marketing,A,C,C
+marketing,B,B,B: 스크립트 개발
+marketing,D,D,D
+marketing,D,D,D
+marketing,A,D,D
+marketing,D,A,A
+marketing,B,D,D
+marketing,D,D,D
+marketing,A,D,D
+marketing,B,D,D
+marketing,A,A,A
+marketing,D,A,A: 표본
+marketing,B,C,C
+marketing,D,C,C
+marketing,C,B,B
+marketing,C,C,C
+marketing,D,C,C
+marketing,D,D,D
+marketing,D,A,A
+marketing,B,B,B
+marketing,A,D,D
+marketing,C,A,A
+marketing,D,C,C
+marketing,B,D,D
+marketing,C,B,B
+marketing,C,A,A
+marketing,C,D,D
+marketing,A,B,B
+marketing,C,D,D
+marketing,D,C,C
+marketing,C,A,A: 원가의 효율성
+marketing,C,C,C
+marketing,B,D,D
+marketing,A,B,B
+marketing,D,D,D
+marketing,A,D,D
+marketing,D,D,D
+marketing,A,B,B: 사람들은 듣기보다
+marketing,A,D,D
+marketing,B,B,B
+marketing,A,A,A
+marketing,B,C,C
+marketing,D,C,C
+marketing,C,C,C
+marketing,C,C,C: 60세이상의 연령
+marketing,D,C,C: 기획 → 측정 →
+marketing,D,C,C
+marketing,D,A,A: 사고(Consideration)
+marketing,B,D,D
+marketing,D,A,A
+marketing,B,B,B
+marketing,A,D,D
+marketing,A,A,A
+marketing,D,A,A
+marketing,C,D,D
+marketing,A,C,C
+marketing,D,A,A
+marketing,A,B,B
+marketing,A,C,C: 눈길을 돌리는
+marketing,B,D,D
+marketing,C,B,B
+marketing,D,B,B
+marketing,C,A,A
+marketing,A,D,D
+marketing,B,D,D
+marketing,D,D,D
+marketing,C,C,C
+marketing,D,C,C
+marketing,D,D,D
+marketing,B,C,C
+marketing,C,D,D
+materials_engineering,C,D,D
+materials_engineering,C,C,C
+materials_engineering,B,D,D
+materials_engineering,C,C,"C: 1135, 4.3"
+materials_engineering,A,D,D
+materials_engineering,B,D,D
+materials_engineering,B,C,C
+materials_engineering,A,D,D
+materials_engineering,C,D,D
+materials_engineering,C,D,"D: α = 23, P = 77"
+materials_engineering,D,D,D
+materials_engineering,B,D,D
+materials_engineering,B,B,B
+materials_engineering,D,D,D
+materials_engineering,D,B,B
+materials_engineering,C,D,D
+materials_engineering,A,B,B
+materials_engineering,B,D,D
+materials_engineering,B,D,D
+materials_engineering,A,D,D
+materials_engineering,B,B,B
+materials_engineering,B,D,D
+materials_engineering,D,D,D
+materials_engineering,C,B,B: 5 ~ 10
+materials_engineering,D,B,B
+materials_engineering,A,C,C: 75%
+materials_engineering,B,C,"C
+
+질문 (Question): 금"
+materials_engineering,D,D,D
+materials_engineering,B,B,B
+materials_engineering,D,D,D
+materials_engineering,D,D,D
+materials_engineering,B,D,D
+materials_engineering,A,D,D
+materials_engineering,D,D,D
+materials_engineering,B,C,"C: 5.0mm
+
+해설: KS"
+materials_engineering,C,A,A
+materials_engineering,B,B,B: 125
+materials_engineering,C,B,B
+materials_engineering,B,A,A
+materials_engineering,D,C,C
+materials_engineering,A,B,B
+materials_engineering,B,D,D
+materials_engineering,B,B,B
+materials_engineering,D,D,D
+materials_engineering,A,D,D
+materials_engineering,A,D,D
+materials_engineering,C,D,D
+materials_engineering,B,D,D
+materials_engineering,A,B,B: 7700
+materials_engineering,B,D,D
+materials_engineering,B,D,D
+materials_engineering,D,D,D
+materials_engineering,D,C,C
+materials_engineering,D,C,C
+materials_engineering,B,C,C
+materials_engineering,D,C,C
+materials_engineering,C,A,A
+materials_engineering,B,C,C
+materials_engineering,D,A,A
+materials_engineering,B,B,B: 13.5%
+materials_engineering,A,A,A
+materials_engineering,B,D,D
+materials_engineering,B,D,D
+materials_engineering,B,B,B
+materials_engineering,C,D,D
+materials_engineering,C,B,B
+materials_engineering,B,C,C
+materials_engineering,C,D,D
+materials_engineering,B,B,B
+materials_engineering,B,D,D
+materials_engineering,A,D,D
+materials_engineering,D,A,A
+materials_engineering,B,D,D
+materials_engineering,A,D,D
+materials_engineering,C,D,D
+materials_engineering,D,B,B
+materials_engineering,B,C,C
+materials_engineering,B,D,D
+materials_engineering,B,D,D
+materials_engineering,A,B,B: 27.3
+materials_engineering,B,D,D
+materials_engineering,C,B,B: 23.9 × 10^-6
+materials_engineering,A,B,B
+materials_engineering,B,D,D
+materials_engineering,A,A,A
+materials_engineering,B,B,B
+materials_engineering,C,C,C
+materials_engineering,A,C,C
+materials_engineering,B,D,D
+materials_engineering,C,B,B: 1 : 1.5
+materials_engineering,D,C,C
+materials_engineering,D,C,C
+materials_engineering,C,D,D
+materials_engineering,C,B,B
+materials_engineering,C,D,D
+materials_engineering,B,D,D
+materials_engineering,C,B,B
+materials_engineering,C,C,C
+materials_engineering,D,B,B
+materials_engineering,A,D,D
+math,A,C,C
+math,A,B,B
+math,A,C,C
+math,C,B,B
+math,A,B,B
+math,B,C,C
+math,C,C,"C
+
+설명 (Explanation): 주어진"
+math,A,C,C
+math,C,A,A
+math,A,C,C
+math,A,B,B
+math,D,B,B
+math,D,C,C
+math,C,C,C
+math,B,B,B
+math,C,B,B
+math,B,D,D
+math,C,C,C
+math,C,B,B
+math,B,A,A
+math,A,C,C
+math,D,C,C
+math,C,C,C
+math,D,B,B
+math,A,C,C
+math,C,B,B
+math,B,B,B
+math,C,C,C
+math,A,B,B
+math,D,B,B
+math,A,B,B
+math,A,C,C: √2/9
+math,C,C,C
+math,D,C,C
+math,A,C,C
+math,C,B,B
+math,A,B,B
+math,A,C,C
+math,A,C,C
+math,B,C,C
+math,C,A,A
+math,B,B,B
+math,B,A,A
+math,B,B,B
+math,C,D,D
+math,A,B,B
+math,A,B,B
+math,A,B,B
+math,C,B,B
+math,C,B,B
+math,A,C,C
+math,D,B,B
+math,A,B,B
+math,A,B,B
+math,D,C,C
+math,D,C,C
+math,D,C,C
+math,C,C,C
+math,A,B,B
+math,B,C,C
+math,C,B,B
+math,C,B,B
+math,B,B,B
+math,C,B,B
+math,A,B,B
+math,C,A,A
+math,C,D,D
+math,C,B,B
+math,C,C,C
+math,D,A,A
+math,A,B,B
+math,C,D,D
+math,C,D,D
+math,C,C,C
+math,B,C,C
+math,D,B,B
+math,D,B,B
+math,A,B,B
+math,B,B,B
+math,D,B,B
+math,A,B,B
+math,A,C,"C
+
+설명 (Explanation): 제공"
+math,C,B,B
+math,B,B,B
+math,D,B,B
+math,A,B,B
+math,B,C,C
+math,C,C,C
+math,A,C,C
+math,D,C,C
+math,A,C,C
+math,A,C,C
+math,A,C,C
+math,C,C,C
+math,A,B,B
+math,B,B,B
+math,C,B,B
+math,D,D,D
+math,C,C,C
+math,D,C,C
+mechanical_engineering,B,C,C
+mechanical_engineering,C,B,B: V/√2
+mechanical_engineering,D,C,C
+mechanical_engineering,B,A,A
+mechanical_engineering,C,B,B
+mechanical_engineering,B,A,A
+mechanical_engineering,D,B,B
+mechanical_engineering,C,B,B: 1.31
+mechanical_engineering,B,B,B
+mechanical_engineering,B,D,D
+mechanical_engineering,A,D,D: 10%
+mechanical_engineering,B,B,B: 3.5/π
+mechanical_engineering,B,C,C
+mechanical_engineering,C,C,C
+mechanical_engineering,D,A,A: 0.8
+mechanical_engineering,B,A,A: 1.042
+mechanical_engineering,D,C,C
+mechanical_engineering,A,C,C
+mechanical_engineering,D,A,A
+mechanical_engineering,A,D,D
+mechanical_engineering,D,D,D
+mechanical_engineering,B,C,C
+mechanical_engineering,D,B,B: 11종
+mechanical_engineering,C,B,B: 8
+mechanical_engineering,C,B,B: 300
+mechanical_engineering,D,B,B: 12 kg
+mechanical_engineering,C,A,A
+mechanical_engineering,D,B,B
+mechanical_engineering,C,D,D
+mechanical_engineering,B,C,C: 960
+mechanical_engineering,B,B,B
+mechanical_engineering,D,D,D
+mechanical_engineering,D,C,C: 2.45
+mechanical_engineering,B,A,A: 254
+mechanical_engineering,D,C,C
+mechanical_engineering,C,C,C
+mechanical_engineering,C,C,C
+mechanical_engineering,A,B,B: 9.2
+mechanical_engineering,A,C,"C: 명칭, 길이 × 호"
+mechanical_engineering,B,B,B: 60000kgf-m
+mechanical_engineering,C,D,D: 0.333
+mechanical_engineering,B,A,A: 258
+mechanical_engineering,D,D,D
+mechanical_engineering,B,D,D
+mechanical_engineering,D,C,C: 900
+mechanical_engineering,D,D,D
+mechanical_engineering,B,A,A
+mechanical_engineering,B,D,D
+mechanical_engineering,C,D,D
+mechanical_engineering,D,C,C
+mechanical_engineering,B,D,D
+mechanical_engineering,C,B,B
+mechanical_engineering,B,D,D
+mechanical_engineering,B,A,A: 62.5√n
+mechanical_engineering,B,B,B: 1.09×10-3 m
+mechanical_engineering,B,B,B
+mechanical_engineering,B,D,D
+mechanical_engineering,B,C,C
+mechanical_engineering,B,C,C
+mechanical_engineering,C,C,C
+mechanical_engineering,D,D,D
+mechanical_engineering,D,D,D
+mechanical_engineering,C,C,C: 15cm
+mechanical_engineering,C,B,B: 200mm
+mechanical_engineering,D,A,A: 27000
+mechanical_engineering,C,A,A: 0.351 m3 증가
+mechanical_engineering,C,A,A
+mechanical_engineering,D,B,B: 1
+mechanical_engineering,C,B,B: 40㎝
+mechanical_engineering,C,D,D
+mechanical_engineering,C,A,A
+mechanical_engineering,C,C,C
+mechanical_engineering,D,B,B
+mechanical_engineering,B,D,D
+mechanical_engineering,B,C,C
+mechanical_engineering,D,C,C
+mechanical_engineering,B,B,B
+mechanical_engineering,D,A,A
+mechanical_engineering,B,A,A: 46.7
+mechanical_engineering,D,C,C
+mechanical_engineering,B,C,C
+mechanical_engineering,B,D,D: 2.0 mm
+mechanical_engineering,C,C,C
+mechanical_engineering,D,A,A
+mechanical_engineering,C,B,B: 195
+mechanical_engineering,B,B,"B: 1696
+
+설명:
+연"
+mechanical_engineering,B,D,D
+mechanical_engineering,B,D,D
+mechanical_engineering,D,D,D
+mechanical_engineering,D,C,C
+mechanical_engineering,D,B,B
+mechanical_engineering,B,A,A
+mechanical_engineering,D,D,"D: T2=428.9 K, △"
+mechanical_engineering,B,C,C
+mechanical_engineering,D,B,B
+mechanical_engineering,B,D,D
+mechanical_engineering,B,B,B
+mechanical_engineering,D,D,D: 8Pa
+mechanical_engineering,D,C,C: 84.4
+mechanical_engineering,A,D,D
+nondestructive_testing,C,D,D
+nondestructive_testing,D,B,B: 코일법을 사용하여
+nondestructive_testing,B,C,C: 최대 에코 높
+nondestructive_testing,B,D,D
+nondestructive_testing,D,D,D: 1000mAㆍsec
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D: 가장 높은 에너지
+nondestructive_testing,A,A,A: 공진효과
+nondestructive_testing,B,D,D: 1.8 이상 4.5 이하
+nondestructive_testing,B,D,D: 원자번호가 큰
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,B,C,C: 스크린 재질
+nondestructive_testing,D,C,C
+nondestructive_testing,D,C,C: 약 1.0
+nondestructive_testing,D,D,D: 1clusec = 10^-2 lusec
+nondestructive_testing,A,A,A
+nondestructive_testing,B,D,D
+nondestructive_testing,D,D,D
+nondestructive_testing,D,C,C: 코일법인 경우
+nondestructive_testing,B,D,D
+nondestructive_testing,C,B,B: 시험체의 수량
+nondestructive_testing,C,B,B: 0.125mm이하
+nondestructive_testing,A,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,B,B,B: 34초
+nondestructive_testing,D,D,D: 처음 노출시
+nondestructive_testing,B,D,D: 4 : 1
+nondestructive_testing,B,B,B: 10
+nondestructive_testing,A,D,D: 768℃
+nondestructive_testing,D,B,B: 0.8
+nondestructive_testing,B,D,D
+nondestructive_testing,B,B,B: 결정입자의 조대화
+nondestructive_testing,D,B,B: 27000
+nondestructive_testing,D,D,D: 50
+nondestructive_testing,B,B,B: 1539
+nondestructive_testing,C,D,D: 110~125A
+nondestructive_testing,B,D,D: C형 대비시험편
+nondestructive_testing,B,C,"C: 교류, 잔류"
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D: 103
+nondestructive_testing,B,B,B: 32℃ ∼ 45℃
+nondestructive_testing,D,C,C
+nondestructive_testing,B,B,B: 2
+nondestructive_testing,D,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,C,D,"D: 최저는 1.0,"
+nondestructive_testing,C,D,D
+nondestructive_testing,C,C,C: 스크린에 의해 방
+nondestructive_testing,D,B,B: 루트간격의 1
+nondestructive_testing,D,D,D: 1.8 이상 4.0 이하
+nondestructive_testing,B,B,B: 사용하지 않은 침
+nondestructive_testing,D,D,D: 적류-건식
+nondestructive_testing,D,D,D: 다른 방향으로
+nondestructive_testing,B,D,D: 원형의 직경 : 5
+nondestructive_testing,B,D,D: ±0.5°
+nondestructive_testing,B,B,B: 얇은 납판을
+nondestructive_testing,C,B,B
+nondestructive_testing,B,D,D
+nondestructive_testing,D,B,B: 20 ~ 30%
+nondestructive_testing,A,D,D
+nondestructive_testing,D,B,B: 자분의 입도
+nondestructive_testing,D,D,D: 시험체의 재질
+nondestructive_testing,A,B,B: 도막박리제
+nondestructive_testing,B,B,B: 후유화성 형광
+nondestructive_testing,B,B,B: 알루미늄
+nondestructive_testing,B,A,A: ±5% 이내
+nondestructive_testing,B,D,"D: 48cm
+
+해설: KS B"
+nondestructive_testing,A,B,B: 기하학적 불선명도
+nondestructive_testing,D,D,D
+nondestructive_testing,D,C,"C: 3,000[A]"
+nondestructive_testing,B,D,D
+nondestructive_testing,B,B,B: 98MPa~392MPa
+nondestructive_testing,A,C,C
+nondestructive_testing,C,C,C: 저감도 필
+nondestructive_testing,D,D,D
+nondestructive_testing,B,C,C
+nondestructive_testing,C,D,D
+nondestructive_testing,A,C,C
+nondestructive_testing,D,D,D: 3.5 이하
+nondestructive_testing,B,C,C: 25
+nondestructive_testing,D,D,D
+nondestructive_testing,A,B,B: FCC → BCC → FCC
+nondestructive_testing,C,D,"D: 최소 10분,"
+nondestructive_testing,A,D,D: 알칼리염류
+nondestructive_testing,C,C,C: 전류관통법
+nondestructive_testing,D,C,C
+nondestructive_testing,D,D,D: 2700A
+nondestructive_testing,D,B,B: 78초
+nondestructive_testing,A,B,B: 표면 아래 결
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,C,D,D: 검사액의 성능
+nondestructive_testing,C,C,C: 부품내에 종축자장
+nondestructive_testing,B,B,B: 인성을 증가시키나
+nondestructive_testing,D,B,B: 9.4×10^5
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,C,A,A
+nondestructive_testing,B,D,D: 2250
+patent,D,D,D
+patent,B,A,A
+patent,C,A,A
+patent,C,D,D
+patent,D,A,A
+patent,C,D,D
+patent,C,A,A
+patent,B,A,A
+patent,C,D,D
+patent,C,A,A
+patent,B,A,A
+patent,B,D,D
+patent,D,D,D
+patent,B,A,A
+patent,C,D,D
+patent,B,A,A
+patent,B,A,A
+patent,C,D,D
+patent,B,A,A
+patent,B,D,D
+patent,B,C,C
+patent,B,A,A
+patent,C,B,B
+patent,B,A,A
+patent,C,A,A
+patent,A,A,A
+patent,A,D,D
+patent,A,A,A
+patent,C,A,A
+patent,A,A,A
+patent,A,A,A
+patent,A,A,A
+patent,A,A,A
+patent,A,D,D
+patent,A,A,A
+patent,A,A,A
+patent,A,D,D
+patent,A,A,A
+patent,A,B,B
+patent,B,D,D
+patent,B,A,A
+patent,D,D,D
+patent,C,A,A
+patent,C,D,D
+patent,C,D,D
+patent,C,D,D
+patent,D,D,D
+patent,A,D,D
+patent,A,C,C
+patent,A,B,B
+patent,A,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,D,C,"C: ㄴ, ㄹ"
+political_science_and_sociology,B,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,B,D,D: 건강 문제의 심
+political_science_and_sociology,C,C,C
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,B,B
+political_science_and_sociology,C,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,C,D,D
+political_science_and_sociology,C,D,D
+political_science_and_sociology,A,D,D: 위내시경 검사에서
+political_science_and_sociology,B,B,B: 과정평가
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,D,D: 755
+political_science_and_sociology,D,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,D,D: ㄹ⟶ㄱ⟶ㄷ⟶
+political_science_and_sociology,A,D,D
+political_science_and_sociology,D,C,C
+political_science_and_sociology,A,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,D,C,C
+political_science_and_sociology,C,D,D
+political_science_and_sociology,A,C,C
+political_science_and_sociology,C,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,C,D,"D: ㄹ, ㅁ, ㅂ"
+political_science_and_sociology,D,B,B: 규칙적 오
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,C,C
+political_science_and_sociology,B,C,C
+political_science_and_sociology,A,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,D,A,A
+political_science_and_sociology,C,C,C: 일탈형 부패
+political_science_and_sociology,B,A,A
+political_science_and_sociology,D,B,B
+political_science_and_sociology,D,D,D
+political_science_and_sociology,A,B,B: 법령이나 조례
+political_science_and_sociology,C,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,C,B,B
+political_science_and_sociology,B,D,D
+political_science_and_sociology,D,C,C
+political_science_and_sociology,D,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,B,B: 전략무기 감축
+political_science_and_sociology,A,D,D
+political_science_and_sociology,C,D,D
+political_science_and_sociology,C,D,D: 섬 발전 촉진
+political_science_and_sociology,D,B,B
+political_science_and_sociology,B,B,B
+political_science_and_sociology,B,D,D
+political_science_and_sociology,C,D,D
+political_science_and_sociology,A,D,D
+political_science_and_sociology,A,C,C
+political_science_and_sociology,C,C,C
+political_science_and_sociology,D,D,D
+political_science_and_sociology,D,B,B: 비례대표 지방의회
+political_science_and_sociology,C,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,C,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,B,D,D
+political_science_and_sociology,D,D,D
+political_science_and_sociology,A,A,A
+political_science_and_sociology,A,B,B: 1930년대 뉴딜
+political_science_and_sociology,B,B,B
+political_science_and_sociology,D,A,A
+political_science_and_sociology,A,D,D: 신도시 개발은 기
+political_science_and_sociology,B,D,D
+political_science_and_sociology,A,A,A: 농어촌특별
+political_science_and_sociology,B,C,C
+political_science_and_sociology,C,B,B
+political_science_and_sociology,C,C,C
+political_science_and_sociology,B,D,D
+psychology,A,D,D
+psychology,D,D,D
+psychology,A,D,D
+psychology,B,D,D
+psychology,A,D,D
+psychology,B,D,D
+psychology,B,B,B: 약 67.7%
+psychology,B,C,C
+psychology,A,A,A
+psychology,C,B,B: 흥미와 적성의
+psychology,A,D,D
+psychology,B,D,D
+psychology,B,C,C: 외부환경 요인
+psychology,D,D,D
+psychology,B,C,C
+psychology,B,D,D
+psychology,C,D,D
+psychology,C,D,D: 장애인 선호직종
+psychology,D,C,C: 작업기억 - 산
+psychology,C,D,D
+psychology,B,D,D
+psychology,A,B,B: 근로자 1명당 1
+psychology,B,D,D
+psychology,B,D,D
+psychology,D,C,C: 전이된 오류 정정
+psychology,B,D,D
+psychology,A,A,A
+psychology,C,B,B
+psychology,C,B,B
+psychology,D,D,D
+psychology,B,A,A
+psychology,A,D,D
+psychology,D,D,D
+psychology,D,D,D
+psychology,D,D,D
+psychology,D,D,D: 조기재취업 수
+psychology,A,C,C: 국민소득을 감안한
+psychology,A,D,D
+psychology,D,D,D
+psychology,C,D,D
+psychology,B,D,D
+psychology,A,D,D
+psychology,D,D,D
+psychology,D,D,D
+psychology,B,D,D
+psychology,B,D,D
+psychology,B,D,D
+psychology,B,C,C: 70
+psychology,A,D,D
+psychology,D,D,D
+psychology,D,C,C
+psychology,D,C,C
+psychology,D,C,C
+psychology,A,D,D
+psychology,B,D,D
+psychology,C,D,D
+psychology,A,C,C
+psychology,B,D,D
+psychology,A,B,B: 탐색과 계
+psychology,A,D,D
+psychology,A,D,D
+psychology,B,D,D: 조사된 흥미
+psychology,A,A,A: 의존성(dependence)
+psychology,B,C,C
+psychology,B,A,A
+psychology,D,D,D
+psychology,D,D,D
+psychology,B,C,C
+psychology,C,D,D
+psychology,A,D,D
+psychology,A,D,D
+psychology,B,C,C
+psychology,D,D,D
+psychology,B,D,D
+psychology,A,D,D
+psychology,D,C,C: 게임그래픽
+psychology,A,B,B: 저항하기
+psychology,C,B,B: 검사의 두 가지
+psychology,B,B,B: 토큰강화는 프
+psychology,A,D,D
+psychology,D,D,D
+psychology,A,C,C
+psychology,B,D,D
+psychology,A,C,C
+psychology,A,A,A
+psychology,D,C,C
+psychology,A,D,D
+psychology,C,D,D
+psychology,A,D,"D
+
+설명: 완전경"
+psychology,D,D,D
+psychology,D,D,D
+psychology,B,C,C
+psychology,A,D,D
+psychology,B,D,D: 회피적 결정
+psychology,D,C,C: 한국고용직업분
+psychology,A,D,D
+psychology,A,D,D
+psychology,C,D,D
+psychology,D,D,D
+psychology,D,A,A
+public_safety,C,D,D\n\n설명은 삼산화
+public_safety,D,D,D: 100\n\n설명 (Ex
+public_safety,B,C,C: 30%
+public_safety,D,B,B: 20 m
+public_safety,D,D,D
+public_safety,B,D,D: 허가취소
+public_safety,D,D,D: 1.7
+public_safety,A,C,C: 8배
+public_safety,B,D,D: 20m 이상\n\n설
+public_safety,B,C,C: 80㎏/㎝2\n\
+public_safety,B,B,B: 0.5m
+public_safety,B,D,D: 물에는 자유로이
+public_safety,C,B,"B: 147[g]
+
+설명:"
+public_safety,D,D,D
+public_safety,D,D,D: 최고사용압력의
+public_safety,C,D,D: 안전한 장소로 옮
+public_safety,D,A,A: 0.01초 이내\n정
+public_safety,D,C,"C: 0.19
+
+논리:"
+public_safety,B,C,C: 10^-3(g)\n\n방
+public_safety,B,D,"D: 1500
+
+해설:"
+public_safety,B,B,"B: 100
+
+설명: 일"
+public_safety,D,D,"D: 0.9 이상, 1.6 이"
+public_safety,B,D,D: 이산화탄소
+public_safety,C,D,D: 폭원으로부터
+public_safety,A,C,C: 공업용되관
+public_safety,B,A,A: 뇌관의 폭
+public_safety,C,D,D: 정전기방전 에너지가
+public_safety,D,B,B: 4.0×10^2[V]
+public_safety,C,A,A: 원심식 송풍기
+public_safety,B,D,D: 마스트의 중심선
+public_safety,B,D,D: 1차측에 과전류
+public_safety,D,D,D: 뇌해 방지를 하기 위
+public_safety,C,C,C: 15.0mm\n\n설명
+public_safety,C,D,"D: 52%
+
+해결 과정:"
+public_safety,D,B,B: 18.6\n\n설명:
+public_safety,B,D,D: 제4종 분말은 5
+public_safety,D,D,D: 전문소방공사감리업
+public_safety,D,A,A: 근력
+public_safety,D,B,B: 2.6 × 10^3(V)
+public_safety,B,B,B: 황린을 제외하
+public_safety,C,C,C: 6.25m\n\n몰
+public_safety,D,D,D: 시장ㆍ군수
+public_safety,B,D,"D: 3,500m2"
+public_safety,B,D,D: 지상에서 1.0m 이상
+public_safety,D,D,D: 사용시의 상태
+public_safety,C,B,B: 4.45t/m2\n\n이
+public_safety,D,A,A: 22.4\n\n설명:
+public_safety,D,D,D: 410m\n\n질문 (
+public_safety,D,D,D: finger
+public_safety,B,C,C: 포스겐가스의
+public_safety,B,B,B
+public_safety,D,A,A: 안전관리 목표
+public_safety,C,D,D: 2년 이하의 징역
+public_safety,D,D,"D: 35.3분
+
+설명"
+public_safety,B,D,D: 할론 104
+public_safety,C,D,D: 400V 미만의 저
+public_safety,D,D,D: 급기구는 높은
+public_safety,B,D,D
+public_safety,D,D,D: 재해발생원 인자\
+public_safety,C,D,D: 2년 이하의 징역
+public_safety,C,B,B: 적색
+public_safety,C,D,D: 사람의 상해사망
+public_safety,C,A,A: 6m\n\n설명:
+public_safety,B,D,D: 펌프토출
+public_safety,D,D,D: 양단힌지
+public_safety,A,A,A: 산소가 발생한다.
+public_safety,B,D,D: 물질의 상태는
+public_safety,D,D,"D: 4개
+
+설명: 부"
+public_safety,B,D,D: 가스의 종류에는
+public_safety,A,A,A: 무수크롬산과 아세
+public_safety,D,B,B: CBr2CIF
+public_safety,D,D,D: 1월  효력정지\n
+public_safety,D,C,C: 평면 변형
+public_safety,C,D,D: 5.5m 이하
+public_safety,B,D,D: 물에는 녹지
+public_safety,A,C,C: 월중 50kg 미만의
+public_safety,A,D,D: 근로자가 탑승
+public_safety,C,A,"A: 15.8g
+
+설명:"
+public_safety,D,A,A: 산·알칼리소화기
+public_safety,B,B,"B: 20.45kg
+
+설명:"
+public_safety,C,B,B: 최소 점화 에
+public_safety,C,B,B: 1종장소
+public_safety,D,C,C: 대통령령\n\
+public_safety,D,D,D: 도자기
+public_safety,D,D,D: 목탄
+public_safety,D,D,D: 장난감용꽃
+public_safety,D,C,C: 자기연소
+public_safety,B,A,A: 6.02 × 10^23개\
+public_safety,D,A,A: 발화점\n\n
+public_safety,D,D,D: 제전능력이 작
+public_safety,B,A,A: 지발발파법
+public_safety,B,B,B: 황색
+public_safety,B,A,"A: O 
+
+정답은 A로,"
+public_safety,C,D,D: 91mm\n\n설명:
+public_safety,C,B,B: 2260V\n\n정량
+public_safety,D,A,"A: 접염
+
+설명:"
+public_safety,A,D,D: 진동기는 콘크리트
+public_safety,D,C,C: 1.8\n\n방정식을 사
+public_safety,C,A,A: 작업장 간의
+public_safety,D,B,B: 5배\n\n공식:
+railway_and_automotive_engineering,A,D,D
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,D,D,D
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,B,C,C
+railway_and_automotive_engineering,B,A,A: 11390
+railway_and_automotive_engineering,A,C,C
+railway_and_automotive_engineering,D,B,B: 8.96
+railway_and_automotive_engineering,B,C,C
+railway_and_automotive_engineering,B,B,B: 4.2
+railway_and_automotive_engineering,B,B,B: 화염 전파기간
+railway_and_automotive_engineering,B,B,B: 32.2
+railway_and_automotive_engineering,C,D,D
+railway_and_automotive_engineering,B,B,B: 5.35
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,B,D,D: σ/4πε0
+railway_and_automotive_engineering,B,B,B: 60.3PS
+railway_and_automotive_engineering,C,B,B: 78.5 MPa
+railway_and_automotive_engineering,C,A,A
+railway_and_automotive_engineering,D,B,B: 6.42kgf/m
+railway_and_automotive_engineering,D,B,B: 2/3
+railway_and_automotive_engineering,C,C,C
+railway_and_automotive_engineering,C,C,C
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,C,A,A
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,D,D,D
+railway_and_automotive_engineering,B,C,C: 8.4
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,D,C,C
+railway_and_automotive_engineering,D,A,A: 505rpm
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,C,D,D
+railway_and_automotive_engineering,B,B,B: 0.5
+railway_and_automotive_engineering,A,D,D: 43.2
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,A,A,A: 여자전류 감소
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,D,B,B: 40
+railway_and_automotive_engineering,B,B,"B: 4, -53°"
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,D,A,A: 120
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,D,C,C: 370
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,B,B,B: 0.0724
+railway_and_automotive_engineering,D,C,C: 2850kJ/kg
+railway_and_automotive_engineering,C,B,B: 1/1+zeαt
+railway_and_automotive_engineering,D,B,B: 1196cc
+railway_and_automotive_engineering,B,B,B: 430mm × 65mm
+railway_and_automotive_engineering,D,B,B: 30
+railway_and_automotive_engineering,A,D,D
+railway_and_automotive_engineering,C,B,B: 5291
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,C,A,A
+railway_and_automotive_engineering,D,B,"B: 신호기 2초 이내,"
+railway_and_automotive_engineering,B,A,A
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,A,B,B: 15
+railway_and_automotive_engineering,B,C,C
+railway_and_automotive_engineering,D,B,B: 104
+railway_and_automotive_engineering,B,A,A: 57.7
+railway_and_automotive_engineering,B,B,B: 52.8
+railway_and_automotive_engineering,D,B,B: 약 25km/h
+railway_and_automotive_engineering,B,C,C: 1057N
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,D,C,C
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,D,A,A: UCL = 8.94
+railway_and_automotive_engineering,D,B,B: 100 kg
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,A,B,B: 7.5
+railway_and_automotive_engineering,C,A,A: 카본형
+railway_and_automotive_engineering,D,C,C: 2850
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,C,D,D
+railway_and_automotive_engineering,B,C,C
+railway_and_automotive_engineering,C,A,A
+railway_and_automotive_engineering,D,C,C
+railway_and_automotive_engineering,B,B,B: 1500
+railway_and_automotive_engineering,D,C,C: 82
+railway_and_automotive_engineering,D,A,A: 속도초과시 자동기
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,B,B,B: 200cm3
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,A,B,B: 10.42
+railway_and_automotive_engineering,D,B,B: 20[%]
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,A,C,C
+railway_and_automotive_engineering,B,C,C
+railway_and_automotive_engineering,B,B,B: 25
+railway_and_automotive_engineering,A,D,D
+railway_and_automotive_engineering,C,C,C
+railway_and_automotive_engineering,D,C,C: 600 rpm
+railway_and_automotive_engineering,B,C,C
+real_estate,D,D,D
+real_estate,B,D,D
+real_estate,A,D,D
+real_estate,D,D,D
+real_estate,C,B,B: 환경조건의 “비선호
+real_estate,D,D,D
+real_estate,C,D,D: 아파트에 대한 추
+real_estate,A,B,"B: 50
+
+설명:"
+real_estate,D,D,D
+real_estate,C,D,D: 거래정보사업자
+real_estate,C,A,A: 대체 주택에 대한
+real_estate,D,D,D: 개업공인중개사가
+real_estate,D,D,D: 4% 증가\n\n
+real_estate,D,D,D
+real_estate,D,D,D
+real_estate,B,D,D
+real_estate,D,D,D: 주택수요가 증가하
+real_estate,C,D,D
+real_estate,A,B,B: 자격증을 교부한
+real_estate,B,D,D
+real_estate,A,C,C: 합명회사가 개설등
+real_estate,A,C,C: 부동산중개업법에
+real_estate,B,D,D
+real_estate,D,D,D: 실비 영수증 사
+real_estate,B,D,D
+real_estate,C,D,D: A지역주택조합은 조합원
+real_estate,C,B,B: 개업공인중개사가
+real_estate,D,D,D
+real_estate,C,D,D: 협회는 개업공인중
+real_estate,B,D,D
+real_estate,D,D,D
+real_estate,D,D,D: 어린이놀이터
+real_estate,D,C,C: 乙이 B군에 분사무
+real_estate,A,D,D
+real_estate,C,D,D
+real_estate,D,D,D
+real_estate,A,D,D
+real_estate,D,D,D: 甲이 대표자로 있
+real_estate,D,B,B: 중개업에 부수되는
+real_estate,A,D,D
+real_estate,A,D,D
+real_estate,B,D,D
+real_estate,D,D,D
+real_estate,A,B,B: 1.4\n\n자세한
+real_estate,C,D,D: 신재생 에너지
+real_estate,B,D,D
+real_estate,A,D,D
+real_estate,D,D,D: 개업공인중개사가 성
+real_estate,D,C,C: 8% 증가\n\n
+real_estate,D,D,D
+real_estate,D,D,D
+real_estate,B,A,A: 해당 주택을 상
+real_estate,B,D,D
+real_estate,B,B,B: 부동성은 소모를 전제로
+real_estate,A,D,D
+real_estate,D,D,D: 세대구분형 공동주
+real_estate,B,B,B: 사업계획승
+real_estate,B,D,D
+real_estate,C,D,D
+real_estate,B,D,D
+real_estate,C,D,D
+real_estate,B,D,D
+real_estate,D,C,C
+real_estate,A,B,B: 법령상 부득이
+real_estate,B,D,D
+real_estate,B,C,C: 업무대행을 수
+real_estate,B,C,C: 검사
+real_estate,A,D,D
+real_estate,D,D,D: 하자심사ㆍ분
+real_estate,C,D,D
+real_estate,B,D,D
+real_estate,A,D,D: 거래예정가
+real_estate,D,B,B
+real_estate,A,D,D: 우선 공급받은
+real_estate,D,D,D
+real_estate,D,D,D
+real_estate,C,D,D
+real_estate,C,C,C: 중개업자가 미등기
+real_estate,C,A,A
+real_estate,D,D,D
+real_estate,B,D,D: 토지이용계획서
+real_estate,B,D,D
+real_estate,C,D,D: 공인중개사 자격증
+real_estate,B,D,D
+real_estate,B,D,D
+real_estate,D,D,D
+real_estate,B,C,C
+real_estate,D,B,"B: 50 상승
+
+설명"
+real_estate,A,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,A,A
+refrigerating_machinery,A,A,A
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,A,B,B: 개방형에 비해 용
+refrigerating_machinery,C,B,B
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,A,A: 2.67
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,D,D
+refrigerating_machinery,C,A,A
+refrigerating_machinery,D,B,B
+refrigerating_machinery,C,A,A
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,D,D
+refrigerating_machinery,C,B,B
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,B,B
+refrigerating_machinery,B,C,C: 4.21㎏/cm2 abs
+refrigerating_machinery,B,C,C: a＞1
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,B,B
+refrigerating_machinery,C,D,D
+refrigerating_machinery,C,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,A,C,C
+refrigerating_machinery,C,D,D
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,A,A
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,A,D,D
+refrigerating_machinery,D,B,B: 284
+refrigerating_machinery,A,A,A
+refrigerating_machinery,A,A,A
+refrigerating_machinery,D,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,C,C
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,C,C
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D: 지연요소
+refrigerating_machinery,C,D,D
+refrigerating_machinery,A,C,C
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,A,A
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,A,A
+refrigerating_machinery,D,C,C
+refrigerating_machinery,D,B,B
+refrigerating_machinery,D,A,A
+refrigerating_machinery,D,B,B: 7.8 ℃
+refrigerating_machinery,D,B,B
+refrigerating_machinery,D,D,D
+refrigerating_machinery,C,C,C
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,C,C
+refrigerating_machinery,C,C,C
+refrigerating_machinery,C,A,A
+refrigerating_machinery,D,A,A
+refrigerating_machinery,A,A,A: 각층 유닛방식
+refrigerating_machinery,D,B,B
+refrigerating_machinery,C,B,B
+refrigerating_machinery,B,D,D: 2.0m
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,C,C
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,B,B
+refrigerating_machinery,C,D,D
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,C,C
+refrigerating_machinery,D,B,B
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,D,D
+refrigerating_machinery,C,D,D
+refrigerating_machinery,D,C,C
+social_welfare,B,C,"C: F(1/a, 1/b)"
+social_welfare,C,D,D: 0.262＜p＜0
+social_welfare,A,D,D
+social_welfare,A,C,C: 2
+social_welfare,D,B,B: 285
+social_welfare,D,D,D
+social_welfare,D,A,A
+social_welfare,A,C,C
+social_welfare,D,B,B: 650
+social_welfare,D,D,D: 잔차제곱합
+social_welfare,B,C,C
+social_welfare,D,B,B: 0.87
+social_welfare,B,D,D: 제1종 오류를 범
+social_welfare,D,D,D
+social_welfare,D,D,D: 13.3 戎 0.82
+social_welfare,B,D,D: 95.00
+social_welfare,A,A,A: 0.6
+social_welfare,B,D,D: 2401명
+social_welfare,B,D,D
+social_welfare,B,B,B: 0.227
+social_welfare,D,D,D: 0.45±0.0975
+social_welfare,D,D,D
+social_welfare,D,B,B: 0.5
+social_welfare,D,D,D: 2401
+social_welfare,B,D,D
+social_welfare,B,D,D
+social_welfare,D,C,"C: 평균:30,"
+social_welfare,C,D,"D: H0:μ≤μ0, H1:μ"
+social_welfare,D,A,A: -2.58\n\n설명:
+social_welfare,B,C,C: P(-4≤X≤4)≥0.95
+social_welfare,C,B,B: 구성변수(component variable)
+social_welfare,D,D,"D: 남자 : 90명, 여자 :"
+social_welfare,C,B,B: 5개
+social_welfare,D,D,D
+social_welfare,B,D,D
+social_welfare,B,C,C: 0.05
+social_welfare,A,D,D
+social_welfare,C,B,B: 1.02
+social_welfare,B,B,B: 271
+social_welfare,D,B,B: 768
+social_welfare,B,D,D
+social_welfare,B,B,B: 자유도 12인 카이제
+social_welfare,B,B,B: 5
+social_welfare,C,D,D: 의미분화척도(semantic
+social_welfare,A,D,D
+social_welfare,C,B,B
+social_welfare,C,B,B: 71.96
+social_welfare,C,D,D
+social_welfare,A,D,D: 2.342명 ~ 3.658
+social_welfare,B,C,C: 21%
+social_welfare,A,B,B: 0.04
+social_welfare,C,B,B: 1.03%
+social_welfare,C,D,D: 0.027
+social_welfare,B,D,D
+social_welfare,C,D,D
+social_welfare,D,B,B: 324.3\n\n설명
+social_welfare,A,D,D: 위 사실로는 판단
+social_welfare,C,D,D: 표집방법
+social_welfare,B,B,B: 68%
+social_welfare,A,D,D
+social_welfare,B,B,B: 내용타당도
+social_welfare,C,B,"B: 90.48, 40"
+social_welfare,D,B,B
+social_welfare,C,C,C
+social_welfare,B,D,D
+social_welfare,D,D,D
+social_welfare,B,B,B: 재개념화
+social_welfare,A,B,"B: (42.54, 42.86)"
+social_welfare,D,C,C: 최소오차계수
+social_welfare,A,D,D
+social_welfare,B,D,D
+social_welfare,B,B,"B: 기대값 : 360,"
+social_welfare,C,D,D
+social_welfare,A,D,"D: N(2백만, 1600)"
+social_welfare,B,B,B: 0.023
+social_welfare,C,B,B: 5개
+social_welfare,D,D,D
+social_welfare,A,A,A: 내용타당성
+social_welfare,D,C,C
+social_welfare,D,D,D
+social_welfare,D,D,D
+social_welfare,C,B,B: 매개변수
+social_welfare,B,D,"D: (9.18, 10.82)"
+social_welfare,D,D,D
+social_welfare,D,D,D: 4개
+social_welfare,A,D,D
+social_welfare,A,B,B: 22±7.21
+social_welfare,B,D,D
+social_welfare,D,D,D: 25
+social_welfare,A,C,C: 우편조사와 전화조
+social_welfare,D,D,D
+social_welfare,B,D,D: -9
+social_welfare,D,D,"D: 2,401"
+social_welfare,C,D,D
+social_welfare,C,D,D
+social_welfare,B,A,A: Z-통계량
+social_welfare,B,C,C: 0.3
+social_welfare,C,C,C: 7/32
+social_welfare,B,C,"C: 평균 : 2.5,"
+social_welfare,C,D,D
+taxation,A,D,D: 소등세법 제59조
+taxation,D,D,D: 세관장은 천재지변
+taxation,A,D,D: 수입거래
+taxation,D,D,D
+taxation,C,D,D: 특허 보세구역의
+taxation,A,B,B: 심판 청구인은
+taxation,B,D,D: 외국에서 우리나라에
+taxation,D,D,D: 대외무역법 에
+taxation,B,D,D: 우리나라 선박 이 외
+taxation,A,D,D: 세무공무원은 증거
+taxation,A,D,D: 과세표준 결정
+taxation,A,D,D: 국가․지방자치단
+taxation,D,D,D
+taxation,D,D,D: 통관표지
+taxation,A,D,D: 지정장치장에 반
+taxation,B,D,D
+taxation,A,D,D: 해외 공급자 부호
+taxation,A,D,D: 과세자료 제출기
+taxation,C,D,D: 선박 또는 항공기
+taxation,B,D,D
+taxation,B,D,D: 특정 법인의
+taxation,A,D,D: 납세의무자가 세법
+taxation,C,D,D
+taxation,D,D,"D
+
+정답은 D입니다"
+taxation,C,D,D: 심사청구에 대한
+taxation,A,D,D: 납부기한이 일정한 경
+taxation,D,D,D
+taxation,B,D,D: 특허 보세구역의
+taxation,C,C,C: 외국 무역선이 개
+taxation,C,D,D: 외국 무역선이나
+taxation,D,D,D: 세무서장은 체난자
+taxation,A,D,D: 청구기간이 지
+taxation,A,C,C: 과세 기준일 현재 해
+taxation,B,D,D: 지방자치단체가
+taxation,D,D,D: 관세법 에 따
+taxation,C,D,D
+taxation,C,C,C: 통지하려는 날
+taxation,B,D,D: 가산세 납세의무는 가
+taxation,C,D,D
+taxation,B,D,D: 공동사업에서 발
+taxation,B,D,D: 국내 사업장이 있
+taxation,D,C,C: 재고자산이 부패로 인
+taxation,C,D,D: 외국 정부의 소유에
+taxation,C,D,D: 제조자 또는 수입
+taxation,D,D,D: 레저세는 승자
+taxation,B,D,D: 체납기간이 장
+taxation,B,D,D: 지방자치단체가
+taxation,A,D,D
+taxation,A,D,D: 물납재산의 수
+taxation,D,C,C: 주택의 공정 시장 가
+taxation,C,D,D: 지방소비세와 관
+taxation,A,D,D: 장애인이 대통
+taxation,C,D,D
+taxation,D,D,D: 서화․ 골동품
+taxation,B,D,D: 지방세기본법 제3
+taxation,D,D,D
+taxation,A,D,D
+taxation,A,B,B: 부정한 방법으로
+taxation,C,D,D: 보세공장에서는 세관장
+taxation,A,B,B: 세관장은 일시적
+taxation,A,D,D: 적법하게
+taxation,B,B,B: 과점주주의 제 2차
+taxation,C,D,D: 국내에 거소를 둔
+taxation,C,D,D: 결산을 확정할
+taxation,A,D,D: 지방자치단체의 장
+taxation,D,D,D: 채무자 회생
+taxation,D,D,D
+taxation,C,D,"D
+
+정답 (Answer): D
+
+설"
+taxation,A,A,Answer: D
+taxation,C,D,D
+taxation,C,D,D: 2020년 1월 1일 이
+taxation,B,D,D: 출자공동사업자의
+taxation,D,D,D: 건설자금에
+taxation,B,D,D
+taxation,A,D,D: 행정안전부 장관
+taxation,B,C,C: 보세구역 내에서 소비
+taxation,B,D,D: 관세청장은 당
+taxation,D,D,D\n\n질문 (Question): 관
+taxation,C,D,D: 기획재정부 차관은
+taxation,B,B,B: 전자문서 위조 ․
+taxation,B,D,D
+taxation,A,D,D
+taxation,B,D,D: 국외에서 공급하는
+taxation,D,D,D
+taxation,D,D,D: 국제협력관세
+taxation,D,D,D: 성실신고 확인 대
+taxation,A,D,D: 보세구역에 장치된
+taxation,A,D,"D
+
+설명: 소득세"
+taxation,C,D,D
+taxation,C,D,D: 지방자치단체의 장
+taxation,C,D,D: 광역시의 군(郡) 지
+taxation,C,D,D
+taxation,B,D,D: 내국법인 중 국가
+taxation,B,D,D: 이의신청에 대한
+taxation,D,D,D: 부가가치세 법
+taxation,B,D,D: 납세관리인을 정하
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,A,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,C,C: 31.8㏈
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,B,B: 6[V]
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,D,"D: 377[Ω],λ/4"
+telecommunications_and_wireless_technology,D,B,"B: 유선통신사업, 무"
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,C,C: 33[dB]
+telecommunications_and_wireless_technology,D,B,B: 2.7[V]
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,A,C,C
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,D,B,B
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,C,D,"D: B=120[KHz], mf =6"
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,B,B
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D: 규격전력
+telecommunications_and_wireless_technology,D,C,C: 0.40
+telecommunications_and_wireless_technology,C,B,B: 96.2
+telecommunications_and_wireless_technology,C,A,A
+telecommunications_and_wireless_technology,D,C,C: 통신망 성능
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,C,B,B: 소프트 핸드오
+telecommunications_and_wireless_technology,C,A,A
+telecommunications_and_wireless_technology,D,C,C
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D: 7.1[MHz]
+telecommunications_and_wireless_technology,B,D,D: 파라데이 회전
+telecommunications_and_wireless_technology,D,C,C
+telecommunications_and_wireless_technology,C,C,C
+telecommunications_and_wireless_technology,C,D,D: 64[kbps]
+telecommunications_and_wireless_technology,B,B,"B: 8, 180[㎒]"
+telecommunications_and_wireless_technology,B,B,B: 156[㎒]
+telecommunications_and_wireless_technology,C,B,B: 계위 종속동기방식
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,C,C
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,A,D,D: 무선국관리 사업단
+telecommunications_and_wireless_technology,D,C,C
+telecommunications_and_wireless_technology,C,C,C: 4.8[m]
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,A,D,D
+telecommunications_and_wireless_technology,D,D,D: 도파관 자려 –
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,C,C
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,D,B,B: 자동적으로 에
+telecommunications_and_wireless_technology,B,D,D: 10년
+telecommunications_and_wireless_technology,D,B,B
+telecommunications_and_wireless_technology,D,A,A: 30일 이내
+telecommunications_and_wireless_technology,B,A,A: 0.2[mW]
+telecommunications_and_wireless_technology,D,C,C
+telecommunications_and_wireless_technology,C,C,C
+telecommunications_and_wireless_technology,C,C,C: 80%
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,B,B,B
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,C,B,B: 96.67 [W]
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,B,B: 312.5[V]
+telecommunications_and_wireless_technology,C,B,B
+telecommunications_and_wireless_technology,B,C,C: 30[dB]
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,A,B,B: 열 잡음
+telecommunications_and_wireless_technology,C,B,B: 고역여파기
+telecommunications_and_wireless_technology,D,B,B
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,C,C: 5[kbps]
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,B,D,D: 4월
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,D,B,B: 10개
+telecommunications_and_wireless_technology,B,D,D: 스레싱
+telecommunications_and_wireless_technology,D,C,C
+telecommunications_and_wireless_technology,C,D,D: 1[kHz]
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,B,B
+telecommunications_and_wireless_technology,B,D,D: 10.0
+telecommunications_and_wireless_technology,D,A,A: 1[Ω]
+telecommunications_and_wireless_technology,C,D,D: 4[μs]
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,A,A
+telecommunications_and_wireless_technology,B,C,"C: 8비트, 256[μs]"

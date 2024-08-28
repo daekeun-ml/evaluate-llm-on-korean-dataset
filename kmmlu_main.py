@@ -18,7 +18,7 @@ from langchain_core.prompts import PromptTemplate, ChatPromptTemplate, HumanMess
 from langchain_openai import AzureChatOpenAI
 from langchain_community.llms.azureml_endpoint import AzureMLOnlineEndpoint
 from util.phi3_formatter import CustomPhi3ContentFormatter
-
+from util.common_helper import str2bool
 from logger import logger
 
 
@@ -50,8 +50,7 @@ class CustomStrOutputParser(StrOutputParser):
 def generate_few_shots_prompt(data):
     prompt = ""
     for i, row in enumerate(data):
-        prompt += f"## Example {i+1}:\n"
-        prompt += f"Category: {row['category']}\n"
+        #prompt += f"## Example {i+1}:\n"
         prompt += f"질문 (Question): {row['question']}\n"
         prompt += f"보기 (Options)\nA: {row['A']}, B: {row['B']}, C: {row['C']}, D: {row['D']}\n"
         prompt += f"정답 (Answer): {row['answer']}\n\n"
@@ -61,7 +60,6 @@ def generate_few_shots_prompt(data):
 def get_prompt(x, few_shots=None) -> str:
     if few_shots is None:
         return TYPE_2.format(
-            CATEGORY=x["category"],
             QUESTION=x["question"],
             A=x["A"],
             B=x["B"],
@@ -71,7 +69,6 @@ def get_prompt(x, few_shots=None) -> str:
     else:
         return TYPE_MMLU_FEW_SHOT.format(
             FEW_SHOTS=few_shots,
-            CATEGORY=x["category"],
             QUESTION=x["question"],
             A=x["A"],
             B=x["B"],
@@ -334,17 +331,17 @@ if __name__ == "__main__":
     load_dotenv()
     parser = argparse.ArgumentParser(description='Options')
 
-    parser.add_argument("--is_debug", type=bool, default=True)
+    parser.add_argument("--is_debug", type=str2bool, default=False)
     parser.add_argument("--num_debug_samples", type=int, default=10)
     parser.add_argument("--model_provider", type=str, default="azureopenai")
     parser.add_argument("--hf_model_id", type=str, default="microsoft/Phi-3.5-mini-instruct")
-    parser.add_argument("--batch_size", type=int, default=10)
+    parser.add_argument("--batch_size", type=int, default=20)
     parser.add_argument("--max_retries", type=int, default=3)
-    parser.add_argument("--max_tokens", type=int, default=256)
+    parser.add_argument("--max_tokens", type=int, default=1024)
     parser.add_argument("--temperature", type=float, default=0.01)
     parser.add_argument("--template_type", type=str, default="basic")
-    parser.add_argument("--is_hard", type=str, default=False)
-    parser.add_argument("--use_few_shots", type=str, default=True)    
+    parser.add_argument("--is_hard", type=str2bool, default=True)
+    parser.add_argument("--use_few_shots", type=str2bool, default=True)    
 
     args = parser.parse_args()
 

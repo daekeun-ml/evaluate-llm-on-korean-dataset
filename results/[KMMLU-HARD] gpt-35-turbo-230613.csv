@@ -905,7 +905,7 @@ Math,A,B,B
 Math,C,A,A
 Math,A,C,C: 18
 Math,B,C,C
-Math,C,,정답 (Answer): A
+Math,C,A,정답 (Answer): A
 Math,A,A,A: -32
 Math,C,C,"C: [71.8, 74.2]"
 Math,A,C,C: 16

@@ -1,0 +1,4963 @@
+category,answer,pred,response
+accounting,B,C,C가 정답입니다.
+accounting,A,C,C입니다.
+accounting,A,,"질문 1에 대한 답은 C입니다. 
+
+질문 2"
+accounting,B,A,A입니다.
+accounting,B,A,A가 맞습니다.
+accounting,D,A,A입니다.
+accounting,A,D,D입니다.
+accounting,A,C,C입니다.
+accounting,A,D,D
+accounting,B,,질문 (Question): 수정 전 잔액시산표의 차변 합
+accounting,A,,"질문 1의 정답은 C: ￦1,020"
+accounting,D,C,C
+accounting,A,D,D가 정답입니다.
+accounting,B,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+accounting,D,A,A입니다.
+accounting,B,C,C
+accounting,D,C,C
+accounting,C,B,B
+accounting,B,B,B
+accounting,A,A,A입니다.
+accounting,D,,"질문 6에 대한 답입니다.
+
+20× 1년 초 구"
+accounting,D,A,A입니다.
+accounting,D,,정답은 D입니다.
+accounting,C,A,A입니다.
+accounting,A,D,D
+accounting,C,A,A입니다.
+accounting,A,,질문 (Question): 수정 전 잔액시산표의 차변 합
+accounting,C,A,A입니다.
+accounting,C,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+accounting,A,D,D가 정답입니다.
+accounting,A,D,D
+accounting,D,D,D
+accounting,B,D,D
+accounting,D,A,A입니다.
+accounting,D,A,A입니다.
+accounting,C,D,D: 구축물
+accounting,D,,질문 1의 정답은 C입니다.
+accounting,C,,"질문 1에 대한 정답은 C입니다.
+
+질문 2"
+accounting,B,C,C입니다.
+accounting,D,D,D
+accounting,C,C,C입니다.
+accounting,B,C,C
+accounting,D,,"질문 1: A
+
+질문 2: D
+
+질문"
+accounting,B,D,D
+accounting,A,A,A입니다.
+accounting,D,C,C가 맞습니다.
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,A,B,B
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,C,,질문 1에 대한 정답은 A입니다. 지하발아
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,B,,"질문 1의 정답은 A, 질문 2의 정답"
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,B,B,B
+agricultural_sciences,C,D,D
+agricultural_sciences,D,D,D
+agricultural_sciences,A,,질문 1의 정답은 A입니다.
+agricultural_sciences,D,D,D입니다.
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+agricultural_sciences,D,D,D입니다.
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,C,A,A
+agricultural_sciences,D,A,A
+agricultural_sciences,B,D,D입니다.
+agricultural_sciences,C,B,B
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,D,D,D
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,D,,"질문 (Question): 지하발아형 종자가 아닌 것은?
+
+A"
+agricultural_sciences,B,,질문 1의 정답은 A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,C,D,D
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,B,,질문 (Question): 자가수정 작물에 있어서 순계분
+agricultural_sciences,B,B,B
+agricultural_sciences,C,,질문 1의 정답은 A입니다.
+agricultural_sciences,D,D,D: 무
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,D,,"질문 1의 정답은 A, 질문 2의 정답"
+agricultural_sciences,B,B,B입니다.
+agricultural_sciences,B,,"질문에 나온 보기 중에, 지하발아형 종자가"
+agricultural_sciences,A,,질문 1의 정답은 A.
+agricultural_sciences,C,A,A
+agricultural_sciences,B,D,D
+agricultural_sciences,C,D,D
+agricultural_sciences,B,B,B
+agricultural_sciences,D,D,D
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,B,D,D
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,B,D,D
+agricultural_sciences,A,A,A
+agricultural_sciences,D,A,A
+agricultural_sciences,A,B,B
+agricultural_sciences,D,B,B
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,B,,"질문 1의 정답은 A, 질문 2의 정답"
+agricultural_sciences,B,,"질문 1의 정답은 A, 즉 콩입니다."
+agricultural_sciences,C,A,A
+agricultural_sciences,C,,"질문에 따라 정답을 선택하시오.
+
+질문 (Question):"
+agricultural_sciences,C,A,A입니다.
+agricultural_sciences,C,D,D
+agricultural_sciences,A,,질문 1의 정답은 A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,B,,질문 1의 정답은 A입니다.
+agricultural_sciences,D,D,D
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,D,A,A
+agricultural_sciences,D,A,A입니다.
+agricultural_sciences,B,A,A
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,B,D,D입니다.
+agricultural_sciences,A,D,D
+agricultural_sciences,B,,"질문 4에 대한 정답입니다.
+
+A: 격리재"
+agricultural_sciences,A,D,D
+agricultural_sciences,D,A,A
+agricultural_sciences,A,,질문 (Question): 변형 단교잡종의 설명으로 옳
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,A,A,A
+agricultural_sciences,D,A,A.
+agricultural_sciences,C,B,B
+agricultural_sciences,B,,"질문 6번의 정답입니다.
+
+질문 6번의"
+agricultural_sciences,C,B,B
+agricultural_sciences,C,,질문 1의 정답은 A입니다.
+agricultural_sciences,C,D,D: 양파
+agricultural_sciences,B,D,D
+agricultural_sciences,B,D,D입니다.
+agricultural_sciences,C,D,D입니다.
+agricultural_sciences,B,A,A입니다.
+agricultural_sciences,C,,질문 1의 정답은 A입니다.
+agricultural_sciences,A,A,A입니다.
+agricultural_sciences,B,B,B
+agricultural_sciences,D,D,D입니다.
+agricultural_sciences,A,,"질문 1: 지하발아형 종자가 아닌 것은?
+
+A"
+aviation_engineering_and_maintenance,C,,질문 (Question): 항공기 날개에 쳐든각을
+aviation_engineering_and_maintenance,D,A,A
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,D,B,B
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에서 제일 정답률이 높은"
+aviation_engineering_and_maintenance,B,A,"A, B, C, D 중에서 가장 적절한 정답을"
+aviation_engineering_and_maintenance,D,,"질문 1: B
+
+질문 2: D
+
+질문"
+aviation_engineering_and_maintenance,C,B,B입니다.
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,D,,질문 (Question)과 정답 (Answer)만을 제시하고
+aviation_engineering_and_maintenance,A,B,B입니다.
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 적절한 정답을 골"
+aviation_engineering_and_maintenance,A,D,D입니다.
+aviation_engineering_and_maintenance,D,A,A
+aviation_engineering_and_maintenance,B,A,"A, B, C, D 중에 하나의 알파벳으로"
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,D,B,B입니다.
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,C,D,D를 선택하겠습니다.
+aviation_engineering_and_maintenance,A,A,"A, B, C, D 중에서 옳은 정답을 하나"
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에서 알파벳 하나로 답"
+aviation_engineering_and_maintenance,C,A,"A, B, C, D의 순서대로 정답입니다.
+
+질"
+aviation_engineering_and_maintenance,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+aviation_engineering_and_maintenance,B,,질문 (Question): 수평 등속도로 비행하는 항공기에
+aviation_engineering_and_maintenance,C,,"1. B
+2. D
+3. B
+4. C"
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 적절한 정답을 선택"
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 옳은 정답은 B"
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,C,B,B가 맞습니다.
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,C,A,"A, B, C, D 중에서 정답을 알파벳"
+aviation_engineering_and_maintenance,C,A,"A, B, C, D 중에서 옳은 것은 B입니다."
+aviation_engineering_and_maintenance,B,D,D입니다.
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 알파벳 하나만으로"
+aviation_engineering_and_maintenance,C,A,"A, B, C, D 중에서 정답은 B입니다."
+aviation_engineering_and_maintenance,C,A,A
+aviation_engineering_and_maintenance,B,B,B입니다.
+aviation_engineering_and_maintenance,B,,질문 1에 대한 답은 B입니다.
+aviation_engineering_and_maintenance,A,,"질문 1에 대한 정답은 B, 질문 2에 대한"
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+aviation_engineering_and_maintenance,D,D,D) 0.007
+aviation_engineering_and_maintenance,B,A,"A, B, C, D 중에 제일 옳은 정답"
+aviation_engineering_and_maintenance,B,D,D가 정답입니다.
+aviation_engineering_and_maintenance,B,,질문 1: 수평 등속도로 비행하는 항공기에
+aviation_engineering_and_maintenance,A,,질문 1의 정답은 B이다. 수평으로 비행
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,C,,"1. B
+2. D
+3. B
+4. C"
+aviation_engineering_and_maintenance,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+aviation_engineering_and_maintenance,A,A,"A, B, C, D 중에서 정답은 B입니다."
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,C,,질문 1: 수평 등속도로 비행하는 항공기에
+aviation_engineering_and_maintenance,B,A,"A, B, C, D 중에 적절한 정답을 골"
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,D,,질문 (Question): 헬리콥터 날개 깃에
+aviation_engineering_and_maintenance,C,D,D
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,D,A,A입니다.
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,A,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+aviation_engineering_and_maintenance,D,B,B
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,A,,제시된 문제에 대한 답을 알파벳 하나로 제공하
+aviation_engineering_and_maintenance,C,A,A입니다.
+aviation_engineering_and_maintenance,C,A,"A, B, C, D 중에서 가장 알맞은 정답은"
+aviation_engineering_and_maintenance,D,B,B입니다.
+aviation_engineering_and_maintenance,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+aviation_engineering_and_maintenance,B,B,B
+aviation_engineering_and_maintenance,B,A,A입니다.
+aviation_engineering_and_maintenance,B,A,A
+aviation_engineering_and_maintenance,C,B,B입니다.
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,B,D,D입니다.
+aviation_engineering_and_maintenance,D,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+aviation_engineering_and_maintenance,D,D,D
+aviation_engineering_and_maintenance,B,,질문 (Question): 조종면이 움직이는 방향과 반대
+aviation_engineering_and_maintenance,B,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+aviation_engineering_and_maintenance,B,D,D입니다.
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,D,D,D입니다.
+aviation_engineering_and_maintenance,D,,질문 1의 정답은 B입니다. 추력이 항력보다
+aviation_engineering_and_maintenance,D,D,D가 정답입니다.
+aviation_engineering_and_maintenance,C,A,"A, B, C, D 중에 가장 적절한 정답은"
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에서 옳은 것은 D입니다."
+aviation_engineering_and_maintenance,D,,"1. B
+2. D
+3. B
+4. C"
+aviation_engineering_and_maintenance,C,B,B
+aviation_engineering_and_maintenance,B,,1. 항공기 날개에 쳐든각을 주는 주
+aviation_engineering_and_maintenance,B,,질문 (Question)과 보기 (Options) 중에서 질문 (Question)
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 알파벳 하나를 선택"
+aviation_engineering_and_maintenance,B,D,D입니다.
+aviation_engineering_and_maintenance,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+aviation_engineering_and_maintenance,A,D,D
+aviation_engineering_and_maintenance,D,D,D가 맞습니다.
+aviation_engineering_and_maintenance,C,D,D입니다.
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에서 제시된 문제에 대한 정"
+aviation_engineering_and_maintenance,D,A,"A, B, C, D 중에 정답이 B인 질문은"
+biology,B,A,A입니다.
+biology,D,,"제시된 문제에 대한 답변입니다.
+
+질문 1: 포도"
+biology,B,A,A입니다.
+biology,A,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,C,,150mesh입니다.
+biology,A,A,A입니다.
+biology,B,D,D입니다.
+biology,B,A,A입니다.
+biology,B,,정답은 D입니다.
+biology,C,A,A입니다.
+biology,D,A,A입니다.
+biology,A,,질문 (Question): 우리나라 주요 작물의 식량자급률
+biology,C,D,D: 담배나방 - 번데기
+biology,D,,제시된 문제의 답을 알파벳 하나로 나타내면
+biology,A,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,C,,"질문 1: 포도당의 특성이 아닌 것은?
+
+보기:"
+biology,C,,150메쉬에서 측정 검사한다.
+biology,A,A,"A, B, C, D 중에서 알파벳 하나로 답"
+biology,D,A,A입니다.
+biology,A,A,A입니다.
+biology,C,A,A입니다.
+biology,D,D,D
+biology,D,C,C입니다.
+biology,D,D,D
+biology,C,D,D입니다.
+biology,D,,질문 (Question): 잡초의 초형이 가장 작은 잡초로
+biology,B,A,A
+biology,A,D,D입니다.
+biology,A,,"1. 포도당의 특성이 아닌 것은?
+
+D. 퓨라"
+biology,A,A,A입니다.
+biology,D,A,A입니다.
+biology,B,A,A입니다.
+biology,C,,"해석:
+
+질문 1: 포도당의 특성이 아닌 것은"
+biology,D,A,A가 정답입니다.
+biology,B,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,C,,질문 (Question): 포도당의 특성이 아닌 것은?\n보기
+biology,D,D,D입니다.
+biology,A,D,D
+biology,D,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,B,,"1. 포도당의 특성이 아닌 것은?
+
+A: 환원당"
+biology,B,,"질문 1에 대한 답은 D, 즉 퓨라노오"
+biology,D,A,A입니다.
+biology,D,D,D입니다.
+biology,C,A,A가 맞습니다.
+biology,D,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,D,D,D입니다.
+biology,C,A,A입니다.
+biology,C,,질문 (Question): 유제용 기계유가 갖추어야
+biology,B,A,A입니다.
+biology,B,,수화제의 가장 중요한 특성은 현수성이다. 수화
+biology,D,A,A입니다.
+biology,A,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,C,D,D입니다.
+biology,C,A,"A: 환원당, B: 알도오스, C:"
+biology,A,D,D입니다.
+biology,B,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 포도당의"
+biology,A,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,C,,질문에 따른 답을 알파벳 하나로 표기하시오
+biology,A,D,D입니다.
+biology,A,D,D입니다.
+biology,D,,"질소, 인산 및 칼륨의 흡수비율에"
+biology,C,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,B,A,A입니다.
+biology,D,,질문 (Question): 산성토양에서 가장 강하면서 연작의
+biology,B,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,A,,"1. 포도당의 특성이 아닌 것은? 
+D. 퓨"
+biology,D,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,D,D,D입니다.
+biology,A,,질문 (Question): 벼 종자에 과산화석회를
+biology,A,,"질문과 보기의 패턴은 다음과 같습니다.
+
+1. 질문"
+biology,A,,"질문 1의 정답입니다.
+
+정답은 D입니다."
+biology,A,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,C,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,D,B,B입니다.
+biology,C,,"질문 1의 정답은 D, 즉 퓨라노오"
+biology,D,,"질문 (Question)과 정답 (Answer)만 제공되어, 나"
+biology,A,,제초제의 작용기구에 따른 분류에서 광합성 저
+biology,C,D,D입니다.
+biology,D,,이 문제는 여러 개의 질문이 포함된 문제입니다. 각 질문에
+biology,A,,"질문 1: 포도당의 특성이 아닌 것은?
+
+답:"
+biology,B,A,A입니다.
+biology,B,,질문 (Question)과 정답 (Answer)을 살펴보면
+biology,A,,"질문 1: 포도당의 특성이 아닌 것은?
+
+A:"
+biology,C,A,A입니다.
+biology,B,A,A입니다.
+biology,D,A,A입니다.
+biology,C,A,"A: 환원당, B: 알도오스, C:"
+biology,B,,"질문 (Question) 7의 정답은 C입니다.
+
+잣"
+biology,A,,"질문 (Question): 포도당의 특성이 아닌 것은?
+
+보기 ("
+biology,B,,중생동물에 대한 설명으로 가장 거리가 먼 것은 C: 몸
+biology,D,,질문 (Question)과 정답 (Answer) 중에서 다음을 선택
+biology,A,,4
+biology,B,A,A입니다.
+biology,D,,질문 (Question): 곤충 체내조직에 산소를 운
+biology,D,D,D입니다.
+biology,B,,"질문에 대한 답을 하나씩 보겠습니다.
+
+1. 포도당"
+biology,B,A,A입니다.
+biology,A,,질문 (Question): 잡초의 주요 영양번식 기관을
+biology,D,,"질문 (Question): 포도당의 특성이 아닌 것은?
+
+보기 ("
+biology,D,,질문 1의 정답은 D입니다. 포도당의 특
+chemical_engineering,D,,"질문 5번의 정답입니다.
+
+질문 5번의"
+chemical_engineering,B,A,A입니다.
+chemical_engineering,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+chemical_engineering,D,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,A,,질문 (Question): 이상기체의 내부에너지에 대한
+chemical_engineering,D,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,A,,"질문 1에 대한 답입니다.
+
+A: 온도만의 함수"
+chemical_engineering,B,A,A입니다.
+chemical_engineering,B,,질문 1에 대한 답: A
+chemical_engineering,C,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,B,B,B입니다.
+chemical_engineering,D,B,B
+chemical_engineering,C,A,A입니다.
+chemical_engineering,C,B,B입니다.
+chemical_engineering,A,A,A.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,C,D,D가 맞습니다.
+chemical_engineering,C,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+chemical_engineering,B,,질문 1의 정답은 A입니다. 이상기체의 내
+chemical_engineering,A,A,A입니다.
+chemical_engineering,A,B,B
+chemical_engineering,B,,질문 (Question)과 정답 (Answer)을 기준으로 답변하겠습니다
+chemical_engineering,A,A,A입니다.
+chemical_engineering,A,,질문 1에 대한 답은 A입니다. 이상기체의 내
+chemical_engineering,D,,질문 1에 대한 답은 A입니다. 이상기체의 내
+chemical_engineering,B,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,A,A
+chemical_engineering,D,A,A입니다.
+chemical_engineering,D,D,D
+chemical_engineering,A,A,A가 정답입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,A,D,D
+chemical_engineering,D,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,D,D
+chemical_engineering,B,B,B입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,D,A,A.
+chemical_engineering,B,,질문 1의 정답은 A입니다. 이상기체의 내
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,D,D입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,B,C,C
+chemical_engineering,D,,질문에 대한 답을 알파벳 하나씩만 작성하라는
+chemical_engineering,A,D,D
+chemical_engineering,C,A,A
+chemical_engineering,C,,질문 1에 대한 정답은 A입니다. 이상기체의
+chemical_engineering,A,A,A입니다.
+chemical_engineering,B,D,D
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,A,,"질문 4에 대한 답입니다.
+
+질문 4는 도"
+chemical_engineering,B,B,B입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,C,A,A) 이상기체의 내부에너지에 대한 설명으로
+chemical_engineering,B,D,D입니다.
+chemical_engineering,D,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+chemical_engineering,D,,질문 (Question): 이상기체의 내부에너지에 대한
+chemical_engineering,B,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,D,C,C입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,B,B,B
+chemical_engineering,D,,질문 1의 정답은 A. 이상기체의 내부
+chemical_engineering,A,B,B입니다.
+chemical_engineering,B,A,A가 정답입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,C,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,D,,질문 1에 대한 답은 A입니다. 이상기체의 내
+chemical_engineering,A,A,A입니다.
+chemical_engineering,D,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,B,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,D,A,A
+chemical_engineering,D,B,B입니다.
+chemical_engineering,C,A,A
+chemical_engineering,D,A,A) 온도만의 함수이다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,A,A,A입니다.
+chemical_engineering,C,A,A
+chemistry,B,,"질문 1에 대한 답은 C, 즉 2N입니다."
+chemistry,D,D,D가 정답입니다.
+chemistry,B,A,A입니다.
+chemistry,B,A,A입니다.
+chemistry,B,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,B,A,A입니다.
+chemistry,D,,질문 (Question): 유지전극으로 pH를 측정할 때 영향을
+chemistry,B,,질문 1: 수산화나트륨(NaOH)
+chemistry,B,A,A입니다.
+chemistry,C,,질문 (Question): 수산화나트륨(NaOH)
+chemistry,B,,질문 1에 대한 답은 C입니다. 수산화 나트
+chemistry,A,,질량 스펙트럼의 세기는 이온화된 입
+chemistry,D,,"질문 1에 대한 답은 C입니다.
+
+질문 2에"
+chemistry,A,,"질문 5에 대한 답입니다.
+
+전지의 저항(R)"
+chemistry,C,B,B입니다.
+chemistry,C,,"질문 1에 대한 답은 C, 즉 2N입니다."
+chemistry,B,,"질문에 대한 답을 찾는 것처럼 보입니다. 
+
+질문"
+chemistry,A,,질문 (Question): 불확정도 전파와 유효
+chemistry,B,D,D입니다.
+chemistry,A,,"질문 1에 대한 답은 C, 질문 2에 대한 답"
+chemistry,C,,질문 (Question): 수산화나트륨(NaOH)
+chemistry,D,,"질문 (Question): HCIO의 명칭은 무엇인가?
+
+보기 ("
+chemistry,D,,질문 (Question): 빛을 어떤 시료에 통과시켜
+chemistry,A,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,B,,"질문 1에 대한 답은 C, 즉 2N입니다."
+chemistry,B,D,D
+chemistry,C,D,D입니다.
+chemistry,A,A,A입니다.
+chemistry,A,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 수산"
+chemistry,A,A,A입니다.
+chemistry,D,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,D,,"질문에 대한 답변은 다음과 같습니다.
+
+질문 1: 수산"
+chemistry,B,C,C입니다.
+chemistry,A,C,C입니다.
+chemistry,B,A,A를 선택하겠습니다.
+chemistry,D,C,C입니다.
+chemistry,D,C,C
+chemistry,C,C,C가 맞습니다.
+chemistry,C,A,A
+chemistry,C,D,D
+chemistry,B,A,A입니다.
+chemistry,B,D,D가 맞습니다.
+chemistry,B,A,A를 선택하겠습니다.
+chemistry,A,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 수산"
+chemistry,A,C,C
+chemistry,A,C,C입니다.
+chemistry,A,B,B입니다.
+chemistry,D,,질문 (Question): 0.40M NaOH와 0.
+chemistry,A,D,D가 정답입니다.
+chemistry,A,,질문 (Question): 수산화나트륨(NaOH)
+chemistry,A,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+chemistry,B,,정답은 D입니다.
+chemistry,C,C,C입니다.
+chemistry,A,A,A입니다.
+chemistry,B,,질문 (Question): 수산화나트륨(NaOH)
+chemistry,D,,질문 (Question): 수산화나트륨(NaOH)
+chemistry,A,D,D입니다.
+chemistry,A,,질문 (Question)과 보기 (Options)가 잘못된 부분이
+chemistry,B,,"질산은 강산으로 pH 1에 해당한다. 
+
+따라"
+chemistry,D,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,A,C,C
+chemistry,A,A,A가 맞습니다.
+chemistry,B,,"질문 1의 정답은 C, 질문 2의 정답"
+chemistry,C,,"질문 1의 정답은 C, 질문 2의 정답"
+chemistry,C,,질문 (Question): 0℃에서 액체 물의 밀도
+chemistry,C,,질량 보존의 법칙을 설명할 수 있는 법칙은 C
+chemistry,D,,"질문 1의 정답은 C, 질문 2의 정답"
+chemistry,D,,질문 1의 정답은 C입니다. 수산화나트
+chemistry,A,B,B
+chemistry,A,A,A입니다.
+chemistry,D,,질문 1에 대한 답은 C입니다. 수산화나트
+chemistry,A,C,C
+chemistry,B,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,B,,질문에 대한 답을 알파벳 하나로 제공하겠습니다.
+chemistry,A,,10.9
+chemistry,C,C,C입니다.
+chemistry,C,C,C입니다.
+chemistry,C,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,A,,질문에 나온 정답은 C입니다.
+chemistry,C,,질문 (Question): 형광의 세기에 영향을 주는 변수가 아닌
+chemistry,C,,"질문 1에 대한 답은 C입니다.
+
+질문 2에"
+chemistry,D,,질문 1: 수산화나트륨(NaOH)
+chemistry,B,,질문 1: 수산화나트륨(NaOH)
+chemistry,D,,"질문 1에 대한 답은 C, 즉 2N입니다."
+chemistry,B,D,D가 맞습니다.
+chemistry,A,,"질문 1에 대한 답은 C입니다. 
+
+질문 2"
+chemistry,B,,질문 1: 수산화나트륨(NaOH)
+chemistry,A,C,C
+chemistry,D,,질량백분율 10.0% NaCl 수용액의
+chemistry,A,C,C입니다.
+chemistry,B,,"질문에 대한 답을 하나씩 알려드리겠습니다.
+
+1. 질문:"
+chemistry,C,,질문 (Question): 용액 내의 Fe2+ 의 농도를 알
+chemistry,A,A,A입니다.
+chemistry,D,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+chemistry,C,,"질문 1의 정답은 C, 즉 2N입니다."
+chemistry,C,,질량백분율이 37% 인 염산의 몰농
+chemistry,C,,"질문 1에 대한 답은 C입니다. 
+
+질문 2"
+chemistry,C,D,D
+chemistry,D,D,D가 정답입니다.
+chemistry,B,,질문 (Question): 수산화나트륨(NaOH)
+civil_engineering,B,D,D입니다.
+civil_engineering,B,,"질문 4의 정답입니다.
+
+질문 (Question): 도로"
+civil_engineering,D,,질문 (Question): 평판측량에서 도상점의 위치 허
+civil_engineering,D,,"질문에 대한 답변을 하나씩 나열해 보겠습니다.
+
+1."
+civil_engineering,C,D,D입니다.
+civil_engineering,C,,"질문 1에 대한 답은 D입니다.
+
+질문 2에"
+civil_engineering,C,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,C,D,D입니다.
+civil_engineering,D,A,A입니다.
+civil_engineering,C,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,B,D,D
+civil_engineering,D,D,D
+civil_engineering,D,,질문 1에 대한 정답은 D입니다.
+civil_engineering,B,C,C
+civil_engineering,D,A,A입니다.
+civil_engineering,D,D,D. 보행자전용도로 : 폭 1.2m 이상
+civil_engineering,C,,질문 (Question): 기본설계(Preliminary Design)에 대한 설명으로
+civil_engineering,B,D,D
+civil_engineering,C,,"질문 4번의 정답입니다.
+
+질문 4번의"
+civil_engineering,B,A,A
+civil_engineering,D,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+civil_engineering,B,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+civil_engineering,C,,질문 1: 도시의 새로운 계획 패러다임의 방향
+civil_engineering,B,,질문 1의 정답은 D입니다.
+civil_engineering,D,,"질문 5에 대한 답입니다.
+
+질문 (Question): 사진상의"
+civil_engineering,D,,"질문 5의 정답입니다.
+
+질문 5: 부동"
+civil_engineering,B,D,D입니다.
+civil_engineering,D,D,D입니다.
+civil_engineering,D,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,D,,질문 1의 정답은 D입니다.
+civil_engineering,B,,"질문 1의 정답은 D, 질문 2의 정답"
+civil_engineering,B,D,D입니다.
+civil_engineering,B,,질문 (Question): 상수처리를 위한 급속여과지의
+civil_engineering,C,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+civil_engineering,A,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+civil_engineering,D,D,D입니다.
+civil_engineering,D,D,D
+civil_engineering,B,D,D입니다.
+civil_engineering,C,D,D입니다.
+civil_engineering,D,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+civil_engineering,A,D,D입니다.
+civil_engineering,B,D,D
+civil_engineering,D,D,D입니다.
+civil_engineering,B,,"질문에 대한 답변은 다음과 같습니다.
+
+질문 1: 도시의"
+civil_engineering,B,A,A입니다.
+civil_engineering,B,D,D
+civil_engineering,D,,질문 1에 대한 정답은 D입니다.
+civil_engineering,D,D,D
+civil_engineering,B,,"질문 1에 대한 답입니다.
+
+질문 1: 도시의"
+civil_engineering,D,,"질문 1의 정답은 D, 질문 2의 정답"
+civil_engineering,B,,"질문 5에 대한 답입니다.
+
+P = 300kN의"
+civil_engineering,A,D,"D (d/4 이하, 30 cm 이하)"
+civil_engineering,B,C,C: 얇은 모래층이 점토지반에 존재하고
+civil_engineering,C,,"질문 1의 정답은 D, 질문 2의 정답"
+civil_engineering,B,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,D,,질문 (Question): 자연하천에서 여러 가지 이유로 인하여 수
+civil_engineering,B,D,D입니다.
+civil_engineering,B,,"질문 1의 정답은 D, 질문 2의 정답"
+civil_engineering,D,,질문 1의 정답은 D입니다.
+civil_engineering,B,D,D입니다.
+civil_engineering,D,,질문 5번의 정답은 A입니다.
+civil_engineering,C,,"질문에 대한 답은 다음과 같습니다.
+
+질문 (Question): 도시의"
+civil_engineering,B,D,D입니다.
+civil_engineering,D,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,D,D,D
+civil_engineering,B,D,D입니다.
+civil_engineering,D,D,D입니다.
+civil_engineering,C,,질문 1: 도시의 새로운 계획 패러다임의 방향
+civil_engineering,B,,질문 6번의 정답은 C입니다.
+civil_engineering,B,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,B,,질문 (Question) 1의 정답은 D입니다.
+civil_engineering,D,D,D.
+civil_engineering,C,D,D입니다.
+civil_engineering,B,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+civil_engineering,D,D,D
+civil_engineering,B,,질문 1: 도시의 새로운 계획 패러다임의 방향
+civil_engineering,B,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+civil_engineering,B,,"질문 5에 대한 정답은 C입니다.
+
+국지도로 기본"
+civil_engineering,B,,"질문 5의 정답입니다.
+
+질문 5: 지상"
+civil_engineering,D,,질문 (Question): 흙속에 있는 한 점의 최대 및 최
+civil_engineering,D,D,D입니다.
+civil_engineering,D,C,C가 맞습니다.
+civil_engineering,D,,"질문 1에 대한 정답은 D입니다. 
+
+질문"
+civil_engineering,D,,"질문 1에 대한 답은 D입니다.
+
+질문 2에"
+civil_engineering,D,D,D입니다.
+civil_engineering,D,A,A입니다.
+civil_engineering,D,,질문 1에 대한 답은 D입니다.
+civil_engineering,D,,질문 (Question)에서 제시된 문제를 하나씩 살펴
+civil_engineering,C,D,D가 맞습니다.
+civil_engineering,B,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+civil_engineering,B,D,D입니다.
+civil_engineering,B,D,D입니다.
+civil_engineering,D,,"질문 5의 정답입니다.
+
+질문 5: 어떤 거"
+civil_engineering,C,D,D입니다.
+civil_engineering,C,D,D입니다.
+civil_engineering,C,,질문 (Question): 자연공원법에 의한 공원계획의
+civil_engineering,D,,질문 (Question): 도시의 새로운 계획 패러다임의 방향
+civil_engineering,D,,질문 1에 대한 답은 D입니다.
+civil_engineering,C,D,D입니다.
+civil_engineering,B,C,C
+computer_science,D,,질문 1의 옳지 않은 설명은 B입니다. 접근
+computer_science,C,,질문 (Question): 시스템의 기본적인 특성으로 거리가 먼 것은
+computer_science,C,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+computer_science,D,,질문 (Question): 명령어의 주소(address)부를
+computer_science,D,D,D입니다.
+computer_science,C,,질문에 나온 옵션 중에 가장 옳지 않은 설명
+computer_science,B,,"질문 1에 대한 정답은 B입니다. 
+
+질문"
+computer_science,B,,질문 (Question): TCP/IP 프로토콜의 계층을 하위
+computer_science,D,,"질문 1의 정답은 B, 질문 2의 정답"
+computer_science,D,D,D
+computer_science,B,D,D입니다.
+computer_science,B,,"질문에 대한 답변을 보겠습니다.
+
+질문 1: 암호"
+computer_science,D,,"질문 1에 대한 정답은 B입니다. 
+
+질문"
+computer_science,D,,"질문 1에 대한 답입니다.
+
+질문 (Question): 암호"
+computer_science,D,D,D가 정답입니다.
+computer_science,D,,질문 1: 암호 프로토콜 서비스에 대한 설명 중
+computer_science,D,A,A입니다.
+computer_science,C,B,B이다.
+computer_science,A,,질문 (Question): 네트워크상에서 두 케이블 사이에 설치
+computer_science,D,,질문 (Question): 암호 프로토콜 서비스에 대한 설명 중
+computer_science,C,B,B입니다.
+computer_science,D,,질문 1의 정답은 D가 아니라 B인 경우가 있습니다
+computer_science,D,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+computer_science,D,D,D입니다.
+computer_science,B,D,D입니다.
+computer_science,D,,질문 1의 옳지 않은 설명은 접근제어
+computer_science,D,D,D
+computer_science,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+computer_science,C,D,D입니다.
+computer_science,C,,질문 1의 옳지 않은 설명은 접근제어
+computer_science,C,C,C입니다.
+computer_science,D,,질문 (Question): 서로 다른 키가 해싱함수에 의해 같은
+computer_science,B,,"질문 1의 옳지 않은 것은 B, 즉 접근"
+computer_science,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+computer_science,D,D,D가 정답입니다.
+computer_science,B,A,A입니다.
+computer_science,D,,질문 (Question): 설계 기법중 하향식 설계 방법
+computer_science,B,,질문 1의 옳지 않은 설명은 접근제어
+computer_science,B,D,D
+computer_science,D,,질문 1의 옳지 않은 설명은 B: 접근
+computer_science,D,D,D입니다.
+computer_science,B,,질문 1의 옳지 않은 설명은 B: 접근
+computer_science,D,D,D입니다.
+computer_science,B,,"질문 1의 정답은 C이다.
+
+질문 2의"
+computer_science,D,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+computer_science,B,A,A입니다.
+computer_science,D,,"정답입니다.
+
+질문 1: 암호 프로토콜 서비스에"
+computer_science,D,,"질문 1의 정답은 B, 질문 2의 정답"
+computer_science,C,A,A입니다.
+computer_science,C,B,B입니다.
+computer_science,D,A,A입니다.
+computer_science,B,D,D입니다.
+computer_science,C,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+computer_science,D,D,D입니다.
+computer_science,B,,"질문 1에 대한 정답은 B입니다. 
+
+질문"
+computer_science,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+computer_science,B,,"질문 1의 옳지 않은 것은 B, 즉 접근"
+computer_science,B,D,D입니다.
+computer_science,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+computer_science,D,,"질문 1의 옳지 않은 설명은 B, 즉 접"
+computer_science,D,D,D입니다.
+computer_science,B,D,D입니다.
+computer_science,D,A,A입니다.
+computer_science,B,A,A-C-D-B 순입니다.
+computer_science,D,,"질문 1의 정답은 B이다. 
+
+질문 2"
+computer_science,B,,"질문 1의 정답은 B, 즉 접근제어"
+computer_science,D,,질문 1: 암호 프로토콜 서비스에 대한 설명 중
+computer_science,B,B,B입니다.
+computer_science,C,D,D가 정답입니다.
+computer_science,C,,"질문 1에 대한 정답은 D입니다. 
+
+질문"
+computer_science,C,A,A입니다.
+computer_science,B,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+computer_science,D,,질문 1: 암호 프로토콜 서비스에 대한 설명 중
+computer_science,D,A,A입니다.
+computer_science,C,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 암"
+computer_science,B,,"질문 1의 정답은 C, 질문 2의 정답"
+computer_science,C,,질문 1의 옳지 않은 것은 B: 접근제어
+computer_science,D,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+computer_science,B,D,D를 선택하겠습니다.
+computer_science,C,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+computer_science,C,A,A입니다.
+computer_science,D,,질문 1의 옳지 않은 설명은 B: 접근제
+computer_science,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+computer_science,D,A,A가 정답입니다.
+computer_science,D,,"질문 1의 정답은 D, 질문 2의 정답"
+computer_science,B,,"질문 1의 옳지 않은 설명은 B, 즉 접"
+computer_science,C,,"질문 1에 대한 정답은 D입니다. 
+
+질문"
+computer_science,D,B,B입니다.
+computer_science,C,,질문 (Question): Boehm이 제안한 나선형 모델의
+computer_science,C,C,C입니다.
+computer_science,B,A,A입니다.
+computer_science,C,A,A입니다.
+computer_science,D,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+computer_science,B,,질문 1의 정답은 C: 무결성 : 메시
+computer_science,D,D,D입니다.
+computer_science,C,D,D입니다.
+computer_science,B,,"질문 4의 정답입니다. 
+
+실수 0.011"
+computer_science,C,,"질문 1의 정답은 D, 질문 2의 정답"
+computer_science,D,,질문 1의 정답은 C입니다.
+computer_science,B,,"질문 (Question) 5의 정답입니다.
+
+RAID-5"
+construction,B,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,C,A,A입니다.
+construction,D,B,B입니다.
+construction,D,,질문 1의 정답은 B입니다. 디젤기관에서 질
+construction,D,B,B입니다.
+construction,A,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,C,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,,질문에 대한 답을 알파벳 하나씩 알려드리겠습니다.
+construction,D,A,A입니다.
+construction,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+construction,C,C,C. ATP
+construction,C,B,B입니다.
+construction,B,B,B입니다.
+construction,D,,"질문에 대한 답변을 작성합니다.
+
+질문 1: 디젤"
+construction,B,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,B,A,A입니다.
+construction,C,D,D입니다.
+construction,B,A,A입니다.
+construction,B,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,A,A입니다.
+construction,C,A,A입니다.
+construction,C,A,A입니다.
+construction,C,B,B입니다.
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,B,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,B,B입니다.
+construction,D,D,D입니다.
+construction,C,,질문 1의 정답은 B입니다. 디젤기관에서 질
+construction,B,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,D,D입니다.
+construction,B,A,A입니다.
+construction,D,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,C,C
+construction,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+construction,D,B,B
+construction,B,,"질문 1에 대한 답은 B입니다.
+
+질문 2에"
+construction,B,B,B
+construction,D,B,B
+construction,B,,질문 (Question) 1: 디젤기관에서 질소 산화
+construction,D,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,C,,질문 (Question): 행정체적이 240cc이고 압축비
+construction,B,,질문에 대한 답을 알파벳 하나로 선택하겠습니다.
+construction,D,B,B입니다.
+construction,D,A,A입니다.
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,C,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+construction,D,,"질문에 답해 주신 바에 따라, 3번째 질문의"
+construction,B,B,B입니다.
+construction,C,B,B
+construction,C,B,B입니다.
+construction,B,B,B
+construction,C,B,B입니다.
+construction,B,A,A입니다.
+construction,C,B,B입니다.
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,B,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,D,D입니다.
+construction,B,A,A입니다.
+construction,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+construction,D,A,A입니다.
+construction,C,D,D
+construction,A,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,D,,질문 (Question) : 행정체적이 240cc이고 압축
+construction,C,A,A입니다.
+construction,B,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,D,B,B입니다.
+construction,D,B,B입니다.
+construction,C,,질문 (Question): 방청도료 중 보일드유(bo
+construction,D,,질문 1의 정답은 B입니다. 디젤기관에서 질
+construction,D,,"질문에 나온 문제를 하나씩 풀어보겠습니다.
+
+1."
+construction,C,A,A입니다.
+construction,B,D,D입니다.
+construction,C,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,C,A,A입니다.
+construction,B,B,B입니다.
+construction,D,A,A입니다.
+construction,B,B,B입니다.
+construction,B,,질문 1에 대한 정답은 B입니다.
+construction,B,D,D입니다.
+construction,B,B,B입니다.
+construction,D,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,D,B,B
+construction,D,,질문 1에 대한 답은 B입니다.
+construction,B,D,D
+construction,C,,질문 (Question): 행정체적이 240cc이고 압축비
+construction,C,B,B입니다.
+construction,B,,질소 산화물(NOX)의 발생을 억제하려면 산
+construction,B,B,B
+construction,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+construction,C,,질문 1: 디젤기관에서 질소 산화물(NOx
+construction,B,B,B입니다.
+construction,B,B,B
+construction,C,D,D
+construction,B,,질문 1의 정답은 B입니다.
+construction,D,,질문 1의 정답은 B입니다. 디젤기관에서 질
+construction,C,,질문 1: 디젤기관에서 질소 산화물(NOX
+construction,D,,질문 (Question): 디젤기관에서 질소 산화물(NOX
+construction,D,D,D
+criminal_law,A,D,D입니다.
+criminal_law,A,C,C: ○ ○× ○
+criminal_law,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+criminal_law,A,A,A
+criminal_law,D,A,A
+criminal_law,A,D,D
+criminal_law,D,,"질문에 대한 답을 선택하세요.
+
+질문 (Question): 甲"
+criminal_law,B,D,D
+criminal_law,D,D,D
+criminal_law,A,A,A입니다.
+criminal_law,B,A,A입니다.
+criminal_law,A,A,A
+criminal_law,B,D,D입니다.
+criminal_law,B,D,D입니다.
+criminal_law,C,D,D입니다.
+criminal_law,D,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+criminal_law,A,B,B입니다.
+criminal_law,B,,질문 1에 대한 정답은 A입니다.
+criminal_law,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+criminal_law,C,A,A입니다.
+criminal_law,A,A,A입니다.
+criminal_law,D,A,A입니다.
+criminal_law,B,D,D
+criminal_law,A,D,D입니다.
+criminal_law,D,D,D
+criminal_law,B,A,A입니다.
+criminal_law,D,,질문 (Question): 치료감호 등에 관한 법률 상 보호
+criminal_law,B,D,D
+criminal_law,A,D,D.
+criminal_law,C,D,D입니다.
+criminal_law,B,A,A
+criminal_law,B,D,D
+criminal_law,A,A,A입니다.
+criminal_law,C,A,A입니다.
+criminal_law,B,C,C
+criminal_law,C,B,B입니다.
+criminal_law,D,A,A입니다.
+criminal_law,D,A,A입니다.
+criminal_law,B,D,D입니다.
+criminal_law,D,D,D
+criminal_law,D,,"질문 6에 대한 설명으로 옳지 않은 것은?
+
+A:"
+criminal_law,D,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+criminal_law,D,A,A입니다.
+criminal_law,B,D,D
+criminal_law,A,D,D입니다.
+criminal_law,D,D,D: ××××
+criminal_law,B,A,A
+criminal_law,B,A,A입니다.
+criminal_law,A,C,C
+criminal_law,B,D,D입니다.
+criminal_law,A,D,D입니다.
+criminal_law,D,D,D
+criminal_law,B,D,D
+criminal_law,A,A,A입니다.
+criminal_law,D,D,D
+criminal_law,A,D,D
+criminal_law,B,A,A입니다.
+criminal_law,B,C,C입니다.
+criminal_law,D,D,D
+criminal_law,A,,"질문 1에 대한 답은 A입니다.
+
+질문 2에"
+criminal_law,A,D,D
+criminal_law,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+criminal_law,B,B,B
+criminal_law,B,D,D입니다.
+criminal_law,D,A,A입니다.
+criminal_law,D,A,A입니다.
+criminal_law,A,A,A입니다.
+criminal_law,D,D,D: ××××
+criminal_law,C,D,D
+criminal_law,C,A,A
+criminal_law,A,A,A입니다.
+criminal_law,B,A,A
+criminal_law,B,,"질문 7에 대한 답입니다.
+
+치료감호와 치료"
+criminal_law,C,A,A
+criminal_law,C,D,D
+criminal_law,C,D,D입니다.
+criminal_law,B,D,D
+criminal_law,D,A,A입니다.
+criminal_law,C,,제척과 기피에 대한 설명으로 옳지 않은 것은 B입니다
+criminal_law,D,D,D
+criminal_law,C,A,A입니다.
+criminal_law,A,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+criminal_law,C,A,A입니다.
+criminal_law,B,A,A
+criminal_law,C,B,B입니다.
+criminal_law,D,A,A입니다.
+criminal_law,C,C,C입니다.
+criminal_law,C,C,C
+criminal_law,A,A,A입니다.
+criminal_law,B,A,A입니다.
+criminal_law,A,D,D
+criminal_law,C,B,B
+criminal_law,A,D,D입니다.
+criminal_law,C,D,D
+criminal_law,A,D,D
+criminal_law,D,A,A입니다.
+criminal_law,A,C,C
+criminal_law,B,A,A
+criminal_law,B,A,A입니다.
+criminal_law,D,A,A입니다.
+ecology,A,D,D입니다.
+ecology,C,,질문 (Question): 탄소순환에 관한 설명으로 옳은
+ecology,C,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+ecology,B,A,A가 맞습니다.
+ecology,C,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,B,,질문 (Question): 탄소순환에 관한 설명으로 옳은
+ecology,B,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,B,A,A가 정답입니다.
+ecology,B,A,A입니다.
+ecology,C,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,D,,질문 1의 정답은 C입니다.
+ecology,B,A,"A, B, C, D 중에 알파벳 하나로 답"
+ecology,A,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,D,A,A입니다.
+ecology,B,,질문 1의 정답은 A입니다. 탄소 순환에
+ecology,B,,질문 1에 대한 정답은 A입니다. 탄소 순환
+ecology,C,B,B입니다.
+ecology,D,A,A입니다.
+ecology,D,C,C
+ecology,B,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+ecology,D,A,A입니다.
+ecology,C,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,B,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,D,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,A,,제 1 문: 탄소 순환에 관한 설명으로 옳은
+ecology,C,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,B,A,A입니다.
+ecology,B,B,B입니다.
+ecology,D,D,D입니다.
+ecology,B,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+ecology,C,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,D,,질문 1: 탄소 순환에 관한 설명으로 옳은
+ecology,C,,질문 (Question): 작업급의 영급 관계가 편중되어 노
+ecology,B,A,A입니다.
+ecology,B,A,A입니다.
+ecology,D,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+ecology,B,A,A
+ecology,B,C,C
+ecology,C,,질문 1의 정답은 D입니다.
+ecology,B,,질문 1의 정답은 D입니다.
+ecology,D,A,A
+ecology,A,A,A가 맞습니다.
+ecology,B,A,A입니다.
+ecology,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+ecology,C,A,A입니다.
+ecology,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,C,,질문 1: 탄소 순환에 관한 설명으로 옳은
+ecology,D,D,D입니다.
+ecology,B,D,D입니다.
+ecology,D,,질문 (Question): 탄소순환에 관한 설명으로 옳은
+ecology,B,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,D,A,A입니다.
+ecology,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+ecology,A,,질문 1의 정답은 A입니다. 탄소 순환에
+ecology,B,D,D입니다.
+ecology,B,,질문 1의 정답은 A입니다. 탄소순환에
+ecology,C,B,B입니다.
+ecology,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,D,A,A입니다.
+ecology,B,A,A입니다.
+ecology,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,D,,질문 (Question) 1: 탄소순환에 관한 설명으로
+ecology,C,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,C,D,D
+ecology,B,A,A입니다.
+ecology,C,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,D,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,B,A,A입니다.
+ecology,B,B,B입니다.
+ecology,B,A,A가 정답입니다.
+ecology,B,A,"A, B, C, D 중에 옳은 것은 C이다."
+ecology,B,A,A입니다.
+ecology,B,A,A입니다.
+ecology,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+ecology,B,,질문 (Question): 탄소순환에 관한 설명으로 옳은
+ecology,A,,질문 (Question): 줄기녹병균이 나무에 침
+ecology,C,A,A가 맞습니다.
+ecology,B,,질문 (Question) : 개화한 후 빨리 자라서
+ecology,B,A,A가 맞습니다.
+ecology,D,,질문 1: 탄소 순환에 관한 설명으로 옳은
+ecology,D,,질문 (Question): 탄소순환에 관한 설명으로 옳은
+ecology,D,D,D가 정답입니다.
+ecology,B,,질문 1에 대한 정답은 A입니다. 탄소순환
+ecology,D,,질문 (Question): 1년생 편백 파종 묘목
+ecology,C,A,A가 맞습니다.
+ecology,B,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,D,A,A입니다.
+ecology,C,A,A입니다.
+ecology,D,A,"A: 대기권에서 탄소는 주로 O2, O의"
+ecology,C,,질문 1: 탄소순환에 관한 설명으로 옳은
+ecology,C,A,"A: 대기권에서 탄소는 주로 O2, CO의"
+ecology,B,B,B입니다.
+ecology,B,A,A입니다.
+ecology,B,,질문 1의 정답은 A입니다. 탄소 순환에
+ecology,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+ecology,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+ecology,B,,"질문 1에 대한 답은 A입니다.
+
+질문 2에"
+economics,D,,질문 (Question): 기업실체의 이해 관계자가 유용한 의
+economics,B,A,A입니다.
+economics,D,D,D
+economics,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+economics,C,A,A입니다.
+economics,D,A,A입니다.
+economics,D,A,A입니다.
+economics,A,A,A
+economics,C,A,A
+economics,A,A,A입니다.
+economics,C,,질문 (Question): 기업실체의 이해 관계자가 유용한 의
+economics,B,A,A입니다.
+economics,C,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+economics,B,D,D
+economics,C,A,A입니다.
+economics,D,,질문 (Question): 보험목적에 관한 보험대위(
+economics,A,A,A
+economics,A,A,A입니다.
+economics,A,,질문 (Question): 고지의무 위반으로 인한 계약해
+economics,A,A,A
+economics,C,A,A
+economics,D,A,A
+economics,A,A,A입니다.
+economics,B,A,A입니다.
+economics,A,A,A
+economics,D,D,D
+economics,A,A,A.
+economics,B,D,D입니다.
+economics,A,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+economics,A,A,A입니다.
+economics,A,A,A입니다.
+economics,A,,"질문 1에 대한 답입니다.
+
+A: 기간별 보고
+
+이"
+economics,B,A,A
+economics,B,D,D
+economics,D,A,A입니다.
+economics,B,A,A입니다.
+economics,A,A,A입니다.
+economics,D,,질문 (Question): 기업실체의 이해 관계자가 유용한 의
+economics,B,A,A
+economics,D,A,A입니다.
+economics,C,A,A
+economics,D,,질문 1: 기업실체의 이해 관계자가 유용한 의
+education,A,,"질문 9의 정답은 D입니다.
+
+질문 9:"
+education,D,D,D입니다.
+education,B,D,D. 구조기능주의에 기반하여 교육의 사회적 기능을 탐
+education,A,,"질문 1의 정답은 D, 질문 2의 정답"
+education,C,,질문 (Question): 장학 개념의 변천에 대한 설명으로
+education,C,A,A입니다.
+education,D,D,D입니다.
+education,C,,질문 1의 정답은 D입니다. 신 교육 사회학은
+education,B,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+education,B,D,D
+education,A,,질문 1: 신 교육 사회학에 대한 설명으로 옳지
+education,B,A,A입니다.
+education,A,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 신 교육 사회학"
+education,D,A,A입니다.
+education,B,D,D
+education,B,A,"A, B, C, D 중에서 옳은 것은?
+
+A:"
+education,D,A,A
+education,B,A,A.
+education,C,D,D
+education,C,,"질문 1의 정답은 D, 질문 2의 정답"
+education,B,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 신 교육 사회학"
+education,B,A,A
+education,B,A,A입니다.
+electrical_engineering,C,D,D입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,D,A,A입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,D,,질문 (Question): 곡선도로 조명상 조명기구
+electrical_engineering,C,B,B입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,D,D,D가 맞습니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+electrical_engineering,B,A,A입니다.
+electrical_engineering,B,D,D
+electrical_engineering,D,D,D가 정답입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,C,C,C
+electrical_engineering,D,D,D가 정답입니다.
+electrical_engineering,B,A,A입니다.
+electrical_engineering,A,D,D가 맞습니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,B,,"질문 1에 대한 답은 B입니다.
+
+질문 2에"
+electrical_engineering,B,D,D가 맞습니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,D,C,C) 153[V]
+electrical_engineering,C,D,D가 맞습니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,A,,질문 1에 대한 정답은 B입니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,B,A,A입니다.
+electrical_engineering,C,D,D
+electrical_engineering,B,B,B입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,D,D
+electrical_engineering,D,A,A입니다.
+electrical_engineering,D,A,A입니다.
+electrical_engineering,D,C,C
+electrical_engineering,B,A,A입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,D,A,A입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,D,D,D입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,C,B,B입니다.
+electrical_engineering,B,A,A입니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,C,B,B입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,D,D
+electrical_engineering,B,B,B입니다.
+electrical_engineering,D,D,D) 2.0m입니다.
+electrical_engineering,D,B,B
+electrical_engineering,C,D,D입니다.
+electrical_engineering,C,B,B입니다.
+electrical_engineering,C,D,D입니다.
+electrical_engineering,B,,제3종 접지공사를 하여야 할 곳은 특고압
+electrical_engineering,B,B,B
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,B,D,D
+electrical_engineering,D,B,B입니다.
+electrical_engineering,D,A,A입니다.
+electrical_engineering,C,D,D입니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,B,D,D. 22.4
+electrical_engineering,D,D,D
+electrical_engineering,B,C,C
+electrical_engineering,D,C,C가 맞습니다.
+electrical_engineering,D,B,B
+electrical_engineering,D,B,B입니다.
+electrical_engineering,D,,질문 1의 정답은 B입니다.
+electrical_engineering,D,D,D가 맞습니다.
+electrical_engineering,B,,질문 (Question): 직류기의 전기자에 사용되는 권선
+electrical_engineering,B,B,B입니다.
+electrical_engineering,B,B,B입니다.
+electrical_engineering,D,D,D입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,D,D입니다.
+electrical_engineering,D,B,B
+electrical_engineering,B,D,D입니다.
+electrical_engineering,C,D,D가 맞습니다.
+electrical_engineering,C,A,A입니다.
+electrical_engineering,D,A,A
+electrical_engineering,D,D,D입니다.
+electrical_engineering,D,A,A입니다.
+electrical_engineering,C,B,B입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,D,D,D가 맞습니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,A,A입니다.
+electrical_engineering,C,B,B입니다.
+electrical_engineering,D,B,B입니다.
+electrical_engineering,B,D,D
+electronics_engineering,D,A,A입니다.
+electronics_engineering,D,,질문 (Question): 컬렉터 접지형 증폭기의 특
+electronics_engineering,B,,질문 1의 정답은 C입니다. C 언어에서 사용되는
+electronics_engineering,D,C,"C 언어에서 사용되는 자료형이 아닌 것은? 
+
+C 언어에서 사용"
+electronics_engineering,C,C,C
+electronics_engineering,C,,질문 (Question): C 언어에서 사용되는 자료형이 아닌 것은?
+electronics_engineering,D,D,D입니다.
+electronics_engineering,B,C,C
+electronics_engineering,C,,"질문에 대한 정답은 다음과 같습니다.
+
+1. C 언어에서 사용"
+electronics_engineering,D,C,C입니다.
+electronics_engineering,B,,질문 1의 정답은 B.
+electronics_engineering,C,,질문 1: C 언어에서 사용되는 자료형이 아닌 것은?
+electronics_engineering,B,,질문 1: C 언어에서 사용되는 자료형이 아닌 것은?
+electronics_engineering,C,C,C
+electronics_engineering,C,D,D는 정답입니다.
+electronics_engineering,D,,질문 1의 정답은 B입니다. C 언어에서 사용되는
+electronics_engineering,A,D,D: 플라이 휠(fly-wheel)
+electronics_engineering,D,D,D
+electronics_engineering,C,,"질문 1의 정답은 C, 즉 integer입니다."
+electronics_engineering,B,D,D 가수 나누기
+electronics_engineering,B,B,B
+electronics_engineering,B,,질문 (Question): C 언어에서 사용되는 자료형이 아닌 것은?\
+electronics_engineering,B,,"질문에 따라 알파벳 하나를 선택하시오.
+
+질문"
+electronics_engineering,C,C,C입니다.
+electronics_engineering,D,,질문 (Question): C 언어에서 사용되는 자료형이 아닌 것은?\
+electronics_engineering,D,D,D
+electronics_engineering,D,A,A입니다.
+electronics_engineering,D,C,"C 언어에서 사용되는 자료형이 아닌 것은?
+
+A: double, B"
+electronics_engineering,D,,질문 1의 정답은 B: short입니다. C 언어에서
+electronics_engineering,B,C,C
+electronics_engineering,B,D,D: 3.0 [MHz]
+electronics_engineering,C,A,A
+electronics_engineering,D,C,"C 언어에서 사용되는 자료형이 아닌 것은?
+
+정답: C"
+electronics_engineering,D,A,A입니다.
+electronics_engineering,C,D,D입니다.
+electronics_engineering,D,D,D입니다.
+electronics_engineering,C,D,D입니다.
+electronics_engineering,D,B,B
+electronics_engineering,B,,질문 1: C 언어에서 사용되는 자료형이 아닌 것은?
+electronics_engineering,B,C,C
+electronics_engineering,B,A,A입니다.
+electronics_engineering,C,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+electronics_engineering,B,A,A입니다.
+electronics_engineering,D,A,A입니다.
+electronics_engineering,B,A,A입니다.
+electronics_engineering,B,A,A입니다.
+electronics_engineering,C,,질문 1에 대한 정답은 C입니다. C 언어에서 사용
+electronics_engineering,C,D,D
+electronics_engineering,B,,"질문 6번의 정답입니다.
+
+질문 6번의"
+electronics_engineering,B,D,D입니다.
+electronics_engineering,B,,"질문 1의 정답은 A, B, D."
+electronics_engineering,C,A,A입니다.
+electronics_engineering,D,A,A입니다.
+electronics_engineering,C,A,A입니다.
+electronics_engineering,C,D,D입니다.
+electronics_engineering,B,D,D입니다.
+electronics_engineering,C,D,D입니다.
+electronics_engineering,B,,질문 6의 정답은 C입니다.
+electronics_engineering,B,C,C
+electronics_engineering,B,C,C
+electronics_engineering,D,D,D
+electronics_engineering,D,D,D입니다.
+electronics_engineering,B,D,Df≒0.1%
+electronics_engineering,C,A,A입니다.
+electronics_engineering,B,C,C
+electronics_engineering,C,D,D입니다.
+electronics_engineering,C,C,C입니다.
+electronics_engineering,D,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+electronics_engineering,D,B,B
+electronics_engineering,B,C,C
+electronics_engineering,A,A,A입니다.
+electronics_engineering,B,D,D입니다.
+electronics_engineering,D,D,D가 정답입니다.
+electronics_engineering,B,D,D가 정답입니다.
+electronics_engineering,C,C,C
+electronics_engineering,C,D,D입니다.
+electronics_engineering,C,D,D입니다.
+electronics_engineering,B,,질문 1의 정답은 C입니다.
+electronics_engineering,B,D,D입니다.
+electronics_engineering,B,C,C입니다.
+electronics_engineering,B,C,"C 언어에서 사용되는 자료형이 아닌 것은?
+
+정답: C"
+electronics_engineering,C,,질문 (Question): C 언어에서 사용되는 자료형이 아닌 것은?\
+electronics_engineering,C,A,A입니다.
+electronics_engineering,C,C,C
+electronics_engineering,B,C,C입니다.
+electronics_engineering,B,D,D입니다.
+electronics_engineering,D,A,A
+electronics_engineering,B,C,C
+electronics_engineering,C,,질문 (Question): 어느 컴퓨터의 기억 용량이 1M
+electronics_engineering,B,,"질문 1의 정답은 D. float입니다. 
+
+질문"
+electronics_engineering,D,C,C
+electronics_engineering,A,D,D: i = div E
+electronics_engineering,D,D,D
+electronics_engineering,B,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+electronics_engineering,B,C,C입니다.
+electronics_engineering,B,A,A입니다.
+electronics_engineering,B,,질문 1의 정답은 B입니다.
+electronics_engineering,C,A,A입니다.
+electronics_engineering,A,A,A입니다.
+electronics_engineering,D,,"질문 1의 정답은 D, 질문 2의 정답"
+energy_management,C,,"질문 1에 대한 정답은 A입니다. 
+
+질문"
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,B,C,C) 제베크 효과(Seebeck effect)
+energy_management,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,A,,질문 (Question): 태양광발전 전지에서 직렬저
+energy_management,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+energy_management,C,,질문 1의 정답은 A입니다. 이상적인 변압기에
+energy_management,A,A,"A, B, C, D 중에 제일 마지막에 있는 D가"
+energy_management,C,,질문 (Question): 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,,질문 (Question): 일상점검 시 인버터의 육안
+energy_management,A,A,A입니다.
+energy_management,B,,질문 1에 대한 답은 A입니다. 이상적인 변압기에
+energy_management,C,,"질문 1에 대한 답은 A입니다.
+
+질문 2에"
+energy_management,D,D,D가 맞습니다.
+energy_management,C,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,B,,7번 문제입니다. 인젝터의 급수불능 원인이 아닌
+energy_management,B,A,A
+energy_management,B,,"질문 1에 대한 답은 A입니다.
+
+질문 2에"
+energy_management,C,,"정답은 A, D, C, B, B, C, B"
+energy_management,D,D,D
+energy_management,D,,질문 (Question): 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,A,A
+energy_management,A,A,A입니다.
+energy_management,D,D,D입니다.
+energy_management,A,A,A입니다.
+energy_management,C,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+energy_management,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,B,A,A
+energy_management,A,D,D
+energy_management,C,,질문 1의 정답은 A입니다. 이상적인 변압기에
+energy_management,B,,1. D가 정답입니다.
+energy_management,D,A,A
+energy_management,C,A,A
+energy_management,A,A,A입니다.
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,A,B,B입니다.
+energy_management,B,,"질문 1의 정답은 A, 질문 2의 정답"
+energy_management,C,C,C가 정답입니다.
+energy_management,A,A,A입니다.
+energy_management,D,,질문 1에 대한 정답은 A입니다.
+energy_management,A,,질문 (Question): 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,B,B
+energy_management,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+energy_management,D,B,B입니다.
+energy_management,C,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+energy_management,A,D,D: 스크롤형(Scroll형) 가스버너
+energy_management,A,A,A입니다.
+energy_management,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+energy_management,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,C,,"질문 1에 대한 답은 A입니다. 
+
+질문 2"
+energy_management,B,A,A입니다.
+energy_management,C,A,A입니다.
+energy_management,C,,질문 (Question): 압력 측정을 위해 지름 1cm의
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,C,A,A가 정답입니다.
+energy_management,C,,"1. A
+2. D
+3. B
+4. C"
+energy_management,B,D,D가 정답입니다.
+energy_management,B,,질문 1: 이상적인 변압기에 대한 설명으로 옳은
+energy_management,D,A,A입니다.
+energy_management,C,A,A
+energy_management,A,,"1. 이상적인 변압기에 대한 설명으로 옳은 것은?
+
+A"
+energy_management,A,C,C입니다.
+energy_management,C,A,A입니다.
+energy_management,C,A,A를 선택하겠습니다.
+energy_management,B,,"질문 1에 대한 답은 A입니다.
+
+질문 2에"
+energy_management,B,A,A입니다.
+energy_management,B,,1. D: 1차측 단자에서 본 전체 임피던
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,B,A,A입니다.
+energy_management,B,,"이 문제는 여러 개의 문제가 묶여서 제공되는데,"
+energy_management,B,B,B입니다.
+energy_management,C,,"질문 (Question) 5번의 정답입니다. 
+
+질문"
+energy_management,D,A,A입니다.
+energy_management,A,D,D) 400
+energy_management,D,D,D가 정답입니다.
+energy_management,A,,질문 1: 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,,질문 (Question): 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,A,A입니다.
+energy_management,B,D,D
+energy_management,D,B,B
+energy_management,D,D,D
+energy_management,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,B,C,C
+energy_management,B,,질문 1에 대한 답은 A입니다. 이상적인 변압기에
+energy_management,C,D,D입니다.
+energy_management,B,A,A입니다.
+energy_management,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+energy_management,A,A,A
+energy_management,B,A,A입니다.
+energy_management,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+energy_management,B,,질문 1에 대한 정답은 A입니다. 이상적인 변압
+energy_management,B,A,A입니다.
+energy_management,D,,질문 1: 이상적인 변압기에 대한 설명으로 옳은
+energy_management,B,A,A가 정답입니다.
+energy_management,B,B,B입니다.
+energy_management,B,A,A입니다.
+energy_management,B,A,A입니다.
+energy_management,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+energy_management,C,D,D입니다.
+environmental_science,C,A,A입니다.
+environmental_science,D,,"질문 1에 대한 정답은 A, 즉 1000 mg"
+environmental_science,C,A,A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,D,,"질문 5에 대한 답입니다.
+
+박테리아의 화학식"
+environmental_science,C,,질문 1의 정답은 A.
+environmental_science,D,D,D
+environmental_science,D,,"질문 1에 대한 답입니다.
+
+A: Fe : 1000"
+environmental_science,C,D,D입니다.
+environmental_science,B,,질문 1의 정답은 A입니다.
+environmental_science,C,D,D
+environmental_science,C,A,A
+environmental_science,B,A,A입니다.
+environmental_science,D,A,A
+environmental_science,B,A,A
+environmental_science,C,A,A
+environmental_science,B,,질문 1의 정답은 A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,D,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+environmental_science,B,A,A
+environmental_science,D,D,D: 280mg/L
+environmental_science,C,D,D
+environmental_science,D,A,A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,B,A,A입니다.
+environmental_science,D,A,A입니다.
+environmental_science,B,A,A
+environmental_science,C,D,D
+environmental_science,B,A,A입니다.
+environmental_science,C,A,A
+environmental_science,B,A,A.
+environmental_science,C,A,A입니다.
+environmental_science,B,A,A입니다.
+environmental_science,B,D,D
+environmental_science,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+environmental_science,D,A,A입니다.
+environmental_science,C,A,A
+environmental_science,C,D,"질문 6의 정답입니다.
+
+정답: D: 98"
+environmental_science,D,D,D
+environmental_science,D,A,A입니다.
+environmental_science,C,D,D
+environmental_science,D,A,A
+environmental_science,C,D,D
+environmental_science,D,A,A.
+environmental_science,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+environmental_science,B,D,D
+environmental_science,B,,질문 1에 대한 답은 A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,B,,질문 (Question): 혐기성 소화에서 독성을 유발
+environmental_science,B,,질문 (Question): 혐기성 소화에서 독성을 유발
+environmental_science,C,,질문 1에 대한 답은 A입니다.
+environmental_science,C,D,D입니다.
+environmental_science,C,A,A입니다.
+environmental_science,B,A,A입니다.
+environmental_science,D,B,B
+environmental_science,D,A,A입니다.
+environmental_science,C,A,A
+environmental_science,D,A,A입니다.
+environmental_science,B,A,A입니다.
+environmental_science,C,A,A입니다.
+environmental_science,C,A,A
+environmental_science,C,A,A입니다.
+environmental_science,B,A,A.
+environmental_science,D,,질문 (Question): 어느 매립지의 쓰레기 수용량
+environmental_science,C,A,A입니다.
+environmental_science,C,B,B
+environmental_science,D,,질문 (Question): 혐기성 소화에서 독성을 유발
+environmental_science,B,A,A입니다.
+environmental_science,B,D,D
+environmental_science,C,D,D입니다.
+environmental_science,C,D,D
+environmental_science,C,D,D입니다.
+environmental_science,C,D,D
+environmental_science,C,A,A입니다.
+environmental_science,B,,질문 1: 혐기성 소화에서 독성을 유발
+environmental_science,B,A,A
+environmental_science,C,A,A입니다.
+environmental_science,A,A,A
+environmental_science,D,A,A입니다.
+environmental_science,D,,"질문 5의 정답입니다.
+
+D: 비소"
+environmental_science,C,A,A입니다.
+environmental_science,C,,"질문 1에 대한 답입니다.
+
+A: Fe : 1000"
+environmental_science,C,D,D
+environmental_science,D,B,B) 약 3.83
+environmental_science,D,D,D
+environmental_science,D,,질문 1의 정답은 A입니다.
+environmental_science,D,,"질문 5의 정답입니다.
+
+A: 넓은 범위"
+environmental_science,D,A,A
+environmental_science,C,A,A입니다.
+environmental_science,D,D,D
+environmental_science,D,D,D
+environmental_science,C,D,D가 정답입니다.
+environmental_science,D,D,D
+environmental_science,D,,"질문 5의 정답은 D: 3년, 환경"
+environmental_science,B,A,A입니다.
+environmental_science,D,B,B
+environmental_science,C,B,B
+environmental_science,C,,질문 1의 정답은 A입니다.
+fashion,C,,질문 1의 정답은 A입니다.
+fashion,B,A,A입니다.
+fashion,A,A,A입니다.
+fashion,C,A,A입니다.
+fashion,D,,"질문 1의 정답은 A, 질문 2의 정답"
+fashion,C,,질문 (Question) 의복 제작시 안감으로 선택하기에 적
+fashion,A,,"질문 1의 정답은 A, 질문 2의 정답"
+fashion,B,B,B
+fashion,B,A,A
+fashion,D,,질문 (Question): 의복 제도에 사용되는 약자로
+fashion,B,A,A
+fashion,C,A,A입니다.
+fashion,D,A,A.
+fashion,B,A,A입니다.
+fashion,C,,질문 1에 대한 답은 A입니다. 오점의 성분
+fashion,D,,질문 1에 대한 답은 A입니다.
+fashion,A,,"질문에 대한 답변입니다.
+
+질문 1: 오점의 성"
+fashion,A,C,C
+fashion,A,A,A입니다.
+fashion,C,,질문에 대한 답을 알파벳 하나씩 적어드리겠습니다
+fashion,B,A,A입니다.
+fashion,B,D,D
+fashion,D,A,A입니다.
+fashion,A,,질문에 나온 옵션들 중에서 가장 적절한 답
+fashion,C,A,A
+fashion,D,,"질문 1에 대한 정답은 A, 질문 2에 대한"
+fashion,D,,"질문에 대한 답은 다음과 같습니다.
+
+질문 (Question): 배자는"
+fashion,A,D,D입니다.
+fashion,C,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,D,,질문 1에 대한 정답은 A입니다.
+fashion,B,,질문 1의 정답은 A입니다.
+fashion,C,A,A입니다.
+fashion,D,D,D
+fashion,C,A,A입니다.
+fashion,B,,질문 (Question): 세탁 조건에 관한 설명 중 틀린
+fashion,A,,질문 (Question): 오점의 성분 중 충해의 원인이
+fashion,B,,"질문 1의 정답은 A, 즉 단백질"
+fashion,C,,"질문 1에 대한 정답은 A입니다. 
+
+질문"
+fashion,A,,질문 (Question): 셀룰로스계 섬유 중 중
+fashion,C,D,D
+fashion,B,A,A입니다.
+fashion,D,A,A입니다.
+fashion,A,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,A,,질문에 대한 답을 알파벳 하나씩 적어 보겠습니다
+fashion,A,,"질문 1의 정답은 A, 질문 2의 정답"
+fashion,A,,질문 1의 정답은 A입니다.
+fashion,B,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 (Question): 오"
+fashion,C,A,A입니다.
+fashion,D,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,D,B,B입니다.
+fashion,D,A,A입니다.
+fashion,D,B,B
+fashion,C,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,A,,질문 (Question): 직물의 촉감을 부드럽게
+fashion,D,A,A입니다.
+fashion,B,A,A입니다.
+fashion,B,,질문 (Question): 소매원형제도에 필요한 항목이
+fashion,C,A,A입니다.
+fashion,B,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 오점"
+fashion,B,A,A입니다.
+fashion,C,A,A입니다.
+fashion,D,A,A입니다.
+fashion,D,B,B
+fashion,D,A,A입니다.
+fashion,C,B,B입니다.
+fashion,C,A,A입니다.
+fashion,B,A,A입니다.
+fashion,B,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,C,D,D입니다.
+fashion,B,,질문 5개를 분석하여 가장 적절한 답변을 선택해 보
+fashion,B,,질문 1의 정답은 A입니다.
+fashion,A,A,A
+fashion,D,,"질문에 답하시오.
+
+질문 (Question): 측면 모양"
+fashion,D,C,C입니다.
+fashion,B,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,B,,질문 1에 대한 답은 A입니다.
+fashion,B,A,A입니다.
+fashion,A,,질문 1: 오점의 성분 중 충해의 원인이
+fashion,D,D,D
+fashion,A,D,D입니다.
+fashion,D,,질문 (Question): 능직물은 평직물과 비교했을
+fashion,A,D,D입니다.
+fashion,D,A,A입니다.
+fashion,C,,질문 (Question): 수자직에 대한 설명으로 틀린 것은
+fashion,D,D,D
+fashion,B,A,A
+fashion,C,,질문 1의 정답은 A입니다. 오점의 성분
+fashion,C,A,A입니다.
+fashion,A,A,A.
+fashion,A,A,A입니다.
+fashion,B,A,A입니다.
+fashion,A,,질문 (Question): 풍차바지에 대한 설명이다. 틀
+fashion,C,,"질문 1의 정답은 A, 질문 2의 정답"
+fashion,A,,질문 (Question) : 일반적인 세탁조건에 대한 설명 중
+fashion,C,A,A입니다.
+fashion,A,A,A입니다.
+fashion,D,D,D
+fashion,D,A,A입니다.
+fashion,C,A,A.
+fashion,D,,"질문 1에 대한 정답은 A, 질문 2에 대한"
+food_processing,C,A,A
+food_processing,D,B,B
+food_processing,C,D,D
+food_processing,B,,질문 (Question): 작물이 주로 이용하는 토양수분
+food_processing,B,B,B입니다.
+food_processing,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+food_processing,B,B,B
+food_processing,B,A,A입니다.
+food_processing,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+food_processing,D,D,D
+food_processing,A,A,A입니다.
+food_processing,A,B,B
+food_processing,C,,"질문에 나온 주제는 작물학입니다. 
+
+1."
+food_processing,A,,질문 1: 작물이 주로 이용하는 토양수분
+food_processing,C,A,A입니다.
+food_processing,C,A,A입니다.
+food_processing,D,C,C
+food_processing,A,D,D
+food_processing,D,,질문 (Question): 작물이 주로 이용하는 토양수분
+food_processing,C,,질문 1: 작물이 주로 이용하는 토양수분
+food_processing,D,D,D입니다.
+food_processing,D,D,D
+food_processing,D,B,B
+food_processing,D,A,A입니다.
+food_processing,D,D,D
+food_processing,B,B,B
+food_processing,D,B,B입니다.
+food_processing,B,,"질문 1의 정답은 B, 즉 모관수입니다."
+food_processing,B,B,B입니다.
+food_processing,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+food_processing,D,B,B
+food_processing,D,A,A
+food_processing,C,,질문에 따른 정답을 알파벳 하나로 나타내면
+food_processing,D,C,C입니다.
+food_processing,C,B,B입니다.
+food_processing,D,D,D입니다.
+food_processing,C,B,B
+food_processing,D,A,A입니다.
+food_processing,D,A,A입니다.
+food_processing,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+food_processing,B,D,D
+food_processing,B,A,A입니다.
+food_processing,C,B,B입니다.
+food_processing,A,D,D입니다.
+food_processing,C,A,A입니다.
+food_processing,D,D,D
+food_processing,A,A,A입니다.
+food_processing,C,,"질문에 해당하는 정답은 다음과 같습니다.
+
+1. 작물이"
+food_processing,D,,"질문에 대한 답을 알파벳 하나로 보세요.
+
+질"
+food_processing,A,A,A입니다.
+food_processing,C,A,A
+food_processing,C,D,D
+food_processing,B,D,D) 카로틴 색소는 산성에서 흰색화입니다
+food_processing,C,B,B
+food_processing,C,B,B
+food_processing,C,D,D입니다.
+food_processing,A,B,B입니다.
+food_processing,D,D,D
+food_processing,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+food_processing,D,D,D. 불가사리
+food_processing,C,D,D
+food_processing,C,,"질문 (Question) 6번의 정답입니다.
+
+정답은"
+food_processing,D,A,A입니다.
+food_processing,B,D,D
+food_processing,B,A,A입니다.
+food_processing,D,B,B
+food_processing,A,,"질문에 따른 정답은 다음과 같습니다.
+
+질문 1: 작"
+food_processing,C,,"질문 1의 정답은 B, 질문 2의 정답"
+food_processing,B,,"질문 1의 정답은 B, 즉 모관수입니다."
+food_processing,A,A,A입니다.
+food_processing,C,B,B
+food_processing,C,A,A입니다.
+food_processing,A,,질문 1: 작물이 주로 이용하는 토양수분
+food_processing,A,A,A입니다.
+food_processing,B,,질문 (Question): 계량법에 대한 설명 중 잘못된 것은
+food_processing,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+food_processing,B,D,D입니다.
+food_processing,A,B,B입니다.
+food_processing,D,A,A입니다.
+food_processing,C,A,A입니다.
+food_processing,D,A,A
+food_processing,D,D,D
+food_processing,B,D,D입니다.
+food_processing,B,A,A입니다.
+food_processing,C,,질문 1: 작물이 주로 이용하는 토양수분
+food_processing,C,D,D입니다.
+food_processing,D,B,B
+food_processing,B,C,C
+food_processing,C,D,D
+food_processing,C,A,A입니다.
+food_processing,D,B,B
+food_processing,D,D,D
+food_processing,D,,"질문과 옵션을 읽고, 정답을 알파"
+food_processing,B,D,D
+food_processing,B,A,A
+food_processing,A,A,A입니다.
+food_processing,B,B,B입니다.
+food_processing,D,D,D
+food_processing,A,D,D
+food_processing,D,D,D
+gas_technology_and_engineering,B,C,C입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,D,,질문 1의 정답은 B입니다.
+gas_technology_and_engineering,D,,질문 (Question) : 건축물 내 도시가스 매설배
+gas_technology_and_engineering,C,,질문 (Question): N2가 27℃에서 100Kpa
+gas_technology_and_engineering,B,D,D: 400 L/h
+gas_technology_and_engineering,D,A,A
+gas_technology_and_engineering,B,,질문 1: 건축물 내 도시가스 매설배관
+gas_technology_and_engineering,A,C,"질문 5의 정답입니다.
+
+정답: C"
+gas_technology_and_engineering,A,,질문 1: 건축물 내 도시가스 매설배관
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,C,D,D입니다.
+gas_technology_and_engineering,D,B,B
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,C,,질문 1의 정답은 B입니다.
+gas_technology_and_engineering,D,,질문 (Question): 액화석유가스용 압력조
+gas_technology_and_engineering,A,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,D,,질문 1의 정답은 B입니다.
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,C,A,A입니다.
+gas_technology_and_engineering,D,,질문 1의 정답은 B입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,A,A,A)
+gas_technology_and_engineering,B,,"질문 5의 정답입니다.
+
+D"
+gas_technology_and_engineering,C,D,D
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,C,D,D
+gas_technology_and_engineering,C,D,D
+gas_technology_and_engineering,B,C,C
+gas_technology_and_engineering,A,,질문 (Question): 과잉공기량이 지나치게 많
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,B,D,D가 맞습니다.
+gas_technology_and_engineering,B,,질문에 따라 정답을 알파벳 하나로 답하시오
+gas_technology_and_engineering,B,,"질문 1의 정답입니다.
+
+A."
+gas_technology_and_engineering,D,,질문 (Question): 독성가스의 제해설비 중 충전
+gas_technology_and_engineering,A,,"질문 5에 대한 답입니다.
+
+질문 (Question): 공기"
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,D,B,B입니다.
+gas_technology_and_engineering,A,C,C입니다.
+gas_technology_and_engineering,D,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 건축"
+gas_technology_and_engineering,C,A,A입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,C,A,A입니다.
+gas_technology_and_engineering,D,,질문 1에 대한 답은 B입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,D,,질문 (Question): 흑체의 온도가 20℃에서
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,B,B,B입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,B,B,B입니다.
+gas_technology_and_engineering,D,,"질문 1의 정답은 B, 즉 강관입니다."
+gas_technology_and_engineering,C,A,A
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,C,B,B
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,B,,"질문에 대한 답은 다음과 같습니다.
+
+1. 건축물 내 도시"
+gas_technology_and_engineering,B,,"질문 (Question): 양정이 5m, 송출량이"
+gas_technology_and_engineering,D,C,C입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,D,A,A입니다.
+gas_technology_and_engineering,D,D,D
+gas_technology_and_engineering,A,D,D입니다.
+gas_technology_and_engineering,C,,질문 1에 대한 답은 B입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,D,D,D입니다.
+gas_technology_and_engineering,B,,"질문 5에 대한 답입니다.
+
+D"
+gas_technology_and_engineering,B,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+gas_technology_and_engineering,B,,질문 1에 대한 정답은 B입니다.
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,D,D
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,B,,질문 1: 건축물 내 도시가스 매설배관
+gas_technology_and_engineering,D,C,C
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,D,,"질문 1의 정답은 B, 질문 2의 정답"
+gas_technology_and_engineering,D,B,B입니다.
+gas_technology_and_engineering,A,,질문 1의 정답은 B입니다.
+gas_technology_and_engineering,C,D,D가 답입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,B,A,A입니다.
+gas_technology_and_engineering,B,D,D입니다.
+gas_technology_and_engineering,D,C,C입니다.
+gas_technology_and_engineering,D,C,C가 맞습니다.
+gas_technology_and_engineering,C,,질문 1: 건축물 내 도시가스 매설배관
+gas_technology_and_engineering,A,C,C입니다.
+gas_technology_and_engineering,A,C,C입니다.
+geomatics,C,D,D가 정답입니다.
+geomatics,C,D,D
+geomatics,B,D,D
+geomatics,B,D,D
+geomatics,D,,"질문 1의 정답은 C, 즉 철도용지입니다"
+geomatics,B,A,A입니다.
+geomatics,B,A,A입니다.
+geomatics,C,D,D
+geomatics,D,,질문 1: 일람도 제도에서 붉은색
+geomatics,B,C,C
+geomatics,B,C,C입니다.
+geomatics,D,C,C입니다.
+geomatics,C,D,D입니다.
+geomatics,B,A,A입니다.
+geomatics,D,A,A입니다.
+geomatics,B,A,A입니다.
+geomatics,D,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+geomatics,C,A,A입니다.
+geomatics,B,D,D
+geomatics,B,C,C
+geomatics,A,D,D입니다.
+geomatics,A,C,C
+geomatics,A,C,C입니다.
+geomatics,B,,"질문 1에 대한 정답은 C, 즉 철도용"
+geomatics,D,A,A입니다.
+geomatics,D,A,A입니다.
+geomatics,D,D,"D) ω, bz"
+geomatics,D,C,C입니다.
+geomatics,C,D,D
+geomatics,C,A,A입니다.
+geomatics,B,C,C
+geomatics,A,C,C
+geomatics,D,,질문 1에 대한 답은 C입니다.
+geomatics,C,A,A입니다.
+geomatics,C,D,D입니다.
+geomatics,B,A,A
+geomatics,C,A,A입니다.
+geomatics,A,C,C입니다.
+geomatics,D,C,C입니다.
+geomatics,B,D,D
+geomatics,D,A,A
+geomatics,D,D,D
+geomatics,B,B,B입니다.
+geomatics,D,C,C
+geomatics,B,B,B
+geomatics,B,D,D) 70%
+geomatics,C,,"질문에 대한 답은 다음과 같습니다.
+
+1. C
+2. C"
+geomatics,C,D,D
+geomatics,C,A,A입니다.
+geomatics,B,C,C
+geomatics,B,C,C입니다.
+geomatics,B,C,C
+geomatics,A,C,C입니다.
+geomatics,D,C,C
+geomatics,D,A,A입니다.
+geomatics,B,,질문 1: 일람도 제도에서 붉은색
+geomatics,D,A,A입니다.
+geomatics,C,D,D
+geomatics,C,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+geomatics,D,C,C
+geomatics,A,,"질문 1에 대한 정답은 C입니다.
+
+질문 2"
+geomatics,A,A,A입니다.
+geomatics,D,C,C
+geomatics,D,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+geomatics,D,B,B
+geomatics,D,D,D입니다.
+geomatics,D,D,D입니다.
+geomatics,D,C,C입니다.
+geomatics,D,C,C입니다.
+geomatics,C,A,A입니다.
+geomatics,D,D,D입니다.
+geomatics,D,C,C
+geomatics,C,A,A
+geomatics,D,C,C입니다.
+geomatics,C,C,C입니다.
+geomatics,D,,정답은 C입니다.
+geomatics,D,C,C입니다.
+geomatics,B,D,D
+geomatics,D,D,D입니다.
+geomatics,B,A,A입니다.
+geomatics,C,D,D입니다.
+geomatics,D,C,C
+geomatics,B,C,C입니다.
+geomatics,C,C,C
+geomatics,B,C,C입니다.
+geomatics,B,B,B
+geomatics,C,D,D입니다.
+geomatics,C,D,D
+geomatics,D,,정답은 D입니다.
+geomatics,A,,"질문 1에 대한 정답은 C입니다.
+
+질문 2"
+geomatics,D,C,C
+geomatics,D,,질문 1: 일람도 제도에서 붉은색
+geomatics,B,C,C
+geomatics,C,D,D
+geomatics,B,A,A입니다.
+geomatics,C,D,D
+geomatics,B,A,A입니다.
+geomatics,B,,질문 1의 정답은 C입니다.
+geomatics,C,A,A
+geomatics,C,,"정답은 다음과 같습니다.
+
+질문 (Question): 일람도 제도"
+health,D,,질문 (Question) 1에 대한 정답은 A입니다.
+health,A,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+health,C,,"질문 1의 정답은 A, 질문 2의 정답"
+health,A,,질문에 대한 답을 알파벳 하나씩 적어보겠습니다
+health,B,,질문에 대한 답변을 알파벳 하나로 정리하면 다음과
+health,A,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 도"
+health,C,,질문 (Question): 도나베디안 (Donabedian) 의
+health,B,,질문 (Question): 도나베디안 (Donabedian) 의
+health,D,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 도"
+health,B,,질문 1: 도나베디안의 보건의료 서비스
+health,A,,질문 (Question)과 보기 (Options)가 여러 개가 나열
+health,C,,질문 1에 대한 정답은 A입니다. 도나베디
+health,C,,질문에 대한 답을 알파벳 하나씩 적어드리겠습니다
+health,A,,질문 1: 도나베디안 (Donabedian) 의
+health,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+health,C,,"질문 1의 정답은 A, 질문 2의 정답"
+health,C,,"질문 1: 구조적 접근은?
+
+A: 면허제"
+health,B,,질문 1에 대한 정답은 A입니다. 도나베디
+health,C,,질문에 대한 정답을 하나씩 알파벳으로 표현하면
+health,D,,질문 (Question)과 보기 (Options)만 제공되어 정확한 정
+health,D,,질문 1에 대한 정답은 A입니다. 도나베디
+health,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+health,A,,질문 (Question): 도나베디안 (Donabedian) 의
+industrial_engineer,B,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+industrial_engineer,C,,"질문 1의 정답은 C, 질문 2의 정답"
+industrial_engineer,B,,"질문 1의 정답은 C: 새들입니다.
+
+질문"
+industrial_engineer,A,,"정답입니다.
+
+질문 1: 수평밀링머신의"
+industrial_engineer,C,A,"A, B, C, D 중에서 알파벳 하나만으로"
+industrial_engineer,C,,"질문에 따라 알파벳 하나를 선택합니다.
+
+1. 수"
+industrial_engineer,C,,질문 1의 정답은 C.
+industrial_engineer,D,,75dB의 소음원 5개는 75*5=375
+industrial_engineer,C,D,D
+industrial_engineer,B,,"질문 1의 정답은 C, 즉 새들입니다. 새"
+industrial_engineer,D,A,A입니다.
+industrial_engineer,B,,질문 (Question): 수평밀링머신의 니(knee)
+industrial_engineer,B,,"질문 1에 대한 답은 C입니다.
+
+질문 2에"
+industrial_engineer,B,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+industrial_engineer,B,,"질문에 대한 답변입니다.
+
+1. 수평밀링머신의"
+industrial_engineer,B,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,C,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,,"질문 6에 대한 정답은 C입니다.
+
+질문 6"
+industrial_engineer,D,,"1일 동안의 평균 최고소음도가 92dB(A)이고,"
+industrial_engineer,D,,"제 1, 2, 4, 5, 7,"
+industrial_engineer,B,,1.질문 (Question): 수평밀링머신의 니(k
+industrial_engineer,B,D,D입니다.
+industrial_engineer,C,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,D,,질문에 대한 답을 알파벳 하나로 나타내겠습니다.
+industrial_engineer,B,A,A입니다.
+industrial_engineer,B,A,A입니다.
+industrial_engineer,D,,"질문 1의 정답은 C, 질문 2의 정답"
+industrial_engineer,C,,"질문 1의 정답은 C, 질문 2의 정답"
+industrial_engineer,C,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,D,A,A입니다.
+industrial_engineer,D,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,D,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,C,D,D가 맞습니다.
+industrial_engineer,D,A,A입니다.
+industrial_engineer,D,,질문 1의 정답은 C: 새들입니다. 수평
+industrial_engineer,D,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,B,D,D입니다.
+industrial_engineer,B,,"질문 5번의 정답은 C입니다.
+
+코터 폭이"
+industrial_engineer,C,,"질문 1의 정답은 C, 질문 2의 정답"
+industrial_engineer,D,,질문에 적절한 정답을 선택하여 알파벳 하나
+industrial_engineer,C,A,A입니다.
+industrial_engineer,C,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,C,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,B,,"질문에 따른 답변은 다음과 같습니다.
+
+1. 수평밀링머"
+industrial_engineer,B,A,A입니다.
+industrial_engineer,D,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,C,C
+industrial_engineer,B,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,A,,"질문 1의 정답은 C, 질문 2의 정답"
+industrial_engineer,D,A,A입니다.
+industrial_engineer,B,,질문 1의 정답은 C입니다. 수평밀링머
+industrial_engineer,C,C,C입니다.
+industrial_engineer,B,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,A,A입니다.
+industrial_engineer,C,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,B,,"질문 1의 정답은 C, 즉 새들입니다.
+
+질"
+industrial_engineer,D,A,A입니다.
+industrial_engineer,D,,질문에 대한 답변을 알파벳 하나로 RESPOND하겠습니다
+industrial_engineer,C,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,C,C입니다.
+industrial_engineer,B,,"질문 1에 대한 답은 C, 즉 새들입니다"
+industrial_engineer,C,A,A입니다.
+industrial_engineer,B,,"질문 1의 정답은 C: 새들입니다.
+
+질문"
+industrial_engineer,D,A,A입니다.
+industrial_engineer,B,,질문 1의 정답은 C입니다. 수평밀링머
+industrial_engineer,B,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+industrial_engineer,C,D,D입니다.
+industrial_engineer,D,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,D,,"질문 1의 정답은 C: 새들입니다.
+
+질문"
+industrial_engineer,C,D,D입니다.
+industrial_engineer,B,A,A를 선택하겠습니다.
+industrial_engineer,C,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,,질문 (Question): 측정점 검출기가 좌표를 검출
+industrial_engineer,D,A,A를 선택하겠습니다.
+industrial_engineer,D,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,,질문에 대한 정답을 알파벳 하나로 알려드리겠습니다
+industrial_engineer,D,A,A입니다.
+industrial_engineer,D,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+industrial_engineer,D,,"질문과 옵션을 분석해 보겠습니다.
+
+1.  첫"
+industrial_engineer,A,,"질문 1에 대한 답은 C입니다. 
+
+질문 2"
+industrial_engineer,D,D,D입니다.
+industrial_engineer,B,D,D가 맞습니다.
+industrial_engineer,B,,제시된 문제에 대한 정답을 알파벳 하나로 답변
+industrial_engineer,C,,"질문 1의 정답은 C, 즉 새들입니다"
+industrial_engineer,B,,질문 (Question): 애니메이션(animation)에 관한 내용 중 잘못
+industrial_engineer,D,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+industrial_engineer,B,C,C
+industrial_engineer,C,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,,질문에 대한 답을 알파벳 하나로 알려드리겠습니다.
+industrial_engineer,B,,질문 1: 수평밀링머신의 니(knee)
+industrial_engineer,C,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+industrial_engineer,C,,"제1문: C
+
+제2문: A
+
+제3문:"
+industrial_engineer,B,,"질문 1의 정답은 C, 즉 새들입니다."
+industrial_engineer,B,,질문 (Question): 수평밀링머신의 니(knee)
+industrial_engineer,D,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+industrial_engineer,D,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 수평"
+industrial_engineer,D,,제시된 문제와 정답을 기반으로 답변을 작성해 보겠습니다
+industrial_engineer,D,,50kN의 물체를 4개의 아이볼트로 들어 올
+industrial_engineer,D,C,C입니다.
+industrial_engineer,D,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+information_technology,D,A,A입니다.
+information_technology,B,,"질문 1에 대한 답은 C입니다. 
+
+질문 2"
+information_technology,D,A,A입니다.
+information_technology,A,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+information_technology,D,,질문 (Question): 실제 펄스 파형의 구간별 명
+information_technology,D,D,D가 정답입니다.
+information_technology,D,D,D입니다.
+information_technology,B,C,C입니다.
+information_technology,B,D,D
+information_technology,B,D,D.
+information_technology,D,D,D입니다.
+information_technology,A,,질문 1: 실제 펄스 파형의 구간별 명
+information_technology,C,D,D가 정답입니다.
+information_technology,C,D,D
+information_technology,D,,질문 1: 실제 펄스 파형의 구간별 명
+information_technology,D,A,A입니다.
+information_technology,D,,질문 1: 실제 펄스 파형의 구간별 명
+information_technology,C,A,A입니다.
+information_technology,D,,질문 (Question): 실제 펄스 파형의 구간별 명
+information_technology,C,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+information_technology,C,,"질문 1에 대한 답입니다.
+
+질문: 실제 펄스"
+information_technology,B,A,A. 상승 시간(rise time)이란 입력 펄스의 최대 진
+information_technology,C,D,D입니다.
+information_technology,B,,질문 1에 대한 답은 C입니다.
+information_technology,B,A,A입니다.
+information_technology,B,D,D
+information_technology,B,D,D
+information_technology,D,D,D
+information_technology,B,C,C입니다.
+information_technology,D,B,B입니다.
+information_technology,D,D,D입니다.
+information_technology,B,,질문 1의 정답은 C.
+information_technology,A,A,A입니다.
+information_technology,B,D,D가 정답입니다.
+information_technology,C,,질문 1: 실제 펄스 파형의 구간별 명
+information_technology,B,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+information_technology,C,C,C입니다.
+information_technology,D,D,D입니다.
+information_technology,C,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+information_technology,C,A,A입니다.
+information_technology,C,A,A.
+information_technology,B,D,D가 정답입니다.
+information_technology,B,A,A입니다.
+information_technology,C,A,A
+information_technology,D,B,B입니다.
+information_technology,D,D,D
+information_technology,D,,질문 1의 정답은 C.
+information_technology,C,,"질문 1의 정답은 C, 즉 새그(sag"
+information_technology,B,A,A입니다.
+information_technology,B,D,D입니다.
+information_technology,B,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+information_technology,C,A,A입니다.
+information_technology,D,A,A입니다.
+information_technology,D,C,C입니다.
+information_technology,D,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+information_technology,A,D,D
+information_technology,C,A,A입니다.
+information_technology,C,A,A입니다.
+information_technology,B,,"질문 1에 대한 정답은 C, 질문 2에 대한"
+information_technology,B,D,D가 정답입니다.
+information_technology,C,D,D (BPS)
+information_technology,C,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+information_technology,B,A,A입니다.
+information_technology,D,D,D입니다.
+information_technology,D,,질문 1의 정답은 C.
+information_technology,D,C,C입니다.
+information_technology,D,C,C입니다.
+information_technology,C,C,C입니다.
+information_technology,D,C,C입니다.
+information_technology,B,D,D
+information_technology,D,A,A입니다.
+information_technology,C,A,A입니다.
+information_technology,D,D,D가 정답입니다.
+information_technology,B,C,C입니다.
+information_technology,B,,"질문 1에 대한 정답은 C, 질문 2에 대한"
+information_technology,B,C,C입니다.
+information_technology,D,D,D가 정답입니다.
+information_technology,C,A,A입니다.
+information_technology,B,A,A입니다.
+information_technology,D,A,A입니다.
+information_technology,B,,질문 (Question): 실제 펄스 파형의 구간별 명
+information_technology,C,D,D입니다.
+information_technology,C,B,B입니다.
+information_technology,C,A,A입니다.
+information_technology,D,,"질문 1에 대한 정답은 C입니다. 
+
+질문"
+information_technology,D,C,C입니다.
+information_technology,D,C,C입니다.
+information_technology,C,D,D
+information_technology,B,D,D입니다.
+information_technology,B,D,D입니다.
+information_technology,D,A,A입니다.
+information_technology,B,D,D
+information_technology,D,D,D를 선택하십시오.
+information_technology,B,,질문 (Question): 실제 펄스 파형의 구간별 명
+information_technology,C,C,C입니다.
+information_technology,D,,"질문 1의 정답입니다.
+
+질문 1: 실제"
+information_technology,B,,"질문 1의 정답입니다.
+
+질문 1: 실제"
+information_technology,A,D,D입니다.
+information_technology,D,,질문 (Question): 실제 펄스 파형의 구간별 명
+information_technology,D,D,D입니다.
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,D,D,D입니다.
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,A,A입니다.
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,C,,"질문 1에 대한 정답은 D입니다.
+
+질문 2"
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,B,A,A
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,A,A,A
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,B,A,A.
+interior_architecture_and_design,D,,질문 (Question): 벽돌조에 대한 설명 중 옳지 않은
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,D,,질문 1의 정답은 D입니다.
+interior_architecture_and_design,C,A,A
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,D,D,D입니다.
+interior_architecture_and_design,C,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+interior_architecture_and_design,B,A,A입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,A,A: 조화란 전체적인 조립방법이 모순없이 질서
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,A,A입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,A,A.
+interior_architecture_and_design,A,D,D입니다.
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,A,,질문 (Question): 지하가 중 터널은 길이가 최소
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,B,B
+interior_architecture_and_design,C,A,A입니다.
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,D,D,D
+interior_architecture_and_design,A,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,D,D,D입니다.
+interior_architecture_and_design,C,C,C입니다.
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,B,C,C
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,B,,"질문 1에 대한 정답은 D입니다.
+
+질문 2"
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,D,B,B
+interior_architecture_and_design,C,A,A
+interior_architecture_and_design,C,A,A.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,A,D,D
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,D,A,A입니다.
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,B,D,D
+interior_architecture_and_design,B,D,D입니다.
+interior_architecture_and_design,D,D,D입니다.
+interior_architecture_and_design,D,D,D입니다.
+interior_architecture_and_design,C,D,D
+interior_architecture_and_design,C,D,D입니다.
+interior_architecture_and_design,B,A,A.
+korean_history,C,D,D
+korean_history,A,B,B
+korean_history,C,D,D
+korean_history,C,D,D입니다.
+korean_history,B,D,D
+korean_history,C,B,B
+korean_history,B,C,C
+korean_history,A,,질문 (Question): (가)에 대한 설명으로 옳지 않은 것은
+korean_history,C,A,A입니다.
+korean_history,A,,질문 (Question) 1: (가)에 대한 설명으로 옳
+korean_history,B,A,A입니다.
+korean_history,D,D,D
+korean_history,C,D,D
+korean_history,B,B,B입니다.
+korean_history,B,A,A입니다.
+korean_history,C,D,D
+korean_history,A,A,A입니다.
+korean_history,C,A,A입니다.
+korean_history,C,D,D
+korean_history,B,D,D
+korean_history,A,D,D
+korean_history,A,,"질문 (Question) 1에 대한 정답은 A입니다.
+
+질"
+korean_history,A,B,B
+korean_history,A,C,C: (나)→(가)→(다)→(라
+korean_history,D,A,A.
+korean_history,D,A,A.
+korean_history,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+korean_history,C,D,D
+korean_history,B,A,A입니다.
+korean_history,B,A,A
+korean_history,A,A,A입니다.
+korean_history,C,D,D
+korean_history,C,A,A입니다.
+korean_history,B,A,A.
+korean_history,D,D,D입니다.
+korean_history,B,D,D입니다.
+korean_history,A,B,B
+korean_history,D,D,D
+korean_history,C,C,C. 공화제 국가 수립을 지향하였다.
+korean_history,C,A,A
+korean_history,C,D,D
+korean_history,C,A,A입니다.
+korean_history,D,C,"C가 옳지 않은 것 같습니다. 
+
+C는 (가)는 조선"
+korean_history,C,D,D
+law,A,A,A
+law,B,,질문 1의 정답은 B입니다.
+law,A,,질문에 대한 정답을 알파벳 하나로 표현하겠습니다
+law,D,,질문 1에 대한 답은 B입니다.
+law,A,,질문 (Question): 악법도 법이다라는 말이 강조
+law,A,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+law,A,,"질문 1에 대한 답: B
+
+질문 2에 대한"
+law,B,A,A입니다.
+law,B,A,A
+law,B,A,A입니다.
+law,B,,질문 1: “악법도 법이다”라는 말이 강조
+law,B,A,A. 법적 타당성
+law,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,C,,"질문 (Question)에서 주어진 질문을 천천히 읽고,"
+law,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+law,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,B,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,C,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+law,A,A,A입니다.
+law,D,A,A입니다.
+law,C,D,D입니다.
+law,A,A,A입니다.
+law,C,,질문 1: 악법도 법이다라는 말이 강조
+law,D,A,"A: 법적 타당성, B: 법적 안정성,"
+law,C,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,D,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,B,D,D
+law,D,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,A,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,C,,"질문 1에 대한 정답은 B입니다. 
+
+질문"
+law,D,B,B
+law,D,,질문 1: “악법도 법이다”라는 말이 강조
+law,D,,"질문에 대한 답을 알파벳 하나로 표현합니다.
+
+1"
+law,D,A,A
+law,B,A,A입니다.
+law,C,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 (Question): “"
+law,B,,"질문 1에 대한 답입니다.
+
+질문 (Question): “악"
+law,A,D,D입니다.
+law,D,A,A
+law,D,A,A입니다.
+law,C,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,B,A,A입니다.
+law,B,,"질문 1에 대한 답은 B입니다. 
+
+질문 2"
+law,C,A,A입니다.
+law,A,B,B입니다.
+law,C,,질문 1: 악법도 법이다라는 말이 강조
+law,A,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,D,A,A
+law,D,,질문 1에 대한 답은 B입니다.
+law,C,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,A,,질문 (Question): 형법상 국가적 법익에 관한 죄
+law,A,,"질문 1의 정답은 B, 질문 2의 정답"
+law,C,,질문 1의 정답은 B입니다.
+law,B,,질문 1의 정답은 B입니다.
+law,B,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 악법도"
+law,C,,"질문 1에 대한 답은 B, 질문 2에 대한 답"
+law,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,B,A,A.
+law,A,,질문 1: 악법도 법이다라는 말이 강조
+law,A,,질문 1: 악법도 법이다라는 말이 강조
+law,C,,"질문에 대한 답변을 찾을 수 없습니다. 
+
+하지만, 아래 질문"
+law,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+law,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,C,A,A
+law,B,,제1문: 악법도 법이다라는 말의 법적
+law,D,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,B,,질문 1: “악법도 법이다”라는 말이 강조
+law,C,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,A,,"질문에 따른 정답은 다음과 같습니다.
+
+질문 1: “"
+law,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,C,,질문 1: “악법도 법이다”라는 말이 강조
+law,B,A,A
+law,C,,질문 (Question): 민법상 전형계약(典型契
+law,D,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,D,,질문 1의 정답은 B입니다.
+law,A,,"질문 1의 정답은 B, 즉 법적 안정"
+law,D,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+law,B,,질문에 대한 답을 알파벳 하나씩 알려드리겠습니다.
+law,A,A,A
+law,B,,질문 1: “악법도 법이다”라는 말이 강조
+law,B,A,A입니다.
+law,C,,"질문 1에 대한 정답은 B, 질문 2에 대한"
+law,A,,"질문에 답을 하겠습니다.
+
+질문 (Question): “악법"
+law,B,A,A입니다.
+law,B,A,A입니다.
+law,C,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+law,A,A,"A: 법적 타당성, B: 법적 안정성,"
+law,D,,"질문 1의 정답은 B, 질문 2의 정답"
+law,C,,"질문에 따라 아래와 같이 답변하시오.
+
+질문 (Question):"
+law,B,A,A입니다.
+law,B,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,B,,질문에 대한 답을 알파벳 하나로 표현하겠습니다.
+law,D,,"질문에 따라 알파벳 하나를 선택해 보겠습니다.
+
+질"
+law,A,D,D입니다.
+law,A,A,A
+law,B,,질문 (Question): “악법도 법이다”라는 말이 강조
+law,C,,"질문에 따라 알파벳 하나를 선택하시오.
+
+질문"
+law,B,,질문 (Question) 악법도 법이다라는 말이 강조
+machine_design_and_manufacturing,C,D,D입니다.
+machine_design_and_manufacturing,B,D,D입니다.
+machine_design_and_manufacturing,A,A,A입니다.
+machine_design_and_manufacturing,D,B,B
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,B,,질문 1의 정답은 D입니다.
+machine_design_and_manufacturing,C,A,A입니다.
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,B,C,C입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,C,,"질문 1의 정답입니다.
+
+질문 (Question): 기어"
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,B,B입니다.
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,,질문 (Question): 한계 게이지의 마멸여유는
+machine_design_and_manufacturing,D,D,D.
+machine_design_and_manufacturing,D,D,D가 정답입니다.
+machine_design_and_manufacturing,B,,질문 (Question): 기어 감소기의 분류 중 평행축형
+machine_design_and_manufacturing,C,B,B입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,C,,질문 (Question): 도면 부품란에 재질이 KS 재
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,D,,"질문 (Question) 에 대한 정답은 다음과 같습니다.
+
+질문 ("
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,D,,질문 (Question): 그래픽 디스플레이에서 스토
+machine_design_and_manufacturing,C,,"질문 1: 평행축형 감속기가 아닌 것은?
+
+A"
+machine_design_and_manufacturing,C,A,A입니다.
+machine_design_and_manufacturing,D,,질문 (Question): 선반에서 길이가 긴 물체를 가공
+machine_design_and_manufacturing,D,,분할대에서 분할 크랭크 핸들을 1회
+machine_design_and_manufacturing,D,D,D입니다.
+machine_design_and_manufacturing,C,,질문 1에 대한 정답은 A입니다.
+machine_design_and_manufacturing,C,D,D입니다.
+machine_design_and_manufacturing,C,D,D
+machine_design_and_manufacturing,C,,질문 5의 정답은 D입니다.
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,A,,"질문 5의 정답입니다. 
+
+5. 질문 (Question):"
+machine_design_and_manufacturing,C,,질문 (Question): 직접 측정의 장점으로 틀린 것은
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,C,,질문 (Question)과 보기 (Options) 중에서 질문 (
+machine_design_and_manufacturing,A,,질문에 대한 답을 알파벳 하나로 표현하면 다음과 같습니다
+machine_design_and_manufacturing,D,D,D가 정답입니다.
+machine_design_and_manufacturing,D,C,C입니다.
+machine_design_and_manufacturing,C,C,C입니다.
+machine_design_and_manufacturing,C,,"질문 (Question) 5번의 정답입니다.
+
+5번 질문"
+machine_design_and_manufacturing,A,C,C입니다.
+machine_design_and_manufacturing,D,B,B입니다.
+machine_design_and_manufacturing,D,,"질문 1의 정답은 A, 즉 웜 기어"
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,D,D,D
+machine_design_and_manufacturing,B,D,D입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,C,A,A입니다.
+machine_design_and_manufacturing,A,,질문 (Question)과 정답 (Answer)만 남기고 다른
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,B,,질문 1의 정답은 A입니다.
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,C,B,B입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,B,,질문 (Question): 로드리스 실린더에 관한 설명으로
+machine_design_and_manufacturing,C,A,A입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,A,,"질문 5의 정답입니다.
+
+질문 5: 전위"
+machine_design_and_manufacturing,B,B,B입니다.
+machine_design_and_manufacturing,C,,질문 (Question): 일반적인 합금의 성질을 설명한 것으로
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,C,D,D입니다.
+machine_design_and_manufacturing,A,,질문 (Question): 허용전단응력 60N/mm2
+machine_design_and_manufacturing,A,A,A입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,A,A,A입니다.
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,B,B입니다.
+machine_design_and_manufacturing,A,A,A입니다.
+machine_design_and_manufacturing,D,C,C입니다.
+machine_design_and_manufacturing,C,D,D가 정답입니다.
+machine_design_and_manufacturing,C,C,CNC선반에서 지름을 50mm로 가공한 후
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,D,D,D가 정답입니다.
+machine_design_and_manufacturing,C,B,B
+machine_design_and_manufacturing,B,D,D입니다.
+machine_design_and_manufacturing,B,D,D
+machine_design_and_manufacturing,B,B,B입니다.
+machine_design_and_manufacturing,A,D,D
+machine_design_and_manufacturing,D,D,D가 맞습니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+machine_design_and_manufacturing,C,,"질문 1의 정답은 A, 즉 웜 기어"
+machine_design_and_manufacturing,D,,"질문 1에 대한 정답입니다.
+
+질문 (Question): 기"
+machine_design_and_manufacturing,C,A,A입니다.
+machine_design_and_manufacturing,B,A,A입니다.
+machine_design_and_manufacturing,A,A,A입니다.
+machine_design_and_manufacturing,D,D,D입니다.
+machine_design_and_manufacturing,D,A,A입니다.
+management,D,C,C를 선택하겠습니다.
+management,B,A,A입니다.
+management,A,,"질문 1의 정답은 C, 질문 2의 정답"
+management,A,,"질문 1에 대한 답은 C, 즉 고객만족과 이"
+management,C,A,A입니다.
+management,A,,"질문 1에 대한 정답은 C, 질문 2에 대한"
+management,B,C,C
+management,D,,"질문 1에 대한 답은 C, 질문 2에 대한 답"
+management,B,B,B시로부터 8km 떨어진 곳에 형성될 것입니다.
+management,B,C,C
+management,B,C,C
+management,A,C,C입니다.
+management,A,,질문에 따라 정답을 알파벳 하나로 선택하시오
+management,A,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 (Question): ERP"
+management,B,,"질문 1에 대한 정답은 C입니다.
+
+질문 2"
+management,D,,질문에 대한 답을 알파벳 하나씩 적어보겠습니다
+management,D,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,A,C,C
+management,A,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,D,,질문에 대한 답변을 알파벳 하나씩으로 작성하겠습니다
+management,B,,"질문 1의 정답은 C, 즉 고객만족"
+management,C,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,C,C,C
+management,A,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,A,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,A,,질문 1의 정답은 C: 고객만족과 이윤
+management,C,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,B,C,C입니다.
+management,A,,질문 1의 정답은 C이다. ERP 도입의 최
+management,C,,"질문에 대한 정답은 다음과 같습니다.
+
+1. ERP 도입의"
+management,C,,"질문에 대한 정답은 다음과 같습니다.
+
+1. ERP 도입의"
+management,D,A,A입니다.
+management,B,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,D,C,C입니다.
+management,A,,"정답은 다음과 같습니다.
+
+질문 (Question): ERP 도입의 최"
+management,C,C,C
+management,D,C,C입니다.
+management,D,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,D,,질문 (Question) 1: ERP 도입의 최종 목적으로
+management,A,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,A,C,C입니다.
+management,D,D,D
+management,A,C,C
+management,B,,"질문 1의 정답은 C, 질문 2의 정답"
+management,C,C,C
+management,D,A,A입니다.
+management,A,A,A입니다.
+management,B,A,A입니다.
+management,C,C,C
+management,C,,정답은 C입니다.
+management,A,,"질문에 대한 답변을 하나씩 확인해 보겠습니다.
+
+1. ERP"
+management,A,D,D
+management,B,C,C입니다.
+management,C,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,A,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,A,,"질문 1에 대한 정답은 C, 질문 2에 대한"
+management,A,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,B,A,A
+management,C,,"질문 1에 대한 정답은 C, 질문 2에 대한"
+management,A,,질문에 대한 정답을 알파벳 하나씩 알려드리겠습니다
+management,A,,질문 (Question) 1: ERP 도입의 최종 목적으로
+management,C,D,D
+management,A,,질문에 대한 답을 알파벳 하나로 제공하겠습니다.
+management,D,D,D
+management,C,C,C입니다.
+management,D,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,C,C,C입니다.
+management,D,A,A입니다.
+management,D,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,B,,"질문 1의 정답은 C이다.
+
+질문 2의"
+management,B,A,A입니다.
+management,D,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+management,B,A,A입니다.
+management,B,A,A
+management,D,D,D입니다.
+management,C,C,C
+management,B,C,C입니다.
+management,D,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,B,A,A입니다.
+management,B,D,D
+management,A,C,C입니다.
+management,D,,질문에 대한 정답을 알파벳 하나로 나타내면
+management,A,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+management,A,A,A입니다.
+management,A,C,C입니다.
+management,B,C,C
+management,C,A,A입니다.
+management,A,C,C
+management,C,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,C,C,C
+management,B,,질문 1: ERP 도입의 최종 목적으로 가장 적합
+management,B,,질문에 제시된 5개의 옵션 중에서 정답
+management,B,,질문 (Question) 중에서 옳은 정답을 골라보
+management,D,A,A입니다.
+management,A,A,A입니다.
+management,D,C,C
+management,B,A,A입니다.
+management,A,,"질문 1에 대한 답입니다.
+
+질문 1: ERP 도"
+management,D,,질문 (Question): ERP 도입의 최종 목적으로 가장 적합
+management,C,,질문에 대한 정답을 알파벳 하나로 답하시오
+maritime_engineering,B,,질문 (Question): 복원력을 갖는 안정 평형 상태인
+maritime_engineering,A,,질문 1에 대한 답은 A입니다.
+maritime_engineering,D,A,A가 맞습니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,D,D,D입니다.
+maritime_engineering,D,A,A
+maritime_engineering,A,,질문 1의 정답은 A입니다.
+maritime_engineering,C,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+maritime_engineering,C,,질문 1의 정답은 A입니다.
+maritime_engineering,C,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 복원력을 갖"
+maritime_engineering,A,,질문 (Question): 압축공기에 포함된 불활성 기체
+maritime_engineering,C,D,D
+maritime_engineering,C,D,D
+maritime_engineering,A,A,A입니다.
+maritime_engineering,A,,질문에 따라 정답을 알파벳 하나로 답하시오
+maritime_engineering,B,B,B
+maritime_engineering,C,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+maritime_engineering,D,D,D입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,A,A,A
+maritime_engineering,D,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 복원력을 갖"
+maritime_engineering,A,,"질문에 따라 알파벳 하나씩 답을 합니다.
+
+질문"
+maritime_engineering,D,A,A입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,B,,질문 (Question): 압축공기에 포함된 불활성 기체
+maritime_engineering,D,D,D입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,C,B,B입니다.
+maritime_engineering,C,A,A입니다.
+maritime_engineering,A,,"질문에 대한 답은 다음과 같습니다.
+
+질문 (Question): 어떤 배"
+maritime_engineering,B,,"질문 1에 대한 답은 A, 질문 2에 대한 답"
+maritime_engineering,D,A,A입니다.
+maritime_engineering,A,,질문 1의 정답은 A입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,A,,질문 1의 정답은 A입니다.
+maritime_engineering,A,D,D입니다.
+maritime_engineering,B,,질문 (Question): D16 이하의 철근을 사용하여 현
+maritime_engineering,D,,"질문 (Question): 등명암광의 약어는?
+
+보기 ("
+maritime_engineering,B,A,A입니다.
+maritime_engineering,C,A,A
+maritime_engineering,B,D,D가 정답입니다.
+maritime_engineering,B,B,B
+maritime_engineering,B,,질문 (Question): 선박의 기본 3대 특성이 아닌 것은
+maritime_engineering,B,B,B입니다.
+maritime_engineering,A,,"질문 1의 정답은 A, 즉 GM＞0입니다."
+maritime_engineering,A,,질문 (Question): 철근의 피복두께에 관한 설명으로
+maritime_engineering,A,,질문 (Question): 축전지의 기판부식 및 절손
+maritime_engineering,C,D,D
+maritime_engineering,B,D,D25 철근을 겹침이음할 때 A급이음
+maritime_engineering,C,A,A입니다.
+maritime_engineering,A,D,D입니다.
+maritime_engineering,B,A,A
+maritime_engineering,D,D,D
+maritime_engineering,B,A,A입니다.
+maritime_engineering,D,,질문 1: 복원력을 갖는 안정 평형 상태인
+maritime_engineering,C,A,A입니다.
+maritime_engineering,A,,"질문 (Question): 전부흘수 380cm, 후부"
+maritime_engineering,B,A,A입니다.
+maritime_engineering,B,D,D
+maritime_engineering,A,A,A입니다.
+maritime_engineering,C,A,A입니다.
+maritime_engineering,B,A,A입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,A,A,A
+maritime_engineering,D,A,A입니다.
+maritime_engineering,B,A,A입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,B,D,D
+maritime_engineering,D,,질문에 대한 답을 알파벳 하나로 작성해 보겠습니다
+maritime_engineering,A,B,B입니다.
+maritime_engineering,B,A,A입니다.
+maritime_engineering,A,A,A입니다.
+maritime_engineering,B,C,C
+maritime_engineering,B,,질문 (Question)과 보기 (Options) 중에서 정답 (Answer
+maritime_engineering,D,A,A입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,D,A,A입니다.
+maritime_engineering,B,D,D입니다.
+maritime_engineering,B,A,A입니다.
+maritime_engineering,B,,질문 1에 대한 답은 A입니다.
+maritime_engineering,A,D,D22 이형철근으로 135° 표준갈고리를 제작
+maritime_engineering,D,A,A입니다.
+maritime_engineering,A,C,C: 200㎜
+maritime_engineering,A,,"질문 5번의 정답입니다.
+
+질문 5번:"
+maritime_engineering,B,B,B입니다.
+maritime_engineering,A,,"질문에 따라 알파벳을 선택하시오.
+
+질문 ("
+maritime_engineering,C,A,A입니다.
+maritime_engineering,D,,질문 6의 정답은 D입니다.
+maritime_engineering,C,,"질문 1에 대한 답은 A, 질문 2에 대한 답"
+maritime_engineering,A,,질문 (Question): 인근 육지로부터의 영양염 공급
+maritime_engineering,C,D,D (45㎜ 이상)
+maritime_engineering,B,D,D
+maritime_engineering,B,A,A
+maritime_engineering,A,A,A입니다.
+maritime_engineering,C,,질문 (Question): 복원력을 갖는 안정 평형 상태인
+maritime_engineering,A,A,A
+maritime_engineering,D,D,D25(공칭지름 25.4m)의 철근을
+marketing,D,D,D
+marketing,C,D,D
+marketing,A,,질문 (Question): e-CRM상에서 고객유지를 위한 전략
+marketing,B,D,D입니다.
+marketing,B,A,A입니다.
+marketing,A,B,B입니다.
+marketing,B,A,A입니다.
+marketing,B,,"질문에 대한 답변은 다음과 같습니다.
+
+1. e-CRM상에서"
+marketing,D,A,A입니다.
+marketing,A,,질문 1의 정답은 B입니다.
+marketing,C,,"질문 1의 정답은 B, 즉 품질이 낮"
+marketing,A,,질문 (Question)과 정답 (Answer)을 읽어보았습니다
+marketing,C,D,D입니다.
+marketing,D,A,A입니다.
+marketing,C,D,D입니다.
+marketing,D,D,D
+marketing,C,B,B입니다.
+marketing,B,,질문 (Question): e-CRM상에서 고객유지를 위한 전략
+marketing,A,,질문 1에 대한 답을 알파벳 하나로 적으
+marketing,B,B,B입니다.
+marketing,C,,질문 (Question): e-CRM상에서 고객유지를 위한 전략
+marketing,B,D,D입니다.
+marketing,D,D,D입니다.
+marketing,A,C,C입니다.
+marketing,D,D,D입니다.
+marketing,B,,질문 1의 정답은 D입니다.
+marketing,C,A,A입니다.
+marketing,D,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+marketing,A,A,A입니다.
+marketing,A,D,D
+marketing,B,A,A입니다.
+marketing,D,,"질문 (Question): 신규고객유지율, 기존고객"
+marketing,D,A,A입니다.
+marketing,A,B,B입니다.
+marketing,D,B,B입니다.
+marketing,B,A,A입니다.
+marketing,D,,질문에 대한 답변을 알파벳 하나씩으로 제공하겠습니다
+marketing,A,B,B입니다.
+marketing,B,,질문 (Question): 표적시장을 선택하기에 앞서 효과적인
+marketing,A,D,D입니다.
+marketing,D,A,A입니다.
+marketing,B,C,C입니다.
+marketing,D,A,A입니다.
+marketing,C,,질문 (Question): e-CRM상에서 고객유지를 위한 전략
+marketing,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+marketing,D,D,D
+marketing,D,A,A입니다.
+marketing,D,A,A입니다.
+marketing,B,,질문 (Question) 1: e-CRM상에서 고객유지를
+marketing,A,A,A입니다.
+marketing,C,A,A입니다.
+marketing,D,,"질문 1의 정답은 B, 질문 2의 정답"
+marketing,B,D,D입니다.
+marketing,C,A,A입니다.
+marketing,C,B,B입니다.
+marketing,C,,질문 1: 고객유지를 위한 전략으로 맞지 않는 것은
+marketing,A,A,A입니다.
+marketing,C,A,A입니다.
+marketing,D,A,A입니다.
+marketing,C,A,A입니다.
+marketing,C,A,A입니다.
+marketing,B,,질문 (Question): 모집단 내의 서로 겹치거나 중복
+marketing,A,A,A입니다.
+marketing,D,,질문 (Question): 텔레마케팅 특성과 가장 거
+marketing,A,A,A입니다.
+marketing,D,A,A입니다.
+marketing,A,A,A: 다른 사람들이 전하는 메시지를 집중하여 듣는 것은 hearing
+marketing,A,A,A입니다.
+marketing,B,D,D
+marketing,A,,질문 1의 정답은 B입니다.
+marketing,B,B,B입니다.
+marketing,D,A,A입니다.
+marketing,C,D,D입니다.
+marketing,C,D,D입니다.
+marketing,D,A,A입니다.
+marketing,D,,"질문 (Question)과 보기 (Options)가 주어지며,"
+marketing,D,,질문 1: e-CRM상에서 고객유지를 위한 전략
+marketing,B,A,A.
+marketing,D,A,A입니다.
+marketing,B,,질문 1: e-CRM상에서 고객유지를 위한 전략
+marketing,A,,질문 1: e-CRM에서 고객유지를 위한 전략으로
+marketing,A,D,D
+marketing,D,,질문 (Question): B2B(Business to Business) CRM의 설명
+marketing,C,,"질문에 대한 답변은 다음과 같습니다.
+
+1. e-CRM상에서"
+marketing,A,,질문 1의 정답은 B입니다.
+marketing,D,,"질문 (Question)과 보기 (Options)만 제공되었고, 정"
+marketing,A,B,B입니다.
+marketing,A,D,D
+marketing,B,A,A입니다.
+marketing,C,A,A입니다.
+marketing,D,B,B입니다.
+marketing,C,D,D입니다.
+marketing,A,A,A입니다.
+marketing,B,A,A.
+marketing,D,,질문 1: e-CRM상에서 고객유지를 위한 전략
+marketing,C,D,D.
+marketing,D,B,B입니다.
+marketing,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+marketing,B,,질문 (Question): Oliver(1996)가 제시한 고객만
+marketing,C,B,B입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,B,A,A.
+materials_engineering,C,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,A,A
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,C,,"질문 1에 대한 정답은 D, 질문 2에 대한"
+materials_engineering,C,D,D입니다.
+materials_engineering,D,A,A입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,A,A,A
+materials_engineering,B,A,A
+materials_engineering,B,A,A.
+materials_engineering,A,D,D
+materials_engineering,B,D,D
+materials_engineering,B,A,A입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,D,A,A입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,B,A,A입니다.
+materials_engineering,A,A,A.
+materials_engineering,D,D,D
+materials_engineering,B,A,A입니다.
+materials_engineering,C,,질문 (Question): 금속재료에 외부의 힘을 가하여
+materials_engineering,B,A,A입니다.
+materials_engineering,C,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,D,A,A입니다.
+materials_engineering,A,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,"D: A = 50, C = 40"
+materials_engineering,A,D,D
+materials_engineering,A,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,D,A,A입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D
+materials_engineering,C,A,A입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,D,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,B,A,A입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,D,D,D
+materials_engineering,B,A,A.
+materials_engineering,B,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,A,A입니다.
+materials_engineering,C,A,A입니다.
+materials_engineering,A,D,D입니다.
+materials_engineering,B,D,D
+materials_engineering,A,D,D입니다.
+materials_engineering,B,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,A,D,D
+materials_engineering,B,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,D,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,C,D,D
+materials_engineering,B,D,D
+materials_engineering,C,D,D입니다.
+materials_engineering,C,D,D입니다.
+materials_engineering,D,D,D입니다.
+materials_engineering,A,D,D입니다.
+math,A,B,B가 맞습니다.
+math,A,B,B입니다.
+math,A,B,B입니다.
+math,C,C,C가 맞습니다.
+math,A,B,B가 맞습니다.
+math,B,B,B입니다.
+math,C,D,D가 정답입니다.
+math,A,B,B가 맞습니다.
+math,C,B,B
+math,A,D,D가 정답입니다.
+math,A,B,B입니다.
+math,D,B,B입니다.
+math,D,B,B입니다.
+math,C,B,B
+math,B,B,B입니다.
+math,C,D,D입니다.
+math,B,B,B입니다.
+math,C,A,A입니다.
+math,C,B,B입니다.
+math,B,A,A입니다.
+math,A,D,D가 맞습니다.
+math,D,B,B가 정답입니다.
+math,C,B,B입니다.
+math,D,B,B입니다.
+math,A,B,B입니다.
+math,C,B,B가 맞습니다.
+math,B,B,B입니다.
+math,C,B,B입니다.
+math,A,D,D가 정답입니다.
+math,D,B,B가 정답입니다.
+math,A,D,D가 정답입니다.
+math,A,B,B가 정답입니다.
+math,C,D,D를 선택합니다.
+math,D,D,"D가 정답입니다. 
+
+수열 {an}의 첫째항"
+math,A,B,B입니다.
+math,C,B,B가 맞습니다.
+math,A,B,B입니다.
+math,A,B,B가 맞습니다.
+math,A,D,D입니다.
+math,B,D,D가 정답입니다.
+math,C,D,D가 정답입니다.
+math,B,B,B입니다.
+math,B,A,A입니다.
+math,B,B,B입니다.
+math,C,D,D가 정답입니다.
+math,A,D,D입니다.
+math,A,B,B가 맞습니다.
+math,A,B,B입니다.
+math,C,B,B입니다.
+math,C,B,B입니다.
+math,A,B,B입니다.
+math,D,D,D가 정답입니다.
+math,A,D,D가 정답입니다.
+math,A,D,D가 정답입니다.
+math,D,B,B가 맞습니다.
+math,D,D,D가 맞습니다.
+math,D,B,B입니다.
+math,C,B,B입니다.
+math,A,D,D) 8
+math,B,B,B입니다.
+math,C,D,D가 정답입니다.
+math,C,D,D가 정답입니다.
+math,B,B,B가 맞습니다.
+math,C,D,D가 정답입니다.
+math,A,D,D입니다.
+math,C,B,B가 맞습니다.
+math,C,A,A입니다.
+math,C,C,C입니다.
+math,C,B,B입니다.
+math,D,D,D가 정답입니다.
+math,A,B,B입니다.
+math,C,B,B입니다.
+math,C,D,D
+math,C,,"질문 6의 정답입니다.
+
+실수 x, y가 ("
+math,B,B,B가 맞습니다.
+math,D,D,D입니다.
+math,D,B,B가 맞습니다.
+math,A,B,B가 맞습니다.
+math,B,B,B가 맞습니다.
+math,D,B,B입니다.
+math,A,B,B입니다.
+math,A,B,B입니다.
+math,C,D,D가 정답입니다.
+math,B,B,B입니다.
+math,D,B,B입니다.
+math,A,B,B가 맞습니다.
+math,B,B,B입니다.
+math,C,B,B입니다.
+math,A,B,B
+math,D,D,D가 정답입니다.
+math,A,D,D가 정답입니다.
+math,A,B,B가 정답입니다.
+math,A,B,B입니다.
+math,C,D,D가 정답입니다.
+math,A,D,D가 정답입니다.
+math,B,B,B입니다.
+math,C,B,B입니다.
+math,D,,"질문 4의 정답입니다.
+
+a+b의 값은?
+
+원"
+math,C,B,B가 맞습니다.
+math,D,,"질문 1에 대한 답입니다.
+
+두 근이 log5α와"
+mechanical_engineering,B,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,D,,"질문 1에 대한 답입니다.
+
+질문: 비틀림 각"
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,C,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+mechanical_engineering,B,,질문 (Question): 안지름이 100 mm인 관속을
+mechanical_engineering,D,D,D입니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,B,,"질문 1에 대한 정답은 A, 즉 160입니다."
+mechanical_engineering,A,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,,질량이 10 kg인 물체를 스프링 끝에 매
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,C,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,D,B,B입니다.
+mechanical_engineering,B,,"질문 1에 대한 답입니다.
+
+질문 1: 비틀"
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,A,A,A입니다.
+mechanical_engineering,D,,질문 1의 정답은 A: 160입니다.
+mechanical_engineering,A,A,A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,C,D,D를 선택하겠습니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,D,,"질문 1에 대한 답은 A, 즉 160입니다."
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,D,,질문 1의 정답은 A입니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,B,A,A가 맞습니다.
+mechanical_engineering,D,,질문 1에 대한 답은 A입니다.
+mechanical_engineering,D,,질문 1의 정답은 A입니다.
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,C,,"질문 5의 정답입니다.
+
+질문 5: 가스"
+mechanical_engineering,A,A,A입니다.
+mechanical_engineering,A,D,D입니다.
+mechanical_engineering,B,D,D입니다.
+mechanical_engineering,C,D,D가 정답입니다.
+mechanical_engineering,B,,"질문 (Question): 지상에서 압력, 온도가 각각 P="
+mechanical_engineering,D,,"질문 1에 대한 답입니다.
+
+질문: 비틀림 각"
+mechanical_engineering,B,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: A"
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,D,D,D입니다.
+mechanical_engineering,B,,"질문 1의 정답은 A입니다. 
+
+질문 1"
+mechanical_engineering,B,,질문 1: 비틀림 각이 30°인 헬
+mechanical_engineering,C,D,D입니다.
+mechanical_engineering,D,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+mechanical_engineering,B,,"질문 1에 대한 답은 A입니다. 
+
+질문 2"
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,B,C,C입니다.
+mechanical_engineering,B,,"질문 1의 정답은 A, 즉 160입니다."
+mechanical_engineering,B,,"질문 (Question) 5의 정답입니다.
+
+정답은 D"
+mechanical_engineering,B,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,D,D가 정답입니다.
+mechanical_engineering,B,,"질문 1에 대한 답은 A, 즉 160입니다."
+mechanical_engineering,B,,"질문 1에 대한 답입니다.
+
+질문: 비틀림 각"
+mechanical_engineering,C,,질문 1의 정답은 A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,D,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,C,,"질문 1에 대한 답은 A입니다. 
+
+질문 2"
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,C,D,D입니다.
+mechanical_engineering,C,,"질문 1에 대한 답입니다.
+
+질문 1: 비틀"
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,C,,질문 1의 정답은 A: 160입니다.
+mechanical_engineering,C,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,C,,질문 (Question): 벽돌벽에 배관을 위한 홈파기를
+mechanical_engineering,C,D,D입니다.
+mechanical_engineering,D,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,,질문 1의 정답은 A입니다.
+mechanical_engineering,D,,질문 (Question): 비중이 0.8인 오일을
+mechanical_engineering,B,C,C입니다.
+mechanical_engineering,D,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,D,D입니다.
+mechanical_engineering,D,,"질문 1에 대한 답은 A, 즉 160입니다."
+mechanical_engineering,B,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,D,C,C입니다.
+mechanical_engineering,C,A,A입니다.
+mechanical_engineering,B,,질문 1에 대한 답은 A입니다.
+mechanical_engineering,B,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,D,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,D,,질문 1에 대한 답은 A입니다.
+mechanical_engineering,B,D,D입니다.
+mechanical_engineering,D,D,D입니다.
+mechanical_engineering,B,,질문 1의 정답은 A입니다.
+mechanical_engineering,D,A,A입니다.
+mechanical_engineering,B,A,A입니다.
+mechanical_engineering,B,,질문 (Question): 비틀림 각이 30°인 헬
+mechanical_engineering,D,,"질문 1에 대한 답입니다.
+
+질문 1: 비틀"
+mechanical_engineering,D,D,D입니다.
+mechanical_engineering,A,,질문 (Question): 비틀림 각이 30°인 헬
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,D,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,B,A,A
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D가 정답입니다.
+nondestructive_testing,A,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,D,D,D
+nondestructive_testing,D,C,C
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,C,D,D입니다.
+nondestructive_testing,C,,"질문 (Question) 6에 대한 답입니다.
+
+식별 최소"
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,B,D,D가 맞습니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,A,D,D
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,D,D,D
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,C,D,D입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,D,D
+nondestructive_testing,B,D,D
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,D,B,B입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,C,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+nondestructive_testing,C,D,D가 정답입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,B,B,B
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,B,D,D가 정답입니다.
+nondestructive_testing,B,D,D
+nondestructive_testing,B,B,B
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,B,D,D. 건식현상법은 수세성 또는 후유화성
+nondestructive_testing,D,D,D
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,A,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,B,B
+nondestructive_testing,B,D,D가 정답입니다.
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,B,A,A가 맞습니다.
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,C,D,D
+nondestructive_testing,D,D,D입니다.
+nondestructive_testing,B,A,A를 선택합니다.
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,D,D,D
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,A,D,D
+nondestructive_testing,C,D,D
+nondestructive_testing,A,A,A입니다.
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,D,D,D
+nondestructive_testing,D,D,D가 맞습니다.
+nondestructive_testing,D,A,A입니다.
+nondestructive_testing,A,D,D입니다.
+nondestructive_testing,B,A,A입니다.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,C,A,A입니다.
+nondestructive_testing,C,D,D입니다.
+nondestructive_testing,B,C,C입니다.
+nondestructive_testing,D,,질문 (Question): 황동의 음향 임피던스(g/C
+nondestructive_testing,B,D,D.
+nondestructive_testing,B,D,D입니다.
+nondestructive_testing,C,D,D
+nondestructive_testing,B,D,D입니다.
+patent,D,D,D
+patent,B,D,D
+patent,C,A,A입니다.
+patent,C,D,D
+patent,D,C,C
+patent,C,D,D
+patent,C,D,D
+patent,B,D,D
+patent,C,D,D
+patent,C,A,A
+patent,B,D,D
+patent,B,D,D
+patent,D,B,B
+patent,B,D,D
+patent,C,D,D
+patent,B,D,D
+patent,B,D,D
+patent,C,D,D
+patent,B,D,D
+patent,B,C,C
+patent,B,D,D
+patent,B,C,C입니다.
+patent,C,D,D
+patent,B,D,D
+patent,C,C,C
+patent,A,D,D입니다.
+patent,A,D,D
+patent,A,C,C
+patent,C,B,B
+patent,A,D,D
+patent,A,D,D
+patent,A,D,D
+patent,A,D,D
+patent,A,D,D
+patent,A,D,D
+patent,A,C,C
+patent,A,A,A
+patent,A,D,D
+patent,A,A,A
+patent,B,C,C입니다.
+patent,B,B,B
+patent,D,C,C입니다.
+patent,C,C,C입니다.
+patent,C,D,D
+patent,C,D,D입니다.
+patent,C,D,D
+patent,D,D,D
+patent,A,C,C
+patent,A,D,D
+patent,A,B,B입니다.
+patent,A,C,C
+political_science_and_sociology,B,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,D,A,A.
+political_science_and_sociology,B,,"질문 1에 대한 정답은 C, 즉 열등재"
+political_science_and_sociology,B,D,D입니다.
+political_science_and_sociology,B,,"질문 1에 대한 정답은 C, 즉 열등재"
+political_science_and_sociology,C,,질문 (Question): 사망 관련 통계 지표에 대한 설명으로
+political_science_and_sociology,B,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,A,,"질문 (Question)입니다.
+
+질문에 대한 답을 선택해 주"
+political_science_and_sociology,C,,질문 (Question): 실질소득이 증가할수록 해당 재
+political_science_and_sociology,A,A,"A를 선택하십시오.
+
+1.질문 (Question): 실질소"
+political_science_and_sociology,C,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,C,A,A
+political_science_and_sociology,A,,질문에 대한 답을 알파벳 하나씩 작성해 보겠습니다
+political_science_and_sociology,B,,"질문에 대한 답을 하나씩 보겠습니다.
+
+1. 질문"
+political_science_and_sociology,A,,"질문 1에 대한 답은 C, 즉 열등재"
+political_science_and_sociology,A,,"질문 (Question)과 보기 (Options)만 남겨두고,"
+political_science_and_sociology,D,,"질문 1에 대한 정답은 C, 즉 열등재"
+political_science_and_sociology,A,,"질문 1에 대한 정답은 C, 즉 열등재"
+political_science_and_sociology,A,,질문 1의 정답은 C: 열등재입니다. 열
+political_science_and_sociology,D,,"질문 1의 정답은 C: 열등재입니다.
+
+질"
+political_science_and_sociology,D,D,D
+political_science_and_sociology,B,A,A입니다.
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,A,,"질문 1에 대한 답은 C, 즉 열등재"
+political_science_and_sociology,D,,"질문 1의 정답은 C. 열등재입니다.
+
+질"
+political_science_and_sociology,A,,질문 1에 대한 답은 C입니다.
+political_science_and_sociology,B,,질문 1의 정답은 C: 열등재입니다. 열
+political_science_and_sociology,D,,질문 1: 실질소득이 증가할수록 해당 재
+political_science_and_sociology,C,,"질문 1의 정답은 C: 열등재입니다.
+
+질"
+political_science_and_sociology,A,,"질문 1에 대한 답은 C, 질문 2에 대한 답"
+political_science_and_sociology,C,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,B,A,A
+political_science_and_sociology,C,D,D.
+political_science_and_sociology,D,A,A
+political_science_and_sociology,B,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,A,,질문에 대한 답을 알파벳 하나로 적어보겠습니다
+political_science_and_sociology,B,,"질문 1에 대한 정답은 C, 즉 열등재"
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,B,,질문 (Question): 실질소득이 증가할수록 해당 재
+political_science_and_sociology,A,,질문 1의 정답은 C입니다. 변이할 당 분석
+political_science_and_sociology,A,,질문 (Question): 지역보건법 시행령 상 지방자치단체
+political_science_and_sociology,D,A,A입니다.
+political_science_and_sociology,C,,"질문 1의 정답은 C입니다.
+
+질문 2의"
+political_science_and_sociology,B,,"질문 1의 정답은 C입니다. 
+
+질문 2"
+political_science_and_sociology,D,,질문 1: 실질소득이 증가할수록 해당 재
+political_science_and_sociology,D,,질문 (Question): 실질소득이 증가할수록 해당 재
+political_science_and_sociology,A,,질문 (Question)과 보기 (Options)를 통해 정답 (Answer)을
+political_science_and_sociology,C,,질문 (Question): 실질소득이 증가할수록 해당 재
+political_science_and_sociology,D,A,A입니다.
+political_science_and_sociology,A,A,"A, B, C, D 중에 알파벳 하나로 정"
+political_science_and_sociology,A,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,D,,질문 1: 실질소득이 증가할수록 해당 재
+political_science_and_sociology,B,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,C,A,A입니다.
+political_science_and_sociology,B,,질문 1: 실질소득이 증가할수록 해당 재
+political_science_and_sociology,D,,"질문 1의 정답은 C: 열등재입니다.
+
+질"
+political_science_and_sociology,D,A,A. 대체재란 다른 재화와의 대체 가능성이 큰
+political_science_and_sociology,A,A,"A: 대체재, B: 보완재, C: 열등"
+political_science_and_sociology,A,C,C입니다.
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,C,,"질문 1에 대한 답은 C입니다.
+
+질문 2에"
+political_science_and_sociology,C,,"질문 1에 대한 답은 C, 질문 2에 대한 답"
+political_science_and_sociology,D,B,B입니다.
+political_science_and_sociology,B,C,C입니다.
+political_science_and_sociology,B,A,A입니다.
+political_science_and_sociology,C,A,A입니다.
+political_science_and_sociology,A,A,A를 선택하겠습니다.
+political_science_and_sociology,A,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,C,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,D,,질문 (Question): 지방자치단체의 세외수입에 대한
+political_science_and_sociology,D,A,A
+political_science_and_sociology,C,,질문 (Question): 도시재생 활성화 및 지원에 관한 특별
+political_science_and_sociology,D,A,A. 대체재란 본질적으로 서로 다른 재화에 대한 수
+political_science_and_sociology,C,,질문 (Question)과 보기 (Options)를 통해 옳은 정답
+political_science_and_sociology,D,,질문 1의 정답은 C: 열등재입니다. 열
+political_science_and_sociology,D,,질문에 대한 답변을 선택해 주시기 바랍니다.\n\n질
+political_science_and_sociology,B,A,A입니다.
+political_science_and_sociology,D,,"질문에 대한 답변을 작성해 드리겠습니다.
+
+1. 실질"
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,A,A,A입니다.
+political_science_and_sociology,B,A,A가 정답입니다.
+political_science_and_sociology,D,A,A입니다.
+political_science_and_sociology,A,,"질문 1의 정답은 C, 즉 열등재"
+political_science_and_sociology,B,,질문 1: 실질소득이 증가할수록 해당 재
+political_science_and_sociology,A,D,D
+political_science_and_sociology,B,A,A를 선택하겠습니다.
+political_science_and_sociology,C,A,A입니다.
+political_science_and_sociology,C,A,A입니다.
+political_science_and_sociology,B,,질문 (Question): 실질소득이 증가할수록 해당 재
+psychology,A,,질문 1의 정답은 A: 억압(repression)
+psychology,D,,질문 (Question): 정서적인 아픔이 너무 커서 그
+psychology,A,A,A입니다.
+psychology,B,,질문 (Question): 정서적인 아픔이 너무 커서 그
+psychology,A,,"질문 1의 정답은 A, 즉 억압(repression"
+psychology,B,,질문 (Question) 1: 정서적인 아픔이 너무
+psychology,B,A,A
+psychology,B,C,C입니다.
+psychology,A,,"질문에 대한 정답은 다음과 같습니다.
+
+1. 억압(re"
+psychology,C,,질문 (Question): Williamson의 직업문제 분류범주에 포함되지
+psychology,A,A,A입니다.
+psychology,B,A,A입니다.
+psychology,B,D,D
+psychology,D,A,A: 억압(repression)
+psychology,B,A,A입니다.
+psychology,B,A,A: 억압(repression)입니다.
+psychology,C,,질문 (Question): 베츠(N. Betz)와 해켓(G
+psychology,C,,질문 1의 정답은 A입니다.
+psychology,D,A,A입니다.
+psychology,C,A,A입니다.
+psychology,B,A,A입니다.
+psychology,A,A,A입니다.
+psychology,B,D,D입니다.
+psychology,B,A,A입니다.
+psychology,D,,질문 (Question): 내담자의 정보 및 행동을 이해하기 위해 사용
+psychology,B,A,A.
+psychology,A,A,A입니다.
+psychology,C,D,D
+psychology,C,,"질문 1의 정답은 A, 즉 억압입니다"
+psychology,D,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 정서"
+psychology,B,D,D
+psychology,A,D,D: 직장어린이집 설치 및 지원
+psychology,D,,질문 1의 정답은 A: 억압(repression)
+psychology,D,A,A입니다.
+psychology,D,,"질문 1에 대한 답은 A, 질문 2에 대한 답"
+psychology,D,A,A입니다.
+psychology,A,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 정"
+psychology,A,D,D
+psychology,D,,질문 1에 대한 정답은 A: 억압(repression
+psychology,C,A,A입니다.
+psychology,B,,질문 (Question) 1: 정서적인 아픔이 너무
+psychology,A,,"질문 1에 대한 정답은 A, 즉 억압(re"
+psychology,D,A,A입니다.
+psychology,D,,"질문 1에 대한 정답은 A, 즉 억압(re"
+psychology,B,A,"A: 억압(repression), B: 간섭(interference), C"
+psychology,B,A,"A: 억압(repression), B: 간섭(interference), C"
+psychology,B,,질문 (Question): 제10차 한국표준산업분류의 산업
+psychology,B,A,A입니다.
+psychology,A,A,A
+psychology,D,A,A
+psychology,D,A,A.
+psychology,D,A,A입니다.
+psychology,D,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 정"
+psychology,A,A,"A: 억압(repression), B: 간섭(interference), C"
+psychology,B,A,A입니다.
+psychology,C,C,"C: 평균연봉, 직업전망"
+psychology,A,,질문 1: 정서적인 아픔이 너무 커서 그
+psychology,B,A,A입니다.
+psychology,A,,질문 1의 정답은 A: 억압(repression)
+psychology,A,A,A입니다.
+psychology,A,D,D입니다.
+psychology,B,A,A입니다.
+psychology,A,A,A입니다.
+psychology,B,,질문 1: 정서적인 아픔이 너무 커서 그
+psychology,B,A,A입니다.
+psychology,D,,질문 1의 정답은 A: 억압(repression)
+psychology,D,A,A입니다.
+psychology,B,A,A입니다.
+psychology,C,,질문 1의 정답은 A: 억압(repression)
+psychology,A,D,D
+psychology,A,,질문에 대한 답을 알파벳 하나로 표기하겠습니다
+psychology,B,,"질문 1의 정답은 A, 즉 억압입니다"
+psychology,D,A,A입니다.
+psychology,B,,"질문 (Question) 4의 정답입니다.
+
+질문 (Question"
+psychology,A,,질문에 대한 답변을 알파벳 하나씩 적어드리겠습니다
+psychology,D,C,C
+psychology,A,A,A입니다.
+psychology,C,A,A입니다.
+psychology,B,,질문 1의 정답은 A: 억압(repression)
+psychology,A,A,A입니다.
+psychology,D,,질문 1에 대한 정답은 A: 억압(repression
+psychology,A,,질문에 대한 답을 알파벳 하나로 적으시오.
+psychology,B,,질문 (Question): 남녀고용평등과 일 · 가정 양
+psychology,A,,질문에 대한 답을 알파벳 하나로 보세요.
+psychology,A,,질문 1의 정답은 A: 억압(repression)
+psychology,D,A,A입니다.
+psychology,A,A,A입니다.
+psychology,C,A,A입니다.
+psychology,A,C,C입니다.
+psychology,D,,질문 1의 정답은 A: 억압(repression)
+psychology,D,A,A입니다.
+psychology,B,A,A입니다.
+psychology,A,,"질문 1에 대한 답은 A입니다. 
+
+질문 2"
+psychology,B,A,A입니다.
+psychology,D,D,D
+psychology,A,A,"A: 억압(repression), B: 간섭(interference), C"
+psychology,A,A,A입니다.
+psychology,C,,"질문 1에 대한 정답은 A입니다. 
+
+질문"
+psychology,D,A,"A: 억압(repression), B: 간섭(interference), C"
+psychology,D,,질문 (Question): 정서적인 아픔이 너무 커서 그
+public_safety,C,D,D
+public_safety,D,C,C
+public_safety,B,C,C
+public_safety,D,C,C
+public_safety,D,A,A
+public_safety,B,D,D
+public_safety,D,C,C
+public_safety,A,C,C
+public_safety,B,D,D
+public_safety,B,B,B
+public_safety,B,C,C
+public_safety,B,C,C입니다.
+public_safety,C,C,C
+public_safety,D,B,B
+public_safety,D,D,D
+public_safety,C,D,D
+public_safety,D,D,D
+public_safety,D,C,C
+public_safety,B,C,C입니다.
+public_safety,B,D,D
+public_safety,B,C,C
+public_safety,D,D,D
+public_safety,B,C,C
+public_safety,C,C,C
+public_safety,A,D,D
+public_safety,B,C,C
+public_safety,C,C,C
+public_safety,D,C,C
+public_safety,C,C,C
+public_safety,B,C,C
+public_safety,B,C,C입니다.
+public_safety,D,C,C
+public_safety,C,A,A
+public_safety,C,C,C: 65%
+public_safety,D,B,B
+public_safety,B,C,C
+public_safety,D,A,A
+public_safety,D,A,A
+public_safety,D,C,C
+public_safety,B,C,C입니다.
+public_safety,C,D,D
+public_safety,D,B,B
+public_safety,B,D,D
+public_safety,B,D,D
+public_safety,D,A,A입니다.
+public_safety,C,C,C
+public_safety,D,C,C
+public_safety,D,D,D
+public_safety,D,C,C
+public_safety,B,C,C
+public_safety,B,C,C
+public_safety,D,D,D
+public_safety,C,B,B
+public_safety,D,A,A
+public_safety,B,D,D
+public_safety,C,D,D
+public_safety,D,D,D
+public_safety,B,D,D
+public_safety,D,C,C
+public_safety,C,D,D
+public_safety,C,D,D
+public_safety,C,D,D
+public_safety,C,B,B
+public_safety,B,A,A입니다.
+public_safety,D,C,C
+public_safety,A,D,D
+public_safety,B,B,B
+public_safety,D,B,B
+public_safety,B,C,C
+public_safety,A,D,D
+public_safety,D,D,D
+public_safety,D,D,D
+public_safety,D,D,D
+public_safety,C,C,C
+public_safety,B,D,D
+public_safety,A,D,D
+public_safety,A,D,D
+public_safety,C,D,D
+public_safety,D,D,D
+public_safety,B,C,C
+public_safety,C,D,D
+public_safety,C,C,C
+public_safety,D,C,C
+public_safety,D,A,A
+public_safety,D,A,A
+public_safety,D,A,A
+public_safety,D,B,B
+public_safety,B,D,D
+public_safety,D,C,C
+public_safety,D,A,A
+public_safety,B,A,A
+public_safety,B,D,D
+public_safety,B,C,C
+public_safety,C,A,A
+public_safety,C,C,C
+public_safety,D,D,D
+public_safety,A,A,A
+public_safety,D,B,B
+public_safety,C,A,A입니다.
+public_safety,D,D,D
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,B,,질문 1에 대한 정답은 B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,C,,질문 (Question): 브레이크 라이닝을 3분할한
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,A,,질문 (Question): 전자제어 가솔린 기관에서 속
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,,"질문 1에 대한 답은 B, 즉 알데히드입니다"
+railway_and_automotive_engineering,B,,질문 1에 대한 답은 B입니다.
+railway_and_automotive_engineering,B,,"질문에 대한 답은 다음과 같습니다.
+
+질문 1: 경유"
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,D,,질문 1의 정답은 B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,D,,"질문 1의 정답은 B, 즉 알데히드입니다"
+railway_and_automotive_engineering,D,A,A입니다.
+railway_and_automotive_engineering,C,A,A입니다.
+railway_and_automotive_engineering,C,,"질문 1에 대한 정답은 B입니다. 
+
+질문"
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,C,,"질문 1에 대한 답은 B, 즉 알데히드입니다"
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,D,D,D입니다.
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,D,,"질문 1에 대한 답은 B, 즉 알데히드"
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,A,,질문에 대한 답을 알파벳 하나로 표현하겠습니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,D,,질문 (Question): 종감속 장치의 피니언 잇
+railway_and_automotive_engineering,B,,"질문 1에 대한 정답은 B, 즉 알데히드"
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,,"질문 1에 대한 답입니다.
+
+A: 매연, B:"
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,,"질문 1에 대한 정답은 B, 즉 알데히드"
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,C,B,B
+railway_and_automotive_engineering,B,,질문 1에 대한 답은 B입니다.
+railway_and_automotive_engineering,C,,"질문 1의 정답입니다.
+
+A: 매연, B:"
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,,질문에 대한 답을 알파벳 하나로 제공하겠습니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,A,,질문 (Question): 자동차가 접지부분 이외의 부분은 지
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,D,,질문 1에 대한 답은 B입니다.
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,D,B,B
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,C,A,A입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,B,,"질문 1의 정답은 B, 즉 알데히드입니다"
+railway_and_automotive_engineering,D,,"질문 1의 정답은 B, 즉 알데히드"
+railway_and_automotive_engineering,D,,질문에 대한 답을 알파벳 하나로 나타내면 다음과
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,A,,질문 (Question): 실린더 지름이 80mm이고 행정
+railway_and_automotive_engineering,C,,질문에 나온 답은 B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,D,,질문 1의 정답은 B입니다.
+railway_and_automotive_engineering,C,A,A입니다.
+railway_and_automotive_engineering,B,A,A입니다.
+railway_and_automotive_engineering,C,A,A입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,D,B,B입니다.
+railway_and_automotive_engineering,D,,"질문 1에 대한 정답은 B, 즉 알데히드"
+railway_and_automotive_engineering,C,B,B입니다.
+railway_and_automotive_engineering,B,B,B입니다.
+railway_and_automotive_engineering,A,D,D
+railway_and_automotive_engineering,A,B,B
+railway_and_automotive_engineering,D,A,A입니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,B,D,D
+railway_and_automotive_engineering,B,D,D입니다.
+railway_and_automotive_engineering,A,B,B입니다.
+railway_and_automotive_engineering,C,D,D입니다.
+railway_and_automotive_engineering,D,A,A입니다.
+railway_and_automotive_engineering,B,,질문 (Question): 경유를 사용하는 자동차에서 배출되는 오
+real_estate,D,D,D
+real_estate,B,C,C
+real_estate,A,D,D
+real_estate,D,A,A
+real_estate,C,C,C
+real_estate,D,D,D
+real_estate,C,D,D
+real_estate,A,D,D
+real_estate,D,C,C입니다.
+real_estate,C,B,B
+real_estate,C,A,A
+real_estate,D,C,C
+real_estate,D,D,D
+real_estate,D,A,A
+real_estate,D,D,D
+real_estate,B,D,D
+real_estate,D,C,C입니다.
+real_estate,C,A,A
+real_estate,A,C,C
+real_estate,B,C,C
+real_estate,A,C,C
+real_estate,A,D,D
+real_estate,B,C,C
+real_estate,D,C,C
+real_estate,B,D,D
+real_estate,C,D,D
+real_estate,C,D,D
+real_estate,D,A,A
+real_estate,C,D,D
+real_estate,B,D,D
+real_estate,D,C,C
+real_estate,D,D,D
+real_estate,D,D,D
+real_estate,A,D,D
+real_estate,C,A,A
+real_estate,D,D,D
+real_estate,A,,"질문 (Question)에서 주어진 문제를 천천히 읽고,"
+real_estate,D,D,D
+real_estate,D,C,C
+real_estate,A,A,A
+real_estate,A,D,D
+real_estate,B,D,D
+real_estate,D,A,A
+real_estate,A,B,B
+real_estate,C,D,D
+real_estate,B,D,D
+real_estate,A,D,D
+real_estate,D,D,D
+real_estate,D,C,C
+real_estate,D,,질문에 제시된 옵션들 중에서 틀린 것은
+real_estate,D,D,D
+real_estate,B,A,A입니다.
+real_estate,B,D,D
+real_estate,B,A,A
+real_estate,A,D,D
+real_estate,D,A,A입니다.
+real_estate,B,C,C
+real_estate,B,A,A
+real_estate,C,D,D
+real_estate,B,A,A입니다.
+real_estate,C,D,D
+real_estate,B,C,C입니다.
+real_estate,D,C,C
+real_estate,A,D,D
+real_estate,B,A,A
+real_estate,B,A,A
+real_estate,B,A,A
+real_estate,A,C,C
+real_estate,D,,질문 6번의 정답은 D입니다.
+real_estate,C,D,D
+real_estate,B,A,A
+real_estate,A,B,B
+real_estate,D,A,A
+real_estate,A,B,B
+real_estate,D,A,A
+real_estate,D,D,D
+real_estate,C,D,D
+real_estate,C,A,A
+real_estate,C,D,D
+real_estate,D,C,C
+real_estate,B,D,D
+real_estate,B,D,D
+real_estate,C,A,A
+real_estate,B,D,D
+real_estate,B,A,A
+real_estate,D,D,D
+real_estate,B,D,D
+real_estate,D,D,D
+real_estate,A,A,A
+refrigerating_machinery,B,,"질문에 답합니다.
+
+질문 1: 펌프 일은"
+refrigerating_machinery,C,B,B
+refrigerating_machinery,A,D,D
+refrigerating_machinery,D,C,C
+refrigerating_machinery,B,D,D입니다.
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,A,A,A입니다.
+refrigerating_machinery,C,B,B
+refrigerating_machinery,C,D,D입니다.
+refrigerating_machinery,D,D,D) 10.2
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,D,A,A
+refrigerating_machinery,C,C,C입니다.
+refrigerating_machinery,A,B,B
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,C,D,D
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,B,C,C입니다.
+refrigerating_machinery,D,D,D
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,B,D,D
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,C,D,D) 디스크트랩(disk trap)입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,B,,질문 (Question) 중에서 가장 마지막 질문 (Question)의 정답 (
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,B,D,D (-30℃)
+refrigerating_machinery,A,C,C입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,A,D,D) 제어대상
+refrigerating_machinery,B,D,D가 맞습니다. 디그리 데이(degree day)는 냉
+refrigerating_machinery,B,A,A)
+refrigerating_machinery,B,C,C
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,D,C,C입니다.
+refrigerating_machinery,D,D,D) 정상특성
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,A,D,D.
+refrigerating_machinery,D,,"질문 1에 대한 정답은 A, 즉 -9.79"
+refrigerating_machinery,A,D,D
+refrigerating_machinery,A,B,B입니다.
+refrigerating_machinery,D,C,C
+refrigerating_machinery,B,D,D입니다.
+refrigerating_machinery,B,D,D입니다.
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,A,D,D
+refrigerating_machinery,B,D,D: 피드백제어
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,B,D,D
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,B,D,D) 7.5
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,B,D,D
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,A,D,D
+refrigerating_machinery,C,B,B
+refrigerating_machinery,D,,질문에 대한 답을 알파벳 하나로 나타내면 D
+refrigerating_machinery,A,C,C
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,C,B,B
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,D,D,D) 9.8 ℃
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,D,D,D입니다.
+refrigerating_machinery,C,D,D) 프로그램제어
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,B,C,C입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,C,C,C
+refrigerating_machinery,D,B,B
+refrigerating_machinery,A,A,A
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,C,D,D입니다.
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,A,A,A입니다.
+refrigerating_machinery,B,C,C
+refrigerating_machinery,B,B,B
+refrigerating_machinery,C,A,A)
+refrigerating_machinery,D,C,C: 12 ~ 14m/s
+refrigerating_machinery,C,C,C가 옳지 않은 것입니다.
+refrigerating_machinery,B,C,C입니다.
+refrigerating_machinery,B,D,D: 열간 이음
+refrigerating_machinery,D,C,C) 21.26
+refrigerating_machinery,B,A,A입니다.
+refrigerating_machinery,C,A,A입니다.
+refrigerating_machinery,D,A,A입니다.
+refrigerating_machinery,C,D,D) 45kJ
+refrigerating_machinery,D,D,D
+social_welfare,B,D,D입니다.
+social_welfare,C,A,A입니다.
+social_welfare,A,D,D입니다.
+social_welfare,A,D,D입니다.
+social_welfare,D,,"질문 6번의 정답입니다. 
+
+정답은 A,"
+social_welfare,D,D,D입니다.
+social_welfare,D,A,A입니다.
+social_welfare,A,,"질문에 따라 정답을 선택하시오.
+
+1. 우리나라 사회"
+social_welfare,D,A,A입니다.
+social_welfare,D,D,D입니다.
+social_welfare,B,A,A입니다.
+social_welfare,D,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+social_welfare,B,D,D
+social_welfare,D,A,A.
+social_welfare,D,B,B
+social_welfare,B,A,A
+social_welfare,A,A,A입니다.
+social_welfare,B,D,D: 2401명
+social_welfare,B,A,A. 사회보험은 국가의 책임으로 시행한다.
+social_welfare,B,D,D
+social_welfare,D,,"질문 7의 정답입니다. 
+
+95% 신뢰구간"
+social_welfare,D,A,A입니다.
+social_welfare,D,,"질문 1의 정답은 A, 즉 사회보험은 국가"
+social_welfare,D,A,A입니다.
+social_welfare,B,A,A입니다.
+social_welfare,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+social_welfare,D,B,B입니다.
+social_welfare,C,,"질문에 따라 알파벳 하나를 선택하겠습니다.
+
+질문"
+social_welfare,D,D,D
+social_welfare,B,B,B
+social_welfare,C,A,A입니다.
+social_welfare,D,B,B입니다.
+social_welfare,C,D,D입니다.
+social_welfare,D,D,D입니다.
+social_welfare,B,D,D
+social_welfare,B,A,A입니다.
+social_welfare,A,D,D
+social_welfare,C,A,A입니다.
+social_welfare,B,B,B
+social_welfare,D,D,D가 정답입니다.
+social_welfare,B,A,A입니다.
+social_welfare,B,A,A입니다.
+social_welfare,B,D,D입니다.
+social_welfare,C,A,A입니다.
+social_welfare,A,,"질문 1에 대한 정답은 A입니다.
+
+질문 2"
+social_welfare,C,,질문 1: 사회보험은 국가의 책임으로 시행한다.
+social_welfare,C,B,B입니다.
+social_welfare,C,,질문 1의 정답은 A입니다.
+social_welfare,A,,"질문 1에 대한 답: A
+
+질문 2에 대한"
+social_welfare,B,D,D입니다.
+social_welfare,A,D,D입니다.
+social_welfare,C,A,A입니다.
+social_welfare,C,A,A
+social_welfare,B,A,A입니다.
+social_welfare,C,A,A입니다.
+social_welfare,D,C,C입니다.
+social_welfare,A,B,B
+social_welfare,C,,질문 (Question): 설문지의 지시문에 들어갈 내용
+social_welfare,B,B,B
+social_welfare,A,D,D
+social_welfare,B,B,B
+social_welfare,C,A,A입니다.
+social_welfare,D,,"질문 1에 대한 정답은 A입니다. 
+
+질문"
+social_welfare,C,,질문 1의 정답은 A입니다.
+social_welfare,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+social_welfare,D,,"질문 1에 대한 정답은 A, 질문 2에 대한"
+social_welfare,B,A,A입니다.
+social_welfare,A,D,D
+social_welfare,D,D,D입니다.
+social_welfare,A,,"질문 1에 대한 답은 A입니다. 
+
+질문 2"
+social_welfare,B,,"질문 (Question)과 정답 (Answer)은 다음과 같습니다.
+
+질문"
+social_welfare,B,B,B
+social_welfare,C,A,A입니다.
+social_welfare,A,D,D가 정답입니다.
+social_welfare,B,D,D
+social_welfare,C,D,D
+social_welfare,D,D,D입니다.
+social_welfare,A,D,D
+social_welfare,D,D,D
+social_welfare,D,,"질문에 대한 답은 다음과 같습니다.
+
+1. A: 사회보험은"
+social_welfare,D,D,D입니다.
+social_welfare,C,B,B
+social_welfare,B,B,B
+social_welfare,D,A,A입니다.
+social_welfare,D,B,B가 정답입니다.
+social_welfare,A,A,A입니다.
+social_welfare,A,A,A입니다.
+social_welfare,B,,"질문 1의 정답은 A입니다. 
+
+질문 2"
+social_welfare,D,D,D입니다.
+social_welfare,A,A,A입니다.
+social_welfare,D,A,A. 사회보험은 국가의 책임으로 시행한다.
+social_welfare,B,C,C입니다.
+social_welfare,D,D,D입니다.
+social_welfare,C,D,D
+social_welfare,C,,"질문 1의 정답은 A입니다.
+
+질문 2의"
+social_welfare,B,A,A
+social_welfare,B,B,B
+social_welfare,C,D,D입니다.
+social_welfare,B,A,A.
+social_welfare,C,A,A입니다.
+taxation,A,,정답은 D입니다.
+taxation,D,D,D입니다.
+taxation,A,,"질문에 대한 정답은 다음과 같습니다.
+
+질문 1: 지방"
+taxation,D,,질문 (Question): 지방세기본법 상 서류의 송달
+taxation,C,,질문 6에 대한 답은 D입니다.
+taxation,A,,질문 1: 지방세기본법 상 서류의 송달
+taxation,B,A,A가 맞습니다.
+taxation,D,B,B
+taxation,B,D,D
+taxation,A,B,B입니다.
+taxation,A,,정답은 D입니다.
+taxation,A,D,D
+taxation,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+taxation,D,A,A입니다.
+taxation,A,D,D
+taxation,B,,정답은 D입니다.
+taxation,A,,정답은 D입니다.
+taxation,A,D,D
+taxation,C,A,A
+taxation,B,D,D
+taxation,B,,정답은 D입니다.
+taxation,A,A,A입니다.
+taxation,C,B,B
+taxation,D,B,B
+taxation,C,A,A
+taxation,A,A,A입니다.
+taxation,D,B,B
+taxation,B,,"질문 1의 정답은 B, 질문 2의 정답"
+taxation,C,B,B입니다.
+taxation,C,B,B입니다.
+taxation,D,B,B
+taxation,A,A,A입니다.
+taxation,A,B,B
+taxation,B,,질문 1: 지방세기본법 상 서류의 송달
+taxation,D,A,A입니다.
+taxation,C,B,B입니다.
+taxation,C,A,A입니다.
+taxation,B,D,D
+taxation,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+taxation,B,D,D
+taxation,B,B,B
+taxation,D,,"질문 1의 정답은 B, 질문 2의 정답"
+taxation,C,,질문 (Question)과 정답 (Answer) 중에서 가장 오답
+taxation,C,,"질문 1의 옳은 답은 B입니다. 
+
+질문"
+taxation,D,A,A
+taxation,B,B,B입니다.
+taxation,B,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+taxation,A,D,D
+taxation,A,D,D
+taxation,D,A,A입니다.
+taxation,C,A,A가 정답입니다.
+taxation,A,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+taxation,C,A,A입니다.
+taxation,D,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+taxation,B,B,B입니다.
+taxation,D,B,B입니다.
+taxation,A,,질문 (Question): 지방세기본법 상 서류의 송달
+taxation,A,D,D
+taxation,C,B,B
+taxation,A,B,B
+taxation,A,A,A입니다.
+taxation,B,,정답은 D입니다.
+taxation,C,B,B입니다.
+taxation,C,D,D입니다.
+taxation,A,,"질문 1에 대한 정답은 B입니다.
+
+질문 2"
+taxation,D,,질문 (Question): 지방세기본법 상 서류의 송달
+taxation,D,D,D
+taxation,C,C,C
+taxation,A,B,B
+taxation,C,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+taxation,C,,질문 1: 지방세기본법 상 서류의 송달
+taxation,B,A,A
+taxation,D,,"질문 5의 정답입니다.
+
+질문 5의 정답"
+taxation,B,,질문 (Question): 지방세기본법 상 서류의 송달
+taxation,A,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+taxation,B,B,B
+taxation,B,,정답은 D입니다.
+taxation,D,D,D
+taxation,C,A,"A, B, C, D 중에 옳은 것은 B입니다."
+taxation,B,A,A입니다.
+taxation,B,A,A입니다.
+taxation,A,B,B
+taxation,B,,"정답입니다. 
+
+A입니다."
+taxation,D,,"질문 1에 대한 답은 B입니다.
+
+질문 2에"
+taxation,D,,"질문 1의 옳은 정답은 B입니다. 
+
+질"
+taxation,D,D,D입니다.
+taxation,A,A,A입니다.
+taxation,A,D,D입니다.
+taxation,C,,질문에 대한 정답은 B입니다.
+taxation,C,D,D
+taxation,C,,"질문 1의 정답은 B입니다. 
+
+질문 2"
+taxation,C,D,D입니다.
+taxation,B,,"질문 1의 정답은 B입니다.
+
+질문 2의"
+taxation,B,D,D
+taxation,D,C,C
+taxation,B,,질문 (Question): 지방세기본법 상 서류의 송달
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,A,D,D입니다.
+telecommunications_and_wireless_technology,B,A,A
+telecommunications_and_wireless_technology,B,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,C,A,A
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,A,A
+telecommunications_and_wireless_technology,D,C,C입니다.
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,D,B,B
+telecommunications_and_wireless_technology,C,,"질문 1의 정답은 D입니다. 
+
+질문 2"
+telecommunications_and_wireless_technology,A,D,D입니다.
+telecommunications_and_wireless_technology,B,B,B입니다.
+telecommunications_and_wireless_technology,B,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D입니다.
+telecommunications_and_wireless_technology,C,B,B입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,B,B입니다.
+telecommunications_and_wireless_technology,B,C,C
+telecommunications_and_wireless_technology,B,B,B입니다.
+telecommunications_and_wireless_technology,D,A,A
+telecommunications_and_wireless_technology,C,D,D가 정답입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,C,B,B입니다.
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,D,C,C입니다.
+telecommunications_and_wireless_technology,D,A,A입니다.
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,C,D,D입니다.
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,B,C,"C) 4, 200[㎑]"
+telecommunications_and_wireless_technology,B,A,A입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,,질문 1의 정답은 D입니다.
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,A,C,C
+telecommunications_and_wireless_technology,D,A,A
+telecommunications_and_wireless_technology,C,B,B입니다.
+telecommunications_and_wireless_technology,B,A,A.
+telecommunications_and_wireless_technology,B,B,B입니다.
+telecommunications_and_wireless_technology,A,C,C
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,A,A.
+telecommunications_and_wireless_technology,C,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,B,A,A입니다.
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,C,C
+telecommunications_and_wireless_technology,C,D,D입니다.
+telecommunications_and_wireless_technology,B,C,C입니다.
+telecommunications_and_wireless_technology,C,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+telecommunications_and_wireless_technology,B,C,C가 정답입니다.
+telecommunications_and_wireless_technology,D,A,A
+telecommunications_and_wireless_technology,C,B,B
+telecommunications_and_wireless_technology,C,C,C) 166.67[W]
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,B,B
+telecommunications_and_wireless_technology,C,A,A입니다.
+telecommunications_and_wireless_technology,B,A,A
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,A,D,D입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,B,A,A입니다.
+telecommunications_and_wireless_technology,B,,"질문 1의 정답은 D입니다.
+
+질문 2의"
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,B,C,C
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,B,D,D입니다.
+telecommunications_and_wireless_technology,D,C,C입니다.
+telecommunications_and_wireless_technology,C,D,D: 1[kHz]
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,B,D,D
+telecommunications_and_wireless_technology,D,D,D입니다.
+telecommunications_and_wireless_technology,C,B,B입니다.
+telecommunications_and_wireless_technology,C,D,D
+telecommunications_and_wireless_technology,D,D,D
+telecommunications_and_wireless_technology,B,D,D입니다.

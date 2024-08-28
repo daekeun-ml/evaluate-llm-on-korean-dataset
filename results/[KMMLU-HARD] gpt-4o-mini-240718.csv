@@ -500,7 +500,7 @@ Public-Safety,D,C,C
 Public-Safety,C,C,C
 Public-Safety,D,B,B
 Criminal-Law,A,D,D
-Criminal-Law,A,,정답 (Answer): C
+Criminal-Law,A,C,정답 (Answer): C
 Criminal-Law,B,C,C
 Criminal-Law,A,B,B
 Criminal-Law,D,C,C
@@ -521,7 +521,7 @@ Criminal-Law,B,C,C
 Criminal-Law,C,B,B
 Criminal-Law,A,C,C
 Criminal-Law,D,B,B
-Criminal-Law,B,,정답 (Answer): A
+Criminal-Law,B,A,정답 (Answer): A
 Criminal-Law,A,D,D
 Criminal-Law,D,C,C
 Criminal-Law,B,A,A
@@ -544,7 +544,7 @@ Criminal-Law,D,B,B
 Criminal-Law,D,C,C
 Criminal-Law,B,D,D
 Criminal-Law,A,C,C
-Criminal-Law,D,,정답 (Answer): A
+Criminal-Law,D,A,정답 (Answer): A
 Criminal-Law,B,D,D
 Criminal-Law,B,C,C
 Criminal-Law,A,C,C
@@ -566,7 +566,7 @@ Criminal-Law,B,D,D
 Criminal-Law,D,C,C
 Criminal-Law,D,C,C
 Criminal-Law,A,C,C
-Criminal-Law,D,,정답 (Answer): A
+Criminal-Law,D,A,정답 (Answer): A
 Criminal-Law,C,D,D
 Criminal-Law,C,B,B
 Criminal-Law,A,C,C
@@ -886,7 +886,7 @@ Management,A,C,C
 Management,A,A,A
 Management,B,D,D
 Management,C,B,B
-Management,A,,정답 (Answer): C
+Management,A,C,정답 (Answer): C
 Management,C,C,C
 Management,C,B,B
 Management,B,C,C
@@ -921,13 +921,13 @@ Math,C,C,C
 Math,B,B,B
 Math,A,B,B
 Math,D,B,B
-Math,C,,정답: C
+Math,C,C,정답: C
 Math,D,B,B
 Math,A,C,C
 Math,C,C,C
 Math,B,C,C
 Math,C,B,B
-Math,A,,정답 (Answer): B
+Math,A,B,정답 (Answer): B
 Math,D,B,B
 Math,A,C,C
 Math,A,C,C
@@ -975,12 +975,12 @@ Math,C,B,B
 Math,C,B,B
 Math,B,C,C
 Math,D,B,B
-Math,D,,정답: B
+Math,D,B,정답: B
 Math,A,B,B
 Math,B,B,B
 Math,D,A,A
 Math,A,C,C
-Math,A,,정답 (Answer): C
+Math,A,C,정답 (Answer): C
 Math,C,A,A
 Math,B,B,B
 Math,D,B,B
@@ -1085,7 +1085,7 @@ Chemistry,D,B,B
 Chemistry,C,A,A
 Chemistry,C,C,C
 Chemistry,C,D,D
-Chemistry,B,,정답 (Answer): D
+Chemistry,B,D,정답 (Answer): D
 Chemistry,B,A,A
 Chemistry,B,A,A
 Chemistry,A,C,C
@@ -1144,7 +1144,7 @@ Chemistry,C,C,C
 Chemistry,C,B,B
 Chemistry,C,B,B
 Chemistry,D,C,C
-Chemistry,B,,정답 (Answer): A
+Chemistry,B,A,정답 (Answer): A
 Nondestructive-Testing,C,B,B
 Nondestructive-Testing,D,B,B
 Nondestructive-Testing,B,C,C
@@ -1185,7 +1185,7 @@ Nondestructive-Testing,C,A,A
 Nondestructive-Testing,B,C,C
 Nondestructive-Testing,B,D,D
 Nondestructive-Testing,B,A,A
-Nondestructive-Testing,B,,정답 (Answer): B
+Nondestructive-Testing,B,B,정답 (Answer): B
 Nondestructive-Testing,B,A,A
 Nondestructive-Testing,D,D,D
 Nondestructive-Testing,B,B,B
@@ -1470,7 +1470,7 @@ Health,D,D,D
 Health,A,A,A
 Political-Science-And-Sociology,B,D,D
 Political-Science-And-Sociology,A,D,D
-Political-Science-And-Sociology,D,,정답 (Answer): A
+Political-Science-And-Sociology,D,A,정답 (Answer): A
 Political-Science-And-Sociology,B,C,C
 Political-Science-And-Sociology,B,C,C
 Political-Science-And-Sociology,B,B,B
@@ -1491,7 +1491,7 @@ Political-Science-And-Sociology,A,D,D
 Political-Science-And-Sociology,D,C,C
 Political-Science-And-Sociology,D,C,C
 Political-Science-And-Sociology,B,D,D
-Political-Science-And-Sociology,A,,정답 (Answer): A
+Political-Science-And-Sociology,A,A,정답 (Answer): A
 Political-Science-And-Sociology,A,D,D
 Political-Science-And-Sociology,D,C,C
 Political-Science-And-Sociology,A,C,C
@@ -1506,7 +1506,7 @@ Political-Science-And-Sociology,D,B,B
 Political-Science-And-Sociology,B,C,C
 Political-Science-And-Sociology,A,C,C
 Political-Science-And-Sociology,B,C,C
-Political-Science-And-Sociology,A,,정답 (Answer): A
+Political-Science-And-Sociology,A,A,정답 (Answer): A
 Political-Science-And-Sociology,B,B,B
 Political-Science-And-Sociology,A,D,D
 Political-Science-And-Sociology,A,B,B
@@ -1556,7 +1556,7 @@ Political-Science-And-Sociology,B,C,C
 Political-Science-And-Sociology,A,B,B
 Political-Science-And-Sociology,B,C,C
 Political-Science-And-Sociology,C,A,A
-Political-Science-And-Sociology,C,,정답 (Answer): D
+Political-Science-And-Sociology,C,D,정답 (Answer): D
 Political-Science-And-Sociology,B,B,B
 Patent,D,A,A
 Patent,B,A,A
@@ -1632,7 +1632,7 @@ Electrical-Engineering,A,B,B
 Electrical-Engineering,C,C,C
 Electrical-Engineering,B,D,D
 Electrical-Engineering,B,B,B
-Electrical-Engineering,B,,정답 (Answer): C
+Electrical-Engineering,B,C,정답 (Answer): C
 Electrical-Engineering,D,B,B
 Electrical-Engineering,C,A,A
 Electrical-Engineering,D,B,B
@@ -1785,7 +1785,7 @@ Electronics-Engineering,D,B,B
 Electronics-Engineering,B,B,B
 Electronics-Engineering,C,B,B
 Electronics-Engineering,C,B,B
-Electronics-Engineering,C,,정답 (Answer): A
+Electronics-Engineering,C,A,정답 (Answer): A
 Electronics-Engineering,B,B,B
 Electronics-Engineering,B,C,C
 Electronics-Engineering,B,D,D
@@ -1818,7 +1818,7 @@ Korean-History,C,A,A
 Korean-History,B,C,C
 Korean-History,A,C,C
 Korean-History,C,B,B
-Korean-History,A,,정답 (Answer): D
+Korean-History,A,D,정답 (Answer): D
 Korean-History,B,C,C
 Korean-History,D,A,A
 Korean-History,C,A,A
@@ -1897,7 +1897,7 @@ Gas-Technology-And-Engineering,D,B,B
 Gas-Technology-And-Engineering,A,C,C
 Gas-Technology-And-Engineering,B,D,D
 Gas-Technology-And-Engineering,D,D,D
-Gas-Technology-And-Engineering,A,,정답 (Answer): B
+Gas-Technology-And-Engineering,A,B,정답 (Answer): B
 Gas-Technology-And-Engineering,D,A,A
 Gas-Technology-And-Engineering,C,B,B
 Gas-Technology-And-Engineering,B,B,B
@@ -1948,7 +1948,7 @@ Gas-Technology-And-Engineering,B,B,B
 Gas-Technology-And-Engineering,B,C,C
 Gas-Technology-And-Engineering,B,A,A
 Gas-Technology-And-Engineering,B,B,B
-Gas-Technology-And-Engineering,D,,정답 (Answer): A
+Gas-Technology-And-Engineering,D,A,정답 (Answer): A
 Gas-Technology-And-Engineering,D,B,B
 Gas-Technology-And-Engineering,C,C,C
 Gas-Technology-And-Engineering,A,D,D
@@ -2571,7 +2571,7 @@ Marketing,B,C,C
 Marketing,C,C,C
 Marketing,D,D,D
 Marketing,A,A,A
-Marketing,A,,정답 (Answer): B
+Marketing,A,B,정답 (Answer): B
 Marketing,B,C,C
 Marketing,D,B,B
 Marketing,D,D,D
@@ -2889,7 +2889,7 @@ Psychology,D,C,C
 Psychology,B,A,A
 Psychology,B,D,D
 Psychology,B,D,D
-Psychology,B,,정답: D
+Psychology,B,D,정답: D
 Psychology,A,D,D
 Psychology,D,C,C
 Psychology,D,C,C
@@ -3185,7 +3185,7 @@ Refrigerating-Machinery,B,B,B
 Refrigerating-Machinery,A,D,D
 Refrigerating-Machinery,D,B,B
 Refrigerating-Machinery,A,B,B
-Refrigerating-Machinery,A,,정답: B
+Refrigerating-Machinery,A,B,정답: B
 Refrigerating-Machinery,D,B,B
 Refrigerating-Machinery,B,B,B
 Refrigerating-Machinery,B,C,C
@@ -3676,7 +3676,7 @@ Agricultural-Sciences,A,B,B
 Agricultural-Sciences,D,B,B
 Agricultural-Sciences,C,A,A
 Agricultural-Sciences,B,B,B
-Agricultural-Sciences,D,,정답 (Answer): C
+Agricultural-Sciences,D,C,정답 (Answer): C
 Agricultural-Sciences,C,C,C
 Agricultural-Sciences,C,D,D
 Agricultural-Sciences,D,A,A
