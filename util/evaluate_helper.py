@@ -302,7 +302,7 @@ def get_experiments_md(dataset, csv_path_dict, postfix=None):
     else:
         title = f"### {dataset} ({postfix})\n\n"
 
-    if dataset == "HAERAE":
+    if dataset in ("HAERAE", "KoBALT"):
         category_acc_md = get_markdown_accuracy_with_overall(
             exp_group, *category_acc, overall_acc=overall_acc
         )

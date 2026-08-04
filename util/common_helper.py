@@ -102,7 +102,8 @@ def get_provider_name(model_provider):
         "bedrock": "AWS Bedrock",
         "huggingface": "Hugging Face",
         "azureml": "Azure ML endpoint",
-        "azureai": "Azure AI Foundry endpoint"
+        "azureai": "Azure AI Foundry endpoint",
+        "bedrock_openai": "AWS Bedrock (OpenAI models)",
     }
     return provider_names.get(model_provider, model_provider)
 
@@ -160,11 +161,36 @@ def get_llm_client(
     elif model_provider == "openai":
 
         model_name = os.getenv("OPENAI_DEPLOYMENT_NAME")
+        openai_api_base = os.getenv("OPENAI_API_BASE")
+        llm_kwargs = {
+            "model": model_name,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+            "max_retries": max_retries,
+        }
+        # OpenAI-compatible 커스텀 엔드포인트(예: 자체 서빙 vLLM)를 가리킬 때 사용
+        if openai_api_base:
+            llm_kwargs["openai_api_base"] = openai_api_base
+            llm_kwargs["openai_api_key"] = os.getenv("OPENAI_API_KEY", "EMPTY")
+        llm = ChatOpenAI(**llm_kwargs)
+    elif model_provider == "bedrock_openai":
+        # Bedrock에 올라간 OpenAI 모델(GPT-5.6 등)은 bedrock-runtime(Converse)이 아니라
+        # bedrock-mantle 엔드포인트의 OpenAI Responses API로만 서빙됨.
+        # 이 모델들은 reasoning 모델이라 temperature 파라미터를 지원하지 않음(400 에러).
+        model_name = os.getenv("BEDROCK_OPENAI_MODEL_ID")
+        region = os.getenv("AWS_REGION", "us-east-1")
+        bearer_token = os.getenv("AWS_BEARER_TOKEN_BEDROCK")
+
+        reasoning_enabled = os.getenv("REASONING_ENABLED", "false").lower() == "true"
+        reasoning_effort = os.getenv("REASONING_EFFORT", "medium")
+
         llm = ChatOpenAI(
             model=model_name,
-            temperature=temperature,
-            max_tokens=max_tokens,
+            openai_api_base=f"https://bedrock-mantle.{region}.api.aws/openai/v1",
+            openai_api_key=bearer_token,
+            use_responses_api=True,
             max_retries=max_retries,
+            reasoning_effort=reasoning_effort if reasoning_enabled else None,
         )
     elif model_provider == "huggingface":
         if (
@@ -238,7 +264,7 @@ def get_llm_client(
         llm = ChatBedrockConverse(**bedrock_kwargs)
     else:
         raise ValueError(
-            "Invalid 'model_provider' value. Please choose from ['azureopenai', 'openai', 'huggingface', 'azureml', 'azureai', 'bedrock']"
+            "Invalid 'model_provider' value. Please choose from ['azureopenai', 'openai', 'huggingface', 'azureml', 'azureai', 'bedrock', 'bedrock_openai']"
         )
 
     return llm, model_name
