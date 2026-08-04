@@ -2,19 +2,19 @@
 
 This file archives per-model detailed results for models benchmarked before the current round in
 [README.md](README.md#-results) (GPT-5.6 Sol/Terra/Luna, Claude Sonnet 5, Claude Opus 5, and
-DeepSeek-V4-Flash). See [DETAILED_RESULTS.md](DETAILED_RESULTS.md) for full per-category breakdowns
+DeepSeek-V4-Flash-0731). See [DETAILED_RESULTS.md](DETAILED_RESULTS.md) for full per-category breakdowns
 across all historical models.
 
-## Aug 4, 2026 round: GPT-5.6 (Sol/Terra/Luna) vs. DeepSeek-V4-Flash (non-reasoning)
+## Aug 4, 2026 round: GPT-5.6 (Sol/Terra/Luna) vs. DeepSeek-V4-Flash-0731 (non-reasoning)
 
 This was the first pass of the current benchmark round, before Claude Sonnet 5 / Opus 5 were added
-and before DeepSeek-V4-Flash was re-run with reasoning enabled (`reasoning=high`). See README.md for
+and before DeepSeek-V4-Flash-0731 was re-run with reasoning enabled (`reasoning=high`). See README.md for
 the superseding 7-model comparison.
 
 ### CLIcK
 
 #### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:----------------|--------------:|----------------:|---------------:|--------------------:|
 | Culture         |         94.76 |           91.45 |          91.3  |               80.37 |
 | Language        |         97.04 |           93.85 |          92    |               80    |
@@ -24,7 +24,7 @@ the superseding 7-model comparison.
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category    |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| supercategory   | category    |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:----------------|:------------|--------------:|----------------:|---------------:|--------------------:|
 | Culture         | Economy     |        100    |           98.31 |         100    |               94.92 |
 | Culture         | Geography   |         96.18 |           92.37 |          93.13 |               83.97 |
@@ -41,7 +41,7 @@ the superseding 7-model comparison.
 
 ### HAE_RAE_BENCH 1.0
 
-| category              |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| category              |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:----------------------|--------------:|----------------:|---------------:|--------------------:|
 | General Knowledge     |         94.32 |           91.48 |          89.2  |               72.16 |
 | History               |         96.81 |           96.28 |          96.28 |               92.55 |
@@ -53,7 +53,7 @@ the superseding 7-model comparison.
 
 ### KoBALT-700
 
-| category (difficulty) |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| category (difficulty) |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:-----------------------|--------------:|----------------:|---------------:|--------------------:|
 | Easy                   |         98.9  |           97.8  |          97.25 |               85.16 |
 | Moderate               |         90.45 |           89.09 |          87.73 |               50.91 |
@@ -63,7 +63,7 @@ the superseding 7-model comparison.
 ### KMMLU-HARD (0-shot)
 
 #### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:----------------|--------------:|----------------:|---------------:|--------------------:|
 | Applied Science |         85.56 |           78.37 |          76.08 |               59.5  |
 | HUMSS           |         87.27 |           76.81 |          75.74 |               55.41 |
@@ -75,7 +75,7 @@ the superseding 7-model comparison.
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category                                   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
+| supercategory   | category                                   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
 |:----------------|:-------------------------------------------|--------------:|----------------:|---------------:|--------------------:|
 | Applied Science | Aviation-Engineering-and-Maintenance       |         85    |           82.61 |          77    |               65    |
 | Applied Science | Electronics-Engineering                    |         95    |           90    |          85    |               80    |

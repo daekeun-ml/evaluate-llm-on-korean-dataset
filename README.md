@@ -1,4 +1,4 @@
-# Korean language proficiency evaluation for LLM/SLM models using KMMLU, CLIcK, HAE-RAE, HRM8K, KoBALT, and KorMedMCQA dataset
+# Korean LLM/SLM Evaluation Suite
 
 ## 📋 Overview
 
@@ -39,9 +39,24 @@ KorMedMCQA is a Korean Medical Multiple-Choice Question Answering benchmark deri
 
 - [Paper](https://arxiv.org/abs/2403.01469), [Hugging Face](https://huggingface.co/datasets/sean0042/KorMedMCQA)
 
+### KMMLU-Pro
+KMMLU-Pro is a professional-licensure benchmark comprising 2,822 problems from official Korean National Professional Licensure (KNPL) exams, covering 15 licenses (e.g. lawyer, doctor, CPA, tax accountant) across 4 domains (Law, Tax & Accounting, Value Estimation, Medicine) and 63 subjects. Questions have 4 or 5 choices depending on the source exam.
+
+- [Paper](https://arxiv.org/abs/2507.08924), [Hugging Face](https://huggingface.co/datasets/LGAI-EXAONE/KMMLU-Pro) (gated — requires accepting the dataset conditions)
+
+### MuSR(Ko)
+MuSR(Ko) is a Korean adaptation of MuSR (Multistep Soft Reasoning), evaluating multi-step reasoning over long synthetic narratives across 3 task types: murder mysteries (2-choice, 250 samples), object placements (4-choice, 250 samples), and team allocation (3-choice, 250 samples), for 750 samples total.
+
+- [Hugging Face](https://huggingface.co/datasets/thunder-research-group/SNU_Ko-MuSR) (gated — requires accepting the dataset conditions)
+
 ## 🆕 What's New
 
-- Aug 4, 2026: Added **GPT-5.6 (Sol/Terra/Luna)**, **Claude Sonnet 5**, **Claude Opus 5** (all Amazon Bedrock, reasoning_effort=medium) and **DeepSeek-V4-Flash** (self-hosted via vLLM, tested at both reasoning=none and reasoning=high) benchmark results on CLIcK, HAE-RAE, KoBALT-700, and KMMLU-HARD. **Claude Opus 5** leads on CLIcK (95.84%), HAE-RAE (95.84%), and KMMLU-HARD (87.79%); **GPT-5.6 Sol** leads on KoBALT-700 (84.29%). DeepSeek-V4-Flash improves substantially with reasoning enabled (e.g. KoBALT-700: 48.86% → 50.43%, KMMLU-HARD: 56.92% → 67.91%) but still trails the frontier reasoning models. Older per-model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.) have moved to [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md).
+- Aug 4, 2026: Added **KMMLU-Pro** (2,822 professional-licensure questions across 14 licenses) and **MuSR(Ko)** (750 multi-step reasoning questions across murder mysteries / object placements / team allocation) benchmark datasets, with results for **GPT-5.6 (Sol/Terra/Luna)**, **Claude Sonnet 5**, **Claude Opus 5**, and **DeepSeek-V4-Flash-0731** (reasoning=none and reasoning=high). **Claude Opus 5** leads both: 95.11% on KMMLU-Pro and 86.53% on MuSR(Ko).
+
+- Aug 4, 2026: Added **GPT-5.6 (Sol/Terra/Luna)**, **Claude Sonnet 5**, **Claude Opus 5** (all Amazon Bedrock, reasoning_effort=medium) and **DeepSeek-V4-Flash-0731** (self-hosted via vLLM, tested at both reasoning=none and reasoning=high) benchmark results on CLIcK, HAE-RAE, KoBALT-700, and KMMLU-HARD. **Claude Opus 5** leads on CLIcK (95.84%), HAE-RAE (95.84%), and KMMLU-HARD (87.79%); **GPT-5.6 Sol** leads on KoBALT-700 (84.29%). DeepSeek-V4-Flash-0731 improves substantially with reasoning enabled (e.g. KoBALT-700: 48.86% → 50.43%, KMMLU-HARD: 56.92% → 67.91%) but still trails the frontier reasoning models. Older per-model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.) have moved to [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md).
+
+<details>
+<summary>Older updates</summary>
 
 - Dec 26, 2025: Added **Radar Chart Visualization** for Korean LLM evaluation results with interactive charts showing performance by category/supercategory.
 
@@ -68,6 +83,8 @@ KorMedMCQA is a Korean Medical Multiple-Choice Question Answering benchmark deri
 - Aug 22, 2024: Added **Llama-3-1-8B-instruct** benchmark results. Of course, fine-tuned Llama-3.1 with Korean dataset may perform better, but we only compared it with the vanilla model.
 
 - Aug 9, 2024: Added Azure OpenAI **GPT-3.5-turbo (2023-06-13)**, **GPT-4-turbo (2024-04-09)**, **GPT-4o (2024-05-13)**, and **GPT-4o-mini (2024-07-18)** benchmark results.
+
+</details>
 
 ## ⚙️ Implementation
 
@@ -98,7 +115,7 @@ jupyter notebook radar_chart_visualization.ipynb
 
 ### Radar Charts
 
-Charts below compare the current model round: GPT-5.6 (Sol/Terra/Luna), Claude Sonnet 5, Claude Opus 5, and DeepSeek-V4-Flash (reasoning=high).
+Charts below compare the current model round: GPT-5.6 (Sol/Terra/Luna), Claude Sonnet 5, Claude Opus 5, and DeepSeek-V4-Flash-0731 (reasoning=high).
 
 | CLIcK Performance by Category | HAERAE Performance by Category |
 |:---:|:---:|
@@ -107,6 +124,10 @@ Charts below compare the current model round: GPT-5.6 (Sol/Terra/Luna), Claude S
 | KoBALT-700 Performance by Difficulty | KMMLU-Hard Performance by Supercategory |
 |:---:|:---:|
 | <img src="./charts/KoBALT_radar_chart.png" width="650"> | <img src="./charts/KMMLU-HARD_radar_chart.png" width="650"> |
+
+| KMMLU-Pro Performance by License | MuSR(Ko) Performance by Task Type |
+|:---:|:---:|
+| <img src="./charts/KMMLU-Pro_radar_chart.png" width="650"> | <img src="./charts/MuSR-Ko_radar_chart.png" width="650"> |
 
 ## 📈 Results
 
@@ -143,8 +164,8 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 - GPT-5.6 Sol (reasoning=medium): openai.gpt-5.6-sol on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
 - GPT-5.6 Terra (reasoning=medium): openai.gpt-5.6-terra on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
 - GPT-5.6 Luna (reasoning=medium): openai.gpt-5.6-luna on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
-- DeepSeek-V4-Flash (reasoning=high): DeepSeek-V4-Flash-0731, self-hosted via vLLM (chat_template_kwargs thinking=True, reasoning_effort="high" — the model only supports low/high/max, no "medium")
-- DeepSeek-V4-Flash (reasoning=none): DeepSeek-V4-Flash-0731, self-hosted via vLLM (non-reasoning mode)
+- DeepSeek-V4-Flash-0731 (reasoning=high): DeepSeek-V4-Flash-0731, self-hosted via vLLM (chat_template_kwargs thinking=True, reasoning_effort="high" — the model only supports low/high/max, no "medium")
+- DeepSeek-V4-Flash-0731 (reasoning=none): DeepSeek-V4-Flash-0731, self-hosted via vLLM (non-reasoning mode)
 - GPT-5.2 (medium): 2025-12-11 model version (reasoning_effort="medium")
 - GPT-5.2: 2025-12-11 model version (reasoning_effort="none" as default)
 - Nova 2.0 Lite: us.amazon.nova-2-lite-v1:0 model (reasoning mode: medium)
@@ -167,7 +188,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 ### CLIcK
 
 #### Accuracy by supercategory
-| supercategory   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| supercategory   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:----------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | Culture         |                              95.02 |                                92.12 |                            94.76 |                              91.45 |                             91.3  |                                85.87 |                                80.37 |
 | Language        |                              97.54 |                                90.31 |                            97.04 |                              93.85 |                             92    |                                84.62 |                                80    |
@@ -178,7 +199,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category    |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| supercategory   | category    |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:----------------|:------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | Culture         | Economy     |                             100    |                                94.92 |                           100    |                              98.31 |                            100    |                                96.61 |                                94.92 |
 | Culture         | Geography   |                              94.66 |                                95.42 |                            96.18 |                              92.37 |                             93.13 |                                90.08 |                                83.97 |
@@ -196,7 +217,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 ### HAERAE
 
 #### Accuracy by category
-| category              |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| category              |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:----------------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | General Knowledge     |                              88.64 |                                80.11 |                            94.32 |                              91.48 |                             89.2  |                                82.95 |                                72.16 |
 | History               |                              98.4  |                                96.81 |                            96.81 |                              96.28 |                             96.28 |                                96.81 |                                92.55 |
@@ -209,7 +230,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 ### KoBALT
 
 #### Accuracy by category
-| category    |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| category    |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | Easy        |                              97.8  |                                95.05 |                            98.9  |                              97.8  |                             97.25 |                                79.12 |                                85.16 |
 | Moderate    |                              92.27 |                                77.27 |                            90.45 |                              89.09 |                             87.73 |                                61.82 |                                50.91 |
@@ -219,7 +240,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 ### KMMLU-HARD (0-shot)
 
 #### Accuracy by supercategory
-| supercategory   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| supercategory   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:----------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | Applied Science |                              88.42 |                                76    |                            85.56 |                              78.37 |                             76.08 |                                72.67 |                                59.5  |
 | HUMSS           |                              89.54 |                                77.41 |                            87.27 |                              76.81 |                             75.74 |                                59.1  |                                55.41 |
@@ -232,7 +253,7 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category                                   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+| supercategory   | category                                   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
 |:----------------|:-------------------------------------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
 | Applied Science | Aviation-Engineering-and-Maintenance       |                              94    |                                75    |                            85    |                              82.61 |                             77    |                                75    |                                65    |
 | Applied Science | Electronics-Engineering                    |                              95    |                                89    |                            95    |                              90    |                             85    |                                87    |                                80    |
@@ -281,6 +302,120 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 | STEM            | Mechanical-Engineering                     |                              93    |                                84    |                            91    |                              85    |                             81    |                                84    |                                67    |
 </details>
 
+
+### KMMLU-Pro
+
+#### Accuracy by supercategory
+| supercategory   |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
+|:----------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|------------------------------------------:|------------------------------------------:|
+| 감정평가사      |                              96.43 |                                91.33 |                            95.93 |                              87.76 |                             87.76 |                                     68.88 |                                     57.65 |
+| 공인노무사      |                              93.72 |                                82.01 |                            93.07 |                              82.01 |                             85.36 |                                     62.34 |                                     59.83 |
+| 공인회계사      |                              97.6  |                                80.77 |                            95.67 |                              85.1  |                             86.06 |                                     67.31 |                                     50.96 |
+| 관세사          |                              94.97 |                                85.53 |                            92.05 |                              81.76 |                             83.65 |                                     64.78 |                                     61.01 |
+| 법무사          |                              87.88 |                                67.68 |                            83.33 |                              61.11 |                             64.14 |                                     31.82 |                                     41.92 |
+| 변리사          |                              97.25 |                                82.57 |                            91.74 |                              69.72 |                             80.73 |                                     47.71 |                                     55.96 |
+| 변호사          |                              90.67 |                                68    |                            88    |                              69.33 |                             61.33 |                                     30    |                                     52    |
+| 세무사          |                              95.38 |                                78.57 |                            92.02 |                              79.83 |                             79.83 |                                     55.46 |                                     51.26 |
+| 손해사정사      |                              95.83 |                                85.83 |                            88.39 |                              77.5  |                             78.33 |                                     57.5  |                                     62.5  |
+| 약사            |                              98.15 |                                94.46 |                            98.15 |                              96.68 |                             95.94 |                                     93.36 |                                     89.67 |
+| 의사            |                              98.67 |                                98    |                            98    |                              95.33 |                             99.33 |                                     90.67 |                                     84    |
+| 치과의사        |                              93.65 |                                86.11 |                            95.08 |                              90.08 |                             91.67 |                                     82.54 |                                     75.4  |
+| 한약사          |                              98.36 |                                96.72 |                            97.95 |                              97.95 |                             97.13 |                                     95.49 |                                     91.39 |
+| 한의사          |                              93.4  |                                90.97 |                            94.79 |                              87.85 |                             89.58 |                                     82.99 |                                     72.22 |
+| **Overall**     |                              95.11 |                                85.51 |                            93.64 |                              84.44 |                             85.54 |                                     69.35 |                                     66.19 |
+
+
+<details>
+<summary>Click to view Accuracy by category (63 subjects)</summary>
+
+##### Accuracy by category
+| supercategory   | category                         |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
+|:----------------|:---------------------------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|------------------------------------------:|------------------------------------------:|
+| 감정평가사      | 감정평가관계법규                 |                              85    |                                80    |                            87.5  |                              77.5  |                             85    |                                     42.5  |                                     57.5  |
+| 감정평가사      | 경제학원론                       |                             100    |                               100    |                           100    |                             100    |                             97.37 |                                     97.37 |                                     68.42 |
+| 감정평가사      | 민법                             |                             100    |                                87.5  |                           100    |                              72.5  |                             75    |                                     42.5  |                                     50    |
+| 감정평가사      | 부동산학원론                     |                             100    |                                95    |                            95    |                              95    |                             92.5  |                                     77.5  |                                     65    |
+| 감정평가사      | 회계학                           |                              97.37 |                                94.74 |                            96.67 |                              94.74 |                             89.47 |                                     86.84 |                                     47.37 |
+| 공인노무사      | 경영학개론                       |                             100    |                               100    |                           100    |                             100    |                            100    |                                     95    |                                     95    |
+| 공인노무사      | 경제학원론                       |                             100    |                                97.5  |                            97.5  |                              95    |                             97.5  |                                     95    |                                     65    |
+| 공인노무사      | 노동법1                          |                              97.5  |                                85    |                            97.5  |                              85    |                             95    |                                     57.5  |                                     52.5  |
+| 공인노무사      | 노동법2                          |                              82.05 |                                66.67 |                            82.05 |                              64.1  |                             61.54 |                                     41.03 |                                     48.72 |
+| 공인노무사      | 민법                             |                              95    |                                75    |                            96.88 |                              82.5  |                             77.5  |                                     42.5  |                                     55    |
+| 공인노무사      | 사회보험법                       |                              87.5  |                                67.5  |                            85    |                              65    |                             80    |                                     42.5  |                                     42.5  |
+| 공인회계사      | 경영학                           |                             100    |                                95    |                           100    |                              95    |                             97.5  |                                     92.5  |                                     77.5  |
+| 공인회계사      | 경제원론                         |                              97.37 |                               100    |                            97.37 |                             100    |                             97.37 |                                    100    |                                     50    |
+| 공인회계사      | 상법                             |                             100    |                                85    |                            95    |                              87.5  |                             82.5  |                                     55    |                                     57.5  |
+| 공인회계사      | 세법개론                         |                              90    |                                40    |                            87.5  |                              47.5  |                             62.5  |                                     10    |                                     32.5  |
+| 공인회계사      | 회계학                           |                             100    |                                84    |                            98    |                              94    |                             90    |                                     78    |                                     40    |
+| 관세사          | 관세법개론                       |                              92.5  |                                70    |                            90    |                              72.5  |                             80    |                                     40    |                                     52.5  |
+| 관세사          | 내국소비세법                     |                              95    |                                85    |                            87.5  |                              75    |                             77.5  |                                     55    |                                     57.5  |
+| 관세사          | 무역영어                         |                              95    |                                92.5  |                            95    |                              90    |                             85    |                                     80    |                                     75    |
+| 관세사          | 회계학                           |                              97.44 |                                94.87 |                            94.87 |                              89.74 |                             92.31 |                                     84.62 |                                     58.97 |
+| 법무사          | 가족관계의등록등에관한법률       |                              70    |                                70    |                            80    |                              50    |                             80    |                                      0    |                                     40    |
+| 법무사          | 공탁법                           |                              80    |                                70    |                            55    |                              55    |                             70    |                                     40    |                                     50    |
+| 법무사          | 민법                             |                              97.5  |                                75    |                            95    |                              75    |                             77.5  |                                     42.5  |                                     45    |
+| 법무사          | 민사집행법                       |                              80    |                                60    |                            88.57 |                              54.29 |                             60    |                                     34.29 |                                     31.43 |
+| 법무사          | 부동산등기법                     |                              75.86 |                                37.93 |                            68.97 |                              51.72 |                             37.93 |                                     13.79 |                                     34.48 |
+| 법무사          | 상법                             |                             100    |                                96.55 |                            93.1  |                              58.62 |                             75.86 |                                     51.72 |                                     65.52 |
+| 법무사          | 상업등기법및비송사건절차법       |                             100    |                                60    |                            86.67 |                              66.67 |                             46.67 |                                     13.33 |                                     33.33 |
+| 법무사          | 헌법                             |                              90    |                                70    |                            85    |                              70    |                             65    |                                     25    |                                     30    |
+| 변리사          | 민법개론                         |                             100    |                                82.5  |                            90    |                              62.5  |                             85    |                                     25    |                                     47.5  |
+| 변리사          | 산업재산권법                     |                              94.87 |                                71.79 |                            87.18 |                              61.54 |                             64.1  |                                     33.33 |                                     51.28 |
+| 변리사          | 자연과학개론                     |                              96.67 |                                96.67 |                           100    |                              90    |                             96.67 |                                     96.67 |                                     73.33 |
+| 변호사          | 공법                             |                              97.5  |                                90    |                            97.5  |                              80    |                             65    |                                     35    |                                     50    |
+| 변호사          | 민사법                           |                              85.71 |                                57.14 |                            78.57 |                              65.71 |                             62.86 |                                     27.14 |                                     48.57 |
+| 변호사          | 형사법                           |                              92.5  |                                65    |                            95    |                              65    |                             55    |                                     30    |                                     60    |
+| 세무사          | 민법                             |                              97.5  |                                95    |                            92.5  |                              85    |                             85    |                                     60    |                                     57.5  |
+| 세무사          | 상법                             |                             100    |                                84.62 |                            97.44 |                              84.62 |                             87.18 |                                     46.15 |                                     56.41 |
+| 세무사          | 세법학개론                       |                              82.5  |                                37.5  |                            85    |                              55    |                             62.5  |                                     22.5  |                                     45    |
+| 세무사          | 재정학                           |                             100    |                                97.44 |                           100    |                              97.44 |                             94.87 |                                     97.44 |                                     69.23 |
+| 세무사          | 행정소송법                       |                             100    |                                77.5  |                            87.5  |                              75    |                             70    |                                     32.5  |                                     42.5  |
+| 세무사          | 회계학개론                       |                              92.5  |                                80    |                            90    |                              82.5  |                             80    |                                     75    |                                     37.5  |
+| 손해사정사      | 보험계약법                       |                              97.5  |                                90    |                            87.5  |                              70    |                             75    |                                     47.5  |                                     65    |
+| 손해사정사      | 보험업법                         |                              92.5  |                                80    |                            84.38 |                              70    |                             70    |                                     42.5  |                                     47.5  |
+| 손해사정사      | 손해사정이론                     |                              97.5  |                                87.5  |                            92.5  |                              92.5  |                             90    |                                     82.5  |                                     75    |
+| 약사            | 보건의약관계법규                 |                              85    |                                50    |                            85    |                              65    |                             65    |                                     55    |                                     65    |
+| 약사            | 산업약학                         |                              96.67 |                                96.67 |                            96.67 |                              96.67 |                             95    |                                     96.67 |                                     86.67 |
+| 약사            | 생명약학                         |                             100    |                                98.84 |                           100    |                             100    |                            100    |                                     98.84 |                                     97.67 |
+| 약사            | 임상실무약학                     |                             100    |                                98.1  |                           100    |                             100    |                             99.05 |                                     94.29 |                                     89.52 |
+| 의사            | 보건의약관계법규                 |                             100    |                                95    |                           100    |                              85    |                            100    |                                     85    |                                     70    |
+| 의사            | 의학각론                         |                              98.94 |                                98.94 |                            97.87 |                              96.81 |                            100    |                                     93.62 |                                     86.17 |
+| 의사            | 의학총론                         |                              97.22 |                                97.22 |                            97.22 |                              97.22 |                             97.22 |                                     86.11 |                                     86.11 |
+| 치과의사        | 구강악안면외과학                 |                              96.55 |                                86.21 |                            96.55 |                              96.55 |                             96.55 |                                     86.21 |                                     86.21 |
+| 치과의사        | 보건의약관계법규                 |                              95    |                                80    |                            95    |                              80    |                             90    |                                     65    |                                     65    |
+| 치과의사        | 소아치과학/치과교정학            |                              84.85 |                                81.82 |                            87.88 |                              90.91 |                             87.88 |                                     78.79 |                                     69.7  |
+| 치과의사        | 영상치의학/구강내과학/구강병리학 |                              95    |                                95    |                           100    |                              95    |                             95    |                                     90    |                                     85    |
+| 치과의사        | 치과보존학                       |                              96.77 |                                87.1  |                           100    |                              93.55 |                             93.55 |                                     87.1  |                                     87.1  |
+| 치과의사        | 치과보철학                       |                              87.1  |                                74.19 |                            90.32 |                              77.42 |                             80.65 |                                     74.19 |                                     61.29 |
+| 치과의사        | 치과재료학/구강생물학            |                             100    |                               100    |                           100    |                             100    |                             98.08 |                                    100    |                                     82.69 |
+| 치과의사        | 치주과학/구강보건학              |                              91.67 |                                77.78 |                            91.67 |                              80.56 |                             88.89 |                                     66.67 |                                     63.89 |
+| 한약사          | 보건의약관계법규                 |                              93.1  |                                79.31 |                            89.66 |                              86.21 |                             82.76 |                                     68.97 |                                     65.52 |
+| 한약사          | 한약학 응용                      |                              99.06 |                                98.11 |                            99.06 |                              99.06 |                             98.11 |                                     98.11 |                                     95.28 |
+| 한약사          | 한약학기초                       |                              99.08 |                               100    |                            99.08 |                             100    |                            100    |                                    100    |                                     94.5  |
+| 한의사          | 내과학1                          |                              97.14 |                                94.29 |                            97.14 |                              94.29 |                             97.14 |                                     85.71 |                                     80    |
+| 한의사          | 내과학2                          |                              84.38 |                                71.88 |                            90.62 |                              71.88 |                             68.75 |                                     62.5  |                                     21.88 |
+| 한의사          | 보건의약관계법규                 |                              95    |                                85    |                            95    |                              80    |                             90    |                                     80    |                                     65    |
+| 한의사          | 본초학                           |                             100    |                               100    |                            91.67 |                              83.33 |                             91.67 |                                     91.67 |                                     83.33 |
+| 한의사          | 부인과학                         |                              90    |                                90    |                            93.33 |                              86.67 |                             86.67 |                                     83.33 |                                     73.33 |
+| 한의사          | 소아과학                         |                              90.91 |                                90.91 |                           100    |                              90.91 |                             86.36 |                                     77.27 |                                     63.64 |
+| 한의사          | 신경정신과학                     |                              92.86 |                               100    |                            92.86 |                              85.71 |                             85.71 |                                     92.86 |                                     85.71 |
+| 한의사          | 안이비인후과학                   |                              85.71 |                                85.71 |                           100    |                              85.71 |                            100    |                                     85.71 |                                     71.43 |
+| 한의사          | 예방의학                         |                             100    |                               100    |                           100    |                             100    |                            100    |                                    100    |                                     90.48 |
+| 한의사          | 외과학                           |                             100    |                                75    |                           100    |                             100    |                            100    |                                    100    |                                    100    |
+| 한의사          | 침구학                           |                              92.5  |                                95    |                            90    |                              82.5  |                             87.5  |                                     82.5  |                                     80    |
+| 한의사          | 한방생리학                       |                              93.75 |                                93.75 |                            93.75 |                             100    |                             93.75 |                                     81.25 |                                     87.5  |
+</details>
+
+### MuSR-Ko
+
+#### Accuracy by category
+| category          |   Claude Opus 5 (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash-0731 (reasoning=high) |   DeepSeek-V4-Flash-0731 (reasoning=none) |
+|:------------------|-----------------------------------:|-------------------------------------:|---------------------------------:|-----------------------------------:|----------------------------------:|------------------------------------------:|------------------------------------------:|
+| murder_mysteries  |                              78    |                                 68.4 |                            76.45 |                              72    |                             66.4  |                                     61.6  |                                     57.2  |
+| object_placements |                              94.4  |                                 92.8 |                            96.4  |                              95.87 |                             74.8  |                                     61.2  |                                     44.8  |
+| team_allocation   |                              87.2  |                                 83.6 |                            82.8  |                              82    |                             73.2  |                                     73.2  |                                     70    |
+| **Overall**       |                              86.53 |                                 81.6 |                            85.31 |                              83.15 |                             71.47 |                                     65.33 |                                     57.33 |
+
 > **Looking for older model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.)?**
 > See [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md) for full CLIcK/HAE-RAE/KMMLU/KMMLU-HARD tables from earlier benchmark rounds.
 
@@ -306,144 +441,13 @@ To use Jupyter Notebook in VS Code or Cursor, choose one of the two methods belo
 
 ### Configuration
 
-#### Multiple Models Setup
-For testing multiple models simultaneously, create separate configuration files in the `env/` folder:
+Create a `.env` file (or multiple files under `env/` for parallel multi-model runs — see
+`./run.sh`) with `MODEL_PROVIDER` plus that provider's credentials. Supported providers:
+Azure OpenAI, Azure AI Foundry, Amazon Bedrock (including Claude Sonnet/Opus 5 and Bedrock-hosted
+OpenAI models like GPT-5.6), OpenAI (including self-hosted OpenAI-compatible endpoints such as
+vLLM), Azure ML, and Hugging Face.
 
-```bash
-mkdir env
-cp .env.sample env/.env.gpt4
-cp .env.sample env/.env.claude
-cp .env.sample env/.env.nova
-```
-
-Each file should have different model configurations:
-
-**env/.env.gpt4:**
-```ini
-MODEL_NAME=gpt-4o
-MODEL_VERSION=2024-05-13
-AZURE_OPENAI_ENDPOINT=<YOUR_ENDPOINT>
-AZURE_OPENAI_API_KEY=<YOUR_API_KEY>
-```
-
-**env/.env.claude:**
-```ini
-MODEL_NAME=claude-4-5
-MODEL_VERSION=2025-12-05
-BEDROCK_MODEL_ID=anthropic.claude-3-5-sonnet-20241022-v2:0
-AWS_REGION=us-west-2
-```
-
-**env/.env.nova:**
-```ini
-MODEL_NAME=nova-2-lite
-MODEL_VERSION=2025-12-05
-BEDROCK_MODEL_ID=us.amazon.nova-2-lite-v1:0
-AWS_REGION=us-west-2
-```
-
-The `./run.sh` script will automatically detect all `.env` files in the `env/` folder and run evaluations in parallel.
-
-#### Configuration Options
-
-```ini
-# Basic info
-MODEL_NAME=<YOUR_MODEL_NAME>
-MODEL_VERSION=<YOUR_MODEL_VERSION>
-
-# Reasoning Configuration (applies to all providers)
-REASONING_ENABLED=true  # Enable reasoning mode for system prompts
-REASONING_EFFORT=medium  # none, minimal, low, medium, high
-
-# Wait time between requests (seconds) - helps avoid throttling
-WAIT_TIME=30  # Default: 30 seconds, only used when throttling errors occur
-```
-
-#### Azure OpenAI
-```ini
-AZURE_OPENAI_ENDPOINT=<YOUR_ENDPOINT>
-AZURE_OPENAI_API_KEY=<YOUR_API_KEY>
-AZURE_OPENAI_DEPLOYMENT_NAME=<YOUR_DEPLOYMENT_NAME>
-AZURE_OPENAI_API_VERSION=2025-04-01-preview
-```
-
-#### Azure AI Foundry
-```ini
-AZURE_AI_INFERENCE_KEY=<YOUR_API_KEY>
-AZURE_AI_INFERENCE_ENDPOINT=<YOUR_ENDPOINT>
-AZURE_AI_DEPLOYMENT_NAME=Phi-4
-```
-
-#### Amazon Bedrock
-```ini
-BEDROCK_MODEL_ID=us.amazon.nova-2-lite-v1:0
-AWS_REGION=us-west-2
-```
-
-Claude Sonnet 5 / Opus 5 only support the newer adaptive-thinking API
-(`thinking.type=adaptive` + `output_config.effort`), not the older
-`thinking.type=enabled` + `budget_tokens` scheme used by Claude 4.x. This is
-handled automatically when `REASONING_ENABLED=true` and `BEDROCK_MODEL_ID`
-contains `sonnet-5` or `opus-5`:
-```ini
-MODEL_PROVIDER=bedrock
-BEDROCK_MODEL_ID=global.anthropic.claude-opus-5  # or global.anthropic.claude-sonnet-5
-AWS_REGION=us-east-1
-REASONING_ENABLED=true
-REASONING_EFFORT=medium
-```
-
-#### Amazon Bedrock (OpenAI models, e.g. GPT-5.6)
-OpenAI models on Bedrock (GPT-5.6 Sol/Terra/Luna, etc.) are served only through the
-`bedrock-mantle` endpoint's Responses API, not the regular `bedrock-runtime` Converse API.
-Use `MODEL_PROVIDER=bedrock_openai` for these models:
-```ini
-MODEL_PROVIDER=bedrock_openai
-BEDROCK_OPENAI_MODEL_ID=openai.gpt-5.6-sol  # or openai.gpt-5.6-terra, openai.gpt-5.6-luna
-AWS_REGION=us-east-1
-# AWS_BEARER_TOKEN_BEDROCK must be set in the shell environment (not the .env file)
-```
-
-#### OpenAI
-```ini
-OPENAI_API_KEY=<YOUR_API_KEY>
-OPENAI_DEPLOYMENT_NAME=<YOUR_DEPLOYMENT_NAME>
-```
-
-#### OpenAI-compatible self-hosted endpoint (e.g. vLLM)
-To evaluate a self-hosted, OpenAI-compatible server (such as a vLLM deployment), set
-`OPENAI_API_BASE` under the `openai` provider:
-```ini
-MODEL_PROVIDER=openai
-OPENAI_DEPLOYMENT_NAME=deepseek-v4-flash
-OPENAI_API_BASE=http://localhost:8000/v1
-OPENAI_API_KEY=EMPTY
-```
-
-To enable thinking mode on a self-hosted reasoning model (e.g. DeepSeek-V4-Flash-0731, which
-only supports `reasoning_effort` values `low`/`high`/`max` — no `medium`), set
-`REASONING_ENABLED=true`; this is forwarded to vLLM as `chat_template_kwargs`:
-```ini
-MODEL_PROVIDER=openai
-OPENAI_DEPLOYMENT_NAME=deepseek-v4-flash
-OPENAI_API_BASE=http://localhost:8000/v1
-OPENAI_API_KEY=EMPTY
-REASONING_ENABLED=true
-REASONING_EFFORT=high
-```
-
-#### Azure ML
-```ini
-AZURE_ML_DEPLOYMENT_NAME=<YOUR_DEPLOYMENT_NAME>
-AZURE_ML_ENDPOINT_URL=<YOUR_ENDPOINT_URL>
-AZURE_ML_ENDPOINT_TYPE=<dedicated or serverless>
-AZURE_ML_API_KEY=<YOUR_API_KEY>
-```
-
-#### Hugging Face
-```ini
-HF_API_TOKEN=<YOUR_HF_API_TOKEN>
-```
+**Full provider reference and `.env` examples: [CONFIGURATION.md](CONFIGURATION.md)**
 
 ### Running Evaluations
 
@@ -573,6 +577,21 @@ Evaluation results are saved in:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2403.01469}, 
+}
+
+@article{hong2025kmmlupro,
+      title={From KMMLU-Redux to KMMLU-Pro: A Professional Korean Benchmark Suite for LLM Evaluation},
+      author={Hong, Seokhee and Kim, Sunkyoung and Son, Guijin and Kim, Soyeon and Hong, Yeonjung and Lee, Jinsik},
+      journal={arXiv preprint arXiv:2507.08924},
+      year={2025}
+}
+
+@inproceedings{sprague2024musr,
+      title={MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning},
+      author={Sprague, Zayne and Ye, Xi and Bostrom, Kaj and Chaudhuri, Swarat and Durrett, Greg},
+      booktitle={ICLR},
+      year={2024},
+      note={MuSR(Ko) is the Korean adaptation used in this repo: \url{https://huggingface.co/datasets/thunder-research-group/SNU_Ko-MuSR}}
 }
 ```
 </details>

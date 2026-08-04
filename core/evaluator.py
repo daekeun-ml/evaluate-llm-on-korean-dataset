@@ -436,3 +436,23 @@ class KMMLUProEvaluator(BenchmarkEvaluator):
             "pred": "FAILED",
             "response": error,
         }
+
+
+class MuSRKoEvaluator(BenchmarkEvaluator):
+    """MuSR(Ko) 벤치마크 평가 (subset=murder_mysteries/object_placements/team_allocation)"""
+
+    def _make_result(self, qna, pred):
+        return {
+            "subset": qna.get("subset"),
+            "answer": qna["answer"],
+            "pred": pred[0],
+            "response": pred[1],
+        }
+
+    def _make_failed(self, qna, error):
+        return {
+            "subset": qna.get("subset"),
+            "answer": qna["answer"],
+            "pred": "FAILED",
+            "response": error,
+        }

@@ -71,7 +71,7 @@ def extract_single_alphabet_answer(row):
 
 def evaluate(csv_path, dataset="CLIcK", subset=None, verbose=False):
 
-    valid_datasets = ["CLIcK", "KMMLU", "KMMLU-HARD", "KMMLU-Pro", "HAERAE", "hrm8k", "KoBALT", "KorMedMCQA"]
+    valid_datasets = ["CLIcK", "KMMLU", "KMMLU-HARD", "KMMLU-Pro", "HAERAE", "hrm8k", "KoBALT", "KorMedMCQA", "MuSR-Ko"]
     assert (
         dataset in valid_datasets
     ), f"Invalid 'dataset' value. Please choose from {valid_datasets}."
@@ -129,6 +129,8 @@ def evaluate(csv_path, dataset="CLIcK", subset=None, verbose=False):
         # license_name(자격증)을 supercategory로, subject(세부 과목)를 category로 사용
         result["supercategory"] = result["license_name"]
         result["category"] = result["subject"]
+    elif dataset == "MuSR-Ko":
+        result["category"] = result["subset"]
     
     # For hrm8k, correct column is already calculated during evaluation
     if dataset != "hrm8k":
@@ -153,7 +155,7 @@ def evaluate(csv_path, dataset="CLIcK", subset=None, verbose=False):
         category_acc.columns = ["category", "accuracy"]
         category_acc["accuracy"] = pd.to_numeric(category_acc["accuracy"], errors="coerce").multiply(100).round(2)
         supercategory_acc = None
-    elif dataset in ["HAERAE", "hrm8k", "KorMedMCQA"]:
+    elif dataset in ["HAERAE", "hrm8k", "KorMedMCQA", "MuSR-Ko"]:
         category_acc = (
             result.groupby(["category"])
             .agg(
@@ -306,7 +308,7 @@ def get_experiments_md(dataset, csv_path_dict, postfix=None):
     else:
         title = f"### {dataset} ({postfix})\n\n"
 
-    if dataset in ("HAERAE", "KoBALT"):
+    if dataset in ("HAERAE", "KoBALT", "MuSR-Ko"):
         category_acc_md = get_markdown_accuracy_with_overall(
             exp_group, *category_acc, overall_acc=overall_acc
         )

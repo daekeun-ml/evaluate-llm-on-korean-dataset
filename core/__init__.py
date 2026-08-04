@@ -7,6 +7,7 @@ from .evaluator import (
     HRM8KEvaluator,
     KoBALTEvaluator,
     KMMLUProEvaluator,
+    MuSRKoEvaluator,
 )
 from .logger import logger
 
@@ -18,5 +19,6 @@ __all__ = [
     'HRM8KEvaluator',
     'KoBALTEvaluator',
     'KMMLUProEvaluator',
+    'MuSRKoEvaluator',
     'logger',
 ]

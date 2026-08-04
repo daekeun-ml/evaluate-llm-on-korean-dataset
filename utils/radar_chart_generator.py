@@ -1,9 +1,20 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
 from math import pi
 import glob
 import os
+
+# 한글 카테고리 레이블(예: KMMLU-Pro의 license_name)이 깨지지 않도록 나눔고딕 폰트를 사용
+for _font_path in [
+    "/usr/share/fonts/truetype/nanum/NanumGothic.ttf",
+    "/usr/share/fonts/truetype/nanum/NanumBarunGothic.ttf",
+]:
+    if os.path.exists(_font_path):
+        fm.fontManager.addfont(_font_path)
+        plt.rcParams["font.family"] = fm.FontProperties(fname=_font_path).get_name()
+        break
 
 class RadarChartGenerator:
     def __init__(self, results_dir="./results"):
@@ -16,9 +27,9 @@ class RadarChartGenerator:
         4 models being compared in this round) instead of every CSV under results_dir.
         """
         if dataset_name == "KMMLU":
-            # KMMLU-HARD를 제외하고 KMMLU만 선택
+            # KMMLU-HARD/KMMLU-Pro를 제외하고 KMMLU만 선택
             pattern = os.path.join(self.results_dir, f"*{dataset_name}*.csv")
-            files = [f for f in glob.glob(pattern) if "KMMLU-HARD" not in f]
+            files = [f for f in glob.glob(pattern) if "KMMLU-HARD" not in f and "KMMLU-Pro" not in f]
         else:
             pattern = os.path.join(self.results_dir, f"*{dataset_name}*.csv")
             files = glob.glob(pattern)
@@ -64,6 +75,9 @@ class RadarChartGenerator:
         
         # Initialize plot with better styling
         plt.style.use('seaborn-v0_8-whitegrid')
+        if "NanumGothic" in [f.name for f in fm.fontManager.ttflist]:
+            plt.rcParams["font.family"] = "NanumGothic"
+        plt.rcParams["axes.unicode_minus"] = False
         fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(projection='polar'))
         fig.patch.set_facecolor('white')
         
@@ -197,14 +211,36 @@ class RadarChartGenerator:
     def process_haerae_results(self, results):
         """Process HAE-RAE results by category"""
         processed = {}
-        
+
         for model_name, df in results.items():
             if 'correct' in df.columns and 'category' in df.columns:
                 category_scores = df.groupby('category')['correct'].mean() * 100
                 processed[model_name] = category_scores.to_dict()
-        
+
         return processed
-    
+
+    def process_kmmlu_pro_results(self, results):
+        """Process KMMLU-Pro results by license_name (supercategory)"""
+        processed = {}
+
+        for model_name, df in results.items():
+            if 'correct' in df.columns and 'license_name' in df.columns:
+                category_scores = df.groupby('license_name')['correct'].mean() * 100
+                processed[model_name] = category_scores.to_dict()
+
+        return processed
+
+    def process_musr_results(self, results):
+        """Process MuSR-Ko results by subset"""
+        processed = {}
+
+        for model_name, df in results.items():
+            if 'correct' in df.columns and 'subset' in df.columns:
+                category_scores = df.groupby('subset')['correct'].mean() * 100
+                processed[model_name] = category_scores.to_dict()
+
+        return processed
+
     def generate_all_charts(self, datasets=['CLIcK', 'KMMLU', 'HAERAE', 'HRM8K', 'KoBALT', 'KorMedMCQA'], top_n=None, model_filter=None):
         """Generate radar charts for all specified datasets.
 
@@ -231,6 +267,10 @@ class RadarChartGenerator:
                 processed_data = self.process_haerae_results(results)
             elif dataset == 'KoBALT':
                 processed_data = self.process_kobalt_results(results)
+            elif dataset == 'KMMLU-Pro':
+                processed_data = self.process_kmmlu_pro_results(results)
+            elif dataset == 'MuSR-Ko':
+                processed_data = self.process_musr_results(results)
             else:
                 # Generic processing for other datasets
                 processed_data = {}

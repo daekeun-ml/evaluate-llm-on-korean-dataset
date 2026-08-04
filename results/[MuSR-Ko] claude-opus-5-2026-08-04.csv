@@ -1,0 +1,2793 @@
+subset,answer,pred,response
+object_placements,C,C,"Soyoung saw Jimin move the script to the dressing table, then she herself moved it to the stage-side shelf, so she knows its final location.
+
+### ANSWER
+C"
+object_placements,C,C,"유나가 마이크를 무대 옆 선반으로 옮길 때 소영이는 무대 주변 동선을 점검하며 근접 거리에 있었으므로 이 이동을 인지했다. 따라서 소영이는 마이크가 무대 옆 선반에 있다고 알고 있다.
+
+### ANSWER
+C"
+object_placements,A,A,"Yuna was absorbed in the monitor during both script moves, so she never saw Jimin move it to the dressing table nor Soyoung move it to the stage shelf. Her belief remains the initial shared knowledge that the script is in the bag.
+
+### ANSWER
+A"
+object_placements,C,C,"유나가 직접 마이크를 무대 옆 선반으로 옮겼으므로, 그 위치를 정확히 알고 있다.
+
+### ANSWER
+C"
+object_placements,C,C,"Jimin moved the script to the dressing table, but during the third event Jimin was moving between the dressing room and stage while continuously watching others' actions and checking props, so Jimin would have seen Soyoung move the script to the stage-side shelf.
+
+### ANSWER
+C"
+object_placements,C,C,"Jimin was checking the schedule while continuously watching others' movements, so he observed Yuna moving the microphone to the stage-side shelf.
+
+### ANSWER
+C"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,C,C,"Mirae herself moved the notebook to the side shelf, and she did not observe Suyeon later moving it to the bookshelf since she was distracted answering a student's question. Therefore her belief remains that the notebook is on the side shelf.
+
+### ANSWER
+C"
+object_placements,D,D,"Woojin was focused on his lab notebook when Yuna moved the card, so he retains his original belief that the record card is on the storage shelf.
+
+### ANSWER
+D"
+object_placements,C,C,"Woojin placed the chemicals on the desk himself, and when Minjae moved them to the cabinet, Woojin was absorbed in his notes and equipment checks, so he didn't observe the move. Thus his belief remains that the chemicals are on the desk.
+
+### ANSWER
+C"
+object_placements,B,B,"유나가 직접 기록 카드를 실험실 서랍에 넣었으므로, 그녀는 서랍의 위치를 정확히 알고 있다. 따라서 가장 먼저 실험실 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements,A,A,"Yuna was distracted when Woojin moved the chemicals to the desk, so she never updated her belief; she also didn't observe Minjae returning them. She still believes they are in the original storage cabinet.
+
+### ANSWER
+A"
+object_placements,A,D,"Solmi was bent over cleaning the floor when Wonjun moved the book from the bookshelf to the table, and she only looked up at Jihoon after he had already moved it to the bag. Thus her belief remains that the book is in its original place.
+
+### ANSWER
+D"
+object_placements,A,A,"솔미가 직접 양념통을 선반에서 가방으로 옮겼으므로, 그녀는 양념통이 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,C,C,"Wonjun himself moved the book to the kitchen table, and when Jihun later moved it into the bag, Wonjun was looking down at the floor and didn't observe it. So his belief remains that the book is on the table.
+
+### ANSWER
+C"
+object_placements,B,B,"원준은 솔미가 양념통을 가방으로 옮길 때 벽 쪽을 보며 생각에 잠겨 있었으므로 그 이동을 보지 못했다. 따라서 그는 여전히 양념통이 원래 위치인 주방 선반에 있다고 믿는다.
+
+### ANSWER
+B"
+object_placements,D,D,"현우는 서윤이 USB를 선반에서 책상으로 옮길 때 서윤 근처에서 그가 가져온 준비물을 다루며 계속 함께 있었으므로, 그 이동을 인지했을 것이다. 따라서 현우의 믿음은 USB가 책상에 있다는 것이다.
+
+### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"수빈은 태현이 카메라를 여행 가방으로 옮기는 것은 보지 못했지만, 지훈이 카메라를 자동차 트렁크로 옮길 때는 그의 동작을 주의 깊게 지켜보았다. 따라서 수빈은 카메라가 트렁크에 있다고 알고 있다.
+
+### ANSWER
+C"
+object_placements,A,A,"Jihun was looking down and not observing when Subin moved the map book from the shelf to the desk, so he still believes it is on the shelf.
+
+### ANSWER
+A"
+object_placements,A,A,"Subin moved the map book to the desk while Taehyun was distracted and not observing, so Taehyun still believes it is in its original location on the shelf.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"Doyeon herself moved the candles to the window table, so she knows their location there and no one moved them afterward.
+
+### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+team_allocation,A,A,"은지는 세부사항 정확성과 창의적 아이디어 강점이 있어 제품 개발에 적합하고, 태훈은 유통·판매 및 데이터 분석에 강하다. 소민은 특별한 강점은 없으나 태훈과 협업 경험이 좋아 유통 전략 팀에 배치하면 시너지가 난다. 은지는 소민·태훈과 모두 갈등이 있어 단독 배치가 적절하다.
+
+### ANSWER
+A"
+team_allocation,B,B,"Seah is explicitly a skilled character designer with no audio experience, while Jimin is a trained recording engineer and Hyunwoo has both visual arts and voice-recording assistant experience. Assigning Seah to design and Jimin plus Hyunwoo to recording best matches competencies, and keeps Seah separated from her interpersonal frictions in daily task work.
+
+### ANSWER
+B"
+team_allocation,C,C,"Eunji is weak in both skills and has unresolved conflicts with both Minsu and Dahee, so pairing her with either would create friction. Minsu and Dahee have a proven positive collaboration history and both excel at analysis and presenting. Placing them together on the presentation team while Eunji works alone avoids interpersonal conflict and maximizes the strong pair's synergy.
+
+### ANSWER
+C"
+team_allocation,B,C,"Damin lacks writing experience, and Suhyun struggles with screenwriting, leaving Jihoon—the experienced screenwriter—best alone on the script, which also avoids his clashes with Suhyun. Meanwhile Suhyun's strong visual vision pairs well with Damin's technical interest, compensating for each other's weaknesses in the camera team.
+
+### ANSWER
+C"
+team_allocation,B,B,"수현은 창의적 표현을 좋아하므로 콘텐츠 제작에 적합하고, 재민은 UX 경험이 풍부하며, 다혜는 데이터 분석 능력으로 UX 프로세스에 통찰을 제공할 수 있다.
+
+### ANSWER
+B"
+team_allocation,A,A,"소희는 글쓰기 수상과 출판 경력이 있어 콘텐츠 제작자로 최적이고, 혜린은 공학 과목에 뛰어나 기술 개발 쪽에 적합합니다. 민수는 두 분야 모두 약하지만 문학 낙제 이력이 있어 콘텐츠보다는 기술 팀에 배치하는 것이 낫습니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Nayoung clearly fits UX design (visual organization, quick design fixes) and struggles with writing deadlines; Dongmin works creatively and harmoniously with Nayoung, and he loses focus on detailed writing, so he also belongs in UX design rather than content. Seojin, with weak UI experience but strong drive and strategic direction, is left for content development, which also avoids his conflicts with Dongmin over ideas.
+
+### ANSWER
+A"
+team_allocation,A,A,"수진은 창의적 글쓰기와 스토리텔링에 강점이 있어 콘텐츠 제작에 적합하고, 민지와 영우는 분석적·기술적 역량을 갖춰 UX 설계 업무에 배치하는 것이 강점 활용 측면에서 가장 타당하다. 갈등은 모든 조합에 존재하므로 강점 적합성이 기준이 된다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"주아는 미로의 숨겨진 출입구들을 잘 알고 자주 출입했으며, 살해 도구인 장도리를 실제로 사용한다고 진술했고, 관리인과의 갈등 등 미로 관련 마찰도 있었다. 상현은 명성 훼손 우려라는 동기 가능성만 암시되지만 구체적 수단·기회가 없다. 수단·기회·현장 지식이 모두 갖춰진 주아가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Sanghyun had a strong motive (Sehee's ethics investigation threatening his reputation), means (woodworking hobby implying hammer access), knowledge of the maze layout from his architectural projects, and access/control over night events and security systems. Jua's clues (herbalism, tech knowledge, minor plant dispute) lack a serious motive or murder weapon connection.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Semi has the means (Japanese sword collection, kendo training since middle school), motive (inheritance from the will), and opportunity (deliberately matched her visit schedule to Sujin's). Gaeun's details concern animal welfare and seafood, unrelated to the murder weapon.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"The narrative gives Semi a clear motive (financial strain, medical bills, and inheritance from Sujin's will), means (extensive katana collection and competitive kendo skill), plus an inconsistency in her testimony about whether the phone call was interrupted. Gaeun has skills and access but no comparable motive or contradiction.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"은정은 살해 도구와 동일한 손도끼를 차에 소지하고 있었고, 민영과 파일 절도·소문 유포·과거 물리적 충돌 등 강한 갈등과 동기가 있었으며 사건 당일 현장에서 민영과 마주쳤다. 다영은 승진 관련 열등감 정도의 약한 동기만 있고 흉기 연결점이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"은정은 손도끼를 한 달 전 구입해 항상 차에 보관했고, 격투기 실력자이며, 민영이 자신의 평판을 망가뜨린 강한 원한이 있었고, 사건 당일 민영과 다투는 것이 목격되었다. 반면 다영의 손도끼는 선물받아 목공에 쓰던 것이고 동기도 약하다. 은정이 번호판·소유권 문서를 은닉하고 현금 구매를 선호한 점도 은폐 정황을 시사한다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"Woosung has clear means and skill (lifelong stone-throwing club champion), opportunity (frequent rink attendance the day of the event), signs of physical struggle (bandaged wrists/arms with a vague explanation), and concealment behavior (long clothing to hide objects). These converge more strongly than Hyunjin's circumstantial cult ties and stone deliveries.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"The victim was killed with a stone at the skating rink, and Woosung is a skilled stone-throwing club competitor with strong hands and gym-trained strength, is closely tied to the rink as a skating instructor, and had arranged a meeting with Chaea plus a motive involving her political ties threatening his reputation. Hyunjin's cult connection gives a vaguer motive with no link to the weapon or scene.
+
+### ANSWER
+B"
+team_allocation,A,A,"지현은 강한 의견으로 태호와 충돌할 가능성이 높으므로 분리해야 하고, 수민과 태호는 서로의 부족한 부분을 보완하며 태호가 수민의 의견을 잘 듣는다는 점에서 함께 배치하는 것이 효율적이다. 또한 수민은 모델과의 소통에서 오해를 일으킨 경험이 있고, 태호도 모델 관리에 어려움이 있으므로 두 사람은 무대 연출에 적합하다. 따라서 지현이 모델 관리 팀을 맡는 구성이 최적이다.
+
+### ANSWER
+A"
+team_allocation,B,B,"서진은 모델 관리에서 검증된 강점을 가지고 독립적 업무를 선호하므로 단독으로 모델 관리를 맡는 것이 최적이며, 지훈은 무대 디자인 전공자로 그 업무에 배치되어야 한다. 예빈은 어느 쪽에도 뚜렷한 강점이 없지만 모델 소통 문제가 크므로 무대 디자인 지원으로 배치하는 것이 갈등과 손실을 최소화한다. 따라서 서진-모델 관리, 예빈·지훈-무대 디자인 조합이 가장 합리적이다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Suhyun's emotional volatility and stuttering make her unsuitable for customer-facing work, while her trend research and creativity fit product planning. Jiwoo and Damin both have strong customer communication skills, making them suitable counselors. Although some friction exists, placing Suhyun alone as planner minimizes her problematic collaborations.
+
+### ANSWER
+C"
+team_allocation,A,A,"수현은 분석적·기술적 문제 해결에 탁월하므로 기술 개발 팀이 적합하고, 예린은 고객 소통과 창의성이 뛰어나 마케팅 팀에 적합하다. 지훈은 기술적 세부 사항에 관심이 부족하므로 마케팅 팀에 배치하는 것이 낫다. 또한 수현과 예린의 협업 마찰도 분리로 완화된다.
+
+### ANSWER
+A"
+team_allocation,B,B,"서진은 기술력이 뛰어나고 고객 대면 경험이 없으며, 나영과 태현은 모두 소통을 선호하므로 고객 지원에 적합합니다. 나영과 태현의 갈등은 있으나 강점 활용 측면에서 가장 효율적인 배치입니다.
+
+### ANSWER
+B"
+team_allocation,B,C,"태훈은 교육 업무를 선호하지 않고 창의적 문제 해결로 솔루션을 찾는 데 강점이 있어 위험 분석 팀에 적합하며, 지은은 명확한 설명 능력이 뛰어나 사용자 교육 팀의 핵심이 된다. 성민은 복잡한 데이터 분석을 꺼리므로 위험 분석 팀에는 부적합하다. 따라서 태훈-위험 분석, 성민·지은-사용자 교육 조합이 가장 합리적이다.
+
+### ANSWER
+C"
+team_allocation,C,C,"수현은 진우와 미나 모두와 갈등이 있고, 진우와 미나는 서로 좋은 관계이므로 수현을 단독 배치하는 것이 갈등을 최소화한다. 수현은 프로그래밍 실력이 뛰어나 기술 개발 팀에 적합하고, 진우와 미나는 모두 고객 대응 능력에서 긍정적 평가를 받았다. 따라서 수현을 기술 개발, 진우·미나를 고객 지원에 배치하는 것이 최적이다.
+
+### ANSWER
+C"
+team_allocation,C,C,"수현은 기술적 디테일에 뛰어나지만 고객 대면에서 불편함을 보이므로 시스템 설계에 적합하고, 재혁과 미나는 모두 소통 능력이 뛰어나며 서로 협업도 원만하므로 고객 상담 팀에 배치하는 것이 효율적이다. 또한 수현과 재혁을 분리하면 의견 충돌 문제도 피할 수 있다.
+
+### ANSWER
+C"
+murder_mysteries,A,A,"The narrative establishes for 현민 all three elements: motive (public humiliation by 강우), means (a collection of meat-cutting kitchen tools from the market), and opportunity (he alone lingered at the paintball field after the game). 재성's details are mostly about inconsistent claims regarding documents/safe and past gambling, which lack a direct link to killing 강우.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"재성은 정육점에서 고기 손질용 도끼를 일상적으로 다루고, 군에서 무기 사용 훈련을 받았으며, 페인트볼 경기장에서 아르바이트한 경험으로 현장을 잘 알고 있고, 도박 문제라는 동기까지 갖추고 있다. 현민은 취미 수준의 요리 도구 수집과 알리바이 부재 정도의 정황만 있다. 흉기·기술·현장 지식·동기가 모두 일치하는 쪽이 재성이다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Doyeon had needle-based artistic expertise, scouted the restaurant in advance, habitually arrived early with prepared equipment, and had a complicated personal link to the victim through the shared lover—these point to means, opportunity, and motive. Yoonhee's presence is explained by legitimate police surveillance duty.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"윤희는 잠복 수사 중이었고 해진이 그녀의 은밀한 작전을 폭로할 수 있는 위치에 있었으며, 약물 남용 징계와 스트레스 등 동기와 경찰 훈련 경험까지 갖추고 있다. 도연은 해진의 절친한 친구로 갈등 요소가 뚜렷하지 않다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The strongest combination of motive, means, and opportunity points to 재균: he had a financial relationship with 은정 (including joint property purchases), knew her exact morning walking routine, and belonged to a sword collecting club where he was actively learning to handle blades. 유진's traits (sword competitions, germophobia) are more incidental and lack any personal connection or motive regarding the victim.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Yujin has all three elements: means (sword collecting/fencing skill), opportunity (daily park walks near home), and crucially a motive—financial ruin from the investment Eunjeong persuaded him into. Jaegyun has means and opportunity but no motive connecting him to Eunjeong.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The weapon was a wooden plank, and 현준 was actively dismantling bookshelves and salvaging usable pieces, giving him direct access. He also shared a group and coordinated schedules with 재균, studied self-defense/martial arts, and behaved secretively about controlled documents. 자영's woodworking hobby is suggestive but lacks any connection or motive linking her to the victim.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"현준은 재균과의 결혼 문제로 갈등(동기), 책장을 해체해 널판지 부품을 보관(도구), 무술 수련(능력), 블로그·SNS로 피해자의 일정 파악(기회)이라는 요소를 모두 갖추고 있다. 반면 자영에 대한 정보는 목공 취미와 야간 산책 등 모호한 정황뿐이다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"민희는 쇠사슬을 이용한 고강도 운동 경험과 뛰어 난 체력, 천체투영관 행사 참석 사실, 그리고 시환이 다른 직원과 가까워지며 만남을 거절한 데서 오는 질투 동기까지 모두 갖추고 있다. 건영은 회계 부정과 과거 조직 연루 등 의심스러운 점은 있으나 살해 수단·현장과의 직접적 연결이 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"민희는 쇠사슬 고강도 운동으로 단련된 체력, 대형 가방, 그리고 시환의 외도 의심이라는 동기까지 모두 갖추고 있어 범행 수단과 동기가 직접적으로 연결된다. 건영은 사업적 갈등이 있으나 구체적 범행 수단(쇠사슬)과의 연관성이 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The key inconsistency lies with 순영: her artifact photo contained a background found only inside the building closed for over 20 years, yet she claimed it was taken in the museum's special exhibition room — a clear lie. She was also placed at the stadium at the time of death and had expert knowledge of historical weapons like daggers. 하경's motive is emotional but she answered candidly without contradictions.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"순영은 사건 당일 축구장에 있었다는 물리적 기회(티켓), 단검 등 역사 무기에 대한 전문 지식(수단), 그리고 제욱이 그녀의 과거 범죄 기록을 폭로하겠다고 협박한 강력한 동기를 모두 갖추고 있다. 하경은 공개적 망신이라는 동기는 있으나 살해 수단이나 명확한 현장 기회가 제시되지 않았다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"시욱은 무기 수집 취미와 창술에 관심을 보였고, 살해 도구가 죽창이라는 점과 직접 연결된다. 또한 카지노 경비원 경력과 아린과의 소원해진 관계가 동기와 접근성을 제공한다. 정민은 도박 손실과 약물 문제가 있으나 흉기와의 연결이 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"시욱은 죽창을 포함한 창을 수집하고 창술을 연습하며 죽창의 특성까지 상세히 알고 있었고, 피해자와의 관계가 끝난 정황과 비밀스러운 만남 등 동기와 은폐 행위가 드러난다. 정민은 도박 중독과 무기 관심이 있으나 피해자와의 직접적 연결이나 동기가 제시되지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Rope-related evidence points to both, but Yuyeon was documented at the casino at the time, belongs to a mountain-climbing club (rope/knot skill), taught survival skills, and had a powerful motive (forced marriage plus financial threats). Jion has rope dexterity but his activities are daytime-centered with friends/cafe, weakening opportunity.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The narrative heavily emphasizes 지온's expertise with ropes and skilled hands, plus a concrete motive—현도 was threatening to expose scandal evidence involving him, a threat to his career and reputation. 유연's motive (marriage/financial pressure) is emotional but her rope-related skills are incidental to hiking. The combination of means (rope mastery), motive (silencing blackmail), and opportunity (regular casino performances where 현도 attended) points to 지온.
+
+### ANSWER
+B"
+object_placements,A,A,"지훈이 직접 레시피 책을 테이블에서 가방으로 옮겼으므로, 그는 책이 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,B,"### ANSWER
+B"
+object_placements,C,C,"Minwoo placed the cup in the cupboard, but he was right beside Soyeon observing her practice when she moved it to the kitchen table, so he witnessed the change. His belief is thus updated to the kitchen table.
+
+### ANSWER
+C"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"Soyeon herself moved the measuring cup to the kitchen table, so she knows its current location.
+
+### ANSWER
+C"
+object_placements,C,A,"Soyeon was focused on her ingredients and conversation when Yujin moved the recipe to the table, so she never observed the change. Her belief remains that the recipe is in the bag.
+
+### ANSWER
+A"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,C,C,"Suyeon was turned away helping confused students when Junho moved the measuring cup to the front counter, so she didn't witness the change. Her last known information is that the measuring cup was on the side shelf.
+
+### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,B,B,"준호가 직접 계량컵을 앞쪽 조리대 위로 옮겼으므로, 그는 자신이 놓아둔 위치를 기억하고 그곳을 먼저 확인할 것이다.
+
+### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,D,"미래가 직접 USB를 책상 위로 옮겼으므로, 자신이 놓은 위치인 책상을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements,C,C,"미래는 태영이 수첩을 서랍으로 옮길 때 문서에만 집중하여 그 장면을 보지 못했으므로, 여전히 수첩이 원래 위치인 선반에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,D,D,"은하는 자신이 USB를 사물함으로 옮겼지만, 이후 미래가 USB를 책상 위로 옮길 때 은하는 미래 곁에서 발표 과정을 함께 확인하고 있었으므로 그 이동을 알고 있다. 따라서 은하는 책상을 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements,B,C,"### ANSWER
+C"
+team_allocation,C,C,"세진은 엔지니어링 경험이 풍부하고 기술 중심적이며, 민재와 하영은 협업 실적이 좋고 둘 다 현장 관리 경험이 있다. 하영과 세진은 갈등이 있었으므로 분리하는 것이 효율적이다.
+
+### ANSWER
+C"
+team_allocation,B,B,"세진은 설계와 현장 모두 약점이 있지만, 민수·하영과 갈등이 있어 함께 두면 마찰이 생긴다. 민수와 하영은 현장 관리 경험이 뛰어나고 과거 협업에서 성공적인 결과를 냈으므로 함께 현장에 배치하는 것이 효율적이다. 따라서 세진을 설계 팀에 단독 배치하는 것이 최선이다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Seojun has content development expertise; Jimin and Hyejin excel at communication and promotion. Though Jimin and Hyejin had past conflict, their strengths fit PR best.
+
+### ANSWER
+C"
+team_allocation,B,B,"소영은 분석·조사에 강하고 창의적 업무를 선호하지 않아 리서치 팀에 적합하며, 미나와 태현은 과거 협업 성과가 좋고 둘 다 창의적 역량이 있어 마케팅 팀에 함께 두면 갈등 없이 시너지가 난다. 또한 소영을 분리하면 미나·소영, 태현·소영 간 갈등도 피할 수 있다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Jihun excels at product sourcing but is poor at customer service; Seoyun excels at customer service. Minjae is weak at both, so placing him with Seoyun in customer service is best.
+
+### ANSWER
+B"
+team_allocation,A,A,"태훈은 경제학 석사와 금융 서비스 기획 경험이 있어 기획에 가장 적합하고, 고객 대면에는 약점이 있다. 수진과 민재는 모두 기획 경험에서 문제(방향성 상실, 기한 미준수)가 있었으므로 기획에 부적합하다. 따라서 태훈을 기획에, 나머지 두 명을 고객 지원에 배치하는 것이 최선이다.
+
+### ANSWER
+A"
+team_allocation,C,C,"은지는 프로그램 기획에서 성과가 좋았고, 수민·은지 및 현우·은지는 갈등이 있으나 수민과 현우는 협력이 원만하다. 따라서 은지를 단독으로 프로그램 기획에 배치하고, 서로 잘 맞는 수민과 현우를 스폰서 관리 팀에 함께 배치하는 것이 갈등을 최소화하며 강점을 활용하는 배치다.
+
+### ANSWER
+C"
+team_allocation,C,B,"지민은 분석력과 기술적 집중력이 뛰어나 연구 개발에 가장 적합하고, 도윤은 마케팅 경력과 설득력이 강점입니다. 수현은 기술 세부사항보다 큰 그림과 전략 수립에 강해 마케팅 쪽 전략 역할에 배치하는 것이 적절합니다.
+
+### ANSWER
+B"
+object_placements,B,B,"Minseok was absorbed in the guest list when Doyeon moved the candle to the window table, so he never saw the move. He still believes the candle is where it originally was—on the dining table.
+
+### ANSWER
+B"
+object_placements,B,B,"Minseok himself moved the cake to the kitchen shelf, but in the final scene he was close by, listening to Haneul and keeping his attention in Haneul's direction while she moved the cake to the dining table. So he witnessed the last move and knows the cake's current location.
+
+### ANSWER
+B"
+object_placements,B,D,"The candle was originally on the dining table, but Doyeon moved it to the window table. During that move, Miseok was fixated solely on the guest list, while Haneul, though setting up the music, was also carefully checking other areas as she reviewed the event order—so she would have noticed the candle's new location.
+
+### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,C,B,"### ANSWER
+B"
+object_placements,D,D,"태영은 은하가 USB를 사물함으로 옮길 때 보지 못했지만, 마지막에 미래가 USB를 책상에 놓는 과정을 면밀히 살펴보았다. 따라서 태영은 USB가 책상에 있다고 믿는다.
+
+### ANSWER
+D"
+object_placements,B,B,"태영이 직접 수첩을 선반에서 서랍으로 옮겼으므로, 그는 수첩이 서랍에 있다고 알고 있다.
+
+### ANSWER
+B"
+object_placements,B,B,"The materials were moved from the shelf to the desk by 민재, but 미래 had her head turned away talking to another friend, so she didn't witness the move. She retains her original belief that the materials are on the shelf.
+
+### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"민재 자신이 발표 자료를 선반에서 책상으로 옮겼으므로, 그 위치를 알고 있다. 이후 발표 자료의 위치가 바뀌었다는 언급도 없다. 따라서 책상을 먼저 확인한다.
+
+### ANSWER
+D"
+object_placements,A,D,"Minjae wasn't observing when Jiwoo moved the phone to the bag (he approached afterward), and he was distracted by the club schedule when Mirae moved it to her pocket. So his belief remains the original shared knowledge: the phone is on the desk.
+
+### ANSWER
+D"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"Suhyun did not observe Sungwoo moving the laptop to the living room shelf (she was focused on the materials list), nor did she see Yujin move it back to the desk. Thus her belief remains the original known location.
+
+### ANSWER
+D"
+object_placements,A,A,"수현이 직접 서랍에서 볼펜을 꺼내 가방에 넣었으므로, 볼펜의 현재 위치를 가방으로 알고 있다.
+
+### ANSWER
+A"
+object_placements,B,B,"Seungwoo moved the laptop to the living room shelf, and in the final scene he was focused only on the document list, not observing Yujin moving the laptop back to the desk. So his belief remains that the laptop is on the shelf.
+
+### ANSWER
+B"
+object_placements,C,C,"Seungwoo was focused on general locations and didn't watch Suhyeon move the pen from the drawer into the bag, so his belief remains that the pen is in the drawer.
+
+### ANSWER
+C"
+object_placements,D,D,"Yujin herself moved the laptop to the desk in the final scene, so her belief about its location is the desk.
+
+### ANSWER
+D"
+object_placements,A,A,"Two번째 장면에서 유진은 가까운 곳에서 수현이 진행 중인 일(볼펜을 서랍에서 꺼내 가방에 넣음)을 의식하고 있었으므로, 볼펜이 가방에 있다는 사실을 알고 있다.
+
+### ANSWER
+A"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,D,D,"민아 자신이 카드를 탁자 한가운데로 옮겼으므로, 카드의 위치를 정확히 알고 있다. 따라서 탁자를 먼저 확인할 것이다.
+
+### ANSWER
+D"
+team_allocation,B,B,"수현은 분석력과 꼼꼼함이 강점이나 마케팅 스트레스에 취약하고 동찬과 충돌 이력이 있어 강의 제작에 적합하다. 민지는 기술 도구에 서툴러 제작보다 마케팅이 낫고, 동찬과의 협업 시너지가 검증되었다. 동찬은 마케팅 캠페인과 프레젠테이션에 탁월하므로 민지와 마케팅 팀에 배치하는 것이 최적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"수진은 복잡한 계약 관리 경험이 있으나 공감 능력이 부족해 판매자 관리자에 적합하고, 동혁과 민지는 고객 응대와 불만 해결에 강점이 있어 고객 지원에 적합합니다. 또한 수진을 분리 배치하면 동혁·민지와의 갈등도 완화됩니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Daeun excels at creative cooking but misses details, making her ill-suited to editing; Suhyun has proven editing skill and Jaeho enjoys detailed proofreading, and the two work well together. Placing Daeun as recipe developer also avoids her conflicts with Jaeho over ideas.
+
+### ANSWER
+A"
+team_allocation,C,C,"Seunghoon avoids public speaking/demonstrations, so he can't be an instructor; Yujin and Dahyun clash, so they must be split. Yujin has workshop teaching experience, making him a good instructor, while Dahyun's promotional campaign expertise fits promotion, and she mentors Seunghoon effectively there.
+
+### ANSWER
+C"
+team_allocation,B,B,"수진은 창의적 레시피 개발에 강점이 있으나 사진 실력이 부족하고 민지와 갈등이 있으므로 단독 레시피 담당이 적합하다. 민지와 영호는 모두 사진 촬영에 뛰어나며 과거 협업 성과도 좋았기에 함께 촬영을 맡는 것이 효율적이다. 따라서 갈등을 피하고 강점을 살리는 배치는 B이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Jihoon excels at both roles, so placing him alone as content creator leverages his proven writing award while avoiding conflict with the other two. Miyoung and Sujin have a proven successful collaboration, and Sujin prefers visual design over writing, so pairing them as web designers plays to their synergy.
+
+### ANSWER
+B"
+team_allocation,A,B,"지훈은 감정에 민감하고 협력 및 아티스트와의 작업 경험이 있어 아티스트 관리에 적합하다. 예림은 창의적 마케팅 전략에 강점이 있고, 서현은 갈등을 두려워하지 않으나 대인 관계 조율이 약해 아티스트 관리보다 마케팅 팀에서 지원 역할이 낫다. 따라서 지훈을 아티스트 관리에, 예림과 서현을 마케팅에 배치하는 것이 최적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"수현은 멜로디 창작에 뛰어난 반면 세부 사항에 약하고, 다은·수현 간에는 피드백 갈등이 있으며, 영준과 다은은 과거 협업 성공 사례가 많다. 따라서 수현을 단독으로 작곡 팀에 배치해 창의력을 살리고, 갈등 없이 잘 협력하는 영준과 다은을 프로듀서 팀에 두는 것이 최적이다.
+
+### ANSWER
+B"
+murder_mysteries,B,A,"The witness statement placing 다빈 in a heated argument with 시현 at the kart track just minutes before the shooting gives direct opportunity, plus he had financial entanglements (promised investments) and controlled access/secrecy at the site. 시찬's shotgun hobby and security access are suggestive but only circumstantial background. The decisive timing evidence points to 다빈.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"다빈은 사건 직전 시현과 다투는 것이 목격되었고, 엽총 사용 능력과 트랙 주변 지리에 익숙했으며, 재정적·독립성 관련 갈등이라는 동기까지 갖추고 있다. 시찬은 사냥 경험은 있으나 피해자와의 연결이나 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"윤기는 독성 화학 물질 연구와 실험실 접근권을 가지고 있으며, 서영과 주말마다 캠핑을 다녔다는 점에서 캠프장이라는 범행 장소와 직접 연결된다. 또한 재산 상당 부분을 요구받고 법적 분쟁에서 불리한 입장이었다는 강한 동기가 있다. 다빈은 동기와 화학 지식은 있으나 캠프장 정황과의 연결이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Dabin had chemistry expertise and toxin training (means), was blackmailed and belittled by Seoyeong (motive), and learned her camping location via social media and actually went to that campsite (opportunity). Yunki's aliases were explained innocently as jokes/pen names, and no evidence places him at the scene. The full means-motive-opportunity triad points to Dabin.
+
+### ANSWER
+B"
+murder_mysteries,B,A,"Both suspects have chemistry backgrounds, but 미소 specifically worked on toxic chemical projects, holds a certification for handling toxic substances, planned the camping trip, shared equipment with 지호, and was unusually secretive about her room and belongings—consistent with hiding the poison gas. 연우's motive (gossip) is weaker and he lacks specific toxin access.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Miso planned the camping trip, shared equipment with the victim, and holds a certification for handling toxic chemicals—giving her both the means and direct opportunity to deploy poison gas. Yeonwoo's chemistry background is vaguer and lacks direct access to the campsite or victim's equipment.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Both had dart skills, but 우한's alibi collapsed—no hospital record, he sent a junior to the meeting claiming illness, yet was seen at a shopping mall, and he collects rare dart pins while evading questions about 세희's inheritance. Deception about one's whereabouts is the strongest indicator of guilt here, whereas 예린's evidence is mainly motive and interests.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"우한은 희귀 다트핀 수집과 다트 연습이라는 살해 도구와 직접 연결된 수단, 캠프장 출입 및 직원 제복 착용을 통한 접근성까지 모두 갖추고 있다. 예린은 동기(종교적 견해 비판)와 위치 파악 정도만 있고 흉기와의 연결이 없다. 수단·기회·도구 일치도가 압도적으로 높은 쪽이 우한이다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"도하는 긴 바늘 같은 공구를 항상 휴대하는 공학자이며, 피해자 지온의 배우자로서 불화와 외도라는 동기까지 갖고 있다. 지완은 단순히 함께 시간을 보냈다는 정황뿐이며, 대출 서적이나 관심사도 사건과 무관하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"지완은 침술에 대한 열정, 희귀 도구 수집, 의식 준비 등 긴 바늘로 살해된 방식과 직접 연결되는 정황이 다수 제시된다. 도하는 엔지니어로서 도구를 많이 다루지만 바늘과의 연관성은 없다. 따라서 살해 도구와 부합하는 지완이 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Both had shooting skills and motives, but 성준 had the crucial opportunity—he checked into a hotel near the rafting site the night before, frequented the location, and had a blackmail-related motive (다영 knew about his confidential document leak and the recording). 기민's dispute was documented and being handled neutrally by colleagues, with no placement at the scene.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Sungjun's section is largely filled with tangential observations (café habits, sharp memory), though he does have shooting skill and a fear of exposure. Kimin, however, combines all three key elements: motive (an imminent lawsuit over financial loss from his report error), means (lifelong hunting/shotgun expertise and shooting practice), and opportunity (well-known passion for whitewater rafting, linking him to the crime scene).
+
+### ANSWER
+B"
+murder_mysteries,A,A,"희준은 연아에게 급류 래프팅을 직접 제안했고(사건 현장), 낚시 장비를 항상 지니고 다녔으며, 연아와 함께 시간을 보내지 못한 것에 대한 서운함도 드러냈다. 규민은 동기(공개적 비판)는 있으나 사건 현장과의 연결이 약하다. 수단·기회·현장 접근성이 모두 희준에게 집중된다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"규민은 연아가 공개적으로 자신의 사업 문제를 폭로해 명확한 동기가 있고, 현장 인접 목장 소유·낚시 활동·래프팅 장비 점검 기술까지 갖춰 수단과 기회도 모두 충족한다. 희준은 취미와 관심사만 나열되고 살해 동기가 없다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"지흔은 나연이 자신의 비밀을 폭로할까 두려워한 동기, 농기구 사용에 익숙한 수단, 그리고 사건 현장인 포도원에 있었던 기회를 모두 갖추고 있다. 반면 지온은 자선 행사 관련으로 포도원과 연결되어 있을 뿐 명확한 동기가 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The evidence chain points to 지온: he had access to farm tools donated by agricultural equipment suppliers, was frequently at the vineyard for events (opportunity), had suspicious financial withdrawals, and 나연 had overheard his suspicious phone call and seen exchange documents — corroborated by his partner cooperating with police under legal protection. 지흔's supposed motive rests only on her own vague beliefs and rumors, without concrete corroboration.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"태현은 사격 대회 우승자이자 군 사격 교관 출신으로 경기용 엽총에 대한 접근(민수의 엽총 공유)과 사용 능력을 모두 갖췄으며, 사업 실패·부채·급여 삭감 등 시찬의 재정 문제와 얽힌 강한 동기도 드러난다. 유연은 굴욕에 대한 감정적 동기는 있으나 사냥용 총기와의 연관일 뿐 경기용 엽총과 직결되지 않는다. 살해 도구가 '경기용 엽총'이라는 점이 태현을 가장 강하게 지목한다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Both suspects have boomerang skill, but only 현철 has a clear motive—he discovered photographs of his spouse with 두현—and he recently developed interest in both boomerang throwing and scuba diving, giving him means and opportunity at the dive site. 나희's boomerang expertise and odd nighttime behavior lack any connection to a motive against 두현. The combination of motive, newly acquired skill, and access points to 현철.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"나희는 부메랑 던지기 지역 대회 1위이며 매일 연습하는 숙련자이고, 사건 당일 스쿠버다이빙을 직접 제안해 두현을 그 장소로 이끌었다. 또한 두현이 그녀를 통제하고 예고 없이 나타나는 등 스토킹성 행동을 했다는 점에서 강한 동기도 존재한다. 현철은 배우자 관련 질투 정황이 있으나 부메랑 실력이나 현장 접근 근거가 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"예빈은 지경에게 비밀을 누설당해 사회적으로 배제된 강한 복수 동기가 있고, 고급 요리 학원 수료와 요리 대회 우승으로 끓는 기름을 다룰 능력이 있으며, 다이빙 장소에 접근할 기회와 장비도 갖추고 있다. 동혁은 요리 실험이라는 수단은 있으나 지경과의 동기나 관계가 전혀 드러나지 않는다. 따라서 동기·수단·기회가 모두 겹치는 예빈이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"동혁은 외진 스쿠버다이빙 장소(범행 현장)에서 대량의 끓는 기름을 다루는 실험을 진행하며 기름 취급 지식과 접근성을 모두 갖췄고, 지경이 학회에서 주목받아 연구 자금 확보에 위협이 된다는 동기도 있다. 예빈은 과거 갈등과 기름 관련 복수 상상은 있으나 범행 현장과의 연결점이 없다. 수단·기회·동기가 모두 맞물리는 쪽은 동혁이다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"수빈은 경기용 엽총 사용 능력, 스쿠버다이빙 자격, 하성의 일정 추적, 그리고 사업 제안이 거절된 동기까지 모두 갖추고 있어 수단·기회·동기가 일치한다. 수혜는 CCTV 관련 불안한 반응과 도박 걱정 정도의 정황만 있고 살해 수단과의 연결이 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The narrative emphasizes 수빈's repeated use of competition shotguns, secretive behavior (curtains, night activity, sound equipment), and strong competitive drive regarding business goals with 하성 — all pointing to means and motive. 수혜's details center on shared hobbies and 하성's gambling debts, but she chose to stay by him.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"한결은 얼음 조각 대회에 참가해 작은 도구를 다루는 손놀림이 능숙하다는 묘사가 있고, 송곳은 얼음 조각용 도구와 유사하다. 또한 영호의 행방에 대해 모호하게 답하며 회피하는 태도를 보였다. 강민은 종교 모임과 전통 요리에 관한 이야기로 사건과의 직접적 연결이 약하다.
+
+### ANSWER
+A"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,A,A,"Card was originally in the bag; Mina moved it to the table but Seongho was distracted and didn't observe this, so his belief remains that it's in the bag.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"Sena herself moved the badge to the entrance shelf, and when Eunji later moved it into the backpack, Sena was distracted answering volunteers' questions and looking down. So Sena's belief remains that the badge is on the entrance shelf.
+
+### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,A,A,"Eunji personally moved the volunteer pass into the backpack and confirmed the mask there, so she knows its current location.
+
+### ANSWER
+A"
+object_placements,C,C,"민재는 준호가 수첩을 가방으로 옮기는 것을 보지 못했으므로, 여전히 수첩이 원래 위치인 책장에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,B,B,"민재는 카메라를 탁자로 옮겼고, 지영이 탁자의 카메라를 서랍에 넣을 때 같은 공간에서 주변 상황에 신경 쓰며 함께 있었으므로 그 이동을 인지했다. 따라서 민재는 서랍을 먼저 확인할 것이다.
+
+### ANSWER
+B"
+object_placements,A,A,"준호가 직접 수첩을 책장에서 가방으로 옮겼으므로, 그는 수첩이 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,B,B,"Junho missed the move to the table but was attentively watching Jiyoung when she placed the camera into the drawer, so his belief updates to the drawer.
+
+### ANSWER
+B"
+object_placements,C,C,"지영은 준호가 수첩을 책장에서 가방으로 옮기는 것을 보지 못했으므로, 여전히 수첩이 책장에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"민철이 직접 선반에서 USB를 집어 콘솔 본체로 옮겼으므로, 그는 USB가 콘솔 본체에 있다고 알고 있다.
+
+### ANSWER
+D"
+object_placements,C,C,"민철은 현수가 게임 패드를 거실 탁자로 옮길 때 탁자를 등지고 있어 그 이동을 보지 못했다. 따라서 그는 원래 위치인 방 안 서랍을 먼저 확인할 것이다.
+
+### ANSWER
+C"
+team_allocation,C,C,"Jihoon conflicts with both Minyoung and Sujin, so he should work alone; his technical innovation experience fits R&D. Minyoung and Sujin have proven synergy and both excel at data (visualization, statistics software, numerical interpretation), making them an effective data analysis pair.
+
+### ANSWER
+C"
+team_allocation,A,B,"민지는 창의적 과학 문제 해결에 강해 연구 개발에 적합하고, 지수는 데이터 분석 프로젝트의 전략 수립을, 현우는 구체적 데이터 처리를 담당하므로 둘이 데이터 분석 팀에서 상호 보완됩니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Sumin is strong in content but weak in tech and conflicts with both others, so he should work alone on content. Yerin and Jihoon are both technically capable and have proven successful collaboration, making them ideal as the tech support pair.
+
+### ANSWER
+A"
+team_allocation,C,C,"Both 예은 and 태호 have clear marketing experience and success, while 지수 failed at social media strategy and prefers creative problem-solving. So 지수 is best left to the data scientist role with the two proven marketers in marketing.
+
+### ANSWER
+C"
+team_allocation,C,C,"Seojin has conflicts with both Yuri and Donghyeok, so placing him alone on R&D avoids friction, while Donghyeok (branding/creative) and Yuri (marketing) have a proven successful collaboration and fit the sales strategy role perfectly.
+
+### ANSWER
+C"
+team_allocation,B,B,"Seoyoon clashes with both Nayoung and Jihoon, while Jihoon and Nayoung have a proven successful partnership, so Seoyoon should work alone. Since Seoyoon has fitness certifications and program-improvement experience but struggles with facility work, placing Seoyoon solo on the exercise program team and pairing Jihoon with Nayoung for facilities avoids conflict and uses strengths.
+
+### ANSWER
+B"
+team_allocation,B,B,"수민은 기획 경험이 풍부하지만 두 사람 모두와 갈등이 있어 단독 역할이 적합하고, 예린과 지호는 함께 일할 때 시너지가 좋으며 지호는 상담에 최적입니다. 따라서 수민을 기획자로, 예린·지호를 상담 팀으로 배치하는 것이 갈등을 최소화하고 강점을 살립니다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Sejin lacks analytical skills but excels in development, while Dayoung and Minjae both have strong data analysis records and proven collaboration together—keeping them paired also avoids Sejin's conflicts.
+
+### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,C,C,"The gift card was moved by 하늘 to the desk; later 동욱 moved it to the big bag, but 하늘 was absorbed in planning and did not notice. So 하늘's belief remains that it is on the desk.
+
+### ANSWER
+C"
+object_placements,C,C,"Boram herself moved the earrings to the entryway shelf, so she knows their location there.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"Boram이 귀걸이를 현관 선반으로 옮길 때 정우는 혜진과 메이크업 논의에 몰두해 이를 보지 못했으므로, 정우는 귀걸이가 여전히 원래 위치인 거실 탁자에 있다고 믿는다.
+
+### ANSWER
+A"
+object_placements,A,A,"정우는 직접 목걸이를 화장대 서랍에서 거실 탁자로 옮겼으므로, 그는 목걸이의 최신 위치를 알고 있다. 따라서 거실 탁자를 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements,A,A,"Boram moved the earrings to the entrance shelf while Hyejin was absorbed in examining her dress and didn't notice. So Hyejin still believes they are in their original place, the living room table.
+
+### ANSWER
+A"
+object_placements,A,D,"혜진 본인이 목걸이를 화장대 서랍으로 옮겼고, 이후 정우가 거실 탁자로 옮길 때 혜진은 메이크업 논의와 드레스 확인에 몰두해 이를 보지 못했다. 따라서 혜진의 믿음은 여전히 화장대 서랍에 머물러 있다.
+
+### ANSWER
+D"
+team_allocation,B,B,"수지는 작곡 전문성이 뛰어나지만 대인 소통에 약하므로 작곡 팀에 적합하고, 영민은 소통과 조율에 강해 프로모션에 적합하며, 다희는 창의적 아이디어를 영민이 조율해줄 수 있으므로 프로모션 팀이 알맞다.
+
+### ANSWER
+B"
+team_allocation,C,C,"수현은 작곡에 최고의 실적이 있고, 영민과 지호는 프로듀싱 경험이 풍부하며 과거 협업도 만족스러웠다. 수현을 작곡 팀에 단독 배치하면 갈등도 피할 수 있다.
+
+### ANSWER
+C"
+team_allocation,B,B,"Jiwoo excels at client interaction, and Doyoung works well with Jiwoo (while clashing with Seohyun), so pairing them as consultants avoids conflict and leverages strengths. Seohyun's poor communication and argumentative style make her unsuitable for client-facing work, so she should work alone as designer, using her planning/analytical skills. This arrangement separates the conflicting pair.
+
+### ANSWER
+B"
+team_allocation,C,C,"미혜는 데이터 분석과 시장 조사에서 강점이 있어 단독으로 시장 조사에 적합하고, 동욱은 생산 관리 경험, 수진은 세밀한 수작업에 전문성이 있어 생산 팀에 어울린다. 갈등 관계는 모든 조합에서 발생하므로 강점 활용이 우선이다. 따라서 미혜-시장 조사, 동욱·수진-생산이 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation,B,B,"수민은 다영·현우 모두와 갈등이 있었고, 다영과 현우는 친밀하며 협업 성공 경험이 있다. 따라서 수민을 단독으로 기획 팀에 배치하면 그의 기획 경험과 창의적 문제해결 능력을 활용하면서 갈등을 피할 수 있다. 다영과 현우는 함께 자원봉사 관리에서 시너지를 낼 수 있다.
+
+### ANSWER
+B"
+team_allocation,B,B,"은지는 화학 전공에 디테일 강점으로 제품 개발에 최적이고, 민호는 전략적 시야로 브랜드 마케팅에 적합합니다. 태수는 소비자 인사이트와 시장 조사 경험이 있어 마케팅에서 민호의 큰 그림을 보완할 수 있습니다. 또한 은지와 태수를 분리하면 이전 갈등도 피할 수 있습니다.
+
+### ANSWER
+B"
+team_allocation,B,B,"서진은 창의적 콘텐츠 제작을 주도한 경험이 있어 콘텐츠 작성자로 적합하고, 민수는 웹 개발 전문성이 있으며 다영과 협업이 안정적이므로 두 사람이 개발을 맡는 것이 갈등도 피할 수 있다.
+
+### ANSWER
+B"
+team_allocation,A,A,"소민은 기술 구현에 탁월하므로 개발 팀에 단독 배치하는 것이 적절하고, 다예의 UI/UX 감각과 재훈의 테스트 전문성은 사용자 테스트 팀에서 시너지를 낼 수 있다. 소민은 다예·재훈 모두와 갈등이 있으므로 분리하는 것이 유리하다.
+
+### ANSWER
+A"
+object_placements,A,A,"지우가 USB를 선반으로 옮겼고, 민철이 다시 콘솔로 옮길 때 지우는 구석을 살피며 시선을 떼고 있었으므로 그 이동을 보지 못했다. 따라서 지우는 여전히 USB가 선반에 있다고 믿는다.
+
+### ANSWER
+A"
+object_placements,B,B,"Jiwoo attentively watched Hyunsu carrying the item, so she witnessed the game pad being moved to the living room table.
+
+### ANSWER
+B"
+object_placements,A,A,"현수는 지우가 USB를 선반으로 옮길 때 선반 주위를 살피고 있어 그 이동을 알았지만, 민철이 USB를 다시 콘솔로 옮길 때는 반대 방향에서 선 정리를 하고 있어 보지 못했다. 따라서 현수는 USB가 여전히 TV 근처 선반에 있다고 믿는다.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,A,A,"민규는 졸업증서를 가방에 넣으면서 가방 안의 축하카드를 직접 옮겼으므로, 카드가 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"The card was moved from the shelf into the bag by 지영, and 보람 was watching 지영 the entire time, so she knows it's in the bag. 민규 only shifted it slightly within the bag afterward. Thus 보람 would look in the bag first.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Geonyeong의 서술에는 나영이 그의 비밀을 쥐고 금전적 압박을 가했다는 명확한 동기, 은밀한 이사 계획, 폭력적 충돌 전력, 그리고 도배·공사 작업으로 녹음실을 자유롭게 드나들며 납파이프 같은 도구에 접근할 수 있는 수단이 모두 드러난다. 지현은 질투심과 DIY 취미가 언급되지만 구체적 갈등이나 은폐 행동은 없다. 동기·수단·기회가 모두 수렴하는 인물은 건영이다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"건영은 나영에게 공갈(금전적 압박)을 당하고 있었다는 녹음 증거가 있어 명확한 살해 동기를 가진다. 또한 도배사로서 녹음실 구조에 익숙하고 납파이프 같은 공구 접근성도 있다. 지현은 밴드 동료로서 긍정적 관계만 드러나고 동기가 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Daon purchased a chain, frequents the swamp, had access to Nahee's phone and the location map, while Seoin had a friend present and a routine work alibi.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"서인은 살해 도구인 쇠사슬을 일상적으로 사용하고, 시신이 발견된 늪을 자주 드나들며 목격되었고, 피해자의 활동에 유별난 관심을 보였다 — 즉 도구·기회·관심이 모두 갖춰져 있다. 반면 다온에 대한 단서는 정황적이고 형사 스스로 정보가 부족하다고 인정한다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"유하는 폭탄 부품 검색 및 구매 기록, 현금으로 화학물질 구매, 잠긴 작업실에서 밤마다 들리는 기계 소리 등 실제 폭탄 제조를 시사하는 구체적 물증이 있다. 서율은 동기(민도의 조롱)와 관심사는 있으나 취미·창작 목적으로 설명되는 정황 수준에 머문다. 따라서 유하가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,A,B,"Seoyul has engineering background, builds electronics, studies blueprints, subscribes to timed-bomb articles, tracks others' schedules, and was seen with the victim — all directly matching a timed bomb killing. Yuha's chemicals and mysticism are more generic red herrings.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"The victim bore a secret society symbol, and 시현 possessed secret society books, attended invitation-only meetings where he saw 미영, had special park access via VIP membership, and played baseball regularly. 시환's details (bat ownership, strength, being with 미영) are largely innocuous background, while 시현's clues directly tie to the unique ritualistic marker on the body.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"시환은 미영과 함께 보험 서류를 작성했고(금전적 동기), 집 열쇠와 서랍 접근권을 가졌으며, 사건 당일 미영과 함께 놀이공원에 있었고, 직접 구매한 야구 배트를 소지했습니다. 시현의 정황은 단순한 VIP 멤버십과 야구 취미에 그쳐 직접적 연결이 약합니다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The weapon (송곳/ice pick) could link to either, but 한결 shows clear motive—jealousy after reading 영호's messages and confronting him that night—plus a conveniently self-serving ""broken window/burglar"" explanation deflecting blame. 강민's details (kitchen tools, ice, cult) provide access but no personal grievance against 영호. Motive plus the suspicious deflection points to 한결.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Reasoning: 제욱은 무기 사용 무술 대회 참가자로 칼 사용 능력이 있고, 원혁이 새 무리와 어울리며 자신을 잊는다는 데 대한 질투와 우려라는 동기가 드러난다. 병규는 정보원이라는 복잡한 배경만 있고 살해 동기나 수단이 뚜렷하지 않다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"제욱은 원혁이 새 친구들과 어울리는 것에 대한 질투라는 동기, 여행 중 행적에 대한 일관성 없는 알리바이, 그리고 질문 시 손 떨림 등 불안 반응을 보였다. 병규는 무기 지식은 있으나 경찰 정보원으로서 오히려 피해 가능성이 언급되며 원혁과의 신뢰 관계가 강조된다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Story emphasizes 시욱's metal sculpture expertise, purchases of metal materials from hardware store, familiarity with the resort, and impulsive/unpredictable behavior — all matching a murder by 철조망 (barbed wire).
+
+### ANSWER
+B"
+murder_mysteries,A,A,"민준은 철조망 사용에 익숙하고 설치 교육까지 받았으며, 공급업체 할인 계약으로 재료 접근성이 있고, 예은의 외도 소문이라는 동기까지 갖췄다. 시욱은 금속 공예 취미가 있으나 피해자와의 직접적 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Kiju has direct access to dart pins as a competitive dart club champion, the crime scene was his own office within the company, and he has documented impulse-control issues with violent outbursts. Donghun's dart connection is only incidental through kindergarten activities.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"기주는 다트 대회 우승 경력으로 다트핀을 정확히 사용할 능력이 있고, 시나의 야간 근무 스케줄을 알고 있었으며, 조울증으로 인한 충동 조절 문제(의자를 창밖으로 던진 사건)까지 있다. 반면 동훈은 유치원 미술 활동에 다트를 쓴다는 정도이고 시나에 대한 호감만 드러난다. 수단, 기회, 동기(충동성)가 모두 겹치는 쪽은 기주다.
+
+### ANSWER
+A"
+murder_mysteries,A,B,"원찬은 낫에 대해 깊이 연구하고 직접 제작까지 했으며, 시라가 친한 친구의 비밀을 폭로하려 했다는 동기와 ""사랑하는 사람을 지키기 위해 무엇이든 하겠다""는 발언까지 있다. 반면 재하는 시라와의 친밀한 관계와 정원 관리 정도만 드러나 있어 살해 수단·동기가 약하다. 따라서 낫에 의한 살인과 가장 부합하는 인물은 원찬이다.
+
+### ANSWER
+B"
+object_placements,A,A,"현수 자신이 마스크를 배낭으로 옮겼으므로, 그의 신념은 마스크가 배낭에 있다는 것이다. 이후 마스크의 위치는 변경되지 않았다.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"승원은 재형이 사진을 선반에서 책상으로 옮기는 동안 자기 생각에 몰두해 변화를 놓쳤으므로, 사진이 여전히 선반에 있다고 믿고 있다.
+
+### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,D,D,"재형 자신이 사진을 선반에서 책상으로 옮겼으므로, 사진의 현재 위치를 정확히 알고 있다. 따라서 그는 책상을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"Jiyoung was distracted (looking down at her notes) when Jaehyung moved the photo from the shelf to the desk, so she still believes it is in its original location on the shelf.
+
+### ANSWER
+C"
+murder_mysteries,A,A,"가현은 폭발물 제조법 검색, 화학 재료 대량 구매, 타이머 전자 부품 구입, 전자공학 전공, 래프팅 일정 이메일 등 수단·기회·계획의 구체적 증거가 모두 연결된다. 태민은 불규칙한 근무와 지출 등 모호한 정황뿐이며 시한폭탄과의 직접적 연결이 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"가현에게는 명확한 동기(태훈이 비밀 파일을 열람함), 기회(장비 제공과 래프팅 일정 이메일로 시간 파악 가능), 그리고 정황 증거(검은 옷 구입, 옷 처분, 체포 기록)가 모두 갖춰져 있다. 태민은 잔혹한 성향과 시설 접근 권한이 있으나 태훈을 살해할 개인적 동기가 제시되지 않았다. 시한폭탄은 정확한 일정 정보가 필요하며, 이는 가현이 가장 잘 알고 있었다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"태희는 의료 공급실 열쇠와 주사기 사용 경험, 담희의 파일 열람, 패러글라이딩 일정 파악 등 수단·기회·정보를 모두 갖추고 있다. 호준은 약물 자료와 야외활동 권유 정도로 직접적 수단이 약하다. 따라서 태희가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"호준은 약물 지식과 의료 용품 목록을 갖고 있었고, 담희에게 위험한 비밀을 밝혔으며 그녀가 그 자료를 조사했다는 동기가 있고, 야외 활동(패러글라이딩)을 권유한 인물이다. 이는 주사기 살해와 범행 장소 모두와 직접 연결된다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"민규는 해솔에게 인정받지 못했다는 불만, 감사 인사를 받지 못한 서운함, 경쟁업체 계약 문제 등 명확한 동기가 드러나며, 밤중 활동 등 의심스러운 정황도 제시된다. 반면 시연은 기계 정비 능력이 있을 뿐 해솔에 대한 원한이나 동기가 전혀 언급되지 않는다. 따라서 동기와 정황을 모두 갖춘 민규가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"민규는 자동차 정비소 경력과 차량 점검 경험으로 드라이버라는 흉기에 대한 접근성이 있고, 해솔이 그의 제안을 거절하고 대회 후 감사를 표하지 않았으며 다른 계약을 추구했다는 명확한 동기가 드러난다. 시연은 주로 관찰·정보 수집 성향만 나타나며 살해 도구와의 연결이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"희준은 기계공학 전공으로 절단기 사용 훈련을 받았고, 실제로 그 절단기를 연구 프로젝트에 사용했으며 성렬과 같은 코스·대회에 참여해 접근 기회도 있었다. 예성은 재산 갈등이라는 동기는 있으나 살해 도구인 절단기와의 연결이 없다. 살해 수단과 직접 연결된 인물이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"예성은 이혼 및 재산 분할 갈등, 해고로 인한 강한 동기를 갖고 있고, 의사로서 기기 취급에 능숙하며 성렬의 첫 수업에 참여해 장비를 점검할 접근 기회까지 있었다. 반면 희준은 절단기 관련 기술만 있을 뿐 피해자와의 갈등이나 동기가 드러나지 않는다. 동기·수단·기회가 모두 결합된 인물은 예성이다.
+
+### ANSWER
+B"
+object_placements,D,D,"Jiyoung was absorbed in event planning and did not observe Boram moving the diploma from the desk to the drawer, nor Mingyu's later move to the bag. So her belief remains that it's on the desk.
+
+### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,A,A,"Sangmin was practicing and conversing with Jinwoo at the front of the stage, away from where Sujeong moved the materials, so he didn't witness the transfer. His belief remains that the presentation materials are in the bag.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"Jinwoo was in a completely different location when Sujeong moved the materials from the bag to the table, so he did not observe that change. His belief remains the initially shared knowledge that the presentation materials are in the bag.
+
+### ANSWER
+A"
+object_placements,C,C,"진우는 스피커를 연단으로 옮긴 이후, 상민이 스피커를 보관함에 다시 넣는 장면을 보지 못했다(진우는 무대 뒤편에서 다른 장비 점검에 몰두). 따라서 진우의 믿음은 여전히 스피커가 연단에 있다는 것이다.
+
+### ANSWER
+C"
+object_placements,A,A,"Sanghyun was looking elsewhere when Sea moved the bottle to the entrance desk, so he still believes it's in its original location, the stadium waiting area.
+
+### ANSWER
+A"
+object_placements,A,A,"### ANSWER
+A"
+team_allocation,C,C,"Both 은수 and 지훈 are strong in frontend, while 서연 is weak at UI, so 서연 shouldn't be assigned there. Since 은수 conflicts with 서연 emotionally, pairing 서연 with 지훈 (proven strong teamwork) on SEO compensates for their analytical weaknesses, leaving 은수 to leverage his frontend strength alone.
+
+### ANSWER
+C"
+team_allocation,C,B,"서영은 기술적 문제 해결과 독립적 작업에 강점이 있어 개발 업무가 적합하고, 민재는 소통과 고객 불만 처리 경험이 풍부해 고객 지원에 최적이다. 지훈은 리더십 발휘 의지가 있어 고객 지원 쪽에서 성장 기회를 얻을 수 있다. 따라서 서영을 개발, 민재와 지훈을 고객 지원에 배치하는 것이 가장 합리적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Juhyun prefers working alone and has analytical/biochemistry skills suited to the research lab, while Subin and Gyeongmin both excel at collaboration and have proven success together in clinical trial projects.
+
+### ANSWER
+A"
+team_allocation,C,C,"Sumin has an education degree and prior content development experience but dislikes numbers/statistics, making her the natural content developer. Jihyun and Dongwoo both prefer rule-based, systematic work and have prior evaluation experience, fitting the evaluation role.
+
+### ANSWER
+C"
+team_allocation,A,A,"Sehyun struggled with planning projects but excelled at cooperating with volunteers, while Dayoung and Minji both have creative, successful planning experience and complementary strengths.
+
+### ANSWER
+A"
+team_allocation,B,B,"수미는 프론트엔드 개발에 뛰어난 평가를 받았고 코딩을 선호하며 QA에서는 신뢰를 잃은 이력이 있다. 민아는 QA에 탁월하고 프론트엔드에서는 오류를 놓쳤다. 경준은 QA를 선호하지 않지만 UI 세부사항에 약하고 민아와 협업 경험이 좋아 QA 팀에서 민아와 함께 배치하는 것이 갈등도 최소화된다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Skill-wise, 수진's psychology background fits user research, while 다영 and 명호 both have strong programming/problem-solving skills for tech development. Placing 수진 alone also removes her critical friction with both others, and 다영's strong mediation skills can help manage the past conflicts with 명호. This maximizes competence fit in both teams.
+
+### ANSWER
+C"
+team_allocation,A,A,"서진과 가영은 갈등이 잦고, 민수는 시각 디자인과 사용자 피드백 반영에 약점이 있어 UX에 부적합합니다. 반면 가영과 민수는 협업 이력이 좋아 함께 배치하면 시너지가 납니다. 따라서 서진을 UX 디자이너로, 가영·민수를 백엔드로 배치하는 것이 갈등을 피하고 강점을 살립니다.
+
+### ANSWER
+A"
+team_allocation,B,C,"Nayeon has the strongest trainer credentials (certifications, PE major) but struggles with creativity and conveying ideas, making marketing a poor fit. Jaeho is skilled in both training and marketing with strong communication, so he can anchor marketing and support Suhyun, who fears marketing but is passionate. Thus Nayeon as trainer, with Suhyun and Jaeho in marketing, best leverages strengths.
+
+### ANSWER
+C"
+team_allocation,A,A,"수민은 의료 학위와 병원 경험이 있어 의료 전문가로 적합하고, 하영은 마케팅 전문성과 조율 능력이 뛰어나 마케팅 팀에 적합합니다. 도현은 의료 지식이 없으므로 마케팅 팀에 배치하는 것이 합리적이며, 수민과 도현의 갈등도 분리로 피할 수 있습니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"지영은 고객 대면에 불편함을 느끼고 연구·교육 경험이 많아 프로그램 개발에 적합하며, 다연과 승현은 대인 관계와 고객 응대에 강점이 있고 서로 협업 경험도 좋다. 또한 지영과의 갈등 문제를 피할 수 있어 팀 조화에도 유리하다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Sejin excels at customer interaction but lacks facility skills, while Areum is strong with machinery but anxious with customers. Minsu is weak in both, so he's best placed as support in facilities where he isn't the customer-facing point, despite friction. Option A maximizes each person's strengths.
+
+### ANSWER
+A"
+team_allocation,A,A,"Seojin has policy expertise; Nayoung and Minsu work well together and excel at creative communication.
+
+### ANSWER
+A"
+team_allocation,A,C,"Dayoung's strength is content focus, while Jinwoo excels at user-centered UX design; Seohyun's technical strength fits UX work better than content. Assigning Dayoung to content also separates her from Seohyun, avoiding their known conflict.
+
+### ANSWER
+C"
+team_allocation,B,A,"Both 소미 and 태훈 excel at visual content while 민지 lacks creative/editing skills, so 민지 shouldn't be the content creator (ruling out C, which also pairs the conflicting 소미–태훈). 태훈's award-winning video work and strong engagement make him the strongest content creator, and 민지 works well with him. Thus 태훈 on content, with 민지 and 소미 handling analysis.
+
+### ANSWER
+A"
+team_allocation,A,A,"지안은 사용자 인터페이스와 피드백 분석에 강점이 있고, 도영과 수민은 기술력이 뛰어나며 서로 협업 경험이 좋다. 또한 지안은 수민, 도영과 각각 충돌이 있어 분리하는 것이 유리하다.
+
+### ANSWER
+A"
+object_placements,D,D,"정훈이 직접 펜을 책장에서 탁자로 옮겼으므로, 그는 펜이 탁자에 있다고 알고 있다. 이후 펜의 위치는 바뀌지 않았다. 따라서 탁자를 먼저 확인한다.
+
+### ANSWER
+D"
+object_placements,D,D,"Jeonghun missed both moves: he was watching the window when Hyejin moved the letter to the drawer (and got no signal), and he was absorbed in planning when Jimin moved it to the bag. So his belief remains the original location.
+
+### ANSWER
+D"
+object_placements,C,C,"지민은 정훈이 펜을 탁자로 옮길 때 갑작스러운 소리에 놀라 다른 방향을 보고 있었고, 정훈은 소리 없이 움직였으므로 지민은 그 이동을 알지 못한다. 따라서 지민은 여전히 펜이 원래 위치인 책장에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,A,A,"지민이 직접 편지를 가방으로 옮겼으므로, 지민은 편지가 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,C,C,"혜진은 정훈이 펜을 옮길 때 혼자 생각에 잠겨 있어 그 이동을 보지 못했으므로, 여전히 펜이 원래 위치인 책장에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,B,B,"Hyejin이 편지를 서랍으로 옮겼고, 지민이 편지를 가방으로 옮길 때 혜진은 표현을 고치느라 이를 보지 못했다. 따라서 혜진은 여전히 편지가 서랍에 있다고 믿는다.
+
+### ANSWER
+B"
+object_placements,B,B,"Dohyun was distracted checking announcements and the shopping list when Suhyun took the card to the lounge, so he didn't witness the move. His belief remains that the card is where it was originally—the information desk.
+
+### ANSWER
+B"
+object_placements,C,C,"Dohyun himself moved the coupon into the wallet, so he knows its current location.
+
+### ANSWER
+C"
+object_placements,D,D,"The story states 수현 personally took the card from the information desk to the break room, so she knows its location.
+
+### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"Suhyun moved the card to the rest area while Jimin was beside Suhyun, asking questions and watching Suhyun's work, so Jimin witnessed the move. Thus Jimin's belief is updated to the rest area.
+
+### ANSWER
+D"
+object_placements,A,A,"지민은 쿠폰을 손에 쥐고 계산대로 갔고, 도현이 쿠폰을 지갑으로 옮기는 장면은 지민이 다른 곳을 보고 있어 목격하지 못했다. 따라서 지민의 믿음은 여전히 쿠폰이 계산대에 있는 자신의 손/자리에 있다는 것이다.
+
+### ANSWER
+A"
+object_placements,C,C,"민지는 상준이 여권을 서랍에 넣는 것도, 주현이 여권을 가방에 넣는 것도 보지 못했으므로 여권이 여전히 원래 위치인 책장 위에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,B,B,"Seah observed Jungmin moving the helmet to the practice room shelf, but when Sanghyun later moved it to the stadium waiting area, she was focused on the cheering squad and didn't see it. So her belief remains the practice room shelf.
+
+### ANSWER
+B"
+object_placements,D,D,"Water bottle was moved by 세아 to 출입구 책상, and 정민 was watching for changes in item positions at that time, so he knows the new location.
+
+### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"The notebook was originally in the kitchen cabinet; Hyejin moved it to the entrance drawer while Hojun was in the living room writing a memo and not looking. So Hojun still believes it is in the kitchen cabinet.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+murder_mysteries,B,B,"원찬은 낫에 대한 전문 지식과 제작 경험, 그리고 친구를 보호하기 위해 위험을 감수하는 성향, 시라가 친구를 협박했다는 명확한 동기까지 갖추고 있다. 반면 재하는 단순히 근처에 살며 시라와 소원해진 것에 섭섭함을 느낀 정도로 살해 수단이나 강한 동기가 드러나지 않는다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"태현은 동기(사업 실패로 인한 빚, 변호사를 통한 유산 정보), 수단(민수의 엽총 공유, 사격 교관·대회 우승 경력), 기회(스쿠버다이빙 장소를 좋아하고 시찬과 자전거를 빌리기로 한 약속) 모두를 갖추고 있다. 유연은 사격 취미와 엽총 매장 방문 등 정황이 있으나 살해 동기가 제시되지 않았다. 따라서 세 요소가 모두 결합된 태현이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"지완은 창 던지기 대회 우승 경력(살해 도구 사용 능력), 목수로서 도구를 변형·관리하는 기술, 포도원 관리인과의 친분을 통한 현장 접근성, 그리고 이혼 후 재산 분쟁과 재정 문제라는 강력한 동기를 모두 갖추고 있다. 채아는 가족 전통 비판에 대한 불편함과 초조한 태도만 드러나며 흉기와의 직접적 연결이 없다. 따라서 창에 의한 살인과 가장 부합하는 인물은 지완이다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"지완은 재산 분쟁이라는 명확한 동기, 창 던지기 대회 우승 경력, 도구 변형 기술, 세탁하지 않는 작업복 등 물리적 증거 가능성까지 갖추고 있다. 채아는 가족 전통과 무기 수집이라는 정황적 배경만 있고 직접적인 능력이나 강한 동기가 약하다. 따라서 지완이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The murder weapon was a grenade, which requires specialized knowledge and access—Hyunsu has special military mission experience, exclusive access to military equipment materials, detailed insider knowledge of the resort's layout via a friend, reconnaissance of the area, and a strong financial motive (huge medical bills). Yunwook shows nervousness and had a blackmail-related motive, but no means or capability with explosives. The convergence of means, opportunity, and motive points to Hyunsu.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Yunwook had military academy training, family involvement in munitions (grenade access), and a motive since Yeonggyu was blackmailing him. Hyunsoo's bulk purchases and pest-control books suggest suspicion but not grenades. The means-motive combination points to Yunwook.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Both suspects have motive and access to a crossbow, but 다연's evidence is more incriminating: she won a crossbow as a prize, practiced target shooting, and notably took the crossbow secretly without anyone knowing—showing concealment—while being directly threatened by 영규 with evidence of her affair. 병준's crossbow purchase was openly recorded to his own home address, and he showed no evasiveness.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Dayeon had a clear motive (Yeonggyu hacked her personal email), access to the murder weapon (she admitted secretly taking the crossbow prize), skill with shooting (she hosted shooting contests), and control of the kitchen as its manager. Byeongjun had skills and a crossbow but only friendship with the victim and no motive.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"지향은 공사 현장을 자주 방문한다는 점에서 흉기인 쇠파이프에 접근할 수 있고, 재하와의 사업 손실이라는 동기도 있으며, 사건 당시 재하와 함께 있었다. 연주는 협박 동기는 있으나 흉기와의 연결 고리가 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The narrative highlights 지향's clear motive—financial losses from a business relationship where 재하 prioritized his own profit, plus a spy planted in his company—and she was physically with 재하 adjusting equipment at the site. 연주's details mostly concern access and fitness (means), but no real grievance against 재하. Motive combined with direct proximity makes 지향 the stronger suspect.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"도영은 사격 클럽 정회원으로 최근 권총을 구매했고, 이혼과 자녀 양육 문제라는 동기가 있으며, 해경이 아내와 친해 비밀을 알 수 있는 위치에 있었다. 다희는 청소 화학물질과 패러글라이딩 지식은 있지만 총기 접근 수단이 드러나지 않았다. 살해 도구가 권총이므로 수단·동기·기회가 모두 맞는 쪽은 도영이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"다희는 해경이 스캔들을 폭로하겠다고 위협했다는 동기가 있고, 사격장을 자주 다니며 패러글라이딩 동호회 회원으로 범행 장소와 수단 모두 연결됩니다. 도영은 사격 실력과 합법적 총기 소지가 언급되지만 피해자와의 갈등이나 동기가 전혀 없습니다. 동기·수단·기회가 모두 갖춰진 인물은 다희입니다.
+
+### ANSWER
+B"
+murder_mysteries,B,A,"The Jiyu narrative only establishes technical/hacking ability, which is irrelevant to a strangling by scarf, while Hangyeol had a clear motive (Hagyeong leaked his secret, and she had a prior record of breaking confidences), opportunity as co-organizer present at the paintball field, and access during cleanup afterward.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"한결은 스카프를 브랜드 이미지로 사용하는 웨딩 플래너로 살해 도구에 대한 접근성이 뚜렷하고, 하경이 경기 중 엿들은 대화와 비밀 유출에 대한 우려를 드러내며 동기까지 암시됩니다. 지유는 패션과 보안 관련 단서는 있으나 직접적인 흉기 연결이나 동기가 약합니다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Minji has all three elements: motive (patent/product dispute with Chaewon), means (chemical engineering, explosives disposal experience, weapons contacts), and opportunity (intimate familiarity with the farmhouse from childhood). Haekyung's evidence is mostly about capability and interest, while her supposed motive is undercut (she refused money, valued emotional support). Thus Minji is the most likely culprit.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"민지는 화학공학 전공과 실험실 경력, 군사 훈련 경험을 갖추고 있고, 면담 중 시선 회피·손톱 물어뜯기 등 불안 반응을 보였으며, 방문객을 거부하고 커튼을 닫은 채 혼자 지내는 은폐적 행동이 두드러진다. 해경의 화학 지식은 학문적 호기심과 정서적 교류 중심 동기로 설명되는 반면, 민지는 수단과 기회, 은밀한 행태가 모두 결합되어 있다.
+
+### ANSWER
+B"
+team_allocation,A,A,"지훈만이 UI/UX 디자인 역량과 웹 디자인 열정을 갖추고 있고, 수민과 다영은 시각 디자인 경험이 없으나 조직적·효율적 업무 처리에 강점이 있다. 또한 지훈은 수민·다영 모두와 마찰이 있었으므로 지훈을 웹 디자인에 단독 배치하는 것이 갈등을 최소화한다.
+
+### ANSWER
+A"
+team_allocation,A,A,"서진은 사용자 인터페이스 설계 경험이 있고, 민수와 예린 모두와 갈등이 있으므로 단독으로 UX/UI를 맡기는 것이 적절하다. 민수는 백엔드에 뛰어나고, 예린도 코딩에 관심이 있으며 민수와는 협업 성공 경험이 있어 백엔드 팀으로 함께 배치하는 것이 효율적이다.
+
+### ANSWER
+A"
+team_allocation,C,C,"서진은 창의적이지만 미디어 관계에서 갈등 이력이 있어 이벤트 기획에 적합하고, 예은은 미디어 채널과 좋은 관계를 유지하며, 태호는 체계적·정교한 전략 업무에 적합합니다. 따라서 예은과 태호를 미디어 커버리지에 배치하는 것이 각자의 강점을 살리는 배치입니다.
+
+### ANSWER
+C"
+team_allocation,B,C,"Sangmin excels at creative visual storytelling, making him ideal for storyboarding, while Doyoung's technical strength fits animation. Jihye lacks creative vision, so she belongs with the animation team despite her friction. Option C maximizes strengths.
+
+### ANSWER
+C"
+team_allocation,B,C,"하은은 기술적 문제 해결과 플랫폼 경험이 전무하므로 콘텐츠 제작에 적합하고, 수민은 프로그래밍 이해도와 플랫폼 경험이 있어 개발에 필수적입니다. 세진은 플랫폼 성과가 부족하지만 창의적 아이디어가 있어 수민과 함께 개발 팀에 배치하면 보완이 가능합니다. 따라서 하은=콘텐츠, 세진+수민=플랫폼 조합이 가장 효율적입니다.
+
+### ANSWER
+C"
+team_allocation,A,A,"은지는 체육 열정과 학생 소통 능력이 뛰어나 코치에 적합하고, 서윤과 태우는 모두 체계적·행정적 업무에 강점이 있어 운영 지원에 배치하는 것이 각자의 강점을 살리는 방식입니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"서진은 세부사항 파악과 프로젝트 관리에 강하고 대면 업무를 꺼리므로 패키지 개발에 적합하며, 미나는 소통 능력이 뛰어나 고객 서비스에 적합합니다. 현우는 세부 실수 우려가 있지만 열정이 있어 미나와 함께 고객 서비스에서 성장할 수 있습니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"Jihyun struggles with communication and works best alone, so she fits lecture/course development requiring creativity. Dongwook excels at calm communication and is meticulous, while Sumin is strong at systematic, detailed planning—both suited to student management.
+
+### ANSWER
+C"
+team_allocation,B,B,"수현은 데이터 세트에 혼란스러워하지만 지훈·미나 모두와 협업이 어렵기 때문에 단독 업무가 적합하고, 미나는 UI 강점이 뚜렷하며 지훈은 미나와의 팀워크가 검증되었습니다. 따라서 수현을 데이터 분석에 단독 배치하고 미나·지훈을 UI 팀으로 묶는 것이 갈등을 최소화하며 강점을 살립니다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Seohyun avoids data and statistics, making her unsuited for feedback analysis, while Jisoo and Taemin both excel at data analysis and have a proven, mutually respectful collaboration history. Also, pairing Seohyun with Jisoo would risk past conflicts. Thus assigning Seohyun as designer and Jisoo/Taemin as analysts maximizes efficiency.
+
+### ANSWER
+C"
+team_allocation,A,A,"지훈은 섬세한 관리 업무에 강점이 있고 서윤·다민과 모두 갈등이 있으므로 단독으로 선수 관리에 적합합니다. 서윤은 창의적 광고와 대중연설에 강하고, 다민은 서윤의 아이디어를 존중하며 협업에서 좋은 성과를 냈습니다. 따라서 서윤과 다민을 마케팅에 함께 배치하는 것이 최적입니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"지훈은 선수 관리 경험과 선수와의 관계 형성 능력이 뛰어나므로 선수 관리 팀에 적합하고, 수현은 마케팅 경력이 풍부해 마케팅 팀에 적합합니다. 예진은 두 분야 모두 경험이 부족하지만 마케팅 팀에서 수현의 지원을 받는 것이 낫습니다. 따라서 C가 가장 합리적입니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"Sumin's strengths clearly fit planning (detail-oriented, meets deadlines) while Yeongjun excels at public communication and persuasion for PR. This also separates Sumin and Yeongjun, who had past conflicts over responsibility division. Jaehee, though weaker overall, can support PR under Yeongjun's lead, making B the most efficient arrangement.
+
+### ANSWER
+B"
+team_allocation,A,A,"사라는 뛰어난 소통 능력으로 자원봉사 관리에 적합하고, 규정에 철저한 동혁은 안전 관리에 맞으며, 규칙을 잊기 쉬운 지민은 동혁의 감독 아래 두는 것이 효과적이다. 또한 사라를 분리하면 동혁과의 충돌과 지민에 대한 간섭 문제도 줄어든다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Seohyun excels in agricultural detail but errs in distribution, so she fits production; Gihun has distribution experience and collaborates well with Minji, while both avoid conflict with Seohyun.
+
+### ANSWER
+A"
+team_allocation,A,A,"서현은 민수와 보라 모두와 의견 충돌 경험이 있으므로 혼자 역할을 맡는 것이 좋고, 민수와 보라는 함께 있을 때 높은 성과를 낸 경험이 반복적으로 언급되므로 같은 역할에 배치하는 것이 효율적이다. 따라서 서현이 실험 설계자, 민수와 보라가 데이터 분석가로 배치되는 조합이 가장 적합하다.
+
+### ANSWER
+A"
+object_placements,D,D,"상준은 민지가 카메라를 가방으로 옮기는 것을 보지 못했으므로, 여전히 카메라가 원래 위치에 있다고 믿는다.
+
+### ANSWER
+D"
+object_placements,A,A,"주현은 민지가 카메라를 테이블에서 가방으로 옮기는 손동작을 바로 옆에서 지켜보았으므로, 카메라가 가방 안에 있음을 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,A,"민정이 직접 서류를 탁자에서 선반으로 옮겼으므로 서류의 현재 위치를 정확히 알고 있다.
+
+### ANSWER
+A"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"성민이 직접 여권을 책상 위로 옮겼으므로, 그는 여권이 책상 위에 있다고 알고 있다.
+
+### ANSWER
+C"
+object_placements,A,A,"주희는 민정의 움직임에 주의를 기울이고 있었으므로 서류가 선반으로 옮겨진 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+murder_mysteries,B,B,"Formwoo(형우)는 에어건을 선물받아 능숙하게 다루었고, 현정에게 제안이 거절되며 무시당했다는 원한의 동기가 있다. 수아는 농장 도구 숙련과 범죄 이야기 취미뿐, 살인 무기인 에어건과의 연결이나 명확한 동기가 없다. 따라서 수단과 동기를 모두 갖춘 형우가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"수아는 농장에서 도구 및 에어건 사용 경험(수단)과 금전적 압박(동기), 그리고 현장 접근성까지 모두 갖추고 있다. 반면 형우는 프로젝트 무시로 인한 좌절이라는 동기는 있으나 에어건과의 직접적 연결이나 범행 수단이 제시되지 않았다. 따라서 수단·기회·동기가 모두 결합된 수아가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"The weapon was a screwdriver, and 세연 routinely carries and expertly handles such tools underwater, is trained to work skillfully in dark, low-visibility conditions, and has intimate familiarity with the farmhouse from helping at harvest. She also had a concrete motive: 빛나 exposed her private secret after promising to keep it. 동욱's obsession and hidden phone look suspicious but are more circumstantial.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The narrative highlights 동욱's repeated rejected confessions, his withdrawn ""own world"" personality, and his familiarity with the farmhouse and its tools (a screwdriver as the weapon), all of which point to motive, means, and opportunity. 세연's concern was merely about gossip and privacy, a weaker motive presented more sympathetically.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"민정은 늪과 목공 도구에 대한 익숙함, 그리고 대회 상금 실패로 인한 재정적 어려움이라는 명확한 동기를 갖고 있다. 반면 민영은 늪과 목공에 대한 접점은 있으나 공구는 빌린 것이고 동기가 드러나지 않는다. 동현 가족과의 친분 및 친척 사망 언급은 재산 관련 동기까지 시사한다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"민영은 살인 도구(원형 톱 등 공구를 빌려 사용, 목공·건설 경험)와 범행 장소(늪에서 조깅하며 SNS 사진 다수)에 대한 접근성, 그리고 피해자와의 직접적 접촉(요가 수업, 대학 동아리)이 모두 확인된다. 민정은 금전적 동기와 손재주는 있으나 늪이라는 범행 현장과의 연결 고리가 전혀 없다. 수단·기회·피해자와의 접점이 모두 겹치는 쪽이 민영이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The narrative gives 도은 all three elements: motive (obsessive, one-sided attachment to a dismissive 도환), means (detailed knowledge of hospital supply weaknesses and repeated observation of syringe use), and opportunity (living in the same swamp area and prioritizing time with him). 시윤's syringe purchase and training are explained innocently by childcare needs, and she had no relationship or grievance with 도환. Her nervous, defensive behavior reflects social anxiety rather than guilt. Thus 도은 is the most likely killer.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Siyun has means (syringes, medical/first-aid training), opportunity (early morning walks near the swamp, 10 minutes from home), and motive (Dohwan took her family photo locket and spread damaging rumors about her family). Doeun shows attachment and emotional distress but no syringe access, and she avoids early mornings.
+
+### ANSWER
+A"
+team_allocation,A,A,"Since all three struggle with coding, the key differentiator is people skills: Doohyun is the only one comfortable with human interaction, so he must anchor user testing. Minji works well with Doohyun and respects him, making her a good partner there, while Seohyun is resented by both and is awkward with users, so she is best placed alone on feature development.
+
+### ANSWER
+A"
+team_allocation,C,C,"지훈은 서사 개발 경험이 전무하고 서영·경민과 마찰이 있으므로 스토리라인 팀에서 제외하는 것이 낫다. 반면 서영과 경민은 창의적 글쓰기·캐릭터 개발 역량이 있고 서로를 존중하며 협업이 원활하다. 따라서 지훈을 그래픽 디자이너로 두고 서영과 경민이 스토리라인을 맡는 배치가 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation,A,A,"지훈은 종목에 대한 깊은 이해로 선수 지원에 최적이며, 서진은 관중 요구 처리에 능숙합니다. 민아는 선수 관리에서 실수가 많았고 서진의 조언을 잘 받아들이므로 서진과 함께 관중 서비스에 배치되어야 하며, 이는 지훈과 민아의 갈등도 피할 수 있습니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"수진은 QA에 필요한 정확성이 부족하고 세부 사항을 놓치는 반면, 현우와 다혜는 모두 버그 탐지와 세부 사항에 강점을 보인다. 세 사람 모두 그래픽 능력이 약하지만, QA에 가장 부적합한 수진을 그래픽 디자이너로 배치하고 나머지 두 명을 QA에 두는 것이 전체 효율을 극대화한다.
+
+### ANSWER
+A"
+team_allocation,A,A,"세영은 프로그래밍에 강점이 있고 사용자 테스트에는 약하므로 개발자로 적합하다. 우진은 프로그래밍 이해가 부족하지만 다현과의 협업에서 좋은 성과를 냈고, 다현은 사용자 피드백 분석에 뛰어나므로 두 사람이 사용자 테스트를 맡는 것이 효율적이다. 또한 세영과 다현/우진 간 갈등도 분리되어 완화된다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Suhyun excels at creative content, Jimin at technical analysis, and Dongwook is versatile with prior successful collaboration with Jimin. Since Suhyun and Dongwook clashed before, separating them is wise. Thus Suhyun on content, Dongwook and Jimin on platform development.
+
+### ANSWER
+A"
+team_allocation,A,A,"지혜는 컴퓨터 공학 전공과 개발 프로젝트 성공 경험으로 제품 개발에 가장 적합하며, 고객 지원에서는 갈등 경험이 있었다. 또한 지혜는 민아와 서준 모두와 마찰이 있었으므로, 지혜를 단독으로 개발 역할에 배치하고 민아와 서준을 함께 고객 지원에 두는 것이 충돌을 최소화한다.
+
+### ANSWER
+A"
+team_allocation,B,B,"소민은 뛰어난 개발 역량을 가졌으므로 개발 팀에 적합하고, 태연과 지혁은 각각 사람의 요구 이해와 고객 소통에 강점이 있어 고객 피드백 팀에 어울립니다. 태연과 지혁의 갈등 소지는 있으나, 기술 역량이 없는 사람을 개발에 배치하는 것보다 훨씬 효율적입니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"지훈은 영상 콘텐츠 제작 경험과 창의성이 뛰어나 콘텐츠 제작자로 적합하고, 소영은 관리·계획과 큰 그림 보기를, 민지는 분석적 업무에 강점이 있어 사용자 안전 관리 쪽이 맞다. 또한 지훈은 소영·민지 모두와 충돌이 있으므로 분리하는 것이 효율적이다.
+
+### ANSWER
+A"
+team_allocation,C,C,"Product development requires creativity and flexibility, which fits Eunji (big-picture, enjoys change), while Mina and Taehwan both excel at systematic, procedural management—ideal for distribution. Also, Mina trusts Taehwan, whereas Eunji has clashed with both, so isolating her avoids conflict.
+
+### ANSWER
+C"
+team_allocation,C,C,"수진은 기술 문제와 고객 대화에 취약하므로 커리큘럼 개발에 적합하고, 미나와 영호는 기술 역량이 있으며 서로 협력이 잘 되었던 이력이 있어 기술 지원에 함께 배치하는 것이 갈등도 피할 수 있다.
+
+### ANSWER
+C"
+team_allocation,A,A,"수현은 음악 이론에 강하지만 대중 앞 소통이 약해 작곡에 적합하고, 대영과 지민은 소통 능력이 뛰어나며 서로 협업 성과가 좋았으므로 프로모션 팀으로 함께 두는 것이 갈등도 피하고 강점을 살린다.
+
+### ANSWER
+A"
+team_allocation,B,B,"혜진은 세부 사항과 일정 관리에 강한 기획 경험자이므로 기획 팀이 적합하고, 수민과 도훈은 기획 디테일에 약하므로 나머지 업무에 배치하는 것이 합리적입니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"수현은 개발 역량이 뛰어나므로 기술 개발자에 적합하고, 지오는 친절한 고객 응대와 설명 능력이 강점이므로 고객 지원에 적합하다. 다윤은 기술력이 부족하므로 개발보다는 고객 지원에서 열정을 발휘하며 성장시키는 것이 합리적이다.
+
+### ANSWER
+A"
+team_allocation,B,B,"지원은 프로그래밍 경험이 상대적으로 가장 많고, 현수와 다윤은 각각 예술적 감각과 디자인 소프트웨어 능력을 갖춘 반면 프로그래밍에는 취약하다. 갈등은 모든 조합에 존재하므로 강점 기준으로 배치하는 것이 합리적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Eunji is technical → R&D; Taehun and Seyoung are creative/communicative → marketing, and this also separates Eunji from her conflicts.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"예성은 영은의 차를 자주 수리해줘 차량 접근성이 있었고, 고기 손질용 도끼를 소유·관리하며, 그녀의 새로운 사회 활동에 위협을 느끼는 질투와 집착(모임 따라다님)이라는 동기까지 갖췄다. 예슬은 요리와 지역 역사에 관심이 있을 뿐 직접적 동기나 차량 관련 연결이 약하다. 따라서 수단·기회·동기가 모두 맞는 인물은 예성이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"예성은 도끼 소유와 피해자와의 친분은 있으나 이야기가 일관되지 않는다는 성격적 특징만 드러나며 명확한 동기가 없다. 반면 예슬은 며느리인 영은과 자신의 배우자가 비밀스럽게 만나는 것을 목격했고, 배우자의 휴대전화 숨기기·야근 등 불륜 정황을 인지했으며, 고기 전문점 방문 등 고기 손질 도끼 접근성도 있다. 따라서 강한 동기와 수단을 동시에 가진 예슬이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Peculiar weapon is a traditional sickle (버들낫), and 예린 collects/purchases traditional tools at fairs and works at a traditional crafts shop, giving her means. She also has motive, given 지민's harassment and threatening letter. 윤태 was working at the club and lacks connection to the weapon.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Yuntae had unrestricted backstage access to the cinema, brought varied equipment, and was training in survival skills (fitting a sickle weapon), plus a motive since Jimin planned to leak confidential information. Yerin's portrayal is mainly as a harassed, anxious victim of Jimin's coercion, which gives emotion but no means or physical opportunity emphasized. The concrete means-and-opportunity evidence points to Yuntae.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"예지는 승마장에서 호미를 포함한 정원 도구를 직접 관리했다고 진술했고, 영화관 아르바이트에 관심을 보였으며 희영과 영화관 카페에서 자주 만났다는 점에서 살해 도구와 장소 모두에 접근성이 있다. 채아는 영화 동호회와 커피, 대화 청취 정도의 간접적 정황만 있다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"채아는 살해 도구인 호미를 직접 들고 있었고, 희영이 조사하던 정치인의 변호인이라는 명확한 동기도 있으며, 영화 동호회 활동으로 영화관이라는 범행 장소와도 연결된다. 예지는 화학물질과 승마 관련 정황만 있어 흉기와 맞지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"민성은 메카트로닉스와 기계 조작·프로그래밍 전문성(레이저 절단기 사용 능력), 카지노 소유주와의 친분을 통한 접근성, 그리고 예소가 그의 조언을 공개적으로 조롱한 동기까지 모두 갖추고 있다. 하성은 단순히 예소와 친구이며 카지노에 자주 갔다는 정황만 있고 살해 수단과 관련된 전문성이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"민성은 살해 도구(레이저 절단기)에 대한 압도적인 기술적 전문성, 카지노 소유주와의 친분을 통한 현장 접근성, 그리고 학생들을 몰래 따라다니며 개인 정보를 캐고 감시하는 스토킹 성향까지 세 요소를 모두 갖추고 있다. 반면 하성의 예소와의 관계는 안정적이고 우호적으로 묘사되어 살해 동기가 약하다. 따라서 수단·기회·동기가 모두 결합된 민성이 가장 유력하다.
+
+### ANSWER
+B"
+object_placements,A,A,"민경은 카메라를 가방으로 옮기면서 가방 안의 입장권을 직접 보았으므로, 입장권이 가방에 있다는 것을 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,A,"민경은 지훈이 카메라를 거실 탁자로 옮기는 것을 지켜봤고, 이후 자신이 직접 카메라를 가방으로 옮겼다. 따라서 카메라의 최종 위치인 가방을 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,A,"성민이 직접 입장권을 옷장에서 가방으로 옮겼으므로 그 위치를 알고 있다. 따라서 가방을 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements,D,D,"Sungmin was distracted and did not observe Jihoon moving the camera to the living room table, nor Mingyeong moving it to the bag. So his belief remains the original location.
+
+### ANSWER
+D"
+object_placements,C,C,"Jihoon did not observe Seongmin moving the ticket from the closet to the bag (he was distracted planning and didn't watch Seongmin's hands). The later observation of the ticket in the bag was Mingyeong's, not Jihoon's, so Jihoon retains the false belief that the ticket is still in the closet.
+
+### ANSWER
+C"
+object_placements,A,A,"Jihoon moved the camera to the living room table himself, but he attentively watched Mingyeong's actions when she moved the camera to the bag, so he knows its new location.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"### ANSWER
+D"
+murder_mysteries,B,B,"찬영은 쌍절곤을 사용하는 무술을 매주 배우고, 포도원에 정기적으로 방문하며, 연주에게 공개적으로 조롱당한 동기까지 있다. 반면 소혜는 자기방어 수업(불안 때문)을 들었을 뿐이고 포도원에 오는 일이 드물다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"Chanyoung trains with nunchucks (the murder weapon), has drummer's arm strength, and had a motive from being publicly mocked by Yeonju. Sohye's self-defense classes and business rivalry are weaker links to the specific weapon.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"시우는 화학 물질에 대한 접근성과 특별 교육, 포도원과의 긴밀한 연결, 그리고 동료의 부상을 재미있다고 여기는 공감 결여적 태도를 모두 보인다. 소민은 화학에 관심이 있으나 구체적 접근 수단이나 반사회적 성향이 드러나지 않는다. 따라서 시우가 더 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"소민은 화학에 대한 지식과 와인 전문가 교류를 통한 염산 접근성, 그리고 준우가 당국에 신고하려 했다는 명백한 동기를 모두 가지고 있다. 반면 시우는 화학 물질 취급 능력은 있으나 준우와의 연결이나 살해 동기가 전혀 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"예원은 뱀에 대한 전문 지식과 독성 물질 관련 조사 이력, 포도원 출입 및 소유주와의 친분, 그리고 무엇보다 채린에게 특정 경로를 따르도록 압박했다는 점에서 수단과 기회를 모두 갖추고 있다. 봉준은 조롱당한 원한이라는 동기와 파충류 지식은 있으나 범행 기회와 직접적 연결이 약하다. 따라서 예원이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Bongjun has both a clear motive (Chaerin publicly criticized and recorded his performances to mock him, causing him resentment) and the means (a background in animal ecology, handling snakes and venom safely). Yewon's snake interest is artistic and her toxin-related activity lacks any connection or motive toward Chaerin. Thus Bongjun is the most likely killer.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Both suspects have boomerang skill and access to the fitness center, but only 보미 has a clear motive—gambling debts owed to 재윤 and related conflicts—plus documented regular attendance at the center. 주연's details (hand scars, avoiding surfaces) are quirks without motive. Thus 보미 is the most likely killer.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Both suspects possess boomerang expertise, but Jooyeon had direct, personal conflict with Jaeyun—he publicly criticized her mentoring style and left notes about her mistakes, humiliating her in front of members. She also worked at the fitness center where the murder occurred, giving her both access and motive. Bomi's gambling debt to Jaeyun gives her reason to want him alive rather than dead, and she confessed openly.
+
+### ANSWER
+B"
+object_placements,D,D,"Yuna moved the notebook into the bag, but Dongyeok was distracted by conversation and didn't notice. So he still holds the original belief that the notebook is on the desk.
+
+### ANSWER
+D"
+object_placements,A,A,"유나가 직접 책상 위의 수첩을 가방에 넣었으므로, 수첩의 현재 위치를 알고 있다.
+
+### ANSWER
+A"
+object_placements,B,B,"Yuna observed the pen's state when Donghyuk placed it on the sofa, but she did not watch when Jisoo later moved it to the desk. So her belief remains that the pen is on the sofa.
+
+### ANSWER
+B"
+object_placements,C,D,"지수는 자신이 직접 펜을 소파에서 책상으로 옮겼으므로, 펜의 최종 위치가 책상임을 알고 있다. 따라서 펜을 찾을 때 가장 먼저 책상을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements,A,A,"민수는 카메라를 가방에 넣을 때 가방 안에 수첩이 있는 것을 직접 보았으므로, 수첩의 현재 위치를 알고 있다. 따라서 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements,A,A,"민수는 서영이 카메라를 거실 선반으로 옮기는 것을 지켜보았고, 이후 자신이 직접 그 카메라를 가방에 넣었다. 따라서 그는 카메라의 최종 위치를 정확히 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,A,"Seoyoung was near Jieun and closely watched her hand movements when Jieun moved the notebook from the table into the bag, so she knows its new location.
+
+### ANSWER
+A"
+object_placements,B,B,"Seoyeong herself moved the camera to the living room shelf and did not observe Minsu placing it into the bag (she was facing Jieun, advising her). So her belief remains that the camera is on the shelf.
+
+### ANSWER
+B"
+team_allocation,A,A,"Jihoon lacks camera equipment experience and prefers technical writing, so he fits better alone on the script side, while Minji's visual talent and Sooyoung's cinematography experience plus their proven positive chemistry make them ideal partners on the filming team. This also avoids Jihoon's past conflicts with both.
+
+### ANSWER
+A"
+team_allocation,C,C,"Since 은지 and 지후 clash, they must be separated, while 하람 and 지후 have proven successful collaboration—so pairing them in marketing works best. 지후 is explicitly weak at ongoing artist relationship management, ruling out A. That leaves 은지 in artist management with 지후 and 하람 combining creative direction in marketing.
+
+### ANSWER
+C"
+team_allocation,B,B,"서진은 아티스트 잠재력을 빠르게 알아보는 능력이 있어 오디션 팀에 최적이고, 민재는 세부사항과 객관적 분석에 강해 계약 관리에 적합합니다. 유라는 협업과 대중 취향에 둔감해 오디션 심사보다는 민재의 지원 아래 계약 관리 팀에 배치되는 편이 낫습니다. 따라서 서진-오디션, 민재·유라-계약 관리가 가장 합리적입니다.
+
+### ANSWER
+B"
+team_allocation,C,C,"수현은 창의적 디자인에 강하고 세부 검사에 약하므로 디자인 팀에 적합하며, 민재는 품질 검사에서 높은 평가를 받았고 다영도 세부 확인 능력이 뛰어나 품질 관리 팀에 적합합니다. 따라서 각자의 강점을 최대한 활용하는 배정이 됩니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"Jihoon's creative strength fits the design team, while Eunji's detail orientation and quality-inspection expertise fit quality control; Seojun, who implements Eunji's ideas practically, works best alongside her. This also separates Jihoon from those he clashes with.
+
+### ANSWER
+B"
+team_allocation,B,B,"지훈은 디자인 소프트웨어와 혁신적 아이디어에 강하지만 고객 감정·트렌드 파악에 약해 마케팅에 부적합하므로 디자이너로 배치하는 것이 적절합니다. 반면 수현과 민지는 모두 고객 요구 이해와 소통 전략 수립 경험이 있어 마케팅에 적합하며, 두 사람은 서로 시너지도 좋습니다. 또한 수현이 지훈과의 협업에 어려움을 느끼는 점도 이 배치로 완화됩니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Suhyun struggles with backend tasks (server scripting, debugging) and has conflict history with both Yerin and Jihoon, so assigning her alone to UI/UX avoids friction. Yerin's proven backend expertise pairs well with Jihoon, who has backend experience and a successful past collaboration with Yerin. This arrangement maximizes strengths while minimizing interpersonal conflict.
+
+### ANSWER
+A"
+team_allocation,A,A,"수진은 창의적 디자인 역량이 뛰어나 디자인 팀에 적합하고, 은지는 판매 전략에서 성과가 뛰어나며 설득력이 있어 판매 전략 팀에 적합하다. 도형은 열정은 있으나 경험이 부족해 은지와 함께 판매 전략 팀에서 배우는 것이 효율적이다.
+
+### ANSWER
+A"
+murder_mysteries,A,B,"Hayun에게는 명확한 동기(동생을 불법 활동에 끌어들이겠다는 다빈의 협박), 도박 빚, 그리고 범행 은폐 시도(카메라 위치 확인)까지 정황이 집중되어 있다. 세원은 방망이를 실험용으로 사용했다는 정도의 간접적 연관만 있다. 따라서 하윤이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Hayoon had a clear motive (Dabin exposing illegal activity to their sibling, gambling debts, team rivalry), was present at the casino that night, and had familiarity with the venue's security — giving both motive and opportunity at the crime scene. Sewon merely possessed a similar heavy bat for research but had no shown link to Dabin or the casino.
+
+### ANSWER
+B"
+murder_mysteries,B,A,"The narrative repeatedly explains away 윤욱's gun interest as long-standing and ""not particularly suspicious,"" while 다희 uniquely combines actual rifle proficiency from Air Force weapons training, active shooting practice, and intimate knowledge of 다현's schedule plus early-morning routines. The murder weapon was a rifle, matching her trained skill set. This gives her both the means and opportunity most precisely.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"다현은 소총으로 살해되었고, 다희는 공군 조종사로서 무기 훈련을 받았으며 사격장 정기 훈련, 총기 동호회, 총기 서적 등 소총 사용 능력이 명확히 드러난다. 또한 다현의 일정과 개인 정보에 접근할 수 있어 기회도 충분했다. 윤욱은 재정적 동기는 있으나 총기 관련 능력에 대한 근거가 없다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Doha had motive (fear of reputation damage from Sihyeon revealing past mistakes), access to the three-section staff as the performer leading that segment, and frequent presence at the library, whereas Jaehyung's details are mostly incidental.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"재형은 시현이 자신의 일기에서 치명적인 비밀을 알게 되었다는 명확한 동기가 있고, 전통 무술에 능해 삼절곤을 살인 도구로 사용할 능력도 갖추고 있다. 반면 도하는 공연에서 삼절곤을 다룬 경험은 있으나 시현과의 갈등이나 살해 동기가 전혀 드러나지 않는다. 따라서 동기와 수단이 모두 부합하는 재형이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"진호는 조리용 토치를 능숙하게 다루는 파티시에이며, 도준의 일정과 비밀번호 교체까지 접근 권한이 있었고, 비현실적 기한과 폭력적 성향으로 인한 동기도 있었다. 반면 솔비는 요리 관련 배경과 복잡한 사적 관계만 드러나며 구체적인 수단·기회가 약하다. 따라서 수단·기회·동기가 모두 갖춰진 진호가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"솔비는 벙커 멤버로 출입 가능하고, 조리용 토치 등 주방 도구에 익숙하며, 도준과의 삼각관계라는 동기도 있습니다. 진호는 주로 프로젝트 관련 접점만 있고 벙커 접근 근거가 없습니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"Mina has documented friction with both Suzin and Taeho, while Suzin and Taeho previously collaborated successfully with clear role division. Therefore, separating Mina and pairing Suzin with Taeho minimizes conflict; Mina's analytical strength (especially data-centered work) suits system analysis, while Suzin's coordination ability and Taeho's communication/problem-solving fit project management.
+
+### ANSWER
+C"
+team_allocation,B,B,"소연은 기획 역량이 뛰어나고 대인 업무에 약하므로 상품 기획 팀에 적합하며, 민재는 고객 소통에 강점이 있고 다현은 규칙적·일상적 업무에 적합하므로 둘은 고객 서비스 팀이 알맞다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Hyejin's planning mistakes clearly place her in customer counseling, and her proven teamwork with Gangmin favors pairing them there, where Gangmin's outstanding communication skills also shine. Sujin's creative thinking, trend curiosity, and demonstrated excellence in itinerary construction make her the natural fit for the travel product planning team.
+
+### ANSWER
+A"
+team_allocation,B,B,"Subin excels at detail-oriented, careful work and spends time on the big-picture story, but struggles with technical details and quick decisions—making the screenplay team the best fit. Minjae prefers revising existing content and works fast, while Dayoung struggles with abstract/emotional material, so both are better suited to the more concrete shooting work despite weaknesses. Thus Subin on script, Dayoung and Minjae on filming.
+
+### ANSWER
+B"
+team_allocation,B,B,"Seyeon's strength is meticulous, detail-oriented, attentive listening to client needs—ideal for patient care requiring careful service. Doyun and Hajin both emphasize efficiency, quick decisions, and rapid learning of new technology, plus they have prior collaboration experience, making them a strong tech development pair.
+
+### ANSWER
+B"
+team_allocation,A,A,"Seyoung has strong creative planning skills but is error-prone in detail work and clashes with both Minji and Dohun, so placing Seyoung alone in program planning avoids conflict while using his strength. Dohun and Minji have a proven successful collaboration, and Dohun's meticulousness compensates for Minji's weakness in detailed registration work. This yields the most efficient, conflict-free arrangement.
+
+### ANSWER
+A"
+team_allocation,A,A,"Seoyeon excels at procedures and detail management, fitting the operations team, but she has had conflicts with both Jihoon and Minseo, so placing her alone avoids friction. Jihoon and Minseo have a proven history of mutual respect and flexible collaboration, so they work best together, with Minseo's interpersonal sensitivity covering athlete needs.
+
+### ANSWER
+A"
+team_allocation,A,A,"Eunji excels under pressure but clashes with both Taeyoung and Suhyeon, so she is best placed alone in game operations where quick crisis decisions matter. Suhyeon and Taeyoung have a proven, respectful collaboration and both bring communication and leadership strengths ideal for volunteer management. This arrangement avoids conflict while maximizing each strength.
+
+### ANSWER
+A"
+object_placements,C,C,"Soyoung was focused on her presentation materials when Jihyun quietly moved the notebook into the drawer, so she retains the original belief that the notebook is on the desk.
+
+### ANSWER
+C"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,D,"민우 본인이 수첩을 가방에서 꺼내 책상 위로 옮겼으므로, 그는 수첩이 책상에 있다고 알고 있다.
+
+### ANSWER
+D"
+object_placements,D,D,"Minwoo was distracted during both moves (Suyeon's move to the shelf and Jihyun's move to the drawer), so his belief remains the original shared knowledge that the calendar is on the desk.
+
+### ANSWER
+D"
+object_placements,A,A,"수첩을 민우가 가방에서 책상으로 옮길 때 수연은 다른 방 정리에 몰두해 이를 보지 못했으므로, 수연은 여전히 처음 공유된 위치인 가방에 수첩이 있다고 믿는다.
+
+### ANSWER
+A"
+object_placements,C,B,"### ANSWER
+B"
+team_allocation,C,C,"Minjae's proven UX/UI excellence means he must be a designer, and Jiwoo works well with him (offering complementary design ideas). Seohyun no longer takes design roles due to friction with the design team and clashes with both Minjae and Jiwoo's approach, so placing her separately as the medical expert avoids conflict.
+
+### ANSWER
+C"
+team_allocation,A,A,"수진은 세부사항에 강하고 소통을 꺼리므로 기획 팀 단독 배치가 적합하며, 미소와 태영은 각각 창의적 소통과 설득·홍보 경험을 갖춰 홍보 팀에 적합하다. 또한 수진-미소의 심각한 과거 갈등을 분리할 수 있어 효율이 높다.
+
+### ANSWER
+A"
+team_allocation,B,B,"지원은 이론·계획 중심 업무에 강점이 있어 커리큘럼 개발에 적합하고, 현우는 소통과 정서적 지지에 능하여 학생 지원에 적합하다. 은지는 커리큘럼 개발에 어려움을 겪었고 지원과 마찰이 있었으므로 지원과 분리해 학생 지원 팀에 배치하는 것이 낫다. 따라서 지원-커리큘럼, 현우·은지-학생 지원이 최적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"서현은 백엔드 이해도가 높고 태우·지수 모두와 갈등이 있었으므로 단독으로 기능 설계 팀에 배치하는 것이 적절하다. 태우는 사용자 요구 반영 능력이 뛰어나고, 지수는 비주얼 디자인에 강점이 있어 사용자 경험 팀에 적합하며 두 사람은 협업 시너지도 검증되었다.
+
+### ANSWER
+A"
+team_allocation,C,C,"Capability-wise, Jisu excels at event planning but has zero safety experience, Dongmin is unsuited to large-scale event coordination, and Hayeon is qualified in safety. Placing Jisu alone in event operations plays to her strength while pairing the two safety-qualified members, Dongmin and Hayeon, in safety management. This also avoids the failed Jisu–Dongmin pairing and the Jisu–Hayeon stress dynamic.
+
+### ANSWER
+C"
+team_allocation,B,B,"Sumin's literary strength suits the script team, Eunyoung's technical skill suits filming, and Jiho works well with Eunyoung—also avoiding the Sumin–Eunyoung conflict.
+
+### ANSWER
+B"
+team_allocation,A,A,"Seojun has conflicts with both Minji and Taehyun, so he should work alone as screenwriter—which suits his award-winning creative writing skills. Minji and Taehyun collaborate excellently and both have camera/filming experience, making them an ideal shooting team. Minji also dislikes creative writing, ruling out option B.
+
+### ANSWER
+A"
+team_allocation,A,A,"Seohyun has proven success and preference for creative, planned writing, making her ideal for the script team. Minsu and Ara both dislike creative writing, so they fit better in the on-site camera team, where Ara's spontaneity is an asset. Although they've clashed, this arrangement maximizes each person's strengths overall.
+
+### ANSWER
+A"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"지은은 서영이 카메라를 거실 선반으로 옮길 때 안방에 있었고, 거실과 안방은 시야가 연결되지 않아 그 이동을 보지 못했다. 또한 민수가 카메라를 가방에 넣을 때도 지은은 서영과 마주 보고 있어 보지 못했다. 따라서 지은은 여전히 카메라가 원래 위치인 안방 서랍에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,B,B,"Minseok himself placed the ring in the supply room drawer, and when Jihoon later moved it to the shelf by the front door, that area was hidden behind a partition while Minseok was busy greeting guests at the hall entrance. Thus he has no knowledge of the final move and still believes the ring is where he left it.
+
+### ANSWER
+B"
+object_placements,B,B,"Minseok was on the phone in a hallway with no view of the venue when Hyemin moved the USB to the lobby box, so he retains his original belief that it is in the supply room drawer.
+
+### ANSWER
+B"
+object_placements,D,D,"지훈이 직접 반지를 정문 옆 선반으로 옮겼으므로, 그는 그 위치를 알고 있다.
+
+### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"Hyemin knew the ring was on the banquet table. When Minseok moved it to the supply room, she was absorbed in coordinating with staff (and the supply room was screened off), and she also didn't witness Jihoon's later move to the front-door shelf. So her belief remains the original location.
+
+### ANSWER
+C"
+object_placements,A,A,"혜민이 직접 축가 USB를 로비 상자로 옮겼으므로 그 위치를 알고 있다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Seungmin had the means (nail gun experience from carpentry), motive (financial trouble and inheritance rivalry), and opportunity (his clinic overlooked where Sangmin spent time), whereas Siwoo had an alibi corroborated by the site supervisor and coworker. Siwoo's suspicious traits (avoiding sunlight, being on rooftops, burn scars) are explained innocently. Thus Seungmin is the likeliest killer.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"승민은 옥상을 감시할 수 있는 클리닉 위치, 상속 관련 동기, 방수 시트·비닐봉투 등 불필요한 물품 수집, 경제적 어려움, 회피적 태도 등 의심스러운 정황이 많다. 반면 시우는 네일 건 대여 사실이 있지만 어망 수리라는 합리적 이유와 동료·감독의 알리바이 증언이 있다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"기주는 동기(우빈에 대한 질투와 갈등), 수단(경찰 장비 교육 및 보호 장비 필요성), 기회(모텔 장기 투숙 및 보안 시스템 취약점 파악)를 모두 갖추고 있다. 예린은 전기충격기 사용 능력과 모텔 체류라는 접점은 있으나 우빈을 살해할 동기가 전혀 제시되지 않았다. 따라서 세 요소를 모두 충족하는 기주가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"예린은 해양 보안 훈련을 통해 전기충격기 같은 보안 장비 사용에 능숙하며, 우빈이 결혼을 서두르려 한 것에 대해 독립적 결정권을 원한 강한 동기가 있다. 기주의 정황은 대체로 성격적 특성(내향성, 가족 우선)에 관한 것으로 살해 수단과 직접 연결되지 않는다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The narrative stacks means and opportunity most heavily on 시환: he owns and regularly uses hammers as a welder, and he had frequent, legitimate access to the cathedral through maintenance work and charity events, plus emotional turmoil hinted at in his relationship history. 주란 also uses hammers, but her connection is largely evasiveness about unrelated matters and mere disagreements. The detective's accumulated clues point toward 시환.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"시환은 형사에게 가명(""태훈"")을 대며 신분을 숨기려 했고, 최근 철물점에서 새 망치를 구입했다고 밝혔으며, 이별 후 남은 감정적 동기도 드러냈습니다. 반면 주란은 금속공예 기술과 근처 상점 방문이 언급되었으나 이는 직업상 자연스러운 정황이며 피해자와도 우호적 관계였습니다. 의도적인 신분 은폐와 흉기와의 직접적 연결이 시환을 가장 유력한 용의자로 만듭니다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"하영은 화학 전공자로 연구소에서 화학약품을 다루며, 유림의 휴대폰과 위치 공유에 접근할 수 있었고 사건 당시 함께 산장으로 향했다. 사인이 화학약품 스프레이라는 점은 하영의 전문성과 직접 연결된다. 민서의 자금 문제는 동기로 보이나 수단과 직접 연결성이 약하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"민서는 화학 실험 장비를 특별히 주문하고 화학 물질 혼합을 직접 테스트했으며, 유림이 출판사의 수상한 자금 흐름을 감지했다는 살해 동기도 있다. 사망 원인이 화학약품 스프레이인 점은 민서의 화학 관련 접근성과 직접 연결된다. 하영은 친밀한 관계와 동행 사실만 있고 살해 수단이나 동기가 없다.
+
+### ANSWER
+A"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+murder_mysteries,A,B,"Sia had a clear motive (Hyunmin had discovered her hidden past, which would cause her strict family to disown her and ruin her morally demanding career), plus she arranged the Friday evening meeting at the beach and was documented there with him. Seonghyeok has weapon knowledge and impulse issues, but no connection to the victim or motive at all. The combination of motive, opportunity, and luring the victim points to Sia.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"시아는 피해자의 금요일 저녁 습관을 알고 있었고, 고대 무기 구입 및 전문 지식을 갖췄으며, 현민이 그녀의 범죄 기록과 문서 상자를 알게 되었다는 명확한 동기가 있다. 성혁은 무기 전문성은 있으나 동기가 없고 건강 문제·영수증 등 알리바이 요소만 존재한다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"윤성은 해안 지역에서 야외 실험을 자주 하며(범행 현장 접근성), 특정 장비를 항상 즉시 사용할 수 있게 소지하고, 강한 힘을 쓰는 작업과 무거운 암석 샘플을 깨부수는 일을 한다고 진술했는데 이는 쇠망치 사용과 직결된다. 병규는 전동 공구와 IT 보안·금융 등 사건 흉기와 무관한 요소가 대부분이다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Byeonggyu had opportunity (with the victim at the beach event), a motive (competition for the promotion), and access/familiarity with tools like hammers via the nearby hardware store and his home-repair habits. Yoonseong's hammer use is fully explained by legitimate research and he lacks any connection or motive toward the victim.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"현철은 윤태에게 학회에서 공개적으로 연구를 폄하당한 동기, 독극물 연구/세미나 이력, 고급 펜 수집 취미, 해변 근처 조깅 및 카페 출입 등 범행 수단·기회·동기가 모두 일치한다. 재민은 화학 지식과 소품 활용 가능성은 있으나 피해자와의 갈등이나 동기가 전혀 제시되지 않았다. 독침이 달린 펜이라는 흉기 특성이 현철의 프로필과 정확히 맞물린다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"The murder weapon was a poison-dart pen: Hyeonchul is a known poison researcher who buys unusual pens at a stationery store, has secretive private lab experiments with special equipment, and frequents the beach area (jogging, café). That combination of specialized means and opportunity matches the weapon far better than Jaemin's general chemistry background and money troubles.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"가희는 전직 소방관으로 소방도끼 등 화재 진압 장비를 능숙히 다뤘고, 투자 사기 서류로 책임을 추궁당하는 명확한 동기까지 있었습니다. 성영은 비밀스러운 작업실과 기계·화학물질이 언급될 뿐, 살해 도구인 소방도끼와의 연결은 없습니다. 따라서 수단과 동기를 모두 갖춘 가희가 가장 유력합니다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"### ANSWER
+A"
+team_allocation,A,A,"Seojin excels at creative work and detailed review of outputs, making him ideal for content creation, while Dayun has proven technical problem-solving and coordination skills for technical support. Mingi's big-picture vision can support the technical team's direction alongside Dayun, who can compensate for his weakness in technical details.
+
+### ANSWER
+A"
+team_allocation,B,B,"수진은 시각 디자인에 탁월하지만 발표·소통에 약해 게임 디자인 역할이 적합하고, 민지는 마케팅 캠페인 경험과 소통 능력이 뛰어나 마케팅에 알맞습니다. 태현은 마케팅 단독 수행에 어려움이 있었으나 민지와 협업 시 좋은 성과를 냈으므로 민지와 함께 마케팅에 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"서진은 백엔드 개발 경험이 전혀 없으므로 백엔드 팀에 배정하기 부적절하며, 디자인 워크숍 경험과 창의적 문제 해결력을 살려 UX 디자이너가 적합하다. 민규와 수현은 과거 성공적인 공동 프로젝트 경험이 있어 백엔드 팀으로 함께 배치하면 시너지가 크고, 서진-수현 간 충돌도 피할 수 있다.
+
+### ANSWER
+A"
+team_allocation,C,C,"서진은 세부 사항에 강한 숙련된 편집자이므로 편집 팀에 적합하고, 은영의 창의성·협력성과 민수의 실행력·빠른 진행 선호는 마케팅에 어울린다.
+
+### ANSWER
+C"
+team_allocation,C,C,"수현은 편집에 강하고 마케팅에는 비효율적이며, 민지와 지호는 마케팅에 창의적이고 서로 협업이 좋았다. 반면 수현은 민지·지호 모두와 마찰이 있었으므로 분리하는 것이 효율적이다.
+
+### ANSWER
+C"
+team_allocation,C,C,"Jisoo lacks patience with customers so is unsuited to service, while Minseong excels at customer interaction but struggles with big-picture planning, and Yeojin failed at planning work but collaborates well with Minseong. Thus Jisoo goes to route planning, with Minseong and Yeojin in customer service where their prior successful teamwork helps.
+
+### ANSWER
+C"
+team_allocation,B,B,"수미는 심사 경험이 풍부하지만 대인관계에서 갈등이 많아 단독 심사위원이 적합하고, 지영은 참가자 관리에 뛰어나며 현우와 과거 성공적으로 협업한 경험이 있어 두 사람을 참가자 관리 팀에 배치하면 갈등도 피할 수 있다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Sujin and Minji clash, so they shouldn't be paired — eliminating B. Minji's slow, systematic planning style suits data analysis, not the rapid iterative feedback of test design, which eliminates A. Sujin has rich user-testing experience for the design team, while Minji's systematic rigor plus Youngho's enjoyment of complex data serve analysis well.
+
+### ANSWER
+C"
+object_placements,A,A,"Jihyun did not observe Minwoo's move of the notebook from the bag to the desk, so her belief remains the initial shared knowledge that the notebook is in the bag.
+
+### ANSWER
+A"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,B,C,"### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+team_allocation,A,A,"Soraは아티스트 관리 경험이 풍부하지만 여러 사람 관리와 위급 상황 대처에 약해 단독 아티스트 관리가 적합하다. 반면 민성은 위기 대처에 강하고, 지훈과는 과거 협업 성공 경험이 있어 함께 관객 안전을 담당하면 충돌이 없다. 소라는 지훈·민성 모두와 마찰이 있었으므로 분리 배치가 효율적이다.
+
+### ANSWER
+A"
+team_allocation,B,B,"Soyoung's strength is creativity and she succeeded working solo, but she violates lab safety rules and clashes with Minjeong—so she should not be in lab management. Minjeong and Jihoon both follow safety protocols, handle equipment well, and previously collaborated with excellent results, making them ideal for lab management together.
+
+### ANSWER
+B"
+team_allocation,C,C,"수민은 개발 프로젝트에서 어려움을 겪었고 다혜·지훈은 개발 경험과 분석력이 뛰어나므로 두 사람을 개발자로 두는 것이 효율적이다. 또한 수민과 다혜를 분리하면 과거 협업 갈등도 피할 수 있다. 세 명 모두 공감 능력이 부족하다는 점에서 상담사는 개발 적합도가 가장 낮은 수민이 맡는 것이 합리적이다.
+
+### ANSWER
+C"
+team_allocation,C,B,"Seojun clearly belongs in writing (strong grammar, high writing grades) despite weak data skills. Both Jisoo and Hyejin are weak at writing and data, so one must take data; the deciding factor is relationships—Hyejin is strongly stressed by Seojun's criticism, and Jisoo is stressed working with Hyejin. Placing Hyejin alone on data analysis avoids both the Seojun–Hyejin conflict and the Jisoo–Hyejin friction, leaving Seojun and Jisoo (a milder tension) on documentation.
+
+### ANSWER
+B"
+team_allocation,A,A,"서윤은 기획 역량이 뛰어나 단독으로 기획을 맡기고, 재호와 민지는 함께 협업했을 때 성공적이었으므로 홍보 팀에 함께 배치하는 것이 시너지를 극대화한다. 또한 서윤과 민지의 갈등도 피할 수 있다.
+
+### ANSWER
+A"
+team_allocation,A,A,"명준과 수영은 후원사 유치에 뛰어나고 서로 상호 보완적으로 협업한 경험이 있어 함께 배치하는 것이 효율적입니다. 다인은 개인 작업을 선호하고 명준과 갈등이 있었으므로 혼자 아티스트 관리 팀에 배정하는 것이 적절합니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"Model management requires strong communication with models (수연 and 지혁 qualify; 민지 does not), while event operations require multitasking under pressure (지혁 and 민지 qualify; 수연 struggles). Since all pairings have some friction, the deciding factor is competence fit: placing 수연 in model management and pairing 지혁 with 민지 in event operations puts everyone where they have proven positive feedback, and avoids putting 수연 in large-scale event work she handles poorly.
+
+### ANSWER
+A"
+team_allocation,C,C,"지호는 창의성과 축제 프로그램 경험이 있어 운영 팀에 적합하고, 서현은 규칙 준수와 안전 교육 성과가 뛰어나 안전 관리 팀에 적합하다. 민지는 창의성은 부족하지만 남들이 놓치는 부분을 잡아내는 능력이 있어 서현의 지도 아래 안전 관리 팀에서 활용하는 것이 낫다.
+
+### ANSWER
+C"
+object_placements,D,D,"Seunghee was focused on organizing the roster on the opposite side and did not see Dongsu move the water bottle, so she still believes it is in its original location — the car trunk.
+
+### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,C,D,"찬우는 동수가 물병을 옮기는 것을 보지 못했으므로, 원래 알고 있던 위치인 차 트렁크를 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements,C,C,"Chanwoo himself moved the ball to the side of the practice field, so he knows its final location.
+
+### ANSWER
+C"
+object_placements,B,B,"Sujin observed Chaeyoung move the card from the desk into the drawer, but she did not witness the later transfer from the drawer to the bag since she was facing away. Thus her belief remains that the card is in the drawer.
+
+### ANSWER
+B"
+object_placements,D,D,"Suejin was present and Jihoon openly showed the balloons while discussing their placement, so she witnessed them being moved to the party venue.
+
+### ANSWER
+D"
+object_placements,C,C,"Jihoon didn't observe Chaeyoung moving the card from the desk to the drawer, nor the later move to the bag, so his belief remains the original one: the card is on the work desk.
+
+### ANSWER
+C"
+object_placements,D,D,"Jihoon himself moved the balloons from the drawer to the party venue, so he knows they are there.
+
+### ANSWER
+D"
+team_allocation,C,C,"도영과 지훈은 과거부터 협업이 원활하므로 함께 배치하는 것이 유리하고, 지훈의 시각적 집중력은 후반 작업에 적합하다. 서현은 도영과 불화가 있고 지훈과도 소통 문제가 있어 단독 배치가 낫고, 장비 활용 능력과 상황 판단력은 촬영 현장에서 발휘된다. 따라서 서현을 촬영 팀에, 도영과 지훈을 후반 작업 팀에 두는 것이 갈등을 최소화하며 강점을 활용한다.
+
+### ANSWER
+C"
+team_allocation,C,B,"Since 기훈 and 서준 had a serious past conflict, they shouldn't be placed together, ruling out C. 기훈's clearest strength is editing expertise (post-production), while 서준's camera/lighting weaknesses are less disqualifying than 기훈's lack of experience and sensitivity to light. So 서준 takes filming, with 기훈 and 소영 in post-production.
+
+### ANSWER
+B"
+team_allocation,C,C,"Miyoung and Taehyung both excel at customer feedback and work well together, while Sujin conflicts with both and lacks skills, so isolating her avoids friction and pairs the strongest collaborators.
+
+### ANSWER
+C"
+team_allocation,B,B,"서연은 교육 과정 설계 전문성이 뛰어나지만 대인관계와 미나와의 갈등이 있어 단독으로 강의 계획 팀에 배치하는 것이 적절하다. 미나는 상담·소통 능력이 탁월하고 태형과 협업 경험이 좋아 함께 학생 관리 팀에 배치하면 시너지가 난다.
+
+### ANSWER
+B"
+team_allocation,B,B,"서현은 데이터 분석과 시장 조사에 강하지만 감정 이입이 부족해 고객 응대에 부적합하므로 상품 소싱에 적합합니다. 미나는 고객 불만 처리 경험과 외국어 능력이, 정우는 문화적 배경 이해와 맞춤형 지원 능력이 뛰어나 고객 지원에 적합합니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Daeun is clearly the marketer given her consumer-psychology expertise. Between Sora and Jinwoo, Sora prefers independent solo work and clashes with Daeun, making her unsuitable as a marketer alongside Daeun, whereas Jinwoo has previously collaborated successfully with Daeun's help. So Sora takes the solitary engineering role while Jinwoo pairs with Daeun in marketing.
+
+### ANSWER
+A"
+team_allocation,A,A,"하린은 창의적이고 고객 소통에 강해 제품 개발에 적합하며, 도윤과 서준은 체계적·반복적 업무에 강해 유통 팀에 맞습니다. 두 사람 간 과거 갈등은 있지만 강점 활용 측면에서는 이 배치가 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation,B,B,"소영은 웹 개발 역량이 뛰어나고 지훈은 고객 응대에 강점이 있으므로, 소영을 개발자, 지훈을 고객 서비스에 배치하는 것이 합리적입니다. 민재는 두 업무 모두 약하지만 코딩 실수가 많다는 점에서 개발자로는 부적합하므로 지훈을 보조하는 고객 서비스에 배치하는 편이 낫습니다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"영규는 석궁 제작에 필요한 재료(나무, 줄, 나사)를 작업실에 갖추고 있어 직접적인 살해 수단과 접근성을 지녔고, 경제적 곤란이라는 동기도 시결에게 털어놓았다. 윤성은 평판에 대한 불만 정도의 약한 동기만 있다. 따라서 수단·기회·동기가 모두 갖춰진 영규가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Reasoning: 윤성은 석궁 클럽 회원으로 석궁 사용 능력과 장비 접근성이 있고, 시결이 클럽 평판을 훼손했다는 동기가 있으며, 사건 당일 동물원 근처에 있었다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"서아는 지안에게 받지 못한 수수료와 부모님 치료비로 인한 재정적 동기, 그리고 폭죽을 직접 다루는 전문 훈련과 이벤트 기획 경험이라는 수단을 모두 갖추고 있다. 또한 지안과 동물원을 함께 방문한 접근성도 확인된다. 은진은 폭죽에 대한 관심과 접근성은 있으나 피해자와의 직접적 갈등이나 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"지안이 은진의 불법 거래를 목격하고 당국에 신고했다는 점은 강력한 살해 동기가 되며, 은진은 폭죽 가게를 자주 방문해 폭죽을 구입하고 폭죽 사고 이야기에도 흥미를 보였다는 수단·지식적 연결이 있다. 서아는 해고와 금전적 어려움이 언급되지만 지안과 우호적 관계이며 폭죽과의 연결이 없다. 따라서 은진이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Ayeon has the toxicology coursework, snake collection, snake lab experience, access to the victim's home, and was captured on CCTV near the scene the night before—all directly tied to the snake venom murder. Chaea's details involve data breaches and coaching, which lack a link to venom.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Chae-a has all three key elements: exclusive access to the restricted bunker where the murder occurred, expertise in handling animals (including bunker animals, plausibly snakes), and a strong motive since Dongwon publicly mocked and criticized the religious group she was devoted to. Aeyeon has means (snakes, venom study) but no established access to the bunker or clear motive against Dongwon—her emotional issues relate to her parents. Opportunity plus motive plus capability points to Chae-a.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Soyhe has the clearest means (access to hammers through her parents' tool rental shop), physical capability (trained athlete), presence at the mudflat (conservation project), and motive—Dongchan knew about the illegal construction project whose permits were denied, and she admitted wanting to keep it secret. Byeonggyu's secretive behavior is suspicious but circumstantial.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The murder weapon was a hammer, and 병규 is repeatedly shown holding and setting down a hammer, with well-maintained tools, logging experience, and intimate knowledge of the mudflat terrain. He also had a possible motive, given 동찬's investigation into international espionage and 병규's secret meetings with foreign groups abroad. 소혜's details (permit denials, tool rental shop, inconsistent stories) are weaker circumstantial noise by comparison.
+
+### ANSWER
+A"
+object_placements,C,C,"Minjung didn't observe Sangwoo moving the laptop to the table (she was facing away), so she still believes it's on the desk where everyone initially knew it was.
+
+### ANSWER
+C"
+object_placements,C,C,"Minjung은 시계를 서랍에 옮겼지만, 이후 영호가 시계를 책상으로 옮길 때 민정은 영호 방향을 살피며 의견을 나누고 있었으므로 그 이동을 인지했다. 따라서 민정은 책상을 먼저 확인할 것이다.
+
+### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"Sangwoo missed Minjung's move to the drawer, but he was focused on Yeongho and discussing with him when Yeongho moved the watch to the desk, so he witnessed that final placement.
+
+### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"The watch was moved by Yeongho himself to the desk, so he knows its current location.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+team_allocation,A,A,"### ANSWER
+A"
+team_allocation,C,C,"### ANSWER
+C"
+team_allocation,A,C,"지훈은 디자인 수상 경력과 소프트웨어 역량이 뛰어나 제품 디자이너로 적합하고, 나영은 소통·시장 조사·경쟁사 분석 능력이 뛰어나 판매 전략가로 적절하다. 수현은 두 역할 모두 약점이 있으나 남은 배치상 판매 전략 쪽에 보조로 들어가는 것이 합리적이다. 따라서 지훈-디자이너, 나영·수현-판매 전략가 조합이 가장 타당하다.
+
+### ANSWER
+C"
+team_allocation,A,A,"서연은 디자인 경험과 이해가 뛰어나 전시 디자인에 적합하고, 하진과 유민은 과거 협업 성공 경험과 친밀한 관계로 교육 프로그램 팀에서 함께 일하기 좋다. 또한 서연과 유민의 갈등을 피할 수 있어 가장 효율적인 배치다.
+
+### ANSWER
+A"
+team_allocation,A,C,"Hayoung excels at detail-oriented R&D work, while Dongwook's strength is customer communication and sales campaigns. Seojin is weak in both, so placing him with the capable Dongwook in sales minimizes damage while keeping Hayoung's strengths in R&D.
+
+### ANSWER
+C"
+team_allocation,C,C,"하림은 시각적·창의적 감각이 뛰어나 게임 디자이너에 적합하고, 도훈과 수진은 모두 분석적이며 오류 탐색에 능해 QA 테스터에 알맞다.
+
+### ANSWER
+C"
+team_allocation,C,C,"Since Suhyun has friction with both Jihoon and Yerin, but Jihoon and Yerin trust each other, the best arrangement is to place Suhyun alone in R&D (leveraging his chemical engineering and technical skills) while pairing Yerin's creativity with Jihoon's market analysis in marketing strategy.
+
+### ANSWER
+C"
+team_allocation,C,C,"지훈은 분석·실험 능력이 뛰어나고 환자 상호작용을 불편해하므로 연구 개발 팀에 적합하며, 다영과 수진은 소통 능력이 강해 임상 시험 팀에 적합하다.
+
+### ANSWER
+C"
+object_placements,A,A,"채영이 직접 카드를 서랍에서 가방으로 옮겼으므로, 카드의 실제 위치인 가방을 알고 있다.
+
+### ANSWER
+A"
+object_placements,D,D,"채영은 지훈이 풍선을 서랍에서 꺼내 파티 장소로 옮기는 과정을 바로 옆에서 지켜보고 배치까지 의논했으므로, 풍선의 새 위치를 알고 있다.
+
+### ANSWER
+D"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,C,C,"채영은 서윤이 USB를 선반에서 책상으로 옮기는 것을 보지 못했으므로, 여전히 USB가 선반에 있다고 믿는다.
+
+### ANSWER
+C"
+object_placements,A,A,"### ANSWER
+A"
+team_allocation,A,A,"Sujin excels at creative design but lacks field experience, while Taeho and Minjun both have strong site-management skills and work well together (Taeho respects Minjun's opinions). Since Sujin clashes with both of them, placing her alone on design and pairing Taeho with Minjun on construction avoids conflict and maximizes strengths.
+
+### ANSWER
+A"
+team_allocation,A,A,"서윤은 데이터 분석에 강점이 있어 분석력이 요구되는 메뉴 개발에 적합하며, 승호와 지민은 과거 협업에서 좋은 성과를 냈으므로 함께 배치하는 것이 시너지를 낼 수 있다. 승호는 단순 반복 업무에, 지민은 아이디어 구체화가 어려워 메뉴 개발에는 부적합하다.
+
+### ANSWER
+A"
+team_allocation,B,B,"서현은 창의성과 추진력이 강하지만 소통에 약점이 있어 기획자에 적합하고, 도윤과 지수는 상담에서 긍정적 피드백과 뛰어난 소통 능력을 보였으므로 고객 상담자로 배치하는 것이 최적입니다.
+
+### ANSWER
+B"
+team_allocation,A,A,"Sumin struggles with customer interaction and stress, so production management suits him better than sales. Jihun excels at confident customer interaction and accurate scheduling, fitting sales/distribution, and Yeonseo works more effectively when paired with Jihun in a comfortable environment.
+
+### ANSWER
+A"
+team_allocation,B,B,"세영은 아라와도, 지훈과도 갈등이 있으므로 혼자 배치하는 것이 좋고, 협력 경험이 있는 지훈과 아라를 함께 두는 것이 효율적입니다. 세영은 음료 개발 대회 수상 경력이 있어 레시피 개발에 적합하며, 지훈과 아라는 모두 고객 피드백으로 제품 개선을 이끈 경험이 있습니다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Jihyun excels at detail/product specs but struggles with market strategy and clashes with both others, so placing her alone in product development fits. Suhyuk and Damin both have distribution/market strengths and work well together (Suhyuk praises Damin's creativity), making them ideal for the distribution strategy team.
+
+### ANSWER
+B"
+team_allocation,A,A,"Seojin is the strongest cook and worst with customers, so kitchen fits him best; also he clashes with Taeho, so they shouldn't be paired. Minji, though preferring cooking, works well with Taeho and has helped him, making them a functional service pair. Thus Seojin in the kitchen with Minji and Taeho in service is optimal.
+
+### ANSWER
+A"
+team_allocation,B,B,"다영은 식품공학 전공으로 제품 개발에 최적이며, 민수와의 충돌·예린과의 비판 관계를 피하려면 단독 배치가 좋다. 민수와 예린은 과거 협업 성공 경험이 있고 둘 다 마케팅에 강점이 있으므로 마케팅 전략 팀에 적합하다.
+
+### ANSWER
+B"
+object_placements,D,D,"Jiyoung herself moved the gift to the middle shelf and was distracted at the entrance when Minjae moved it to the secret box, so she still believes it is on the middle shelf.
+
+### ANSWER
+D"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,B,B,"Taehun didn't witness Jiyoung's move, but he did carefully observe Minjae moving the gift into the secret box. Thus his most recent knowledge places the gift there.
+
+### ANSWER
+B"
+object_placements,C,C,"태훈이 직접 수첩을 작은 서랍으로 옮겼으므로, 그는 수첩이 작은 서랍에 있다고 알고 있다. 이후 수첩의 위치는 바뀌지 않았다.
+
+### ANSWER
+C"
+object_placements,B,B,"민재는 유나가 기록 카드를 서랍에 넣는 과정을 직접 관찰하고 기록했으므로, 카드가 서랍에 있음을 알고 있다.
+
+### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+murder_mysteries,A,A,"The murder weapon was a 중식도 (Chinese cleaver), and 민수 is an avid cook who regularly purchases cooking tools and attends cooking clubs, giving him direct access to such a weapon. He also had an emotional motive—dependence on 유림 and a desire to prevent their separation/divorce. 서인's suspicious details concern vehicles and license plates, not the weapon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"서인은 요리를 좋아해 중식도 사용에 익숙하고, 고립된 조용한 장소(지하 벙커)를 찾았으며, 가족 갈등으로 정서적으로 지쳐 있고 새로운 실험 방법을 시도하려 했다는 단서들이 모두 연결된다. 민수는 소방관으로 비상 호출 알리바이가 있으며 유림에게 정서적으로 의지했다. 따라서 서인이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"수민은 유빈이 프로젝트 제안을 기각한 데 대한 동기, 승진을 위해 동료를 배신한 전력, 요리 학교와 직접 구입한 요리 도구(중식도)라는 수단, 농장 출입 기회까지 모두 갖추고 있다. 하늘은 유빈에 대한 존경과 영감만 언급되어 동기가 약하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Hearty motive appears with 하늘: 웹툰 작가로서 유빈의 독창성과 재능을 부러워하며 그의 작업을 참조했고, 중식 요리를 즐겨 중식도(흉기)와도 연결된다. 반면 수민은 요리·복싱·농장 일 등 일상적 정보만 있고 유빈과의 갈등 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Seongryeol has the murder weapon type in his collection (an old jangdo with ""special meaning""), a motive (Yuhye witnessed his suspicious dark-alley envelope exchange and recorded a confession), and access to her phone and schedule. Donghyun only knew her routine via SNS, which is much weaker evidence.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The murder weapon was a kitchen knife (장도), and 동현 was at a shop near the theater that stocked such knives, giving him direct access to the weapon. He also knew her Friday movie routine, tracked her SNS post revealing her plan that day, and had a strong motive since 유혜 knew about his fraudulent use of company funds for promotion. His placement near the crime scene combined with means and motive makes him the most likely killer.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"현빈은 전자 기기 분해 취미와 전기충격기 구매 관심, 판매점에서 목격된 점, 피해자 집 근처 거주, 그리고 윤선과의 감정적 갈등 등 살해 수단·기회·동기가 모두 드러난다. 보현은 도박 빚과 연구 관련 정황이 있으나 전기충격기와의 연결이 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"보현은 연구소에서 전기충격기 등 전기 장비를 직접 다루는 주도적 역할을 했고, 도박으로 큰 돈을 잃었다는 정황과 윤선이 최대 후원자였다는 동기가 결합된다. 현빈은 사회적 이해 부족과 오해 정도의 정황만 있어 살해 수단과의 연결이 약하다. 살해 도구인 전기충격기에 대한 전문성과 접근성이 결정적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"서진은 디자인 역량이 뛰어나고 물류에서 실수가 있었으며, 나연은 물류 관리에 강점이 있고 디자인 소프트웨어에 약합니다. 동민은 예술적 감각이 부족하고 서진의 부정적 피드백에 위축되므로 서진과 분리하는 것이 좋습니다. 따라서 서진을 웹 디자이너로, 나연과 동민을 물류로 배치하는 것이 최적입니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"수진은 데이터·판매 전략에 강점이 있어 판매 관리에 적합하고, 그녀와 갈등이 있는 영훈·미나는 분리되어 고객 서비스로 배치하는 것이 강점 활용과 갈등 최소화 측면에서 합리적입니다.
+
+### ANSWER
+C"
+team_allocation,A,A,"Seohyun excels at sales with systematic style but has poor marketing results and clashes with both Dohoon and Jiwoo, so placing her alone in sales management avoids conflict. Dohoon is the strongest marketer, and Jiwoo works very well with Dohoon, so pairing them in marketing maximizes cooperation.
+
+### ANSWER
+A"
+team_allocation,B,B,"Minjae clearly belongs in exhibition design given his expertise and poor interpersonal fit. Since Jiwoo works well with Minjae (long friendship) while Seohyun clashes with him, pairing Jiwoo with Minjae in design avoids conflict, leaving Seohyun in participant management.
+
+### ANSWER
+B"
+team_allocation,C,C,"수현은 농업 기술 전문성과 생산 프로젝트 관리 경험이 있어 생산 관리 팀에 적합하며, 도영과 민지는 과거 협업에서 좋은 시너지를 보였으므로 함께 배치하는 것이 갈등을 최소화한다. 또한 수현은 도영·민지 모두와 마찰이 있었으므로 분리하는 것이 최선이다.
+
+### ANSWER
+C"
+team_allocation,B,B,"Somi's systematic, detail-focused planning fits the planning team, and her public-speaking anxiety makes promotion unsuitable. Nayoung's creative writing suits promotion, and Jihoon works well with her (mutual respect), while separating the clashing Somi–Nayoung pair.
+
+### ANSWER
+B"
+team_allocation,A,A,"Sumin excels at planning but struggles with promotion; Doyoung and Jihyun both have proven promotional success while lacking planning aptitude/motivation. Assigning Sumin to planning alone also separates her from Jihyun, with whom she has tension. So A best matches strengths.
+
+### ANSWER
+A"
+team_allocation,A,A,"Sumin excels at creative planning but struggles with public-facing work, while Jihyun shines in PR but falters in planning; Doyoung is versatile and collaborates well with Jihyun. Also, Sumin and Jihyun had conflicts, so separating them is wise. Thus Sumin on planning, Doyoung and Jihyun on PR is optimal.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"주현은 벌목 경험과 도끼 등 절단 장비를 다루는 데 익숙하며, 취미로 나무를 자르고, 해인과 같은 방향으로 퇴근하며 차를 함께 타기도 했고, 직장 내 갈등으로 인한 동기도 언급된다. 강우는 금고나 직설적 발언 등 정황이 약하다. 따라서 도끼 살인과 가장 연결되는 인물은 주현이다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Both suspects have access to axes, but 주현's profile aligns most directly with the murder weapon and physical evidence clues: years of logging work with extensive axe handling, weekend wood-cutting, heavy lifting ability, large storage space, keys/access, and frequent ""stains"" in the work environment (a cover for blood). His resentment over the public humiliation and lost promotion supplies motive, while 강우's connection is largely circumstantial workplace friction.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"연주는 해진의 인종차별적 발언으로 분노라는 동기가 있었고, 에어건 사용에 능숙했으며, 경기장 전체를 조망할 수 있는 높은 전망대에 있었다는 기회까지 갖췄다. 반면 다영은 일상적 활동과 가족 이야기뿐으로 직접적 동기나 접촉이 없었다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Diyoung has both motive (family honor insult) and clear means/opportunity — she owns a newly purchased air gun, is a skilled competitive shooter, and was a participant at the field. Yeonju's motive exists but she was at an elevated observation deck taking notes with no weapon or skill established.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The narrative links 준우 to the murder weapon directly—he uses distinctive pens, and the specialty shop sold a poison-needle pen to a customer fond of unusual pens—plus he had a strong motive since 호준 planned to expose damaging secrets about his conducting career. 윤아 has motive and opportunity but no connection to the weapon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"윤아는 화학 전공 및 독물 연구 경험, 독침 펜 제조 회사 인턴으로서 특별 물품 접근 권한, 당구장 출입 빈도, 그리고 호준에 대한 강한 원한이라는 수단·기회·동기를 모두 갖추고 있습니다. 준우는 단순히 유사한 펜을 수집품으로 보유했을 뿐, 명확한 동기가 드러나지 않습니다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"현식은 뱀 독 추출 경험(수단)과 금고 절도 사건이 CCTV에 찍혀 있었고 동훈이 CCTV를 확인하는 위치에 있었다는 점(동기)을 모두 갖추고 있다. 지환은 도박 빚이라는 금전적 어려움만 있고 살해 수단과의 연결이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Jihwan shows all three elements: motive (desperate gambling debts), means (chemistry degree, toxicology reading, snake-handling training), and opportunity (flexible schedule, close working relationship with Donghun). Hyunsik's details mostly concern unreachability and a safe theft, which is weaker and less tied to snake venom. The narrative deliberately builds Jihwan's capability with the murder weapon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"세라는 갈퀴를 정기적으로 사용하는 원예 취미, 예린의 경기 일정을 상세히 알고 있었던 점, 그리고 자신의 프로젝트를 예린에게 빼앗긴 원한이라는 동기까지 모두 갖추고 있다. 하영은 단지 정황상 의심스러운 과거와 재정적 필요만 언급될 뿐 살해 도구나 직접적 동기와의 연결이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The murder weapon was a rake, and 하영 handles rakes as a core part of her act, maintains equipment, cleans the wrestling ring after shows, and admitted being at the ring around the time of 예린's death. 세라 has jealousy-type motives but only circumstantial ties (a ticket, knowledge of schedules). Means, access to the weapon, and opportunity all converge on 하영.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Chae-a has both a possible motive (father's business ties with the gambling-indebted victim) and, crucially, demonstrated weapon-handling skill plus access to the arena's fire axe. Min-seo's portrayal emphasizes controlling/eavesdropping behavior but no weapon capability or clear link to the murder weapon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"민서는 소방서 자원봉사 경험으로 소방도끼 사용에 익숙하고, 소방서 옆 아파트에 거주하며 접근성이 있었으며, 재욱이 자신의 권위에 도전해 갈등이라는 동기도 있다. 채아는 무기 기술 언급은 있으나 소방도끼와 직접 연결되는 단서가 부족하다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"The victim was killed with an air gun at the laser tag arena. 서율 is a frequent regular there, has a staff friend at the venue granting access, and has extensive shooting experience through competitions and classes, plus physical strength from bodybuilding. 서연's shooting is casual recreation with no connection to the crime scene.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"서율은 피해자 윤선에게 놀림과 사생활 폭로를 당한 동기, 사격 훈련·대회 참가라는 수단, 사건 당일 경기장 방문이라는 기회를 모두 갖추고 있다. 반면 서연은 사격 클럽 활동과 장비 접근성은 있으나 윤선과의 개인적 동기가 드러나지 않는다. 따라서 동기·수단·기회가 모두 결합된 서율이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"하운은 장도리를 소유·사용하는 목수이며, 경기장 인접 거주와 유효한 출입카드로 접근 기회가 있고, 가현에게 조롱과 구타를 당한 강한 동기까지 갖췄다. 서이는 도구 사용 능력과 업무적 정보 접근은 있으나 명확한 동기가 없다. 수단·기회·동기가 모두 결합된 인물은 하운이다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The victim was killed with a hammer (장도리), and 하운 explicitly confirms it was one of his primary tools as a carpenter, still kept at his home. He also had an emotionally strained past relationship with 가현, giving both means and motive. 서이's profile shows stress and general tool familiarity, but no direct link to the specific weapon.
+
+### ANSWER
+A"
+team_allocation,B,B,"Both Minah and Seojin fit content work, while Yeongsu is clearly the tech expert. In option B, Seojin (creative writing/design) handles content, and the tech pair is Minah with Yeongsu—avoiding both the Minah–Seojin clash and the Seojin–Yeongsu tension, with Yeongsu's cooperative style compensating for Minah's technical weakness.
+
+### ANSWER
+B"
+team_allocation,C,C,"수민은 유연하고 창의적이어서 스토리보드에 적합하고, 예진은 세밀함과 장기 집중력으로 애니메이션에 적합합니다. 지호는 빠른 아이디어 전환에 약하므로 스토리보드보다는 애니메이션 팀에 배치되는 것이 나으며, 예진과의 갈등은 있으나 수민이 그를 피하는 문제를 줄일 수 있습니다.
+
+### ANSWER
+C"
+team_allocation,A,C,"현우는 커피의 신맛과 쓴맛에 민감하다는 점에서 유일하게 원두 감별에 활용할 수 있는 감각적 강점을 가지고 있습니다. 지민은 단순한 디자인에 대한 선호, 수영은 실용적 목적 우선의 스타일 감각이 있어 인테리어 쪽에 배치하는 것이 낫습니다. 따라서 현우를 원두 선택에, 지민과 수영을 인테리어에 두는 배정이 가장 효율적입니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"수민은 기술적 세부 사항과 데이터 이해에 강점이 있어 생산 관리 팀에 적합하고, 지혜의 창의성과 태영의 시장 트렌드 통찰력은 판매 전략 팀에 어울립니다. 또한 지혜와 태영은 과거 성공적인 협력 경험이 있어 시너지가 기대되며, 수민과의 갈등도 피할 수 있습니다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Sumin's engineering strength but marketing weakness makes product design ideal, while Jihoon excels at marketing and presenting. Taeyeon works well and trusts Jihoon, so pairing them avoids the Sumin–Jihoon and Sumin–Taeyeon conflicts. Option B satisfies both skill fit and interpersonal compatibility.
+
+### ANSWER
+B"
+team_allocation,B,B,"서현은 고객 대면 경험이 풍부해 판매자 지원에 적합하고, 민기와 수진은 과거 협업 성과가 좋아 함께 배치하는 것이 시너지를 냅니다. 또한 서현과 수진의 갈등을 피할 수 있습니다. 민기는 사용자 중심 설계 이해가 깊어 UX 팀을 이끌 수 있습니다.
+
+### ANSWER
+B"
+team_allocation,B,C,"Volunteer management requires active public communication—지원 is comfortable dealing with people directly. Sponsor management requires event hosting and face-to-face donor meetings, which 동민 has proven success in. 서현, who prefers paperwork and avoids public speaking, can support 동민 behind the scenes, and this also separates 서현 from 지원, who previously clashed.
+
+### ANSWER
+C"
+team_allocation,A,C,"Mina both generates creative ideas and actively listens to and builds on others' opinions, which matches the itinerary planning team's need to gather and coordinate diverse views. Sujin's sensitivity to conflict makes her ill-suited to lead opinion coordination, and Yeongho's strong assertiveness could hinder consensus-building, but his openness to ideas works in customer service alongside Sujin's precision.
+
+### ANSWER
+C"
+murder_mysteries,B,A,"도끼는 재원의 직업 필수 도구이며 그는 도끼 사용에 전문 지식이 있고, 스케이트 파크와 희영 모두와 직접적 연결이 있다. 재형은 협박 등 동기 요소는 있으나 도끼와의 연관성이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"재원은 도축업자로 도끼 등 도구를 철저히 관리하며, 금전적 곤란과 희영과의 금전 관계라는 동기가 있고, 그녀의 일정과 소셜 미디어를 통해 위치를 파악할 수 있었으며 스케이트 파크에도 익숙했다. 반면 재형은 지하실 실험 등 수상한 점이 있지만 흉기·동기·피해자와의 접점이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"진호는 희영과 함께 산장에 있었고, 보안업체 경력으로 경봉 장비에 접근할 수 있었으며, 새 번호 사용과 다중 보안 잠금 등 은폐 행동이 두드러진다. 유진은 경찰 경력과 가족 이야기 등 정황적 요소만 있고 범행 현장·도구와의 직접 연결이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"진호는 대학 시절 경호원 아르바이트 경험(호신용 경봉과 연결), 희영과 산장에서 주말을 보낸 사실, 결사 및 아버지와의 연관성 등 흉기·장소·동기 모두에 걸쳐 단서가 집중된다. 유진에 대한 정보는 가족 사진, 회사 기밀, 음식 취향 등 사건과 직접 관련 없는 내용이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The murder weapon was a saw, and 해경 was actively engaged in woodworking projects, studying wood types and tool usage, and had motive-adjacent proximity to 희준. 현서's expertise involves fine nail-art instruments and gym security, not saws.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"현서는 희준에게 과거 불명예를 빌미로 협박·조종당했다는 명확한 동기가 있고, 정교한 도구를 다루는 전직 레슬링 선수로 체육관 접근성과 신뢰(도구를 두고 갈 수 있는)까지 확보하고 있다. 해경의 수상한 행동은 전통·우편물 등 사건과 직접적 연결이 약하다.
+
+### ANSWER
+A"
+team_allocation,C,C,"수민은 동물 돌봄에 열정이 있고 알레르기가 없으므로 동물 관리에 적합하며, 재호는 소통과 강의 경험이 있어 교육 팀에 적합하다. 예진은 알레르기가 심하므로 동물 관리보다 교육 팀에 배치하는 것이 낫고, 수민과의 마찰도 피할 수 있다.
+
+### ANSWER
+C"
+team_allocation,A,B,"### ANSWER
+B"
+team_allocation,B,B,"세진은 공간 배치와 디자인에 뛰어난 능력을 보였으므로 부스 배치 팀에 적합하고, 나영과 도훈은 배치 경험이 없으므로 홍보 팀에 배정하는 것이 합리적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Sooyeon conflicts with Jiwan and Minji is uncomfortable deciding with Sooyeon, so Sooyeon must work alone. Minji and Jiwan have a proven positive collaboration, making them a workable pair. Thus placing Sooyeon alone in artist management and pairing Minji with Jiwan in promotion minimizes interpersonal friction.
+
+### ANSWER
+B"
+team_allocation,A,A,"Serving Seojun and Mina together should be avoided due to past conflict, so option C is out. Mina and Yeonghun collaborated successfully before, and both fit safety monitoring/management, while Seojun's calm problem-solving handles unexpected game operations well. Thus A balances strengths and avoids conflict.
+
+### ANSWER
+A"
+team_allocation,B,A,"Both 수민 and 지호 have proven program planning ability, but 지호 is explicitly noted to make mistakes on safety-related projects, so he should not be placed on the safety team. 하린 has demonstrated safety project success and strong detail attention, and can compensate for 수민's weakness in details. Thus assigning 지호 to planning and 수민 with 하린 to safety balances strengths best.
+
+### ANSWER
+A"
+team_allocation,C,C,"Jisoo clashes with both Minyoung and Taemin, so she should work alone; her creativity suits program development. Minyoung and Taemin have proven success together and both have safety project experience, making them ideal as the safety management pair.
+
+### ANSWER
+C"
+team_allocation,A,A,"서준은 대중 교류와 홍보를 꺼리지만 기획 팀을 이끈 경험이 있고, 도윤과 하영은 모두 사람들과의 상호작용을 즐기며 소셜 미디어·즉흥 대응에 강점이 있다. 서준을 기획에 두면 갈등이 많은 관계도 분리된다. 따라서 서준을 기획에, 도윤·하영을 홍보에 배치하는 것이 최선이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"준서는 살해 도구인 호신용 경봉을 최근 구매했고, 롤러스케이트장을 매주 정기적으로 방문했으며, 피해자 지우와의 관계가 갑자기 단절되어 동기까지 존재한다. 도언은 과거 기록의 모호함과 경봉 훈련 경험이 있으나 직접적인 무기 소지나 피해자와의 갈등 정황이 없다. 따라서 무기·기회·동기가 모두 맞물린 준서가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"도언은 경봉 사용 훈련을 받은 경비원으로 수단이 있고, 교리를 지키기 위해 무엇이든 하겠다는 강한 동기가 있으며, 현장에서 도보 10분 거리에 거주해 기회까지 갖추고 있다. 반면 준서는 관계 소원함 정도의 모호한 정황만 있고 뚜렷한 동기가 없다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries,B,A,"The murder weapon was a nail puller/crowbar, and Yena's woodworking hobby plus her responsibility for all equipment and tools directly links her to such a tool. Luna's details (debt, storage access) are more generic and unconnected to the specific weapon. The strongest weapon-based connection points to Yena.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"예나는 목공예 취미로 노루발못뽑이 같은 도구에 익숙하고, 경기장 내 모든 장비 배치를 담당해 접근성이 높으며, 미영의 게시물로 평판이 훼손된 명확한 동기와 미영의 SNS를 매일 추적하던 집착도 드러난다. 루나의 도박 부채는 미영과 직접 연결되지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"우빈은 쌍절곤에 대한 전문 지식과 수단(무기 수집, 전문 서적, 무술 연습), 라희가 그의 비밀을 폭로하려 했다는 동기, 그리고 사건 당일 현장에 있을 계획이었다는 기회를 모두 갖추고 있다. 반면 세라는 라희와 친밀한 우정 관계만 드러나고 흉기와 관련된 연결점이나 동기가 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Sera has both the specialized means (trained nunchaku skill from martial arts) and access (weekly bungee visits, rehearsals), plus a hidden motive involving jealousy over Rahee's acclaim and contact with her agent. Ubin has motive but no demonstrated connection to the nunchaku weapon. Means plus opportunity point to Sera.
+
+### ANSWER
+A"
+team_allocation,C,C,"Both 나영 and 민지 excel at time management, organization, and practical work—ideal for production management—while neither has artistic strength. 세현, despite weaknesses, is the only one described in terms of design patterns and design work. Thus 세현 as designer with 나영 and 민지 handling production.
+
+### ANSWER
+C"
+team_allocation,B,B,"Skill-wise, 서연 excels at planning (though poor at presenting), while 동우 and 은지 both shine in promotion/public-facing work. Placing 서연 alone in planning also avoids her conflicts with the other two, and although 동우 and 은지 clash somewhat, both fit promotion best.
+
+### ANSWER
+B"
+team_allocation,B,B,"서준은 마케팅에 전혀 흥미가 없고 개발 실력이 뛰어나므로 개발자로 배치하는 것이 적합하며, 민수는 개발에 관심이 없고 마케팅 성과가 뛰어나므로 마케터가 맞습니다. 나영은 두 분야 모두 가능하지만, 서준과의 직접 충돌 이력을 피하려면 마케팅 팀에 배치하는 것이 낫습니다. 따라서 개발은 서준, 마케팅은 나영과 민수가 최적 조합입니다.
+
+### ANSWER
+B"
+team_allocation,C,C,"수진은 세부 계획과 숫자에 강하지만 대인 소통에 약해 기획 업무에 적합하고, 미라의 네트워킹 능력과 영호의 사회적 상호작용 강점은 후원자 관리에서 빛을 발합니다.
+
+### ANSWER
+C"
+team_allocation,A,A,"Sujin's strengths—public presentation and rapid creative ideas—fit the PR team, while her weakness in long-term relationships and data would hurt donor management. Younghoon excels at donor communication and sustained relationship management, so he belongs in donor management, with Mina supporting team harmony there since she avoids presenting.
+
+### ANSWER
+A"
+team_allocation,C,C,"소희는 혼자 일할 때 뛰어난 창의적 전략가이므로 단독으로 기획을 맡기는 것이 적합하고, 재민과 경수는 과거 협력 경험이 좋고 경수가 재민의 아이디어를 잘 실행하므로 함께 배치하는 것이 시너지가 크다. 또한 소희는 두 사람 모두와 갈등이 있어 분리하는 것이 바람직하다.
+
+### ANSWER
+C"
+team_allocation,A,A,"수현은 도영과 민지 모두와 갈등이 있었고, 도영과 민지는 과거 협업 성공 경험이 있습니다. 또한 수현은 기부 프로젝트 기획에서 성공 경험과 데이터 기반 전략 강점을 갖고 있어 기부 모집 팀에 단독 배치가 적합합니다.
+
+### ANSWER
+A"
+team_allocation,C,B,"지훈만이 컴퓨터 공학 전공과 AI 솔루션 개발 등 명확한 기술 역량을 갖추고 있어 기술 컨설턴트로 가장 적합하다. 민서는 고객 소통에 뛰어나 고객 관리자로 적합하며, 수현은 기술 분석에 약점이 있어 단독 기술직보다 팀 내 고객 관리에서 창의적 관점을 보완적으로 발휘하는 편이 낫다. 또한 수현과 지훈의 갈등도 서로 다른 직무로 분리해 완화된다.
+
+### ANSWER
+B"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"Minho was nearby when Sujin moved the ticket into the small bag, so he witnessed the change.
+
+### ANSWER
+A"
+object_placements,A,A,"Minho himself moved the passport from the bookshelf into the small bag, so he knows its location.
+
+### ANSWER
+A"
+object_placements,A,A,"수진 본인이 비행기 표를 테이블 서랍에서 작은가방으로 옮겼으므로, 표의 최종 위치를 정확히 알고 있다.
+
+### ANSWER
+A"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,D,"Mirae herself moved the score to the piano, and she was practicing backstage when Sujin moved it to the reception, so she remains unaware of the change.
+
+### ANSWER
+D"
+object_placements,B,B,"Camera was originally in the bridal room, but 재훈 moved it to the reception area, and 미래 was attentive to the items 재훈 was handling just before the ceremony, so she witnessed the move.
+
+### ANSWER
+B"
+team_allocation,B,B,"수민은 과학 연구에 강점이 있어 연구개발에 적합하고, 지호와 다영은 마케팅에서 협업 경험이 좋아 함께 배치하는 것이 최적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"수현은 기획·분석에 강점이 있어 단독으로 기획을 맡기는 것이 적합하고, 예린과 재호는 모두 홍보 경험과 창의성이 뛰어나 홍보에 배치하는 것이 효율적입니다. 특히 수현을 홍보에 두면 강점이 낭비되고 예린과의 마찰도 커집니다. 따라서 강점 기반 배치가 가장 합리적입니다.
+
+### ANSWER
+B"
+team_allocation,A,B,"### ANSWER
+B"
+team_allocation,B,A,"지훈은 창의성과 유연함을 선호하므로 이벤트 기획에 적합하고, 민수는 변화가 많은 일을 피해야 하며 세영은 직접적이고 체계적인 방식을 선호해 후원자 관리에 배치하는 것이 강점에 부합한다.
+
+### ANSWER
+A"
+team_allocation,B,B,"Since 서진 conflicts with both 민아 and 도영, and 도영-민아 collaborate well, 서진 should work alone in the kitchen while 도영 and 민아 pair up for customer service.
+
+### ANSWER
+B"
+team_allocation,B,A,"수진은 기획·아이디어에서 강점을 보였으므로 콘텐츠 제작에 가장 적합하고, 영훈은 기술 지원 경험과 문제 해결 능력이 뛰어나 기술 지원원으로 최적입니다. 재민은 창의적 작업과 고객 대면에 부적합하지만 꼼꼼하고 체계적이어서 기술 지원 보조 역할이 가능합니다. 따라서 각자의 강점을 최대한 활용하는 배치는 A입니다.
+
+### ANSWER
+A"
+team_allocation,B,B,"수현은 도영과 민지 모두와 갈등이 있어 혼자 일하는 것이 적절하며, 혁신적 상품 컨셉 개발과 세부 관리 능력이 뛰어나 기획자로 적합하다. 반면 도영과 민지는 팀워크가 좋고, 민지는 트렌드·소비자 분석에 강해 마케팅에 잘 맞는다. 따라서 수현 단독 기획, 도영·민지 마케팅 조합이 최적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"지수와 미영은 갈등 이력이 있어 분리해야 하며, 성훈과 미영은 과거 협업 성공 경험이 있습니다. 지수는 기획에 강점이 있고 마케팅에는 약하므로 상품 기획 팀에, 시장 분석·마케팅에 강한 미영과 콘텐츠 개발에 뛰어난 성훈은 마케팅 팀이 적합합니다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"준혁은 화학 공장 근무 경력(염산 지식), 지하 벙커 출입 빈도, 은영의 휴대폰에 앱 설치 및 통화 상대 파악 등 통제·감시 행동을 보이며 수단·기회·동기가 모두 결합된다. 서이는 규칙 위반 정도의 의심스러운 습관에 그친다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"서이는 벙커 관리·경비 책임자로 접근 권한이 있고, 은영의 교리 비판적 태도에 대해 고위 신도들과 논의했다는 명확한 동기가 드러난다. 준혁에 대한 서술은 옷차림, 쇼핑, 장비 정리 등 살해 동기와 무관한 성격 묘사에 그친다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Raheeμ—κ²ŒλŠ” λ§ˆμ²΄ν…Œμ™€ 같은 μ˜ˆλ¦¬ν•œ 도ꡬ에 λŒ€ν•œ μ ‘κ·Όμ„±(λŒ€μž₯κ°„ 취미, μ•½μ΄ˆ κ°€κ³΅ 도ꡬ), 곡원 인접 κ±°μ£Ό, 그리고 은진의 지속적인 μ§€μ  μœΌλ‘œ 인해 μƒλ‹Ήν•œ 원망이라는 λͺ…ν™•ν•œ λ™κΈ°κ°€ λͺ¨λ‘ κ²°ν•©λ˜μ–΄ μžˆλ‹€. μˆ˜μ§„μ€ 관심과 일정 νŒŒμ•… μ •λ„μ˜ μ •ν™© 뿐이며 흉기와의 연결이 μ—†λ‹€.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"수진은 마체테 소품 대여, 은진에 대한 온라인 스토킹과 적대적 메시지, 공원 출입 등 수단·동기·기회를 모두 갖추고 있다. 라희는 친구이며 공원 근처 거주와 직업 정보 외에 결정적 단서가 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"명석은 희귀 쌍절곤 수집, 무술 대회 우승 경력, 의영의 부모와의 사업·법적 갈등이라는 동기, 그리고 밤중에 상자를 옮기며 방을 철저히 잠그는 은밀한 행동 등 수단·동기·기회가 모두 갖춰져 있다. 반면 제이는 의영과 오랜 친구·사업 파트너로서 협조적이고 솔직한 태도를 보인다.
+
+### ANSWER
+B"
+murder_mysteries,B,A,"제이는 의영의 스케줄을 지속적으로 캐물었고, 집 뒷마당에서 쌍절곤을 혼자 연습했으며, 사업상 자신의 결정이 갈등 요소였다는 점에서 동기·수단·기회를 모두 갖춘 인물로 묘사된다. 명석은 무기 수집과 무술 배경이 있으나 이는 정황적 가족 환경에 가깝다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"자영은 절단기 사용 경험이 풍부하고, 늦은 시각까지 회사에 남아 인호와 마주칠 기회가 많았으며, 배우자와 인호의 개인 메신저 연락이라는 동기까지 암시된다. 반면 유혜는 전자기기를 못 쓰고 소극적이며 기계 관련 접점이 없다. 따라서 자영이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"유혜는 절단기를 직접 다루고 시연하는 인물이며, 문제의 절단기가 있던 기술실과 직접 연결되어 있고, 인호로부터 지속적으로 지시를 받아온 관계에서 동기도 추론된다. 자영의 기계 사용 경험은 일반적인 프로젝트 수준에 그친다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Yuchan possesses the means (trained strangulation techniques, access to park equipment), opportunity (free movement and flexible hours, seen near the bungee site that afternoon), and a motive (jealousy over Yuhyun sharing secrets with others and breaking promises). Ah-young has a motive from blackmail, but the evidence against her is far weaker and mostly circumstantial.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"아영은 스카프 매듭법에 능숙한 경험(교살 도구와 직결), 여행 및 번지점프 일정을 단독으로 주도한 점, 그리고 유현이 자신의 과거를 알고 있어 불편한 관계였다는 동기까지 모두 갖추고 있다. 유찬은 근처에 있었다는 정황과 알리바이 부재 정도만 있고 결정적 수단·동기가 약하다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"진혁은 주방칼에 대한 전문 지식과 제작 워크샵 참석(수단), 클럽 방문 습관(기회), 그리고 범준의 지속적인 비난과 극작품 혹평으로 인한 경제적·정서적 압박(동기)을 모두 갖추고 있다. 영호는 종교 행사 비웃음이라는 약한 동기만 있고 흉기와 연결되는 요소가 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"Jinhyeok has both the strongest means link to the murder weapon (an extensive kitchen knife collection and admitted study of kitchen knives) and a clear personal motive, as Beomjun persistently criticized and harassed him weekly online and by message. Yeongho's portrayal is largely positive—charitable, helpful, only mildly annoyed by mockery—suggesting he is the foil. Thus Jinhyeok is the more likely killer.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Since the murder occurred aboard the plane with boiling oil from the galley, opportunity is decisive. 라희 was on the flight, seated in the same section as 우성, and had access to the galley while assisting the crew, plus a motive from their long-standing conflict over his critiques and competing for the poetry event spotlight. 성준 has cooking skills but no established presence on the aircraft.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"성준은 고온의 기름을 다루는 숙련된 기술(요리 경연 우승, 실습 경험)을 갖고 있어 끓는 기름을 흉기로 사용한 살해 방법과 직접 연결되며, 피해자와 함께 여행을 준비한 접근 기회도 있었다. 라희는 행사 준비라는 합리적 탑승 이유가 설명되었고 갈등도 사소한 오해로 정리되었다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"상호는 특수부대에서 실제 수류탄을 사용한 경험과 정기적인 무기 훈련을 받았으며, 피해자 윤호로부터 물리적 위협과 고함을 당한 갈등(동기)까지 있었다. 소연의 군사 지식은 영화 역할을 위한 연기 훈련 수준에 불과하고 직접적인 동기도 드러나지 않는다. 따라서 수단·능력·동기를 모두 갖춘 인물은 상호다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The murder weapon was a grenade, and the narrative repeatedly emphasizes Soyeon's military training and weapons/equipment instruction for her war film, plus her motive—Yunho's reviews threatened her declining career. Sanghо's traces are explained innocently by his nighttime jogging habit and training arrangement.
+
+### ANSWER
+A"
+team_allocation,C,C,"서하와 다윤은 모두 고객 심리·분석·판매 전략에 강점이 있고 서로 협력이 잘 되므로 판매 전략 팀에 함께 배치하는 것이 효율적이다. 예준은 서하, 다윤 모두와 갈등이 있어 함께 두면 마찰이 생기므로 단독으로 제품 디자인 팀에 배치하는 것이 합리적이다.
+
+### ANSWER
+C"
+team_allocation,C,C,"수민과 아영은 데이터 분석에 강점이 있고 협업 관계도 좋으므로 함께 데이터 분석 팀에 두는 것이 효율적입니다. 지훈은 두 사람 모두와 갈등이 있고 데이터 역량도 부족하므로 별도로 사용자 인터페이스 업무를 맡기는 것이 갈등을 최소화합니다.
+
+### ANSWER
+C"
+team_allocation,C,C,"지훈은 과학적 열정과 실험적 상상력을 지녔지만 행정 업무에서 실수가 많고, 서영과 민지는 모두 행정 경험이 풍부하며 감정적 갈등도 잘 관리한다. 따라서 지훈을 연구 개발에, 서영과 민지를 행정 관리에 배치하는 것이 강점을 최대화한다.
+
+### ANSWER
+C"
+team_allocation,B,B,"세아는 창의적 아이디어 제안에 성공 경험이 있어 기능 설계에 적합하고, 홀로도 자기 방식대로 진행할 수 있습니다. 민지는 타인의 아이디어를 따를 때 능력을 발휘하고 수혁과 협업 경험이 좋으므로, 규정에 철저한 수혁과 함께 보안 검토 팀에 두면 수혁의 꼼꼼함이 민지의 약점을 보완합니다.
+
+### ANSWER
+B"
+team_allocation,B,B,"지혜는 창의성과 대중 소통에 약해 마케팅에 부적합하므로 제품 개발에 배치하는 것이 맞고, 수연은 소셜 미디어·소통·창의성에 강점이 있어 마케팅에 적합하다. 민수는 과학 실험 해석에 약하지만 큰 그림과 수연과의 협업에서 강점을 보이므로 수연과 함께 마케팅에 배치하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Chaeyoung's creative product-development strength fits the developer role, and pairing Jihoon with Yeeun leverages their proven past collaboration while avoiding the friction between Chaeyoung and Yeeun.
+
+### ANSWER
+B"
+team_allocation,C,C,"수혁은 다은과 민재 모두와 갈등 이력이 있어 단독 업무가 적합하며, 설계 전공과 성공 경험이 있으므로 설계 팀에 혼자 배치하는 것이 좋습니다. 다은과 민재는 이전 협업에서 좋은 성과와 관계를 유지했고 둘 다 현장 관리 경험이 뛰어납니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"성민은 세부 사항보다 큰 그림과 전략을 선호하므로 게임 디자이너에 적합하고, 지우는 세부 사항에 철저해 QA에 잘 맞습니다. 다혜는 창의적 컨셉 제시에 약하므로 디자이너보다는 프로세스·검증 업무에 배치하는 것이 낫습니다. 따라서 성민을 디자이너, 다혜와 지우를 QA로 배정하는 것이 가장 효율적입니다.
+
+### ANSWER
+B"
+team_allocation,B,C,"소미는 창의성과 조율 능력을 모두 갖춰 개발팀에 적합하고, 다희는 구조적 환경에서 조율 능력을 발휘하므로 관리팀에 어울린다. 영훈은 소통이 약하지만 방향성 제시가 가능하여 관리팀에 배치하는 것이 무리 없다.
+
+### ANSWER
+C"
+team_allocation,A,A,"Both Suhyun and Jian are weak in safety, so Yeongmin must anchor the safety team. Placing Suhyun alone in planning avoids his conflicts with both Yeongmin and Jian, while Jian—who prefers structured, administrative tasks—can support Yeongmin, whose meticulousness compensates for Jian's oversights.
+
+### ANSWER
+A"
+team_allocation,C,C,"Both 상호 and 민지 excel at calm problem-solving under pressure and have a proven history of collaborating well, making them ideal for field management. 지은 lacks quick situational response needed on-site but has determination, so recruitment is the better fit despite weaknesses. Pairing 상호 with 지은 would risk renewed conflict.
+
+### ANSWER
+C"
+team_allocation,C,C,"Sora prefers working alone and can quickly grasp/summarize content, making her a fit for a solo editing role; meanwhile Minji and Kyungmin both value teamwork, have proven chemistry together, and both possess trend analysis/customer insight and campaign skills suited to marketing as a pair.
+
+### ANSWER
+C"
+team_allocation,A,A,"수현은 국문학 전공에 편집 경험이 풍부하고 협력적이므로 편집자로 적합하며, 민정과 지호는 모두 시각 예술 배경으로 디자인에 특화되어 있다.
+
+### ANSWER
+A"
+team_allocation,B,B,"서진은 편집에 탁월하지만 마케팅 실적이 낮고 두 사람 모두와 갈등이 있으므로 단독 편집 업무가 적합하다. 건우와 민지는 과거 협업 성공 경험이 있고 둘 다 마케팅 경험을 갖추었으므로 함께 마케팅 팀을 이루면 효율적이다.
+
+### ANSWER
+B"
+team_allocation,A,A,"수현은 편집에 뛰어나고 디자인에 약하며, 지훈과 미나는 디자인 강점이 있다.
+
+### ANSWER
+A"
+team_allocation,C,B,"Jiwoo is the only one with proven editing skills and linguistic credentials, so she should be the editor. Minjae has marketing expertise and success, and Suhyun—though lacking editing precision—has marketing experience (including a formative failure) and a firm personality suited to marketing negotiations. Thus editing goes to Jiwoo, marketing to Minjae and Suhyun.
+
+### ANSWER
+B"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,B,B,"Jaehoon missed Mirae's move of the score to the piano (he didn't turn his head), but he was repeatedly inspecting the reception area and checking item locations, so he would have observed the score after Sujin moved it there.
+
+### ANSWER
+B"
+object_placements,C,C,"Seoyeon missed both the notebook's move to the bag and its later move to the desk, so she still believes it's in the locker.
+
+### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,D,D,"영민이 직접 공책을 사물함에서 가방으로 옮겼고, 이후 지훈이 공책을 가방에서 책상으로 옮길 때 영민은 지훈의 동작을 가까이서 주의 깊게 지켜보고 있었다. 따라서 영민은 공책의 최종 위치인 책상을 알고 있다.
+
+### ANSWER
+D"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,D,D,"Jihoon was near Yeongmin and saw the notebook go into the bag, then he himself took the notebook and moved it to the desk. So his belief matches reality: the desk.
+
+### ANSWER
+D"
+object_placements,D,D,"### ANSWER
+D"
+team_allocation,C,C,"소영은 UI/UX에 강점이 있지만 데이터 분석에는 흥미가 없고 지훈과 갈등이 있으므로 단독 디자이너 역할이 적합합니다. 미나와 지훈은 모두 데이터 분석 역량이 뛰어나고 과거 협업에서 좋은 성과를 냈으므로 함께 분석 업무를 맡는 것이 시너지를 냅니다. 이 배치는 미나-소영, 소영-지훈 갈등도 최소화합니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"수미는 마케팅(대중 프로모션) 이해가 부족하고 영훈·민지 모두와 갈등이 있으므로 마케팅 팀에 넣으면 비효율적이다. 반면 영훈과 민지는 마케팅 전공·데이터 분석과 캠페인 설계에 강하고 협업도 원활하다. 따라서 수미를 게임 디자이너로, 영훈과 민지를 마케팅 팀으로 배치하는 것이 최적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"수민은 건축 설계에 탁월하고, 도윤은 마케팅에 강점이 있다. 혜진은 두 분야 모두 약하지만 디자인 감각이 있어 마케팅 보조로 배치하는 것이 낫고, 수민과의 갈등도 피할 수 있다.
+
+### ANSWER
+B"
+team_allocation,A,A,"수현은 요리 전문성이 뛰어나 레시피 개발에 적합하고, 지민은 물리적 제품 디자인에 흥미가 있으며 도영은 조직적·시스템적 업무에 강점이 있어 포장 디자인 팀에 배치하는 것이 합리적입니다. 또한 수현과 지민, 수현과 도영의 갈등을 피할 수 있어 마찰도 최소화됩니다.
+
+### ANSWER
+A"
+team_allocation,A,A,"지원은 소통에 어려움이 있고 미나와 갈등이 있으므로 개발 팀에 단독 배치하는 것이 적절하다. 미나와 현수는 모두 소통 능력이 뛰어나고 협업 경험이 성공적이므로 고객 피드백 수집 팀에 함께 배치하는 것이 최적이다.
+
+### ANSWER
+A"
+team_allocation,C,A,"영호는 아티스트와의 신뢰와 창의성이 뛰어나 아티스트 관리에 적합하고, 수진과 다현은 모두 분석적 작업과 데이터 해석을 선호하므로 마케팅 팀에 적합합니다. 수진은 대면 상호작용이 불편하고 아티스트 관리에서 스트레스를 받았으며, 다현도 아티스트 조율에 문제가 있었습니다. 따라서 능력 기반 최적 배치는 A입니다.
+
+### ANSWER
+A"
+team_allocation,C,B,"지민은 감정적 지원과 분위기 조성에 강해 고객 응대에 적합하고, 수아와 함께 있으면 스트레스를 받으므로 분리하는 것이 낫다. 동혁은 세부 사항·프로세스 관리에 뛰어나 운영 관리 팀의 핵심이며, 갈등을 회피하는 성향이라 수아의 강한 의견도 상대적으로 감당할 수 있다. 수아는 고객 대면을 꺼리므로 운영 팀에서 창의적 아이디어를 제공하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"Suhyun excels at UI but struggles with development, while Yejin is strong in both and works well with Jaemin. Assigning Suhyun alone to UI leverages her strength and avoids her conflicts with both teammates, while Yejin and Jaemin—proven collaborators—handle development with Yejin's coding ability compensating for Jaemin's weakness.
+
+### ANSWER
+B"
+object_placements,A,A,"Nayoung was distracted (checking the bulletin board and organizing materials) when Minji moved the laptop to the table, so she still holds the original belief that the laptop is in the usage section.
+
+### ANSWER
+A"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,C,C,"Junho himself moved the book to the storage room, and during Nayoung's later move he was busy answering seating inquiries and couldn't observe. So his belief remains that the book is in the storage room.
+
+### ANSWER
+C"
+object_placements,D,D,"The USB was moved by Mirae to her locker, but then Seunghyun took it to the private cubicle, and Mirae watched his movement in that direction and discussed with him nearby. So she knows its current location.
+
+### ANSWER
+D"
+object_placements,C,C,"Yujin moved the notebook quietly while Mirae's gaze was fixed elsewhere, so Mirae never observed the move and still holds the belief that the notebook is in its original place.
+
+### ANSWER
+C"
+object_placements,D,D,"### ANSWER
+D"
+object_placements,C,C,"Seunghyun was absorbed in his own notes and did not observe Yujin quietly moving the notebook from the stacks to the reading room table. Therefore his belief remains outdated—he still thinks the notebook is on the archive shelf.
+
+### ANSWER
+C"
+murder_mysteries,A,A,"Rahee has means (retained police equipment including a baton), physical capability, and displays a notable lack of empathy, while Yuyeon only has a vague motive and no link to the murder weapon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"유연은 상진의 인종차별적 발언으로 단체에서 외면당한 명확한 동기가 있고, 공동 거주자로서 주방에 자유롭게 접근할 수 있는 기회도 있었으며, 경찰 장비 사용법에 익숙하다는 점에서 흉기(경찰봉) 사용 능력까지 갖췄다. 라희는 경찰봉의 소유자이지만 동기가 드러나지 않고 상진과 신뢰 관계였다.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"나영은 사격 연습과 에어건 구매 이력이라는 수단, 종교적 이념 충돌이라는 동기, 옥상과 사건 당일 근처 카페 약속이라는 기회를 모두 갖추고 있다. 반면 수호는 불법 관측 의혹과 증언 관련 동기만 언급되고 살해 수단(에어건)과의 연결이 없다. 따라서 나영이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Suho has direct access to the air gun (murder weapon), regular access to the roof, advanced marksmanship skills, and a motive since Seobin exposed his documents in court — all converging evidence absent for Nayoung.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"유현은 목공 활동이 광범위하고 톱 등 도구에 익숙하며, 최근 피해자의 차를 사용했고 수혜에 대한 원망과 질투의 정황이 드러난다. 서이의 목공은 취미 수준이며 차와의 연결점이 없다. 흉기와 범행 장소 모두에 접근성이 있는 인물은 유현이다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Saw as murder weapon points to 서이's woodworking/DIY tools, plus motive from resentment over the religion damaging family relations.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The murder weapon was a nail gun, a carpentry tool. 연진 explicitly has carpentry experience, makes crafts, does home repairs, and frequents the skating rink where the victim spent time. 지율's skills relate to kitchen appliances like blenders, not construction tools.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"연진은 고급 목공 기술과 목수 경력이 있어 네일 건 사용에 익숙하다는 점이 결정적 단서로 제시된다. 지율의 통화 습관은 단순한 정황일 뿐 살해 도구와 연결되지 않는다.
+
+### ANSWER
+A"
+team_allocation,B,B,"Jisu excels at editing details, while Sora and Hyunwoo have a proven successful collaboration in marketing; this also avoids the Jisu–Sora conflict over decision speed. Assigning Sora to editing would waste her big-picture creativity.
+
+### ANSWER
+B"
+team_allocation,C,B,"영호는 세부적인 일에 꼼꼼하고 작가들과 원활히 소통한 경험이 있어 저자 관리에 적합하며, 미나는 창의적인 캠페인 경험으로 마케팅에 적합하다. 수진은 작가와의 소통에서 긴장을 겪으므로 저자 관리에 부적합하여 마케팅 팀에 배치하는 것이 낫다.
+
+### ANSWER
+B"
+team_allocation,A,A,"서현은 디자인 역량이 뛰어나고, 도연은 데이터·마케팅 경험이 있으며 진우는 디자인 툴과 시각적 디테일에 약하므로 마케팅 쪽이 적합하다. 따라서 서현이 그래픽 디자인, 도연과 진우가 마케팅 전략을 담당하는 배정이 강점에 가장 부합한다.
+
+### ANSWER
+A"
+team_allocation,C,C,"세훈은 모델 소통에 강점이 있고 무대는 불안하므로 모델 관리 팀에, 영진은 무대 세팅 경험과 열정이 있어 무대 운영 팀에 적합하다. 수미는 두 분야 모두 경험이 부족하지만 세훈과의 갈등을 피하려면 영진과 함께 무대 운영에 배치하는 것이 마찰을 최소화한다.
+
+### ANSWER
+C"
+team_allocation,A,A,"소희는 문법·글쓰기 능력이 뛰어나 콘텐츠 편집자로 적합하고, 민지는 사진 촬영과 장비 활용에 능하므로 촬영 담당이 적절합니다. 도현은 두 영역 모두 약하지만 촬영팀에 배치해 민지의 지원을 받는 편이 낫습니다. 따라서 편집자는 소희, 촬영은 민지(+도현)가 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"서진은 패션 업계 경험이 풍부해 디자인 팀에 적합하고, 다영은 소비자 심리 이해와 대인관계 능력으로 마케팅에 강점이 있으며, 혜민은 팀워크가 뛰어나 마케팅 팀에서 협업에 기여할 수 있습니다. 또한 다영의 색채 감각 부족은 디자인팀에서 약점이 됩니다.
+
+### ANSWER
+C"
+team_allocation,B,B,"은지는 창의적 작업을 선호하고 수민·태훈 모두와 갈등이 있으므로 단독으로 디자이너를 맡기고, 세심함과 기술적 강점을 지닌 수민과 태훈은 이미 협업 성공 경험이 있는 QA 팀으로 묶는 것이 갈등을 최소화하면서 강점을 살리는 배치다.
+
+### ANSWER
+B"
+team_allocation,B,B,"민지는 도영을 존중하므로 두 사람은 함께 일할 수 있으나, 수현은 도영·민지 모두와 갈등 이력이 있어 혼자 배치하는 것이 효율적이다. 수현은 게임 개발 툴과 그래픽 디자인 수상 경력이 있어 게임 디자이너로 적합하다. 도영은 마케팅 전공·실무 경험, 민지도 제품 런칭 및 광고 기법 학습 경험이 있어 마케팅 팀으로 적절하다.
+
+### ANSWER
+B"
+team_allocation,A,A,"수현은 창의적 게임 메카닉스 설계에 탁월하므로 디자이너가 적합하고, 지훈은 디테일과 버그 탐지, 체계적 문제해결에 능하며 나영은 반복적·세부 중심 검토에 강점이 있어 QA에 적합합니다. 나영이 창의적 환경에서 스트레스를 받으므로 디자이너로는 부적절합니다.
+
+### ANSWER
+A"
+team_allocation,C,C,"수진은 창의적 사고에 강하므로 게임 디자이너로 적합하고, 영민과 지현은 과거 유사 프로젝트에서 좋은 호흡을 보였으므로 함께 마케팅 팀에 배치하는 것이 갈등을 피하면서 시너지를 낼 수 있다. 수진은 지현과 갈등 이력이 있고 영민의 강한 주장 스타일과도 충돌 가능성이 있으므로 분리하는 것이 좋다.
+
+### ANSWER
+C"
+team_allocation,A,B,"영철은 게임 디자이너로서의 경험과 창의성이 가장 뛰어나며, 민석은 마케팅 전략과 성공적인 캠페인 경험이 있고 수진도 마케팅 경험이 있어 마케터로 배치하는 것이 각자의 강점을 살린다. 수진은 창의적 작업에 흥미가 없고 영철의 스타일을 불편해하므로 영철과 분리하는 것이 낫다. 따라서 영철을 디자이너, 민석과 수진을 마케터로 배치하는 조합이 가장 합리적이다.
+
+### ANSWER
+B"
+team_allocation,B,B,"서연은 수진과 대현 모두와 갈등 이력이 있어 단독 배치가 적합하며, 창의적 문제해결력과 교육학 이해로 커리큘럼 개발에 적합하다. 대현과 수진은 상호 보완적이고 의사소통이 원활해 함께 교육 실행 팀에 배치하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation,C,C,"소연과 지훈은 과거 충돌 이력이 있어 같은 팀 배치는 피해야 하므로 A는 부적절하고, 지훈은 설득·변화 많은 상황에서 스트레스를 받으므로 섭외 팀에 맞지 않아 B도 부적절합니다. 은재는 대규모 이벤트 운영 경험과 세밀한 일정 관리 역량이 있어 행사 운영 팀에 적합하고, 지훈은 큰 그림과 방향 설정으로 운영 팀을 보완할 수 있습니다. 따라서 소연을 섭외 팀에 배치하는 조합이 가장 적절합니다.
+
+### ANSWER
+C"
+team_allocation,A,A,"현우는 UX 이해와 시각 디자인 툴 능력이 뛰어나 UI 팀에 적합하고, 수아는 소통 능력이 탁월해 커뮤니티 관리에 최적이다. 지민은 UX 이해가 부족하므로 UI 팀보다는 커뮤니티 팀에서 수아의 지원을 받는 배치가 낫다.
+
+### ANSWER
+A"
+team_allocation,A,A,"지훈은 UI/UX 강점, 보안 취약; 미영은 보안 전문가; 수진은 디자인 감각 부족하며 미영과 협업 경험이 좋다. 또한 지훈과 수진·미영 간 마찰이 있으므로 지훈을 분리하고 미영·수진을 함께 보안팀에 두는 것이 최선이다.
+
+### ANSWER
+A"
+team_allocation,B,B,"서연은 창의적 기획 역량이 뛰어나 기획 팀에 적합하고, 도훈과 예지는 각각 자원봉사 프로젝트 관리 성공 경험과 리더십·관계 형성 능력을 갖춰 자원봉사자 관리에 적합하다. 또한 서연을 갈등 상황에서 분리하면 스트레스 문제도 완화된다.
+
+### ANSWER
+B"
+team_allocation,C,C,"수현은 홍보 경험과 창의적 콘텐츠 제작에 강점이 있고 현장에서는 약하며, 재민은 야외 활동 주도 경험이 풍부하지만 문구 작성에 약합니다. 나영은 홍보를 두려워하므로 현장에서 재민의 지원을 받는 편이 낫습니다. 따라서 수현이 홍보, 나영과 재민이 현장 활동에 적합합니다.
+
+### ANSWER
+C"
+team_allocation,A,A,"소영만 개발 역량이 있고, 지훈과 태민은 모두 피드백 분석에 적합한 훈련과 선호를 갖고 있습니다. 소영은 지훈·태민 모두와 갈등이 있으므로 소영을 단독 개발자로 분리하면 갈등을 최소화할 수 있습니다. 따라서 기술 적합성 측면에서 A가 최선입니다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Semi has tool expertise (공구, 목공, 기계 정비), access to the zoo, and a financial motive (unpaid debt to 재균), matching the crowbar-type murder weapon. 병준's details are vague and lack a direct weapon link.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The key differentiator is opportunity: 병준 was captured on the zoo CCTV at the scene, has advanced woodworking skills and tool access, and had a clear motive since 재균 was investigating his boss's corruption—something threatening his company's reputation, which he admits matters greatly to him. 세미 has a debt motive and nervous behavior, but nothing places her at the zoo. Combining motive, means, and opportunity points to 병준.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Minsu has all three: means (spear gun training, diving equipment at the boat rental shop), opportunity (regular volunteer access to the church where the murder occurred), and motive (Jaein knew too much about his ""new life,"" plus his emotional shift when recalling their last conversation). Sangwoo's links are more circumstantial (weapons hobby, club membership, money troubles).
+
+### ANSWER
+A"
+murder_mysteries,B,B,"상우는 성당 행사에 자주 참석해 현장 접근성이 있었고, 실직과 재정난으로 재인에게 여러 차례 금전적 도움을 요청했으나 거절당한 동기가 있으며, 무기 수집·구매에 대한 지식과 열정까지 갖추고 있다. 민수는 작살총 접근성과 다이빙 경험은 있으나 명확한 살해 동기가 드러나지 않는다. 동기·수단·기회가 모두 결합된 인물은 상우다.
+
+### ANSWER
+B"
+murder_mysteries,A,B,"The narrative ties Jeongmin directly to an axe (found while moving furniture, used for gardening/pruning), plus a strong financial motive from gambling debts and awareness of Jaehyung's lucrative contract, along with nervous behavior during questioning. Yuchan's details point to camping, carpentry, and mood swings but no direct axe link or clear motive.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"정민은 도박 빚으로 인한 금전적 동기, 오래된 도끼(범행 도구)의 소유, 그리고 사건 당일 회사에 계속 머물렀다는 기회 요소를 모두 갖추고 있다. 유찬은 목공 기술과 보안 지식이 있지만 살해 동기가 드러나지 않는다. 따라서 정민이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Yuha worked at the cathedral where the body was found, explicitly mentioned needing/using an awl (송곳) — the murder weapon — and had a strong motive from Jihun's abuse and violence toward her. Seoeun's details are mostly about isolation and debt without direct link to the weapon or scene.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The narrative repeatedly ties 유하 to the awl (송곳) — she requisitioned it as church custodian and used it for repairs, giving her direct access to the murder weapon, whereas 서은's details concern debt and gardening tools rather than the weapon itself.
+
+### ANSWER
+A"
+object_placements,D,A,"Yujin observed Mirae's move of the USB to the locker, but during Seunghyun's transfer to the cubicle, Yujin was focused on Mirae's work area rather than Seunghyun. So Yujin's belief remains that the USB is in the personal locker.
+
+### ANSWER
+A"
+object_placements,B,B,"Yujin herself moved the notebook from the archive shelf to the reading room table, so she knows it's on the table.
+
+### ANSWER
+B"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+object_placements,D,B,"### ANSWER
+B"
+object_placements,C,C,"### ANSWER
+C"
+object_placements,B,B,"### ANSWER
+B"
+object_placements,A,A,"### ANSWER
+A"
+team_allocation,C,A,"Design requires visual creativity plus meeting deadlines; Yuna and Seunghyeok are both explicitly said to lack artistic/creative visual ability, while Jisu's only design flaw is deadlines (a fixable, non-creative issue). Since all three have communication and data weaknesses for marketing, the least damaging arrangement puts Jisu in design and the other two in marketing.
+
+### ANSWER
+A"
+team_allocation,C,C,"채은은 디자인 역량이 뛰어나고, 민지는 백엔드 전문가이며, 지후는 민지와 갈등 없이 협업한 경험이 있어 백엔드에서 함께 배치하는 것이 적합하다. 채은은 민지·지후 모두와 충돌 이력이 있으므로 단독 역할이 낫다.
+
+### ANSWER
+C"
+team_allocation,C,B,"예림은 시각·예술적 역량만 있어 인증 업무에는 부적합하므로 제품 디자이너로 배치해야 하고, 환경 법규·인증 경험을 모두 갖춘 지훈과 수민이 환경 인증을 맡는 것이 각자의 강점을 최대로 활용하는 배치다.
+
+### ANSWER
+B"
+team_allocation,C,C,"Minsu clearly belongs in UX design given his proven excellence there, and Seah performs best when paired with Minsu due to their strong complementary rapport, so she should join the UX team rather than handle content management alone (where she lacks technical knowledge). Yujin, though flawed, shows self-reflection and improvement, making him suitable for the content management role.
+
+### ANSWER
+C"
+team_allocation,C,C,"Serjin has proven design skills but weak market insight, so he fits product design; since he clashes with both Mina and Yeonghoon, isolating him in that role avoids friction. Mina and Yeonghoon both have sales strategy experience and work well together, and Yeonghoon excels at consumer psychology and market trends. Thus C maximizes strengths and minimizes conflict.
+
+### ANSWER
+C"
+team_allocation,B,B,"Jihoon excels at recruiting but clashes with both others and struggles as a coach, so placing him alone in recruiting avoids conflict. Seojun and Yujin have a proven, friendly working relationship, and Seojun's coaching experience anchors the coaching staff. Thus B is optimal.
+
+### ANSWER
+B"
+team_allocation,B,B,"Persuasion지훈은 요리 경험이 풍부하고 독립적이며 고객 소통을 부담스러워하므로 요리 팀에 적합하다. 미진은 고객 관리에 탁월하고, 수현은 서비스에서 스트레스를 받지만 주방 환경은 더 불편하고 미진과의 협업은 긍정적이므로 서비스 팀에 배치하는 것이 낫다.
+
+### ANSWER
+B"
+team_allocation,C,C,"서현은 제품 개발에서 강점을, 유통에서는 실패 경험이 있어 단독 제품 개발자로 적합합니다. 동욱과 지민은 모두 유통 관리에서 성공 경험(공급망 효율, 배송 효율·비용 절감)이 있습니다. 또한 서현을 분리하면 동욱·서현 간의 심한 충돌을 피할 수 있습니다.
+
+### ANSWER
+C"
+murder_mysteries,B,B,"The murder was committed with a rifle at a hiking location—both key elements point to 연진, who receives regular military rifle training and frequents that hiking trail. She also had a strong motive: 서진 was threatening her daily, costing her sleep. 해경's evidence (a gun show visit, childhood shooting, privacy concerns) is weaker and less tied to the crime scene or weapon.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"해경은 서진과의 비밀 관계, 회사 이미지·평판 훼손 위험이라는 동기와 함께 어릴 때부터의 사격 경험, 총기 전시회 참가, 산악회 등산이라는 수단과 기회를 모두 갖추고 있다. 반면 연진은 무기 접근성과 사격 실력이라는 수단은 있으나 서진과의 연결이나 동기가 전혀 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"희주는 네일 건 사용법을 숙지하고 있고, 야간에 축구장에 몰래 들어가는 경로와 은신처를 알며, 서호의 수상한 거래와 장기 매매 대화를 알고 있어 범행 수단·기회·동기를 모두 갖췄다. 현도는 네일 건을 소유하지만 이는 오래된 집 관리라는 일상적 설명이 있고 축구장과의 연결이 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"Only 현도 has all three: motive (서호가 그의 스파이 활동을 도청하고 문건을 확보), means (집 수리용 네일 건 보유), and opportunity (경기 당일 서호와 따로 만남). 희주는 도구 지식과 접근성은 있으나 살해 동기가 없다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"은우는 음료 서비스 책임자로서 기회가 있었고, 독극물 연구 경험과 전문 서적을 보유했으며, 더운 날씨에도 긴 소매·긴 바지를 고집하고 팔의 흔적을 화장으로 가린 점이 은폐 행동으로 보인다. 해진은 동기와 화학 접근성이 언급되나 직접적 기회와 은폐 증거가 약하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Eunwoo had direct access to the beverages (the poison was in a drink), specialized knowledge of toxins from his chemistry research, and a motive since Wonchan lost his job because of Eunwoo's project. Haejin has chemical access and jealousy, but no established access to the drink served at the event. The combination of means, opportunity, and motive points most strongly to Eunwoo.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"제욱은 어릴 적부터 아버지와 함께 네일 건을 자주 사용했고, 양부모를 통해 교회에 익숙하게 접근할 수 있었으며, 정희가 다른 도시로 떠날 수 있다는 사실과 최근 사람들을 신뢰하지 못하는 심리 상태 등 동기까지 갖추고 있다. 반면 정은의 진술은 지붕 수리나 스트레스 반응 등 사건과 직접 연결되는 단서가 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The murder weapon was a nail gun, and 정은 is in the middle of a lengthy roof repair—giving her direct access to such a tool. She also volunteers at the church almost daily (the crime scene), appeared visibly nervous, scanned her surroundings, and downplayed any unusual events there. 제욱's coldness is presented as a general trait with nothing directly incriminating.
+
+### ANSWER
+B"
+murder_mysteries,B,B,"Sixty weapon was a fire axe, and 하늘 had firefighter internship training with axes, plus delivery access to the house and financial desperation (borrowing money, overdue rent). 현빈 has motive and access but his skills relate only to petty theft, not the murder weapon. The complete triad of motive, means, and opportunity aligns with 하늘.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"현빈은 이혼 소송으로 재산 분쟁이라는 강한 동기, 집 출입 이력, 주리의 일정에 대한 지식, 그리고 화재 안전 도구(도끼) 연구라는 수단까지 모두 갖추고 있다. 하늘은 도끼 사용 훈련 경험은 있으나 살해 동기가 전혀 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"시현은 뱀독에 접근할 수 있는 수단(독사 사육·수의학 지식), 지완의 집과 가까운 동선이라는 기회, 그리고 과거 사건과 편지가 폭로될 경우 평판이 무너질 수 있다는 명확한 동기를 모두 갖추고 있다. 이진은 뱀 관련 지식과 접근성은 있으나 지완과 우애가 깊고 살해 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"이진은 동물원에서 뱀 번식·관리를 담당해 독에 직접 접근할 수 있는 열쇠를 소지하며, 지완과 주말마다 함께 요리하여 주방에서의 기회도 있었고, 지완이 과거 협박 메시지를 보냈다는 동기까지 갖고 있다. 시현은 뱀에 대한 관심과 취미 수준의 지식은 있으나 실제 독 확보와 범행 기회의 직접성이 약하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"보현은 아버지로부터 사냥용 칼을 선물받았고 사냥 활동에 깊이 관여해 있으며, 준기의 프로포즈 계획과 친구에 대한 소문 등 동기 요소도 언급된다. 반면 지경은 주로 사격·명중률 관련 정황(총기)에 초점이 맞춰져 있어 흉기인 사냥용 칼과 직접 연결되지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The murder weapon was a hunting knife, and 보현 specifically owns one (a gift from her father), attended a wildlife butchering workshop and survival classes, and regularly uses the knife. 지경's skills center on shooting/marksmanship and cooking classes, with no direct link to a hunting knife. The suspicious darkened house and strange nighttime noises further point to 보현.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"시욱은 동기(준우의 협박 메시지와 과거 범죄 폭로 위협), 수단(목공 도구 소지), 기회(모텔 빈번 방문)를 모두 갖추고 있다. 반면 한빈은 원형 톱을 사용한다는 수단만 있고 모텔 접근이나 뚜렷한 동기가 없다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"한빈은 원형 톱 사용에 익숙하고 다양한 공구를 비축하고 있으며, 준우가 경쟁사와 계약을 논의한다는 사업상 동기도 있다. 반면 시욱은 대형 톱을 쓰고 준우와 우호적인 관계였으며 흔적도 없었다. 살해 도구가 원형 톱이라는 점이 결정적이다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"보현은 정원용품점 접근으로 제초제를 쉽게 구할 수 있고, 화학 전공과 독성 물질 관련 지식·강의 경험이 있으며, 병원 기록·장기 이식 관련 이해관계까지 겹칩니다. 강호는 단지 어색한 행동과 사생활 보호 성향만 드러났을 뿐 수단이나 명확한 동기가 없습니다. 따라서 수단(제초제)과 지식, 동기가 모두 일치하는 인물은 보현입니다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"강호는 성영이 자신의 불법 자금 거래를 목격했다는 명확한 동기가 있고, 연구소 경험으로 유독물질 지식이 있으며, 창고 접근으로 제초제를 구할 수 있었고 성영의 일정까지 관리했습니다. 보현의 장기 관련 정보는 정황적일 뿐 살해 수단(제초제)과 직접 연결되지 않습니다.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"민수는 부메랑 실력, 옥상 접근성(같은 아파트 거주), 그리고 세미로부터 인종차별적 모욕을 당한 강한 동기까지 모두 갖추고 있다. 해원은 부메랑에 익숙하고 수상한 예비폰 습관은 있으나 명확한 살해 동기가 제시되지 않았다. 따라서 수단·기회·동기가 모두 충족된 민수가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"The murder occurred on the rooftop, and Haewon admits she was on the rooftop with Semi after a boomerang session, with a personal conflict involving her loved one and money. Minsu's boomerang activity was at a park with no placement at the scene, and his conflict was a past insult. Opportunity plus means plus motive points to Haewon.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"Sungbin has all three elements: motive (Sehee publicly criticized him, threatened his reputation, and there's mention of a threatening letter), means (he explicitly learned to operate advanced machinery for art restoration), and opportunity (he was at the venue with a VIP wristband, following Sehee closely). Hyunjin has technical skill and access but no stated grievance against Sehee. The narrative frames Sungbin's defensive, faltering responses as suspicious.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"현진은 공학 전공에 레이저 절단기를 직접 다뤄본 경험이 있고, 레슬링 경기장 접근이 자연스러우며, 범죄 조직과 연관된 비밀 회의를 세희가 목격했을 가능성이라는 강력한 동기가 있다. 성빈의 동기는 평판 문제에 국한되고 장비 연관성도 간접적이다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Ire has all three elements: motive (fear of Jiyeon exposing his secret project), means (tool collection and handiness), and opportunity (regular paintball participation and a strategy meeting invitation at the scene). Dahee's details—travel habits, curtains, Lego skills—are largely neutral filler, and her main link is only being insulted.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"The story emphasizes Ire's suspicious concealment (heavy clothing, sunglasses, hat), secretive tool-collecting hobby, and crucially a strong motive—Jiyeon was gathering evidence about Ire's secret project and planned to expose it publicly. Dahee's motive (being mocked) is weaker and her tool knowledge is openly explained by her job and family background. Ire's evasiveness and flinch when the project was mentioned point to him.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"동주는 벙커 설계도 및 아버지의 벙커 건설 참여로 현장 접근 지식이 있고, 석궁 클럽 회원으로 전문 기술을 갖췄으며, 사건 직후 연락이 끊긴 채 차만 남겨두고 자취를 감췄다. 주리는 동기와 배운 기술 정도만 있을 뿐 결정적 연결이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"동주는 벙커 설계도 접근성, 주간 석궁 훈련 및 클럽 활동, 사냥 배경, 그리고 이안과의 금전 분쟁·소송이라는 명확한 동기를 모두 갖추고 있다. 주리는 재정적 이상 징후가 있으나 벙커 접근성이나 석궁과의 직접적 연결이 약하다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"보미의 경우 실험용 화학 물질, 과학 서적 탐독, 방음 시설, 그리고 가인의 가족 관련 발언에 대한 미묘한 반응(동기)까지 폭탄 제작의 수단·기회·동기가 은밀히 갖춰져 있습니다. 반면 수연은 폭파 장치 지식과 벙커 방문 사실을 모두 투명하게 설명하고 모형 샘플까지 자발적으로 제출했습니다. 숨기려는 태도와 실제 제작 능력을 함께 갖춘 쪽이 더 의심됩니다.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Bomi had access to chemicals and technical/planning skills for a timed device, knew the bunker well, and had a motive—Gain exposing family secrets on air, which Bomi claimed to want kept hidden.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Hasung had trusted access to the bunker (a secret place), owned a gun and practiced shooting, and had a conflict with Yeonwoo who tried to remove him and believed Hasung stole his project—giving both means, access, and motive. Junhyuk's details are more incidental (past marksmanship, sculpting).
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Hasung has the strongest combination of means (owns a pistol from shooting practice), motive (Yeonwoo threatened his job while he was deep in debt with a family to support), and a documented conflict over the stolen project. Junhyuk's details—documentaries, bunker access, vague past issues—are more circumstantial and lack a concrete weapon or urgent motive.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"도연은 화학 공장 근무로 폭발물 제조 재료에 접근 가능하고, 폭발물 설계도를 다운받은 적이 있으며, 사건 당일 피해자와 말다툼까지 했다. 유나는 독극물 관련 지식만 있어 사제폭탄 살인과는 수단이 맞지 않는다.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Doyeon purchased explosive blueprints online, works at a chemical factory handling the needed chemicals, and traces link her to diverted materials—giving her both the technical means and physical materials for the improvised bomb. Yuna's details are largely circumstantial (knowing his schedule, past coursework). The concrete evidence points to Doyeon.
+
+### ANSWER
+A"
+murder_mysteries,A,A,"Both suspects hunt, but the murder occurred inside a highly secured company building. 은진 worked on the company's security team, knew internal procedures, worked on 지훈's team, and had a personal grievance over his racist remarks—plus she collects hunting gear. Her access and motive make her the strongest suspect.
+
+### ANSWER
+A"
+murder_mysteries,B,A,"Eunjin has security access to the building, a fencing background (blade skill), collects hunting gear, a personal history with Jihoon, and secretive behavior (whispered phone calls during nighttime showers, evasiveness on personal topics). Saebom's hunting talk is casual and her routine is openly explained. Eunjin is the stronger suspect.
+
+### ANSWER
+A"
+murder_mysteries,B,B,"The victim was killed with an air gun, and Youngkyu is a five-year shooting club member known as an expert marksman with top-grade equipment—giving him the specific means. He also had motive, resenting Chanwoo whose careless behavior cost his band an important performance, and he showed hesitation and vagueness when questioned. His cafe event only covers the time just before the killing, not the killing itself, and he had planned to be near the hiking area.
+
+### ANSWER
+B"
+murder_mysteries,A,A,"태현은 공기총 사격 클럽 활동으로 총기를 다루는 능력과 실제 공기총 소지(찬우로부터 건네받은 것)가 확인되며, 찬우가 그의 불법 중고차 거래를 목격·문서화하고 경쟁 업체에 누설한 강한 동기도 있다. 반면 영규는 공연 기회 상실에 대한 불만만 있고 공기총과의 연결이 없다.
+
+### ANSWER
+A"
