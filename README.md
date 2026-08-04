@@ -1,4 +1,4 @@
-# Korean LLM/SLM Evaluation Suite
+# Korean LLM Benchmark Suite
 
 Benchmark LLMs/SLMs on Korean-language proficiency, reasoning, and professional-domain knowledge
 with minimal setup — multi-provider (Azure OpenAI, Amazon Bedrock, OpenAI-compatible/self-hosted,
@@ -10,13 +10,13 @@ Azure ML, Hugging Face), parallel batch evaluation, and ready-made leaderboard t
 |---|---|---|
 | [CLIcK](https://huggingface.co/datasets/EunsuKim/CLIcK) | Korean culture & language, 11 categories | 1,995 |
 | [HAE-RAE Bench 1.0](https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH_1.0) | Korean knowledge, 6 categories | 1,538 |
-| [KMMLU](https://huggingface.co/datasets/HAERAE-HUB/KMMLU) | Massive multitask understanding, 45 categories | — |
-| [KMMLU-HARD](https://huggingface.co/datasets/HAERAE-HUB/KMMLU-HARD) | Harder KMMLU subset | — |
+| [KMMLU](https://huggingface.co/datasets/HAERAE-HUB/KMMLU) | Massive multitask understanding, 45 categories | 35,030 |
+| [KMMLU-HARD](https://huggingface.co/datasets/HAERAE-HUB/KMMLU-HARD) | Harder KMMLU subset | 4,104 |
+| [KMMLU-Pro](https://huggingface.co/datasets/LGAI-EXAONE/KMMLU-Pro) | 14 professional-licensure exams (lawyer, CPA, doctor, ...) | 2,822 |
 | [HRM8K](https://huggingface.co/datasets/HAERAE-HUB/HRM8K) | Bilingual (Ko/En) math reasoning | 8,011 |
 | [KoBALT-700](https://huggingface.co/datasets/snunlp/KoBALT-700) | Advanced Korean linguistic phenomena, 3 difficulty levels | 700 |
 | [KorMedMCQA](https://huggingface.co/datasets/sean0042/KorMedMCQA) | Medical licensing exams (doctor/nurse/pharmacist/dentist) | 7,469 |
-| [KMMLU-Pro](https://huggingface.co/datasets/LGAI-EXAONE/KMMLU-Pro) (gated) | 14 professional-licensure exams (lawyer, CPA, doctor, ...) | 2,822 |
-| [MuSR(Ko)](https://huggingface.co/datasets/thunder-research-group/SNU_Ko-MuSR) (gated) | Multi-step reasoning over long narratives, 3 task types | 750 |
+| [MuSR(Ko)](https://huggingface.co/datasets/thunder-research-group/SNU_Ko-MuSR) | Multi-step reasoning over long narratives, 3 task types | 750 |
 
 Full dataset descriptions and paper links: [docs/DATASETS.md](docs/DATASETS.md).
 
