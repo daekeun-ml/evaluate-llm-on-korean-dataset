@@ -57,18 +57,6 @@ improves substantially with reasoning enabled but still trails the frontier reas
   **[docs/PREVIOUS_RESULTS.md](docs/PREVIOUS_RESULTS.md)** and **[docs/DETAILED_RESULTS.md](docs/DETAILED_RESULTS.md)**
 - Changelog: **[docs/CHANGELOG.md](docs/CHANGELOG.md)**
 
-## ⚙️ Implementation
-
-The code skeleton is based on https://github.com/corca-ai/evaluating-gpt-4o-on-CLIcK, with:
-
-- **Multi-provider support**: Azure OpenAI, AWS Bedrock (native + Bedrock-hosted OpenAI models),
-  OpenAI (incl. self-hosted OpenAI-compatible endpoints such as vLLM), Azure ML, Azure AI Foundry,
-  Hugging Face
-- **Parallel processing**: chunk-based multiprocessing with configurable concurrency
-- **Robust error handling**: content filtering, rate limiting, throttling retries
-- **Reasoning-aware prompts and parsing**: configurable effort levels per provider, parsers that
-  strip reasoning/thinking content before extracting the final answer
-
 ## 📚 References
 
 BibTeX citations for every benchmark dataset: **[docs/REFERENCES.md](docs/REFERENCES.md)**
