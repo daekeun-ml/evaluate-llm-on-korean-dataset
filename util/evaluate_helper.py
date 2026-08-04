@@ -71,7 +71,7 @@ def extract_single_alphabet_answer(row):
 
 def evaluate(csv_path, dataset="CLIcK", subset=None, verbose=False):
 
-    valid_datasets = ["CLIcK", "KMMLU", "KMMLU-HARD", "HAERAE", "hrm8k", "KoBALT", "KorMedMCQA"]
+    valid_datasets = ["CLIcK", "KMMLU", "KMMLU-HARD", "KMMLU-Pro", "HAERAE", "hrm8k", "KoBALT", "KorMedMCQA"]
     assert (
         dataset in valid_datasets
     ), f"Invalid 'dataset' value. Please choose from {valid_datasets}."
@@ -125,6 +125,10 @@ def evaluate(csv_path, dataset="CLIcK", subset=None, verbose=False):
         if "subset" not in result.columns:
             result["subset"] = subset if subset else "Unknown"
         result["category"] = result["subset"]
+    elif dataset == "KMMLU-Pro":
+        # license_name(자격증)을 supercategory로, subject(세부 과목)를 category로 사용
+        result["supercategory"] = result["license_name"]
+        result["category"] = result["subject"]
     
     # For hrm8k, correct column is already calculated during evaluation
     if dataset != "hrm8k":

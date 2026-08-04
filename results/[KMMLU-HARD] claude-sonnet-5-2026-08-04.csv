@@ -1,0 +1,8864 @@
+category,answer,pred,response
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,D,D,"### ANSWER
+D"
+marketing,B,D,"### ANSWER
+D"
+marketing,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,A,B,"### ANSWER
+B"
+maritime_engineering,B,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,D,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,D,"### ANSWER
+D"
+environmental_science,D,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,B,C,"### ANSWER
+C"
+law,C,B,"### ANSWER
+B"
+law,D,C,"### ANSWER
+C"
+law,D,D,"### ANSWER
+D"
+law,D,D,"### ANSWER
+D"
+law,D,D,"### ANSWER
+D"
+law,B,B,"High flash-point hazardous materials under the regulation are defined as Class 4 hazardous materials with a flash point of 100℃ or higher, allowing relaxed facility standards when handled at room temperature.
+
+### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,C,D,"### ANSWER
+D"
+maritime_engineering,A,B,"### ANSWER
+B"
+maritime_engineering,A,A,"Trim은 선수 흘수와 선미 흘수의 차이로 정의된다.
+
+### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,D,"### ANSWER
+D"
+marketing,B,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,D,A,"### ANSWER
+A"
+marketing,A,D,"### ANSWER
+D"
+marketing,D,D,"### ANSWER
+D"
+marketing,B,B,"### ANSWER
+B"
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,B,"### ANSWER
+B"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,D,C,"### ANSWER
+C"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+marketing,B,B,"### ANSWER
+B"
+marketing,A,B,"### ANSWER
+B"
+marketing,D,A,"### ANSWER
+A"
+marketing,B,C,"### ANSWER
+C"
+marketing,D,C,"### ANSWER
+C"
+marketing,C,C,"### ANSWER
+C"
+marketing,C,B,"### ANSWER
+B"
+marketing,D,D,"### ANSWER
+D"
+law,A,B,"### ANSWER
+B"
+law,D,D,"### ANSWER
+D"
+law,D,C,"### ANSWER
+C"
+law,C,C,"### ANSWER
+C"
+law,B,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,D,D,"D 조합(울주군-지방소득세, 등록면허세)에서 등록면허세는 도세(광역시세)에 해당하며, 자치군(울주군)이 실제 부과하는 세목은 재산세이므로 이 연결이 옳지 않습니다.
+
+### ANSWER
+D"
+political_science_and_sociology,B,A,"### ANSWER
+A"
+accounting,A,,[EMPTY_RESPONSE]
+accounting,C,C,"### ANSWER
+C"
+accounting,C,C,"### ANSWER
+C"
+accounting,A,A,"### ANSWER
+A"
+accounting,A,A,"### ANSWER
+A"
+accounting,D,D,"### ANSWER
+D"
+accounting,B,C,"Capitalizing a repair expense (painting cost) as an asset instead of expensing it increases current period net income (since expense is understated), and this leads to secret reserves being understated, not created. However, capitalizing this cost means it will be depreciated over time rather than expensed immediately, leading to understated depreciation expense in the current period since the cost is spread over future periods rather than fully expensed now.
+
+### ANSWER
+C"
+accounting,D,D,"### ANSWER
+D"
+criminal_law,B,D,"### ANSWER
+D"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,B,,[EMPTY_RESPONSE]
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+environmental_science,B,D,"### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,A,"### ANSWER
+A"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,D,"### ANSWER
+D"
+environmental_science,C,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,D,B,"### ANSWER
+B"
+marketing,B,B,"### ANSWER
+B"
+marketing,A,A,"### ANSWER
+A"
+marketing,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,B,D,"### ANSWER
+D"
+marketing,C,C,"### ANSWER
+C"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+accounting,D,D,"### ANSWER
+D"
+accounting,C,C,"### ANSWER
+C"
+accounting,D,D,"### ANSWER
+D"
+accounting,C,C,"### ANSWER
+C"
+accounting,B,B,"### ANSWER
+B"
+accounting,D,D,"### ANSWER
+D"
+accounting,C,C,"### ANSWER
+C"
+accounting,B,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,A,"정치·행정이원론은 정당정치의 개입으로부터 자유로운 행정영역을 강조한 이론입니다. 뉴딜정책은 오히려 이원론의 한계를 보이며 일원론(정치·행정일원론)이 등장하게 된 배경이며, 애플비는 정치와 행정이 연속적이라고 본 일원론자입니다. 과학적 관리론은 이원론을 지지하는 입장이었습니다.
+
+### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,D,"ECD는 전자친화도가 높은 화합물(할로겐화합물, 니트로화합물, 유기염소화합물 등)을 선택적으로 검출하는데, 유기금속화합물은 이러한 특성과 관련이 적어 ECD 검출에 적합하지 않습니다.
+
+### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,C,"### ANSWER
+C"
+environmental_science,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+law,D,C,"### ANSWER
+C"
+law,D,D,"### ANSWER
+D"
+law,C,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,C,C,"### ANSWER
+C"
+chemical_engineering,C,D,"### ANSWER
+D"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,D,"### ANSWER
+D"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,B,A,"### ANSWER
+A"
+criminal_law,A,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+marketing,C,B,"### ANSWER
+B"
+marketing,C,C,"### ANSWER
+C"
+marketing,A,B,"### ANSWER
+B"
+marketing,C,B,"### ANSWER
+B"
+marketing,D,D,"D는 신뢰도/타당도의 일반적 관계 설명이 아니라 부적절한 비교로, 내적/외적타당도 간 우열을 일반화한 것은 틀린 설명입니다.
+
+### ANSWER
+D"
+marketing,C,C,"### ANSWER
+C"
+marketing,C,C,"C
+
+### ANSWER
+C"
+marketing,B,B,"### ANSWER
+B"
+accounting,D,A,"### ANSWER
+A"
+accounting,B,B,"### ANSWER
+B"
+accounting,A,A,"### ANSWER
+A"
+accounting,D,D,"### ANSWER
+D"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,B,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,B,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,B,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,A,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,D,"### ANSWER
+D"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+marketing,A,D,"### ANSWER
+D"
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,A,D,"### ANSWER
+D"
+marketing,B,C,"### ANSWER
+C"
+marketing,A,B,"### ANSWER
+B"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,C,D,"### ANSWER
+D"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+patent,D,D,"### ANSWER
+D"
+patent,B,A,"### ANSWER
+A"
+patent,C,C,"### ANSWER
+C"
+patent,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,B,B,"Phase speed = wavelength/period = 15m/3s = 5 m/sec
+
+### ANSWER
+B"
+marketing,B,D,"### ANSWER
+D"
+marketing,D,C,"### ANSWER
+C"
+marketing,C,C,"### ANSWER
+C"
+marketing,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,D,D,"### ANSWER
+D"
+marketing,D,D,"### ANSWER
+D"
+marketing,B,B,"### ANSWER
+B"
+environmental_science,A,A,"### ANSWER
+A"
+environmental_science,D,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,D,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,D,C,"### ANSWER
+C"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,C,C,"연소 반응: CH₄ + 2O₂ → CO₂ + 2H₂O
+
+- CH₄ 16g = 1 mol
+- O₂ 16g = 0.5 mol
+
+산소가 부족하므로 산소가 제한 반응물입니다. 0.5 mol O₂는 0.25 mol CH₄와 반응하여 0.25 mol CO₂와 0.5 mol H₂O를 생성합니다.
+
+남은 초과 CH₄ = 1 - 0.25 = 0.75 mol
+
+생성된 총 가스 = CO₂(0.25) + H₂O(0.5) + 초과 CH₄(0.75) = 1.5 mol
+
+초과분 비율 = 0.75/1.5 × 100% = 50%
+
+### ANSWER
+C"
+chemistry,B,B,"같은 질량(예: 32g) 기준으로 계산하면, 산소분자(O₂, 분자량 32)는 1몰이며 산소 원자 2몰을 포함합니다. 메탄올(CH₃OH, 분자량 32)도 1몰이며 산소 원자 1몰을 포함합니다. 따라서 산소 원자 수의 비는 2:1입니다.
+
+### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+marketing,D,D,"### ANSWER
+D"
+marketing,B,B,"면접조사는 언어적 커뮤니케이션뿐 아니라 표정, 몸짓 등 비언어적 커뮤니케이션도 함께 관찰하여 자료를 수집할 수 있다는 장점이 있으므로, B는 면접조사의 단점이 아니라 오히려 특징적인 장점에 해당한다.
+
+### ANSWER
+B"
+marketing,A,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,D,D,"### ANSWER
+D"
+marketing,C,A,"### ANSWER
+A"
+marketing,A,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+law,B,B,"### ANSWER
+B"
+law,B,B,"### ANSWER
+B"
+law,C,A,"### ANSWER
+A"
+law,B,,[EMPTY_RESPONSE]
+law,B,B,"### ANSWER
+B"
+law,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,C,C,"### ANSWER
+C"
+chemical_engineering,C,,[EMPTY_RESPONSE]
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,B,B,"N2+3H2⇌2NH3 is exothermic and favored by high pressure (fewer moles on product side). Lowering pressure shifts equilibrium away from ammonia formation, hindering production.
+
+### ANSWER
+B"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,A,A,"Q=2000W, mass flow=5g/s, so specific enthalpy difference = 2000/5 = 400 J/g.
+
+### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,A,C,"### ANSWER
+C"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,B,C,"### ANSWER
+C"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,C,C,"Wavenumber = 1/λ = 1/(2.5×10⁻⁴cm) = 4000cm⁻¹
+
+### ANSWER
+C"
+chemistry,C,D,"### ANSWER
+D"
+chemistry,B,B,"Alkenes follow the general formula CnH2n. For C6, that gives C6H12, matching option B.
+
+### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+environmental_science,D,A,"### ANSWER
+A"
+environmental_science,D,A,"### ANSWER
+A"
+environmental_science,D,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,D,D,"습연소가스량 계산: 이론공기량=5/0.21=23.81, 실제공기량=23.81×1.2=28.57
+생성물: CO2=3, H2O=4, N2=28.57×0.79=22.57, 과잉O2=28.57×0.21-5=1.0
+합계=3+4+22.57+1.0≈30.6 ≈ 31 Sm3
+
+### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,A,B,"### ANSWER
+B"
+marketing,B,B,"### ANSWER
+B"
+marketing,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,C,C,"### ANSWER
+C"
+marketing,A,A,"### ANSWER
+A"
+marketing,B,B,"### ANSWER
+B"
+criminal_law,C,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,C,B,"### ANSWER
+B"
+criminal_law,D,,[EMPTY_RESPONSE]
+chemistry,C,C,"### ANSWER
+C"
+chemistry,D,D,"HClO is chlorine with the lowest oxidation state (+1) among oxoacids, corresponding to ""hypochlorous acid"" in Korean naming.
+
+### ANSWER
+D"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,D,"### ANSWER
+D"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,B,B,"Subtropical regions have high evaporation and low precipitation, leading to the highest surface salinity values among ocean regions.
+
+### ANSWER
+B"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,D,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,A,C,"### ANSWER
+C"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,D,D,"### ANSWER
+D"
+patent,D,D,"### ANSWER
+D"
+patent,C,B,"### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,B,B,"B가 정답입니다. 판례에 따르면 재난으로 인한 사망의 경우, 관공서의 통보가 없더라도 법원이 다른 증거에 의해 사망사실을 직권으로 인정할 수 있습니다. 나머지 지문은 판례의 입장과 배치됩니다(태아는 살아서 출생해야 권리능력이 인정되며, 출생 후에는 부의 불법행위 피해에 대한 위자료 청구가 가능하고, 태아 대리에 의한 증여계약은 인정되지 않습니다).
+
+### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,C,C,"### ANSWER
+C"
+patent,B,,[EMPTY_RESPONSE]
+patent,B,A,"### ANSWER
+A"
+marketing,D,D,"### ANSWER
+D"
+marketing,C,C,"### ANSWER
+C"
+marketing,D,D,"### ANSWER
+D"
+marketing,D,D,"D는 실제와 반대로 설명되어 있습니다. 대인커뮤니케이션은 면대면이므로 피드백이 즉각적이고, 매스커뮤니케이션은 매개된 채널을 통하므로 피드백이 느리고 지연됩니다.
+
+### ANSWER
+D"
+marketing,B,C,"### ANSWER
+C"
+marketing,C,C,"### ANSWER
+C"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"### ANSWER
+C"
+criminal_law,D,C,"### ANSWER
+C"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,D,A,"### ANSWER
+A"
+criminal_law,D,A,"### ANSWER
+A"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,A,C,"### ANSWER
+C"
+maritime_engineering,B,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,D,D,"### ANSWER
+D"
+law,B,B,"### ANSWER
+B"
+law,A,D,"### ANSWER
+D"
+law,C,D,"### ANSWER
+D"
+law,B,D,"### ANSWER
+D"
+law,D,D,"### ANSWER
+D"
+law,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,,[EMPTY_RESPONSE]
+chemical_engineering,A,A,"### ANSWER
+A"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"Re = VD/ν = (1.5 × 0.1)/(1×10⁻⁴) = 1500, which is laminar flow (Re < 2100). For laminar flow, f = 64/Re = 64/1500 ≈ 0.0427.
+
+### ANSWER
+B"
+mechanical_engineering,D,D,"마그네시아시멘트는 물로 비비면 경화가 잘 되지 않아 간수(염화마그네슘 용액)를 사용하여 경화를 돕습니다.
+
+### ANSWER
+D"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,B,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+patent,D,D,"### ANSWER
+D"
+patent,B,C,"### ANSWER
+C"
+patent,C,C,"### ANSWER
+C"
+patent,B,D,"### ANSWER
+D"
+patent,B,B,"### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,B,B,"### ANSWER
+B"
+patent,B,B,"### ANSWER
+B"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,B,D,"### ANSWER
+D"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,A,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"CaF₂ → Ca²⁺ + 2F⁻이므로 Ksp = [Ca²⁺][F⁻]² = s(2s)² = 4s³ = 3.9×10⁻¹¹, s³ = 9.75×10⁻¹², s ≈ 2.1×10⁻⁴ M
+
+### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,C,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+mechanical_engineering,A,C,"### ANSWER
+C"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"F = 0.5·Cd·ρ·A·V² 공식을 사용합니다. A = π(0.2)² ≈ 0.1257 m². 0.4 = 0.5×1.1×1.2×0.1257×V² → V² ≈ 4.83 → V ≈ 2.2 m/s
+
+### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,A,"### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,B,B,"### ANSWER
+B"
+maritime_engineering,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,A,A,"### ANSWER
+A"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"2 bytes = 2 × 8 bits = 16 bits.
+
+### ANSWER
+C"
+mechanical_engineering,C,A,"### ANSWER
+A"
+mechanical_engineering,D,D,"### ANSWER
+D"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"pH = -log(0.1) = 1
+
+### ANSWER
+B"
+chemistry,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"400/50 = 8
+
+### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,C,D,"### ANSWER
+D"
+law,C,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,D,,[EMPTY_RESPONSE]
+law,D,D,"### ANSWER
+D"
+law,A,A,"### ANSWER
+A"
+patent,B,B,"### ANSWER
+B"
+patent,B,B,"B는 국토이용관리법(현 국토계획법)상 거래허가를 받지 않은 토지매매계약과 관련된 판례 내용과 다릅니다. 대법원은 허가를 받지 않은 계약당사자가 스스로 계약의 무효를 주장하는 것은 특별한 사정이 없는 한 신의성실의 원칙에 위반되지 않는다고 판시하였습니다(허가 전 상태에서는 유동적 무효이므로 무효주장이 허용됨). 따라서 B는 ""허용되지 않는다""고 서술하여 판례와 반대되는 옳지 않은 설명입니다.
+
+### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,B,B,"### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,A,B,"### ANSWER
+B"
+patent,A,D,"### ANSWER
+D"
+patent,A,A,"권리능력 없는 사단의 재산은 총유이므로 그 재산에 관한 소송에서는 사단 자체가 당사자가 되어야 하며, 개별 구성원은 대표자이거나 사원총회의 결의를 거쳤더라도 당사자가 될 수 없다는 것이 판례의 입장입니다. B는 총유가 맞고 합유가 아니므로 틀리며, C는 사원이 없어도 사단이 존속할 수 있다는 판례에 반하고, D는 대표권의 포괄적 위임이 불가하다는 판례에 반합니다.
+
+### ANSWER
+A"
+maritime_engineering,A,A,"### ANSWER
+A"
+maritime_engineering,C,C,"### ANSWER
+C"
+maritime_engineering,A,A,"化物 이동이 가로방향이면 배의 무게(배수량)는 변하지 않으며, 흘수선과 무게중심, 부심 등은 횡방향 이동으로 인해 위치가 변할 수 있습니다.
+
+### ANSWER
+A"
+maritime_engineering,D,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,C,C,"Based on typical mechanical properties of ferrite-pearlite steel with 80% ferrite and 20% pearlite composition, applying the mixture rule for ductility properties, the elongation value corresponds to approximately 34%.
+
+### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,C,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,C,A,"### ANSWER
+A"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,D,D,"D
+
+### ANSWER
+D"
+chemical_engineering,D,D,"반응은 CA^0.5 = 1 - 1.5t 형태로 진행되며, t=2/3시간에서 CA=0이 되어 반응이 완결됩니다. 따라서 t=1시간에서는 이미 A가 모두 소진되어 전화율은 1이 됩니다.
+
+### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"주물(강철)의 온도가 450℃에서 약 40.5℃로 낮아지므로 엔트로피는 감소합니다.
+
+ΔS = m·c·ln(Tf/Ti) = 30×0.12×ln(313.5/723) ≈ -3.0 kcal/K
+
+### ANSWER
+B"
+chemical_engineering,B,C,"전기저항측정법(ER probe)은 금속 시험편의 단면적 감소에 따른 전기저항 변화를 측정하여 부식속도를 추정하는 방법입니다. 이는 시험편 자체의 저항 변화를 이용하는 것으로, 부식생성물(스케일이나 부식산화물 등)의 저항 특성을 직접 분석하는 것이 아닙니다. 반면 A, B, D는 이 측정법의 실제 장점(간단하고 신속함, 실시간 모니터링 가능, 비파괴적 반복 측정 가능)에 해당합니다.
+
+### ANSWER
+C"
+chemical_engineering,D,,[EMPTY_RESPONSE]
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,D,D,"Chlorine gas (Cl2, MW 70.9, yellow-green) has NFPA health hazard rating of 4.
+
+### ANSWER
+D"
+chemistry,D,D,"### ANSWER
+D"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,A,"### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,A,A,"1 TMU는 0.00001시간(1/100,000시간)으로 정의됩니다.
+
+### ANSWER
+A"
+materials_engineering,C,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,A,"### ANSWER
+A"
+mechanical_engineering,C,A,"### ANSWER
+A"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,A,C,"### ANSWER
+C"
+mechanical_engineering,A,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,B,B,"### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,D,B,"### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,B,B,"FT-IR은 마이켈슨 인터페로미터를 이용한 간섭계 방식을 사용하며, 단색화 장치(회절격자 등)는 분산형 분광기에서 사용되는 장치로 FT-IR과는 관련이 없습니다.
+
+### ANSWER
+B"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,C,C,"### ANSWER
+C"
+patent,C,C,"### ANSWER
+C"
+patent,A,A,"### ANSWER
+A"
+patent,A,B,"### ANSWER
+B"
+patent,A,A,"제한능력자 본인이 스스로 추인하려면 취소의 원인이 소멸된 후여야 하지만, 법정대리인은 취소의 원인이 소멸되기 전이라도 언제든지 추인할 수 있습니다. 따라서 A는 옳지 않은 설명입니다.
+
+### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"Streamline equation: dx/u = dy/v → dx/(4y) = dy/(6x) → 6x dx = 4y dy → integrating gives 3x² - 2y² = C, which represents a hyperbola.
+
+### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"PI 제어는 적분 동작을 통해 정상상태 오차를 제거하여 정상특성을 개선하는 데 사용된다.
+
+### ANSWER
+D"
+chemical_engineering,D,B,"### ANSWER
+B"
+chemical_engineering,B,C,"### ANSWER
+C"
+chemical_engineering,D,B,"DVS = H2SO4 / (initial H2O + H2O produced from nitration reaction)
+
+HNO3 moles = 32kg/63 g/mol = 0.5079 kmol
+Water produced = 0.5079 kmol × 18 = 9.143 kg
+Total H2O = 8 + 9.143 = 17.14 kg
+
+DVS = 60/17.14 = 3.50
+
+### ANSWER
+B"
+chemical_engineering,B,A,"### ANSWER
+A"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,A,"### ANSWER
+A"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,A,"### ANSWER
+A"
+materials_engineering,A,C,"### ANSWER
+C"
+law,D,D,"### ANSWER
+D"
+law,B,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+law,B,B,"**A**: 실제 헌법 제67조 제3항은 ""선거권자 총수의 3분의 1""이 기준이므로, ""유효투표 총수의 3분의 1""이라는 설명은 옳지 않다.
+**B**: 헌법 제68조 제1항에 ""대통령의 임기가 만료되는 때에는 임기만료 70일 내지 40일 전에 후임자를 선거한다""고 규정되어 있어 정확하다.
+**C**: 감사위원은 감사원장의 제청으로 대통령이 임명하며 국회의 동의가 필요하지 않으므로 옳지 않다.
+**D**: 국가안전보장회의는 대통령이 주재하므로 국무총리가 주재한다는 설명은 틀렸다.
+
+### ANSWER
+B"
+law,B,C,"### ANSWER
+C"
+law,C,B,"### ANSWER
+B"
+law,A,A,"### ANSWER
+A"
+law,B,A,"### ANSWER
+A"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,A,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+mechanical_engineering,B,A,"### ANSWER
+A"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,B,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"Re = VD/ν = 0.01273×0.1/0.658×10⁻⁶ ≈ 1935 (층류), f = 64/Re ≈ 0.03308.
+hf = f×(L/D)×(V²/2g) = 0.03308×(400/0.1)×(0.01273²/19.62) ≈ 1.09×10⁻³ m.
+
+### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"T = P*60/(2πN) = 3700*60/(2π*600) ≈ 58.88 N·m
+J = πd⁴/32 = π(0.04)⁴/32 ≈ 2.513×10⁻⁷ m⁴
+θ = TL/(GJ) = (58.88×3)/(84×10⁹×2.513×10⁻⁷) ≈ 0.00837 rad ≈ 0.48°
+
+### ANSWER
+B"
+mechanical_engineering,B,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"점용접(Spot welding)은 저항용접의 일종으로 아크용접보다 오히려 큰 전류를 필요로 합니다. 따라서 ""적은 전류를 필요로 한다""는 설명은 점용접의 특징과 반대되는 내용입니다.
+
+### ANSWER
+B"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"Fe3C has 3 Fe atoms and 1 C atom, total 4 atoms. C atomic ratio = 1/4 = 25%.
+
+### ANSWER
+B"
+materials_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,C,C,"주어진 배기가스 조성을 이용한 표준 과잉공기 계산식을 적용합니다:
+
+과잉공기% = [O₂ - CO/2] / [0.266×N₂ - (O₂ - CO/2)] × 100
+
+O₂ - CO/2 = 4.1 - 1.2 = 2.9
+0.266 × N₂ = 0.266 × 82.4 = 21.92
+
+과잉공기% = 2.9 / (21.92 - 2.9) × 100 = 2.9/19.02 × 100 ≈ 15.3%
+
+### ANSWER
+C"
+chemical_engineering,C,C,"계산: 85% 황산 1000kg → H2SO4 850kg, H2O 150kg. H2SO4 + 2NH3 → (NH4)2SO4 반응(물 생성 없음)이므로 생성된 (NH4)2SO4 = 850×(132/98) ≈ 1144.9kg. 물 150kg에 용해 가능한 최대량 = 150×0.975 = 146.25kg. 따라서 석출량 = 1144.9 - 146.25 ≈ 998.7kg.
+
+### ANSWER
+C"
+chemical_engineering,A,A,"용액중합은 용매를 사용하여 열분산이 용이하고 점도를 낮출 수 있지만, 용매로의 연쇄이동반응 때문에 저분자량 고분자가 생성되는 단점이 있다.
+
+### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,D,C,"### ANSWER
+C"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"냉간가공도가 클수록 축적된 변형에너지가 많아 재결정이 더 쉽게 일어나므로 재결정 온도는 오히려 낮아진다. 따라서 ""냉간가공도가 클수록 재결정 온도는 높다""는 설명은 틀렸다.
+
+### ANSWER
+C"
+refrigerating_machinery,D,A,"### ANSWER
+A"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,B,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"3상 유도전동기의 속도제어 방법에는 극수 변환법, 주파수 변환법, 2차저항법, 2차여자법 등이 있으며, 이 중 극수를 변환하여 동기속도를 바꾸는 방법이 대표적인 속도제어 방식입니다.
+
+### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,C,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"LMTD 계산: ΔT1=38-30=8℃, ΔT2=38-35=3℃, LMTD=(8-3)/ln(8/3)=5/0.981≈5.1℃로 약 5℃에 해당한다.
+
+### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,B,D,"### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"Plasma welding advantages typically include limitations on base metal thickness for keyhole technique, so claiming ""no thickness limit"" is incorrect.
+
+### ANSWER
+B"
+materials_engineering,B,C,"### ANSWER
+C"
+materials_engineering,D,D,"### ANSWER
+D"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,B,B,"민법 제158조에 따라 연령은 출생일을 포함하여 계산하므로, 2004년 1월 17일에 출생한 甲은 만 19세가 되는 시점이 2023년 1월 17일 0시(즉, 1월 16일 24시)가 되어야 합니다. 따라서 ""2023년 1월 17일 24시""라는 표현은 하루가 늦게 계산된 것으로 옳지 않습니다.
+
+### ANSWER
+B"
+patent,B,B,"### ANSWER
+B"
+patent,D,,[EMPTY_RESPONSE]
+patent,C,,[EMPTY_RESPONSE]
+patent,C,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,C,D,"### ANSWER
+D"
+law,A,A,"### ANSWER
+A"
+law,D,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,B,A,"### ANSWER
+A"
+law,B,B,"### ANSWER
+B"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,A,B,"Beer의 법칙에서 실질적인 한계(real limitation)는 화학적 편차(해리, 결합)와 고농도에서의 분자간 상호작용, 굴절률 변화 등이며, 이는 법칙의 근본적인 가정과 관련된"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,A,A,"A(고주파 출력값)는 원자흡수분광법과 관계없이 ICP 등 플라즈마 관련 요소이며, 나머지는 원자흡수분광법의 분석결과에 직접 영향을 주는 요인들이다.
+
+### ANSWER
+A"
+chemistry,D,D,"### ANSWER
+D"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,B,B,"### ANSWER
+B"
+chemistry,C,C,"### ANSWER
+C"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,C,B,"### ANSWER
+B"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemistry,A,A,"### ANSWER
+A"
+chemistry,D,A,"### ANSWER
+A"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,C,"### ANSWER
+C"
+chemistry,C,D,"### ANSWER
+D"
+chemistry,D,C,"### ANSWER
+C"
+chemistry,B,C,"### ANSWER
+C"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,A,A,"Temper brittleness prevention methods typically include quick cooling (water quenching) after high temperature tempering, not furnace cooling (slow cooling) which promotes brittleness. Furnace cooling after high temp tempering actually causes temper brittleness rather than preventing it.
+
+### ANSWER
+A"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,A,A,"v = πdN/60 = π×0.4×1200/60 ≈ 25.13 m/s
+
+인장응력 σ = ρv² = (γ/g)v² = 1000 × (25.13)² ≈ 631,700 Pa ≈ 632 kPa
+
+### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,D,"### ANSWER
+D"
+materials_engineering,D,D,"### ANSWER
+D"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"관 유속 V = Q/A = 0.02/(π×0.05²) ≈ 2.546 m/s
+레이놀즈수 Re = VD/ν = 2.546×0.1/2×10⁻⁴ ≈ 1273 (층류)
+마찰계수 f = 64/Re ≈ 0.0503
+손실수두 h_f = f×(L/D)×(V²/2g) = 0.0503×10000×(2.546²/19.62) ≈ 166m
+
+### ANSWER
+D"
+mechanical_engineering,B,A,"### ANSWER
+A"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+patent,C,C,"### ANSWER
+C"
+patent,C,C,"### ANSWER
+C"
+patent,D,D,"### ANSWER
+D"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+patent,A,A,"### ANSWER
+A"
+electrical_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,A,"### ANSWER
+A"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+law,B,B,"행정절차법은 행정조사에 관한 명문규정을 두고 있지 않으며, 행정조사기본법이 별도로 이를 규율하고 있다. 나머지 지문들은 판례 및 관련 법령상 타당한 설명이다.
+
+### ANSWER
+B"
+law,D,D,"### ANSWER
+D"
+law,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,B,B,"### ANSWER
+B"
+law,C,A,"### ANSWER
+A"
+law,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,C,"### ANSWER
+C"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+nondestructive_testing,C,B,"### ANSWER
+B"
+nondestructive_testing,D,B,"### ANSWER
+B"
+nondestructive_testing,B,A,"### ANSWER
+A"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,D,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,A,C,"### ANSWER
+C"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,B,A,"### ANSWER
+A"
+materials_engineering,C,D,"### ANSWER
+D"
+mechanical_engineering,C,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,C,C,"### ANSWER
+C"
+mechanical_engineering,B,B,"주어진 조건에서 전단응력 기준으로 계산한 최대 허용 토크는 약 1696 N·m이고, 비틀림각 기준으로 계산하면 약 2664 N·m입니다. 두 값 중 더 작은 값이 실제 허용 토크가 되므로, 최대 허용 토크는 1696 N·m입니다.
+
+### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"F is the KS classification symbol for construction/architecture.
+
+### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,A,A,"### ANSWER
+A"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,A,"### ANSWER
+A"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,C,C,"### ANSWER
+C"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,A,A,"Mn refines grain size and actually suppresses grain growth at high temperatures, so stating it increases grain growth is incorrect.
+
+### ANSWER
+A"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,A,C,"### ANSWER
+C"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,D,"D는 고체 침탄법에서 침탄 촉진제로 사용되는 대표적인 물질입니다.
+
+### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,B,,[EMPTY_RESPONSE]
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,B,B,"### ANSWER
+B"
+refrigerating_machinery,B,D,"### ANSWER
+D"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,B,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+refrigerating_machinery,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,A,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,A,B,"### ANSWER
+B"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,C,A,"### ANSWER
+A"
+agricultural_sciences,B,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,C,C,"### ANSWER
+C"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,A,A,"### ANSWER
+A"
+refrigerating_machinery,D,D,"### ANSWER
+D"
+education,A,A,"### ANSWER
+A"
+education,D,D,"### ANSWER
+D"
+education,B,B,"### ANSWER
+B"
+education,A,A,"### ANSWER
+A"
+education,C,C,"### ANSWER
+C"
+education,C,C,"### ANSWER
+C"
+education,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"단진동에서 x(t) = A cos(ωt), ω = 2π/T = π/2 rad/s이고, t=0.5s일 때 x = 24cos(π/4) ≈ 16.97cm = 0.1697m입니다. 힘 F = -mω²x = -10×(π/2)²×0.1697 ≈ -4.18N으로 계산됩니다.
+
+### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,B,B,"### ANSWER
+B"
+mechanical_engineering,B,B,"B는 일반적으로 의장도(일반도)에 포함되는 기본 단면도로, 구조도인 골조도, 기초 평면도, 배근단면도와 구분됩니다.
+
+### ANSWER
+B"
+mechanical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,A,C,"### ANSWER
+C"
+chemical_engineering,A,D,"### ANSWER
+D"
+chemical_engineering,D,D,"### ANSWER
+D"
+agricultural_sciences,C,C,"완두는 지하발아형으로 자엽(양분저장기관)이 땅속에 남습니다.
+
+### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,D,C,"### ANSWER
+C"
+agricultural_sciences,D,B,"### ANSWER
+B"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"밤은 함수율이 높고 후숙형 종자로 건조·저온 저장 시 손상되기 쉬워 장기 저장이 어렵다.
+
+### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,B,"### ANSWER
+B"
+electrical_engineering,A,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,B,B,"B
+
+### ANSWER
+B"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,C,C,"### ANSWER
+C"
+chemical_engineering,D,D,"### ANSWER
+D"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,A,A,"### ANSWER
+A"
+chemical_engineering,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,A,C,"### ANSWER
+C"
+agricultural_sciences,C,D,"### ANSWER
+D"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,B,D,"### ANSWER
+D"
+agricultural_sciences,A,A,"### ANSWER
+A"
+education,C,C,"### ANSWER
+C"
+education,B,B,"### ANSWER
+B"
+education,B,B,"### ANSWER
+B"
+education,A,A,"### ANSWER
+A"
+education,B,B,"### ANSWER
+B"
+education,A,A,"### ANSWER
+A"
+education,D,D,"### ANSWER
+D"
+education,B,D,"### ANSWER
+D"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,A,A,"### ANSWER
+A"
+materials_engineering,B,A,"### ANSWER
+A"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,D,"### ANSWER
+D"
+materials_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,D,D,"### ANSWER
+D"
+mechanical_engineering,A,A,"### ANSWER
+A"
+fashion,C,D,"### ANSWER
+D"
+fashion,B,D,"### ANSWER
+D"
+fashion,A,B,"### ANSWER
+B"
+fashion,C,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+fashion,C,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,D,"SDLC supports both half-duplex and full-duplex communication, so the claim that it only supports half-duplex is incorrect.
+
+### ANSWER
+D"
+telecommunications_and_wireless_technology,A,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"중계기 구성요소는 일반적으로 등화증폭회로, 식별회로, 타이밍회로로 구성되며, 위상검출기는 이에 포함되지 않는 요소이다.
+
+### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"AC성분 실효값 = 평균전압 × 맥동율 = 200V × 0.02 = 4V
+
+### ANSWER
+C"
+telecommunications_and_wireless_technology,B,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"Quarter-wave transformer impedance = √(600×150) = √90000 = 300Ω, length = λ/4.
+
+### ANSWER
+C"
+agricultural_sciences,B,D,"### ANSWER
+D"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,A,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,C,"### ANSWER
+C"
+agricultural_sciences,B,B,"### ANSWER
+B"
+criminal_law,D,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,C,"### ANSWER
+C"
+criminal_law,A,,[EMPTY_RESPONSE]
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,D,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+education,B,B,"### ANSWER
+B"
+education,D,D,"### ANSWER
+D"
+education,B,B,"### ANSWER
+B"
+education,C,C,"### ANSWER
+C"
+education,C,C,"### ANSWER
+C"
+education,B,B,"Classical Test Theory (고전 검사 이론) does not use item characteristic curves - that's a feature of Item Response Theory (IRT). CTT relies on simpler statistics like item difficulty and discrimination indices, while true score theory assumes observed score equals true score plus error.
+
+### ANSWER
+B"
+education,B,B,"중학교는 1899년(광무개혁 시기)에 설립되었으며, 갑오개혁 기간(1894~1896)에는 소학교, 외국어학교, 한성사범학교 등이 관제·영에 의해 설립되었습니다.
+
+### ANSWER
+B"
+education,B,B,"### ANSWER
+B"
+materials_engineering,C,D,"### ANSWER
+D"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,B,B,"### ANSWER
+B"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,C,C,"### ANSWER
+C"
+materials_engineering,D,B,"### ANSWER
+B"
+materials_engineering,A,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,A,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,C,"### ANSWER
+C"
+agricultural_sciences,A,A,"Soil vapor extraction (SVE) is suited for volatile organic compounds, not semi-volatile substances like dioxins. This makes option A incorrect.
+
+### ANSWER
+A"
+agricultural_sciences,C,A,"### ANSWER
+A"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,B,A,"### ANSWER
+A"
+agricultural_sciences,D,D,"Spinach requires near-neutral to slightly alkaline soil and grows poorly in acidic soil (pH 4.5-5.0), while rye, peanuts, and taro are more tolerant of acidic conditions.
+
+### ANSWER
+D"
+agricultural_sciences,C,B,"### ANSWER
+B"
+agricultural_sciences,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,B,A,"### ANSWER
+A"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"송전단전압 Vs = Vr + √3·I·(Rcosθ + Xsinθ) = 60000 + 1.732×100×(10×0.8+15×0.6) = 60000 + 1.732×100×17 ≈ 62944V ≈ 63kV
+
+### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,A,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,A,"### ANSWER
+A"
+fashion,A,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,B,B,"### ANSWER
+B"
+fashion,D,A,"### ANSWER
+A"
+fashion,B,B,"### ANSWER
+B"
+fashion,C,D,"### ANSWER
+D"
+fashion,D,B,"### ANSWER
+B"
+fashion,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,C,"### ANSWER
+C"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,A,A,"### ANSWER
+A"
+industrial_engineer,C,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,D,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"Pure iron's melting point is 1539℃.
+
+### ANSWER
+B"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,D,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+fashion,C,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,A,B,"### ANSWER
+B"
+fashion,A,B,"### ANSWER
+B"
+fashion,A,A,"### ANSWER
+A"
+fashion,C,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,B,C,"### ANSWER
+C"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,D,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,D,A,"### ANSWER
+A"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,D,C,"### ANSWER
+C"
+agricultural_sciences,A,A,"F1 individuals from crosses between homozygous parents are genetically uniform, so any observed variance must come from environmental effects only.
+
+### ANSWER
+A"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,A,"### ANSWER
+A"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,C,B,"### ANSWER
+B"
+nondestructive_testing,C,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,A,D,"### ANSWER
+D"
+fashion,C,B,"### ANSWER
+B"
+fashion,D,A,"### ANSWER
+A"
+fashion,D,D,"### ANSWER
+D"
+fashion,A,C,"### ANSWER
+C"
+fashion,C,A,"### ANSWER
+A"
+fashion,D,B,"### ANSWER
+B"
+agricultural_sciences,B,A,"### ANSWER
+A"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,C,B,"### ANSWER
+B"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,C,A,"### ANSWER
+A"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,A,B,"### ANSWER
+B"
+agricultural_sciences,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,A,"### ANSWER
+A"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,A,"### ANSWER
+A"
+nondestructive_testing,B,A,"### ANSWER
+A"
+nondestructive_testing,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"캐리어 구동, 선기어 고정 시 링기어 회전수 계산: Nc = Nr×Nr_speed/(Ns+Nr) 관계식을 이용하면, 50 = 60×Nr_speed/90 → Nr_speed = 75rpm. 캐리어 속도(50rpm)보다 빠르므로 증속입니다.
+
+### ANSWER
+D"
+railway_and_automotive_engineering,B,B,B
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,A,"### ANSWER
+A"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+fashion,B,C,"### ANSWER
+C"
+fashion,C,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+fashion,C,B,"### ANSWER
+B"
+fashion,B,A,"### ANSWER
+A"
+fashion,A,D,"### ANSWER
+D"
+fashion,B,A,"### ANSWER
+A"
+fashion,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,B,C,"### ANSWER
+C"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,D,C,"### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,A,B,"한국 판례상, 검사 작성 진술조서에 대해 피고인이 공판정 진술과 배치되는 부분만 부동의한 경우, 나머지 부분에 대해서는 증거로 함에 동의한 것으로 해석하는 것이 타당하다는 것이 확립된 판례의 태도입니다. C의 경우 정당한 증언거부권 행사는 제314조의 '진술할 수 없는 때'에 해당하지 않는다는 것이 최근 대법원 전원합의체 판례이며, D의 경우 참고인이 법정에서 진술을 부인하면 조사자 증언의 증거능력이 인정되지 않는 것이 원칙입니다.
+
+### ANSWER
+B"
+agricultural_sciences,D,B,"### ANSWER
+B"
+agricultural_sciences,B,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,A,"### ANSWER
+A"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,C,A,"### ANSWER
+A"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,B,,[EMPTY_RESPONSE]
+fashion,A,D,"면(cotton)은 셀룰로스계 섬유 중 중합도가 가장 높은 천연섬유로 알려져 있습니다.
+
+### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,D,A,"### ANSWER
+A"
+fashion,A,A,"### ANSWER
+A"
+fashion,A,B,"### ANSWER
+B"
+fashion,A,A,"### ANSWER
+A"
+fashion,A,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,A,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,C,"### ANSWER
+C"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,C,"### ANSWER
+C"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,B,C,"### ANSWER
+C"
+agricultural_sciences,A,A,"### ANSWER
+A"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,B,A,"### ANSWER
+A"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+fashion,B,B,"### ANSWER
+B"
+fashion,C,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,C,B,"### ANSWER
+B"
+fashion,A,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,C,"### ANSWER
+C"
+electrical_engineering,D,D,"D의 조합은 △-Y와 △-△로, 위상차가 30도 다른 결선이 병렬운전 시 위상 불일치를 일으켜 불가능한 조합이다.
+
+### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+industrial_engineer,C,D,"### ANSWER
+D"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"T = 0.161V/(α·S) 공식을 사용하면, V=60m³, S=94m², T=0.25s이므로 α = 0.161×60/(0.25×94) ≈ 0.41, 약 0.4에 해당합니다.
+
+### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,D,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,A,A,"A
+
+### ANSWER
+A"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,C,"### ANSWER
+C"
+nondestructive_testing,A,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,A,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,C,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,B,A,"### ANSWER
+A"
+fashion,B,B,"### ANSWER
+B"
+fashion,C,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,B,B,"### ANSWER
+B"
+fashion,C,C,"### ANSWER
+C"
+fashion,D,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,C,"### ANSWER
+C"
+electrical_engineering,B,B,"### ANSWER
+B"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,C,"### ANSWER
+C"
+electrical_engineering,C,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,C,C,"완충기는 카가 최하층을 통과하여 피트바닥으로 하강할 때 충격을 완화하는 장치입니다. 유압식 완충기는 일반적으로 정격속도가 60m/min을 초과하는 고속 엘리베이터에 사용되며, 스프링식은 저속에 사용됩니다.
+
+### ANSWER
+C"
+industrial_engineer,C,D,"### ANSWER
+D"
+industrial_engineer,D,A,"### ANSWER
+A"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,D,"### ANSWER
+D"
+fashion,D,C,"### ANSWER
+C"
+fashion,D,A,"### ANSWER
+A"
+fashion,C,D,"### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,B,A,"### ANSWER
+A"
+fashion,B,B,"### ANSWER
+B"
+fashion,C,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,A,"### ANSWER
+A"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,D,D,"구체적 부합설에 따르면 방법의 착오로 다른 사람이 피해를 입은 경우, 원래 의도한 대상(A)에 대해서는 미수, 실제 피해자(B)에 대해서는 과실범이 성립하며 양자는 상상적 경합 관계에 있습니다. 이는 구체적 부합설의 전형적인 결론으로 D가 정확합니다.
+
+### ANSWER
+D"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,D,B,"### ANSWER
+B"
+criminal_law,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,A,"### ANSWER
+A"
+railway_and_automotive_engineering,A,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,C,B,"### ANSWER
+B"
+industrial_engineer,D,A,"### ANSWER
+A"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,D,C,"C는 투과도계의 가는 선 끝이 시험부 안쪽을 향하도록 배치해야 하는데, 바깥쪽으로 향하게 한다고 설명하여 규정과 반대로 서술된 오답입니다.
+
+### ANSWER
+C"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+agricultural_sciences,D,B,"### ANSWER
+B"
+agricultural_sciences,A,A,"### ANSWER
+A"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,A,D,"### ANSWER
+D"
+agricultural_sciences,D,D,"### ANSWER
+D"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,B,,[EMPTY_RESPONSE]
+agricultural_sciences,C,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,A,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+fashion,D,C,"### ANSWER
+C"
+fashion,B,B,"### ANSWER
+B"
+fashion,B,D,"### ANSWER
+D"
+fashion,B,C,"### ANSWER
+C"
+fashion,A,A,"### ANSWER
+A"
+industrial_engineer,C,A,"### ANSWER
+A"
+industrial_engineer,C,A,"### ANSWER
+A"
+industrial_engineer,C,A,"### ANSWER
+A"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,C,C,"I=V/R=3/20=0.15A=150mA
+
+### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,B,C,"### ANSWER
+C"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,D,C,"### ANSWER
+C"
+agricultural_sciences,C,C,"### ANSWER
+C"
+agricultural_sciences,C,B,"순계분리법은 자가수분 작물에서 자연적으로 존재하는 순계를 선발하는 방법으로, 자가수정 작물인 배추류보다는 자가수분율이 높은 작물에 적합합니다. 무, 오이, 양파는 타가수분(자가불화합성) 작물로 순계분리법 적용이 어렵습니다. 이 중 자가수분이 가능한 작물을 고려하면 배추가 순계분리법 적용 대상으로 가장 적합합니다.
+
+### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"딸기잎벌레는 씹는 입을 가진 딱정벌레목 곤충으로 흡즙성이 아니라 씹어서 가해합니다. 주사바늘 모양의 입으로 흡즙하는 것은 진딧물이나 노린재류 등의 특징이므로 B가 옳지 않습니다.
+
+### ANSWER
+B"
+agricultural_sciences,C,C,"C: 질산태 질소는 토양교질에 흡착되지 않는다.
+
+### ANSWER
+C"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,C,A,"### ANSWER
+A"
+agricultural_sciences,A,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,B,"Lower receiver sensitivity threshold (수신한계 레벨) corresponds to lower noise level, which occurs with narrow bandwidth and small noise figure (NF), minimizing thermal noise contribution.
+
+### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,C,A,"무선통신에서의 잡음 개선 방법으로는 전원측 필터 사용, 평행급전선이나 완전차폐, 대역폭 축소 및 선택도 향상 등이 일반적으로 언급됩니다. 반면 “수신전력을 크게 하여 S/N비를 개선”하는 것은 실제로는 잡음도 함께 증가할 수 있어 일반적인 잡음 개선 기법으로 보기 어렵습니다.
+
+### ANSWER
+A"
+industrial_engineer,A,B,"### ANSWER
+B"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,C,"### ANSWER
+C"
+industrial_engineer,C,B,"### ANSWER
+B"
+industrial_engineer,C,C,"τ/σc 비율을 키의 치수식으로 나타내면 τ=W/(bl), σc=2W/(hl)이므로 τ/σc = h/(2b) = 1/2가 되어 b=h가 됩니다.
+
+### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+fashion,D,D,"### ANSWER
+D"
+fashion,A,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+fashion,A,B,"### ANSWER
+B"
+fashion,D,C,"### ANSWER
+C"
+fashion,C,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,B,B,"### ANSWER
+B"
+electrical_engineering,C,C,"### ANSWER
+C"
+electrical_engineering,D,D,"### ANSWER
+D"
+electrical_engineering,B,B,"**Reasoning:**
+계산: I=P/V=1000000/500=2000A, E=V+IaRa=500+2000×0.006=512V
+Z=슬롯수×슬롯당도체수=192×6=1152
+단중 중권이므로 a=p=12
+E = Z·N·φ·p/(60·a) = Z·N·φ/60 (∵a=p)
+φ = 60E/(ZN) = 60×512/(1152×240) = 30720/276480 ≈ 0.111[Wb]
+
+### ANSWER
+B"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,D,"Common collector amplifier (emitter follower) has high input impedance and low output impedance, opposite of option D. Other characteristics (current gain, voltage gain ≈1, in-phase) are correct.
+
+### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,D,C,"### ANSWER
+C"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,C,D,"### ANSWER
+D"
+nondestructive_testing,A,A,"### ANSWER
+A"
+nondestructive_testing,C,A,"### ANSWER
+A"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,A,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+agricultural_sciences,B,B,"### ANSWER
+B"
+agricultural_sciences,D,B,"### ANSWER
+B"
+agricultural_sciences,A,A,"### ANSWER
+A"
+interior_architecture_and_design,D,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,A,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+nondestructive_testing,D,D,"### ANSWER
+D"
+nondestructive_testing,A,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,B,B,"Non-metallic inclusions typically decrease toughness and cause brittleness, not increase toughness. This makes option B factually incorrect since inclusions are known to reduce toughness and promote brittle failure.
+
+### ANSWER
+B"
+nondestructive_testing,D,D,"### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,C,C,"### ANSWER
+C"
+fashion,A,A,"### ANSWER
+A"
+fashion,A,D,"### ANSWER
+D"
+fashion,B,A,"### ANSWER
+A"
+fashion,A,D,"### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,A,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,C,"### ANSWER
+C"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,D,"D (n(n-1)/2 = 10*9/2 = 45)
+
+### ANSWER
+D"
+telecommunications_and_wireless_technology,B,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,C,"### ANSWER
+C"
+railway_and_automotive_engineering,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,A,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+criminal_law,C,C,"형의 선고유예 시에는 보호관찰만 명할 수 있고, 사회봉사명령이나 수강명령은 집행유예의 경우에만 부과할 수 있습니다. 따라서 선고유예에 사회봉사·수강명령까지 포함시킨 설명은 옳지 않습니다.
+
+### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,B,"피의자가 심신장애로 인하여 벌할 수 없는 경우, 검사는 공소를 제기하지 않고 치료감호만을 청구할 수 있다는 것은 치료감호법 제7조의 내용과 일치합니다. 나머지 선택지는 법 조항과 맞지 않습니다(A는 치료감호를 먼저 집행, C는 기간이 15년, D는 보호관찰이 필수적으로 병과됨).
+
+### ANSWER
+B"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,C,,[EMPTY_RESPONSE]
+criminal_law,B,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,A,A,"### ANSWER
+A"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"Noise exposure typically causes peripheral vasoconstriction (혈관 수축), not vasodilation. This is a stress response leading to increased blood pressure, heart rate, and metabolism, while blood vessels constrict rather than dilate.
+
+### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"IPv6는 기본 헤더에서 옵션 필드를 제거하고 대신 확장 헤더(extension header)를 사용하는 방식으로 단순화했습니다. 따라서 ""확장된 옵션 필드""라는 표현은 옳지 않습니다.
+
+### ANSWER
+B"
+nondestructive_testing,B,D,"### ANSWER
+D"
+nondestructive_testing,B,B,"### ANSWER
+B"
+nondestructive_testing,C,C,"### ANSWER
+C"
+nondestructive_testing,B,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,A,A,"### ANSWER
+A"
+fashion,D,D,"### ANSWER
+D"
+fashion,D,D,"### ANSWER
+D"
+fashion,C,C,"### ANSWER
+C"
+fashion,D,D,"### ANSWER
+D"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"Fiber saturation point of wood typically occurs at moisture content around 30%.
+
+### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,B,"F=ma=370×3.5=1295N
+
+### ANSWER
+B"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,C,"### ANSWER
+C"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,A,A,"### ANSWER
+A"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,C,B,"### ANSWER
+B"
+telecommunications_and_wireless_technology,B,A,"프리스 공식(Friis formula)을 적용하면 F = F1 + (F2-1)/G1 입니다. 8dB와 9dB를 선형값으로 변환하면 F1=6.31, G1=6.31, F2=7.94이므로 F=6.31+(7.94-1)/6.31≈7.41, 이를 dB로 환산하면 약 8.7dB로 근사적으로 8.5dB에 가장 가깝습니다.
+
+### ANSWER
+A"
+telecommunications_and_wireless_technology,D,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,C,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,D,B,"### ANSWER
+B"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,A,"### ANSWER
+A"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,C,"### ANSWER
+C"
+industrial_engineer,C,D,"### ANSWER
+D"
+industrial_engineer,D,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,C,"### ANSWER
+C"
+industrial_engineer,C,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"1600×1200 해상도에서 16bit(65536색)를 표현하려면 1,920,000 픽셀 × 2바이트 = 3,840,000바이트가 필요한데, 이는 2MB(2,097,152바이트)를 초과합니다. 따라서 2MB 비디오 메모리로는 16bit 색상을 지원할 수 없으므로 D가 옳지 않습니다.
+
+### ANSWER
+D"
+computer_science,B,B,"Windows uses ""tracert"" as its command, while ""traceroute"" is the Unix/Linux equivalent command name, not supported in Windows 2003 Server.
+
+### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,A,A,"### ANSWER
+A"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,B,"### ANSWER
+B"
+industrial_engineer,C,A,"### ANSWER
+A"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,A,"### ANSWER
+A"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,A,C,"### ANSWER
+C"
+electronics_engineering,D,A,"### ANSWER
+A"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,A,"### ANSWER
+A"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,C,"### ANSWER
+C"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,C,C,"### ANSWER
+C"
+computer_science,D,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,A,"### ANSWER
+A"
+computer_science,C,C,"4-phase modulation encodes 2 bits per symbol, so bps = baud × 2 = 60 × 2 = 120 bps.
+
+### ANSWER
+C"
+computer_science,A,B,"### ANSWER
+B"
+computer_science,D,C,"RC4는 대표적인 스트림 방식의 관용(대칭) 암호 알고리즘이며, 공개키 암호의 예가 아닙니다. 따라서 C의 설명은 옳지 않습니다.
+
+### ANSWER
+C"
+psychology,A,A,"중앙치(median)는 순서 개념이 필요하므로 서열척도 이상에서만 계산 가능하고, 명명척도에서는 파악할 수 없습니다.
+
+### ANSWER
+A"
+psychology,B,,[EMPTY_RESPONSE]
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,D,"### ANSWER
+D"
+psychology,A,B,"### ANSWER
+B"
+psychology,C,C,"### ANSWER
+C"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,A,D,"### ANSWER
+D"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+railway_and_automotive_engineering,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,C,C,"### ANSWER
+C"
+psychology,C,D,"### ANSWER
+D"
+telecommunications_and_wireless_technology,D,A,"### ANSWER
+A"
+telecommunications_and_wireless_technology,B,B,"### ANSWER
+B"
+food_processing,C,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,B,D,"### ANSWER
+D"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,B,"농수산물 품질관리법령상 유전자변형수산물의 표시대상품목은 식품의약품안전처장이 관계 중앙행정기관의 장과 협의하여 정하며, 해양수산부장관이 단독으로 정하여 고시하는 것이 아니다. 따라서 B가 옳지 않은 설명이다.
+
+### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,C,B,"### ANSWER
+B"
+criminal_law,C,,[EMPTY_RESPONSE]
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,B,B,"도급명의대여 사기 관련 판례에 따르면, 단순히 사업자 명의를 대여한 것만으로는 사기죄의 처분행위가 있었다고 보기 어렵다는 취지의 판시가 있어 B가 옳은 설명이다. 나머지 지문들은 실제 판례의 결론(절도죄 성립, 처분행위 인정 등)과 배치된다.
+
+### ANSWER
+B"
+criminal_law,A,D,"### ANSWER
+D"
+criminal_law,C,C,"형법 제15조 제1항은 행위자가 형을 무겁게 하는 사실을 인식하지 못한 경우 가벼운 죄로 처벌한다는 규정입니다. 甲은 촉탁이 있다고 오인했으나 실제로는 촉탁이 없었던 경우이므로, 무거운 죄(보통살인죄)가 아닌 가벼운 죄인 촉탁살인죄로 처벌되어야 합니다. 따라서 甲에게 보통살인죄가 성립한다는 설명은 옳지 않습니다.
+
+### ANSWER
+C"
+criminal_law,A,A,"### ANSWER
+A"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,A,"### ANSWER
+A"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,A,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"아스팔트 펠트는 원지에 연질의 스트레이트 아스팔트(침투용 아스팔트)를 침투시키는 것이며, 블로운 아스팔트는 표면 피복(루핑)에 사용되는 것이 일반적입니다. 따라서 B의 설명이 옳지 않습니다.
+
+### ANSWER
+B"
+railway_and_automotive_engineering,A,A,"### ANSWER
+A"
+railway_and_automotive_engineering,C,D,"### ANSWER
+D"
+railway_and_automotive_engineering,D,D,"### ANSWER
+D"
+railway_and_automotive_engineering,B,C,"### ANSWER
+C"
+biology,B,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,B,B,"### ANSWER
+B"
+biology,A,A,"### ANSWER
+A"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,C,A,"### ANSWER
+A"
+computer_science,C,C,"직물의 3원 조직은 평직, 능직, 주자직이며 사직은 포함되지 않는다.
+
+### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"Ideal amplifier adds no noise, so noise figure F = 1.
+
+### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+biology,C,B,"### ANSWER
+B"
+biology,A,C,"### ANSWER
+C"
+biology,B,B,"### ANSWER
+B"
+biology,B,B,"### ANSWER
+B"
+biology,B,B,"으름밤나방은 성충이 직접 과실을 가해하여 흡즙 피해를 주는 대표적인 해충입니다. 나머지는 대부분 유충이 가해합니다.
+
+### ANSWER
+B"
+biology,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,A,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,B,"위탁급식의 장점으로는 운영비 절감, 노무관리 책임 회피, 대량구매를 통한 원가절감 등이 있으나, 영양관리와 위생관리는 오히려 전문업체에 위탁함으로써 소홀해질 수 있다는 단점으로 지적되는 경우가 많습니다.
+
+### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,A,A,"### ANSWER
+A"
+food_processing,A,A,"### ANSWER
+A"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,A,A,"### ANSWER
+A"
+industrial_engineer,D,,[EMPTY_RESPONSE]
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,C,A,"### ANSWER
+A"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,D,B,"### ANSWER
+B"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,C,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,A,A,"### ANSWER
+A"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"수덕사 대웅전은 고려시대(1308년)에 건립된 건축물로, 조선 초기가 아닌 고려시대 건축물입니다. 따라서 건축물과 시대 연결이 옳지 않습니다.
+
+### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+computer_science,D,B,"### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,B,B,"유효한 스택 시퀀스인지 확인: A,B,C를 push 후 pop C, pop B, 그 다음 D를 push 후 pop D, 마지막 pop A → C-B-D-A 순서가 가능합니다. 나머지 보기는 스택의 LIFO 특성에 위배됩니다.
+
+### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,D,"### ANSWER
+D"
+computer_science,D,D,"220×√2≈311V
+
+### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+biology,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+biology,C,C,"### ANSWER
+C"
+biology,C,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+biology,D,D,"Diquat and paraquat are dipyridylium herbicides, and Gramoxone is a well-known trade name for paraquat.
+
+### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+interior_architecture_and_design,A,A,"### ANSWER
+A"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+psychology,C,,[EMPTY_RESPONSE]
+psychology,B,A,"### ANSWER
+A"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,D,C,"### ANSWER
+C"
+psychology,B,B,"### ANSWER
+B"
+electronics_engineering,D,D,"256MB = 2^28 bytes, so the address bus must be at least 28 bits to address all memory locations.
+
+### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"C: 45
+
+### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,D,D,"AC출력 = 효율 × DC입력 = 0.7 × 16 = 11.2W
+
+### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,C,"### ANSWER
+C"
+computer_science,C,D,"### ANSWER
+D"
+computer_science,C,B,"### ANSWER
+B"
+computer_science,D,D,"D는 소프트웨어 폴링 방식의 특징과 반대되는 설명입니다. 소프트웨어 폴링 방식은 우선순위를 프로그램적으로 쉽게 변경할 수 있다는 장점(융통성)이 있으므로, ""우선순위를 변경하기 어렵다""는 틀린 설명입니다.
+
+### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,C,C,"### ANSWER
+C"
+industrial_engineer,C,B,"### ANSWER
+B"
+industrial_engineer,B,B,"### ANSWER
+B"
+industrial_engineer,B,A,"### ANSWER
+A"
+industrial_engineer,D,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,A,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,C,A,"### ANSWER
+A"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,A,A,"### ANSWER
+A"
+electronics_engineering,B,D,"### ANSWER
+D"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+criminal_law,C,C,"### ANSWER
+C"
+criminal_law,A,D,"### ANSWER
+D"
+criminal_law,D,,[EMPTY_RESPONSE]
+criminal_law,A,A,"형사소송법상 공소기각 결정과 판결의 사유를 구분해보면:
+- B: 범죄가 될 만한 사실이 없는 경우는 제328조 공소기각 결정 사유가 맞음
+- C: 재판권이 없을 때는 제327조 공소기각 판결 사유가 맞음
+- D: 관할 경합으로 심판 못하게 된 법원의 경우 제328조 공소기각 결정 사유가 맞음
+- A: 판례상 공소장에 간인이 없더라도 형식과 내용이 일체성을 갖추고 동일 검사가 작성한 것으로 인정되면 공소기각 판결 사유가 되지 않음. 따라서 A는 틀린 설명임.
+
+### ANSWER
+A"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"창문 위 하중을 좌우 벽으로 전달하는 부재는 인방보(안방보)입니다.
+
+### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,A,D,"### ANSWER
+D"
+psychology,A,A,"### ANSWER
+A"
+psychology,C,C,"### ANSWER
+C"
+psychology,C,B,"### ANSWER
+B"
+psychology,D,C,"### ANSWER
+C"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,D,"문항 난이도 지수는 정답률을 의미하므로 값이 높을수록 쉬운 문항을 나타냅니다. D는 이를 반대로 설명하고 있어 틀린 설명입니다.
+
+### ANSWER
+D"
+psychology,D,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,B,"### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,C,"### ANSWER
+C"
+electronics_engineering,C,D,"### ANSWER
+D"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,B,"B
+
+### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,D,A,"### ANSWER
+A"
+food_processing,B,A,"### ANSWER
+A"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+information_technology,B,B,"ABCD=1001, A=1,B=0,C=0,D=1. Testing AD: A·D=1·1=1, matches, and for other valid BCD codes let's verify uniqueness. This is standard answer for 8421 code decoder of 9.
+
+### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,A,A,"### ANSWER
+A"
+information_technology,D,D,"IPv6는 128비트 주소체계를 사용하며, 2^128개의 주소가 가능합니다. D는 64비트라고 잘못 설명하고 있어 거리가 먼 설명입니다.
+
+### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,D,"### ANSWER
+D"
+information_technology,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+psychology,D,D,"### ANSWER
+D"
+psychology,A,A,"### ANSWER
+A"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,D,"### ANSWER
+D"
+psychology,C,C,"### ANSWER
+C"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+biology,C,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,D,D,"주어진 조건에서 필요한 유효성분량을 계산합니다.
+
+살포액량 = 5말 = 90,000cc (1말=18L)
+필요한 유효성분량 = 90,000cc × 0.05% = 45g
+
+원액의 유효성분 함량 = 비중(0.5) × 농도(50%) = 0.25g/cc
+
+소요 원액량 = 45g ÷ 0.25g/cc = 180cc
+
+### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,C,C,"솔잎혹파리는 유충 상태로 지표면 아래(낙엽층 및 땅속)에서 월동하는 것으로 알려져 있다.
+
+### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,B,B,"### ANSWER
+B"
+biology,A,A,"### ANSWER
+A"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,B,"### ANSWER
+B"
+information_technology,A,A,"### ANSWER
+A"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"I=V/R=5/20=0.25A=250mA
+
+### ANSWER
+D"
+information_technology,D,B,"### ANSWER
+B"
+computer_science,D,D,"D (2 bits per baud × 1200 baud = 2400 bps)
+
+### ANSWER
+D"
+computer_science,B,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,D,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+biology,A,A,"### ANSWER
+A"
+biology,D,A,"### ANSWER
+A"
+biology,B,B,"### ANSWER
+B"
+biology,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,B,C,"### ANSWER
+C"
+biology,C,C,"### ANSWER
+C"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,C,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,B,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,B,C,"### ANSWER
+C"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,C,"### ANSWER
+C"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,A,A,"### ANSWER
+A"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,D,D,"### ANSWER
+D"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,B,A,"### ANSWER
+A"
+electronics_engineering,D,A,"### ANSWER
+A"
+electronics_engineering,A,A,"### ANSWER
+A"
+electronics_engineering,D,D,"### ANSWER
+D"
+computer_science,C,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+industrial_engineer,D,C,"### ANSWER
+C"
+industrial_engineer,D,D,"### ANSWER
+D"
+industrial_engineer,D,,[EMPTY_RESPONSE]
+industrial_engineer,D,D,"### ANSWER
+D"
+civil_engineering,B,A,"### ANSWER
+A"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,C,"### ANSWER
+C"
+civil_engineering,D,A,"### ANSWER
+A"
+biology,D,D,"### ANSWER
+D"
+biology,A,D,"### ANSWER
+D"
+biology,D,C,"### ANSWER
+C"
+biology,B,B,"### ANSWER
+B"
+biology,B,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,C,B,"### ANSWER
+B"
+food_processing,A,A,"### ANSWER
+A"
+food_processing,C,B,"### ANSWER
+B"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,A,B,"### ANSWER
+B"
+food_processing,C,C,"Flies commonly transmit diseases through contaminated food, and cholera is a classic fly-borne disease.
+
+### ANSWER
+C"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,B,B,"Flavones turn yellow in alkaline conditions - this is a well-known pigment chemistry fact, while chlorophyll turns brown in acidic (not alkaline) conditions, anthocyanins turn red in acid/blue in alkaline, and carotenoids are generally stable to pH changes.
+
+### ANSWER
+B"
+food_processing,C,C,"경영비는 실제 지출된 비용이고, 생산비는 여기에 자가노력비 등 내급비(가족노동비 등 자기소유 요소에 대한 비용)를 더한 것입니다. 따라서 경영비에 내급비를 합하면 생산비가 됩니다.
+
+### ANSWER
+C"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+interior_architecture_and_design,C,,[EMPTY_RESPONSE]
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,C,"홀수 패리티를 적용하려면 데이터 비트(100 0001)에서 1의 개수가 2개이므로, 패리티 비트를 1로 추가하여 총 1의 개수를 홀수(3개)로 만들어야 합니다. 패리티 비트를 끝에 추가하면 1000 0011이 됩니다.
+
+### ANSWER
+C"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,B,B,"1/1.2 ≈ 0.83
+
+### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,C,C,"### ANSWER
+C"
+biology,C,A,"### ANSWER
+A"
+biology,B,B,"Non-growth-associated products are typically produced during stationary phase, requiring extended maintenance at high cell density rather than continuous growth. Fed-batch culture allows accumulation of high biomass followed by controlled conditions to maximize such product formation, making it suitable for non-growth-associated production.
+
+### ANSWER
+B"
+biology,B,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,A,"### ANSWER
+A"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,A,"### ANSWER
+A"
+information_technology,A,B,"### ANSWER
+B"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,D,B,"### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,C,B,"### ANSWER
+B"
+food_processing,A,B,"### ANSWER
+B"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,D,C,"### ANSWER
+C"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"### ANSWER
+B"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,C,B,"### ANSWER
+B"
+computer_science,B,B,"0.01101₂ = 1.101 × 2⁻² 이므로 실제 지수는 -2입니다. 바이어스 127(01111111₂)을 더하면 127-2=125, 즉 01111101₂가 됩니다.
+
+### ANSWER
+B"
+computer_science,C,C,"### ANSWER
+C"
+computer_science,D,D,"### ANSWER
+D"
+computer_science,B,B,"RAID-5 with n disks provides (n-1) disks worth of usable capacity. With 7 disks of 10GB each, usable capacity = 6 × 10GB = 60GB.
+
+### ANSWER
+B"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,A,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+psychology,D,D,"### ANSWER
+D"
+psychology,D,D,"D
+
+### ANSWER
+D"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,D,"REBT에서 정서적 문제의 원인은 비합리적 신념, 특히 당위적 사고(must/should)에서 비롯된다고 봅니다.
+
+### ANSWER
+D"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,,[EMPTY_RESPONSE]
+biology,C,C,"### ANSWER
+C"
+biology,C,C,"### ANSWER
+C"
+biology,A,C,"### ANSWER
+C"
+biology,B,B,"### ANSWER
+B"
+biology,A,B,"### ANSWER
+B"
+biology,C,D,"### ANSWER
+D"
+biology,A,B,"### ANSWER
+B"
+biology,A,D,"### ANSWER
+D"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,C,D,"### ANSWER
+D"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,D,C,"### ANSWER
+C"
+civil_engineering,C,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+ecology,A,D,"### ANSWER
+D"
+ecology,C,A,"### ANSWER
+A"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,B,"e = -Ndø/dt = -Nωø_m cosωt, which leads to a phase lagging by π/2 relative to flux (cos vs sin, with negative sign shifts to lag by 90°).
+
+### ANSWER
+B"
+electronics_engineering,B,B,"### ANSWER
+B"
+electronics_engineering,B,C,"### ANSWER
+C"
+electronics_engineering,C,C,"### ANSWER
+C"
+electronics_engineering,A,A,"### ANSWER
+A"
+electronics_engineering,D,A,"동기 고정식 MO 제어는 모든 마이크로오퍼레이션에 동일한 고정 사이클 타임을 부여하는 방식으로, 제어장치 구현이 간단하고(A), 다양한 종류의 오퍼레이션 수행 시 실제 필요한 시간보다 사이클 타임이 길어 비효율적이며(B, C) 이는 CPU 시간 낭비로 이어집니다. 그러나 D에서 설명하는 ""MO 종료 후 다음 오퍼레이션"
+korean_history,C,C,"### ANSWER
+C"
+interior_architecture_and_design,B,D,"### ANSWER
+D"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,D,D,"### ANSWER
+D"
+interior_architecture_and_design,C,C,"### ANSWER
+C"
+interior_architecture_and_design,C,B,"### ANSWER
+B"
+interior_architecture_and_design,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,C,C,"### ANSWER
+C"
+biology,B,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+biology,B,B,"### ANSWER
+B"
+biology,A,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+ecology,C,D,"### ANSWER
+D"
+ecology,D,A,"### ANSWER
+A"
+ecology,B,C,"### ANSWER
+C"
+ecology,A,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"IPv6는 128비트 주소공간을 제공하므로 64비트라는 설명은 틀렸다.
+
+### ANSWER
+C"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,D,"### ANSWER
+D"
+information_technology,C,,[EMPTY_RESPONSE]
+information_technology,C,C,"### ANSWER
+C"
+korean_history,A,D,"### ANSWER
+D"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,A,A,"### ANSWER
+A"
+korean_history,C,C,"### ANSWER
+C"
+biology,A,A,"### ANSWER
+A"
+biology,A,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+biology,A,A,"### ANSWER
+A"
+biology,C,C,"### ANSWER
+C"
+biology,D,D,"### ANSWER
+D"
+biology,C,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,A,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+psychology,D,D,"가계생산함수 이론에 따르면 배우자 임금 상승은 소득효과뿐 아니라 대체효과(시간의 상대가격 변화)를 동반한다. D는 소득효과만 언급하여 대체효과를 무시하고 있어 틀린 설명이다.
+
+### ANSWER
+D"
+psychology,D,D,"### ANSWER
+D"
+psychology,D,D,"근로기준법 및 노동위원회법상 재심신청이나 행정소송 제기는 원처분의 효력을 정지시키지 않는다는 것이 원칙입니다. 재심신청 기한은 10일이며(A는 15일로 틀림), 재심신청 시 효력정지 규정은 없으므로 B도 틀립니다. 행정소송 제기기간은 일반 행정소송법에 따라 처분을 안 날로부터 90일 이내이므로 C의 15일은 옳지 않습니다.
+
+### ANSWER
+D"
+psychology,A,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,C,C,"### ANSWER
+C"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,A,"N개의 플립플롭으로 구성된 카운터는 2^n개의 상태를 가질 수 있으므로 최대 카운트 수는 2^n입니다.
+
+### ANSWER
+A"
+information_technology,B,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,B,A,"### ANSWER
+A"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,D,,[EMPTY_RESPONSE]
+food_processing,A,A,"### ANSWER
+A"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,B,C,"### ANSWER
+C"
+food_processing,A,A,"제분율이 낮을수록 배아, 껍질 부분이 제거되고 배유부(탄수화물 중심) 비율이 높아지므로 탄수화물 함량이 증가합니다.
+
+### ANSWER
+A"
+biology,A,A,"### ANSWER
+A"
+biology,C,C,"### ANSWER
+C"
+biology,D,C,"### ANSWER
+C"
+biology,A,A,"### ANSWER
+A"
+biology,B,B,"### ANSWER
+B"
+biology,B,B,"### ANSWER
+B"
+biology,A,D,"### ANSWER
+D"
+biology,C,A,"### ANSWER
+A"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,,[EMPTY_RESPONSE]
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,D,"### ANSWER
+D"
+civil_engineering,B,D,"### ANSWER
+D"
+civil_engineering,C,C,"흙에 접하거나 옥외 공기에 노출되는 프리캐스트 콘크리트 벽체의 경우 D35 이하 철근의 최소 피복두께는 20mm이어야 하므로, 40mm라고 한 C가 틀린 설명입니다.
+
+### ANSWER
+C"
+civil_engineering,B,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,A,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"압축비 7, 비열비 1.2로 오토사이클 열효율 공식 η=1-(1/r)^(k-1)을 적용하면 η=1-(1/7)^0.2=1-0.678≈32.2%가 됩니다.
+
+### ANSWER
+D"
+aviation_engineering_and_maintenance,C,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,A,"### ANSWER
+A"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,C,"### ANSWER
+C"
+information_technology,A,C,"### ANSWER
+C"
+information_technology,C,B,"### ANSWER
+B"
+psychology,A,B,"### ANSWER
+B"
+psychology,A,A,"F는 정신병리를 과대보고하는 경향을 측정하는 반면, K, L, S는 방어성/축소보고 경향을 측정하는 척도로 성격이 다릅니다.
+
+### ANSWER
+A"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,C,"### ANSWER
+C"
+ecology,B,D,"### ANSWER
+D"
+ecology,D,D,"Glaser's formula: Am = (Au - Cv) × (a²/u²) + Cv, where a and u are measured from age 10 (when costs were fully accumulated). So a'=15-10=5, u'=30-10=20.
+
+Am = (460만-60만) × (5/20)² + 60만 = 400만 × 0.0625 + 60만 = 25만 + 60만 = 85만원
+
+### ANSWER
+D"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+biology,B,C,"### ANSWER
+C"
+biology,D,C,"### ANSWER
+C"
+biology,C,C,"### ANSWER
+C"
+biology,B,B,"### ANSWER
+B"
+biology,A,A,"### ANSWER
+A"
+biology,B,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+biology,A,A,"### ANSWER
+A"
+korean_history,A,C,"### ANSWER
+C"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,C,D,"1377년 직지가 간행된 왕대는 고려 우왕 시기입니다. 철령위 설치 통보 사건은 1388년으로 우왕 재위 기간에 발생했습니다. 반면 원 황실의 북쪽 도주와 명 건국은 1368년으로 공민왕 시기에 해당합니다.
+
+### ANSWER
+D"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,C,D,"### ANSWER
+D"
+korean_history,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"Flapping hinge allows blades to move up and down to equalize lift asymmetry between advancing and retreating blades.
+
+### ANSWER
+C"
+aviation_engineering_and_maintenance,D,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,A,C,"### ANSWER
+C"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,A,"### ANSWER
+A"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,C,C,"### ANSWER
+C"
+food_processing,A,B,"### ANSWER
+B"
+food_processing,A,A,"콩류(콩)의 제한 아미노산은 메티오닌이며 트레오닌이 아닙니다. 곡류는 리신, 옥수수는 트립토판이 부족한 것이 맞고, 채소류도 메티오닌 부족이 일반적으로 언급됩니다. 따라서 틀린 연결은 콩류-트레오닌입니다.
+
+### ANSWER
+A"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,C,"### ANSWER
+C"
+food_processing,B,D,"### ANSWER
+D"
+food_processing,A,A,"### ANSWER
+A"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,C,"### ANSWER
+C"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+biology,B,B,"### ANSWER
+B"
+biology,D,D,"### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+biology,B,B,"### ANSWER
+B"
+biology,B,B,"### ANSWER
+B"
+biology,A,A,"### ANSWER
+A"
+biology,D,D,"D - CO2 보상점은 매우 낮은 농도(약 0.005~0.01%)이며, 0.21~0.3%는 대기 중 CO2 농도보다 훨씬 높아 부적절한 값이다.
+
+### ANSWER
+D"
+biology,D,D,"### ANSWER
+D"
+information_technology,C,A,"### ANSWER
+A"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,C,A,"### ANSWER
+A"
+information_technology,B,B,"2800/70=40
+
+### ANSWER
+B"
+information_technology,D,D,"4096/8=512
+
+### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,C,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,C,"### ANSWER
+C"
+psychology,D,D,"D
+
+### ANSWER
+D"
+psychology,B,B,"### ANSWER
+B"
+psychology,C,C,"### ANSWER
+C"
+psychology,A,A,"### ANSWER
+A"
+psychology,A,A,"### ANSWER
+A"
+psychology,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+psychology,B,C,"### ANSWER
+C"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,C,A,"### ANSWER
+A"
+civil_engineering,D,D,"지효성 유기질 비료는 밑거름(기비)으로, 속효성 비료는 덧거름(추비)으로 주는 것이 일반적이므로 D는 설명이 반대로 되어 있어 적절하지 않다.
+
+### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,A,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"D는 금속분·철분·마그네슘 연소시 물과 반응하여 수소가 발생한다는 설명이지만, 실제로는 물을 사용하지 않아야 하는 이유가 수소 발생 때문이 아니라 반응성 때문이며, 이 설명 자체가 소화방법으로 부적절한 내용이다.
+
+### ANSWER
+D"
+public_safety,B,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,A,B,"### ANSWER
+B"
+ecology,C,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,A,A,"### ANSWER
+A"
+ecology,B,A,"솔나방은 유충 상태로 군집하여 월동하는 대표적인 해충으로 알려져 있다.
+
+### ANSWER
+A"
+ecology,B,A,"### ANSWER
+A"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,C,D,"### ANSWER
+D"
+food_processing,C,C,"Lipid accumulation in microorganisms typically occurs during the stationary phase, not the logarithmic (exponential) growth phase, since nitrogen limitation triggers lipid storage after active growth slows. Therefore, stating that lipid content is highest during the log phase is incorrect.
+
+### ANSWER
+C"
+food_processing,D,B,"### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,D,A,"### ANSWER
+A"
+food_processing,B,B,"### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,B,"면적 계산 시 원판 면적은 1,244,400, 조각 면적은 204,828로 최대 6.07장까지 가능하며, 507×2=1014(≤1020), 404×3=1212(≤1220)로 배치하면 정확히 6장을 낭비 없이 배치할 수 있습니다.
+
+### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,C,"### ANSWER
+C"
+psychology,A,A,"한국표준산업분류에서 모 생산단위의 포장용 캔, 상자 등을 생산하는 활동은 일반적으로 보조단위가 아니라 별도의 독립적 산업활동으로 분류됩니다. 이는 투입물, 생산공정 등이 본래의 생산활동과 다르기 때문입니다. 따라서 A가 틀린 설명입니다.
+
+### ANSWER
+A"
+psychology,D,D,"### ANSWER
+D"
+psychology,A,B,"### ANSWER
+B"
+psychology,C,C,"### ANSWER
+C"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,C,"### ANSWER
+C"
+psychology,A,A,"바꿔쓰기(Digit Symbol/Coding)는 K-WAIS의 동작성(수행) 검사에 해당하며, 숫자 외우기, 산수문제, 이해문제는 언어성 검사에 속한다.
+
+### ANSWER
+A"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,D,D,"평형유출량 Qe = A×I 를 단위 환산하면, I=10mm/4hr=2.5mm/hr, A=10km²=10,000,000m². 
+Qe = (10,000,000 × 0.0025)/3600 ≈ 6.94 m³/s
+
+### ANSWER
+D"
+civil_engineering,A,A,"### ANSWER
+A"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,C,"Collector-grounded (emitter follower) circuits have voltage gain close to 1, not high gain, unlike common emitter circuits which have high voltage gain. This makes option C incorrect.
+
+### ANSWER
+C"
+information_technology,B,A,"### ANSWER
+A"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,B,"데이터 분배 회로는 하나의 입력을 여러 출력 중 하나로 분배하는 역할을 하는 디멀티플렉서입니다.
+
+### ANSWER
+B"
+ecology,A,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,B,A,"### ANSWER
+A"
+ecology,B,B,"### ANSWER
+B"
+psychology,B,D,"### ANSWER
+D"
+psychology,A,D,"### ANSWER
+D"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,B,"### ANSWER
+B"
+psychology,A,A,"### ANSWER
+A"
+psychology,C,C,"### ANSWER
+C"
+psychology,A,A,"### ANSWER
+A"
+psychology,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,B,B,"모어 파괴 포락선이 직선(Coulomb 기준)일 때, 점착력 c=100kg/cm², 단축압축강도 σc=800kg/cm²를 이용하여 마찰각을 구하면:
+
+σc = 2c·cosφ/(1-sinφ) = 800 → cosφ/(1-sinφ) = 4
+
+sin²φ + cos²φ = 1 조건과 결합하면 sinφ ≈ 0.882, cosφ ≈ 0.472
+
+단축인장강도: σt = 2c·cosφ/(1+sinφ) = 2(100)(0.472)/(1.882) ≈ 50 kg/cm²
+
+### ANSWER
+B"
+public_safety,B,C,"### ANSWER
+C"
+public_safety,B,B,"Hydrogen peroxide must be stored with a loosely fitted cap (not tightly sealed) to allow gas venting and prevent pressure buildup, so ""용기는 마개로 꼭 막아둔다"" is incorrect.
+
+### ANSWER
+B"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,A,"### ANSWER
+A"
+public_safety,C,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,A,C,"플랩의 최대양력계수가 100% 증가(즉 2배)하는 효과가 핵심이며, 실속속도는 CLmax의 제곱근에 반비례합니다. 따라서 V_new = 80/√2 ≈"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,A,B,"### ANSWER
+B"
+food_processing,B,B,"### ANSWER
+B"
+food_processing,A,B,"### ANSWER
+B"
+food_processing,B,B,"Food poisoning via oral infection (경구감염병) is characterized by small infectious dose, infection cycle establishment, and long incubation period. Food itself is not typically a growth medium (증식매체) for the pathogen but rather a vehicle for transmission - this distinguishes it from food poisoning (식중독) where bacteria multiply in food.
+
+### ANSWER
+B"
+food_processing,D,D,"### ANSWER
+D"
+food_processing,A,A,"### ANSWER
+A"
+food_processing,D,D,"### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+information_technology,C,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,B,B,"### ANSWER
+B"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,C,B,"### ANSWER
+B"
+korean_history,B,B,"원광은 수에 군사를 청하는 글(걸사표)을 쓴 인물로 알려져 있으며, 화랑이 지켜야 할 세속오계를 만든 것도 원광입니다. 따라서 ㉠은 원광이며, 세속오계 제작이 옳은 활동입니다.
+
+### ANSWER
+B"
+korean_history,A,A,"### ANSWER
+A"
+korean_history,A,A,"### ANSWER
+A"
+korean_history,A,A,"### ANSWER
+A"
+korean_history,A,D,"### ANSWER
+D"
+korean_history,D,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,C,A,"### ANSWER
+A"
+ecology,C,B,"### ANSWER
+B"
+ecology,B,A,"### ANSWER
+A"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,C,"### ANSWER
+C"
+psychology,D,D,"### ANSWER
+D"
+psychology,B,B,"### ANSWER
+B"
+psychology,A,B,"### ANSWER
+B"
+psychology,B,C,"### ANSWER
+C"
+psychology,D,D,"### ANSWER
+D"
+psychology,A,D,"### ANSWER
+D"
+psychology,A,A,"### ANSWER
+A"
+psychology,C,C,"### ANSWER
+C"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,C,"### ANSWER
+C"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,B,"### ANSWER
+B"
+information_technology,C,C,"### ANSWER
+C"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,B,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,A,"### ANSWER
+A"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,C,D,"### ANSWER
+D"
+civil_engineering,B,C,"### ANSWER
+C"
+civil_engineering,B,B,"계산 결과, 압축철근이 항복하고 인장변형률이 0.005를 초과하는 인장지배단면(φ=0.85)임을 확인한 후 공칭모멘트 강도를 산출하면 φMn ≈ 565.3 kN·m 입니다.
+
+### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"계산: 응력=P/A=3000/(π/4×20²)=9.549kg/mm², 축방향 변형률=1.4/3000=4.667×10⁻⁴ → E=9.549/4.667×10⁻⁴=2.048×10⁴kg/mm²=2.048×10⁶kg/cm².
+가로변형률=0.0027/20=1.35×10⁻⁴, 포아송비 ν=1.35×10⁻⁴/4.667×10⁻⁴≈0.289.
+G=E/[2(1+ν)]=2.048×10⁶/(2×1.289)≈7.94×10⁵kg/cm².
+
+### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,C,"### ANSWER
+C"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,A,A,"### ANSWER
+A"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,A,"### ANSWER
+A"
+social_welfare,A,A,"Analyzing each option: Social insurance premiums typically have income caps and flat rates without personal deductions, making them regressive compared to progressive income tax. This regressivity means they burden lower-income groups more, not favor them (eliminating B), and income caps benefit high-income earners rather than disadvantage them (eliminating C). Social insurance premiums also have specific benefit returns (pension, health coverage), unlike general taxes (eliminating D). Therefore, the correct statement is that social insurance premiums are more regressive than income tax.
+
+### ANSWER
+A"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+ecology,B,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,A,A,"### ANSWER
+A"
+ecology,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,A,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+public_safety,A,C,"### ANSWER
+C"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,C,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,B,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+information_technology,A,A,"### ANSWER
+A"
+information_technology,D,D,"### ANSWER
+D"
+information_technology,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,C,C,"2km/5000 = 2000/5000 = 0.4m
+
+### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,B,"### ANSWER
+B"
+social_welfare,B,C,"p-value 0.55 > 0.05이므로 독립성 가정을 기각하지 못한다. 이는 두 변수가 통계적으로 관련이 없다는 결론이 아니라, 유의한 관계를 입증하지 못했다는 의미이므로 ""관계가 없다""고 단정할 수 없다. 따라서 이 결과만으로는 두 변수 간 관계 여부를 명확히 말할 수 없다는 해석이 적절하다.
+
+### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,A,"### ANSWER
+A"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,B,B,"### ANSWER
+B"
+psychology,D,D,"### ANSWER
+D"
+psychology,D,D,"### ANSWER
+D"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,C,"### ANSWER
+C"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+taxation,A,B,"B가 옳지 않습니다. 관세법상 심판청구인은 청구금액과 관계없이 배우자, 4촌 이내의 혈족 등을 대리인으로 선임할 수 있으며, 금액 제한 규정은 존재하지 않습니다.
+
+### ANSWER
+B"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,C,"C
+
+### ANSWER
+C"
+social_welfare,B,B,"### ANSWER
+B"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"E=1/2CV² 식을 이용해 V=√(2E/C)로 계산하면, C=100pF=1×10⁻¹⁰F, E=1.15mJ=1.15×10⁻³J이므로 V=√(2×1.15×10⁻³/1×10⁻¹⁰)=√(2.3×10⁷)≈4.8×10³V가 됩니다.
+
+### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,B,B,"현종실록에 나온 상복 논쟁은 기해예송으로, 송준길(서인)의 입장에 반대하며 '정체'를 근거로 3년복을 주장한 인물은 남인(허목, 윤휴 등)입니다. 남인은 이후 기사환국(1689)으로 정권을 장악했으며(ㄱ), 인조반정은 서인이 주도했고(ㄴ은 틀림), 이이·성혼의 문인은 서인의 기원입니다(ㄹ은 틀림). 정조 시기 탕평정치에서 남인도 일부 참여하는 축을 이루었다는 설명(ㄷ)은 부합합니다.
+
+### ANSWER
+B"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,A,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+geomatics,B,B,"계산 결과, 두 갱구 간 수평거리는 약 1269.50m이며, 높이차 123.40m와 함께 경사거리를 구하면 √(1269.50² + 123.40²) ≈ 1275.48m가 됩니다.
+
+### ANSWER
+B"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,A,"### ANSWER
+A"
+geomatics,B,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,C,B,"### ANSWER
+B"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,A,"### ANSWER
+A"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,,[EMPTY_RESPONSE]
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,D,D,"### ANSWER
+D"
+ecology,D,C,"### ANSWER
+C"
+ecology,B,B,"Cyanobacteria typically thrive in warmer temperatures, not low temperatures, making this the incorrect statement among the listed reasons.
+
+### ANSWER
+B"
+ecology,D,D,"### ANSWER
+D"
+ecology,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+korean_history,B,B,"### ANSWER
+B"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,B,B,"B
+
+### ANSWER
+B"
+korean_history,A,A,"### ANSWER
+A"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,A,A,"A는 비례적 평등에 대한 정확한 설명으로, 능력과 업적, 공헌에 따라 자원을 분배하는 것을 의미한다. B는 소극적 자유의 정의이며, C는 재분배가 소극적 자유를 침해한다는 점에서 틀렸고, D는 기회의 평등이 아닌 다른 개념에 대한 설명이다.
+
+### ANSWER
+A"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,B,B,"Degrees of freedom = (5-1)(4-1) = 12, and independence test uses chi-square distribution.
+
+### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,C,"100000×0.9×300L=27,000,000L/day=27000m3/day
+
+### ANSWER
+C"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,A,"### ANSWER
+A"
+civil_engineering,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,D,B,"### ANSWER
+B"
+ecology,C,C,"### ANSWER
+C"
+ecology,D,D,"### ANSWER
+D"
+ecology,C,A,"### ANSWER
+A"
+ecology,C,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,A,"### ANSWER
+A"
+public_safety,B,C,"### ANSWER
+C"
+public_safety,D,B,"### ANSWER
+B"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,C,"### ANSWER
+C"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+taxation,B,,[EMPTY_RESPONSE]
+taxation,D,D,"관세법상 잠정긴급관세는 대외무역법에 따른 수입수량 제한 등의 조치 여부가 결정되면 그 부과를 중단하도록 규정되어 있으며, 이는 법령 내용과 정확히 일치한다. 나머지 선택지는 세관장/기획재정부장관 권한이나 조사 개시 전후 요건 등에서 오류가 있다.
+
+### ANSWER
+D"
+taxation,B,C,"### ANSWER
+C"
+taxation,A,C,"### ANSWER
+C"
+taxation,A,A,"### ANSWER
+A"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,D,"### ANSWER
+D"
+taxation,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,A,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,C,"### ANSWER
+C"
+ecology,B,B,"### ANSWER
+B"
+ecology,B,B,"### ANSWER
+B"
+health,D,D,"### ANSWER
+D"
+health,A,A,"### ANSWER
+A"
+health,C,C,"### ANSWER
+C"
+health,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,C,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+social_welfare,A,B,"0.4×0.1=0.04
+
+### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,B,B,"Thurstone scale is known as an equal-appearing interval scale, which corresponds to interval-level measurement.
+
+### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,C,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,C,B,"### ANSWER
+B"
+civil_engineering,B,C,"### ANSWER
+C"
+civil_engineering,B,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,C,"### ANSWER
+C"
+geomatics,A,A,"### ANSWER
+A"
+geomatics,A,A,"### ANSWER
+A"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+korean_history,C,C,"### ANSWER
+C"
+korean_history,D,D,"### ANSWER
+D"
+korean_history,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,,[EMPTY_RESPONSE]
+public_safety,D,D,"급기구는 낮은 곳에 설치하여야 하므로 D가 옳지 않은 설명이다.
+
+### ANSWER
+D"
+public_safety,B,C,"### ANSWER
+C"
+public_safety,D,C,"### ANSWER
+C"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,C,B,"### ANSWER
+B"
+public_safety,B,B,"### ANSWER
+B"
+taxation,A,A,"A는 화물관리인 지정기준을 관세청장이 정한다고 했으나, 실제 관세법상 화물관리인의 지정기준 등은 대통령령(시행령)으로 정하도록 되어 있어 옳지 않습니다.
+
+### ANSWER
+A"
+taxation,B,D,"### ANSWER
+D"
+taxation,A,B,"### ANSWER
+B"
+taxation,A,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+taxation,B,B,"### ANSWER
+B"
+taxation,B,C,"### ANSWER
+C"
+taxation,A,A,"### ANSWER
+A"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,A,A,"### ANSWER
+A"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,D,B,"### ANSWER
+B"
+public_safety,B,C,"### ANSWER
+C"
+public_safety,A,A,"### ANSWER
+A"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,C,"### ANSWER
+C"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,D,"### ANSWER
+D"
+civil_engineering,B,C,"### ANSWER
+C"
+civil_engineering,B,B,"베인시험 공식: Cu = T / (π·D²·H/2 + π·D³/6)
+
+D=7.5cm, H=15cm, T=250kg·cm
+
+분모 = π(D²H/2 + D³/6) = π(421.875+70.3125) = 1546.05 cm³
+
+Cu = 250/1546.05 = 0.1617 kg/cm² = 1.617 t/m²
+
+PI = 65-30 = 35
+μ = 1.7 - 0.54·log(35) = 1.7 - 0.834 = 0.866
+
+수정 비배수강도 = 0.866 × 1.617 ≈ 1.40 t/m²
+
+### ANSWER
+B"
+civil_engineering,B,A,"### ANSWER
+A"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,B,D,"### ANSWER
+D"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,C,D,"신뢰도계수는 이론적으로 0~1 사이의 값을 가지지만, 특수한 경우(예: 문항 간 부적 상관 등)에는 음(negative)의 값을 가질 수 있다는 것이 통계 및 측정이론에서 알려진 사실입니다. A는 체계적 오차보다는 무작위 오차(random error)와 관련되며, 체계적 오차는 타당도(validity)와 관련이 깊습니다. C는 신뢰도의 정의를 반대로 서술한 것으로, 실제로는 진실값의 분산에 대한 측정값의 분산의 비율이 아니라 측정값의 분산 중 진실값의 분산이 차지하는 비율입니다.
+
+### ANSWER
+D"
+social_welfare,B,B,"과학적 연구방법은 간결성(parsimony)을 추구하며, 불필요하게 많은 자료와 변수를 포함하는 것은 오히려 연구의 명확성과 효율성을 저해합니다. 따라서 ""가급적 많은 자료와 변수를 포함하는 것이 좋다""는 설명은 과학적 연구방법의 특징과 맞지 않습니다.
+
+### ANSWER
+B"
+social_welfare,D,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,A,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"평균 횡선거리 y=(8+16)/2=12km를 이용해 K=1+y²/(2R²) 공식에 대입하면 K=1+144/(2×6372.2²)=1.000001773이 됩니다.
+
+### ANSWER
+C"
+geomatics,C,B,"### ANSWER
+B"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,B,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,A,"YAW Damper의 목적은 더치롤 등 요잉 진동을 감쇠(Damping)시키고, 선회율을 설정하며, ILS Localizer 신호에 따른 미세 조종을 돕는 것입니다. ""YAW Damping을 억제한다""는 표현은 오히려 감쇠 기능을 억제한다는 의미로 실제 목적과 반대되므로 옳지 않습니다.
+
+### ANSWER
+A"
+aviation_engineering_and_maintenance,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,A,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,A,A,"### ANSWER
+A"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"400 rev/h × 0.5 L/rev = 200 L/h
+
+### ANSWER
+B"
+gas_technology_and_engineering,D,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,C,"### ANSWER
+C"
+health,B,B,"환자안전법 시행규칙에 따르면 의사 면허를 취득한 후 3년 이상 보건의료기관에서 근무한 사람이 환자안전 전담인력 자격기준에 해당합니다. 따라서 ""2년 이상""이라고 명시된 B가 옳지 않은 설명입니다.
+
+### ANSWER
+B"
+health,A,A,"### ANSWER
+A"
+health,C,C,"### ANSWER
+C"
+health,B,B,"### ANSWER
+B"
+health,D,D,"### ANSWER
+D"
+health,B,C,"### ANSWER
+C"
+health,A,A,"### ANSWER
+A"
+health,C,C,"### ANSWER
+C"
+social_welfare,B,A,"### ANSWER
+A"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,A,B,"### ANSWER
+B"
+social_welfare,B,D,"### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,C,C,"LNG (liquefied natural gas) boiling point at atmospheric pressure is approximately -162°C, closest to option C.
+
+### ANSWER
+C"
+gas_technology_and_engineering,D,B,"Acetylene dilution gases include nitrogen, methane, carbon monoxide, ethylene, and carbon dioxide - but ethylene itself is not typically used as a diluent gas in this context; it's not listed among standard acetylene diluents.
+
+### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,D,B,"### ANSWER
+B"
+geomatics,A,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,A,B,"TOEFL 점수가 실제 영어 실력이라는 이론적 구성개념을 제대로 측정하지 못한다는 주장이므로, 이는 검사가 측정하고자 하는 추상적 개념을 잘 반영하는지에 관한 구성타당성(construct validity) 문제에 해당한다.
+
+### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,C,"### ANSWER
+C"
+social_welfare,D,A,"### ANSWER
+A"
+social_welfare,C,C,"### ANSWER
+C"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,C,C,"### ANSWER
+C"
+civil_engineering,D,C,"### ANSWER
+C"
+civil_engineering,D,D,"### ANSWER
+D"
+civil_engineering,C,D,"### ANSWER
+D"
+civil_engineering,B,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,C,C,"### ANSWER
+C"
+aviation_engineering_and_maintenance,D,B,"### ANSWER
+B"
+aviation_engineering_and_maintenance,D,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"풍동 내 공기밀도 ρ = P/(RT) = 101300/(287×293) ≈ 1.205 kg/m³
+압력차 Δp = ρ_alcohol×g×h = 800×9.81×0.1 ≈ 784.8 Pa
+속도 V = √(2Δp/ρ_air) = √(2×784.8/1.205) ≈ 36.1 m/s
+
+### ANSWER
+D"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,A,C,"### ANSWER
+C"
+social_welfare,A,A,"### ANSWER
+A"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,A,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+taxation,D,D,"### ANSWER
+D"
+taxation,C,C,"### ANSWER
+C"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,B,"### ANSWER
+B"
+taxation,B,D,"### ANSWER
+D"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,B,"### ANSWER
+B"
+construction,A,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,D,A,"### ANSWER
+A"
+construction,B,B,"### ANSWER
+B"
+construction,C,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,C,B,"### ANSWER
+B"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,A,D,"### ANSWER
+D"
+public_safety,A,A,"### ANSWER
+A"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,,[EMPTY_RESPONSE]
+health,C,C,"### ANSWER
+C"
+health,A,A,"### ANSWER
+A"
+health,B,B,"### ANSWER
+B"
+health,C,B,"### ANSWER
+B"
+health,C,C,"### ANSWER
+C"
+health,B,B,"### ANSWER
+B"
+health,C,C,"### ANSWER
+C"
+health,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,B,A,"### ANSWER
+A"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,A,B,"### ANSWER
+B"
+construction,B,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,B,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,B,C,"덕트 내 풍속 측정에는 피토관이 가장 편리하고 널리 사용됩니다.
+
+### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,A,B,"### ANSWER
+B"
+energy_management,B,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+taxation,D,D,"### ANSWER
+D"
+taxation,A,A,"### ANSWER
+A"
+taxation,A,A,"### ANSWER
+A"
+taxation,B,B,"### ANSWER
+B"
+taxation,D,D,"### ANSWER
+D"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,C,"### ANSWER
+C"
+taxation,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,,[EMPTY_RESPONSE]
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,C,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,B,"### ANSWER
+B"
+public_safety,D,D,"Potassium chlorate is a strong oxidizer; mixing with combustible/reducing materials like charcoal can cause ignition or explosion.
+
+### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,C,B,"### ANSWER
+B"
+construction,C,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,C,B,"### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,B,B,"Standard deviation scales by absolute value of multiplier: |-3| × 3 = 9.
+
+### ANSWER
+B"
+social_welfare,D,D,"### ANSWER
+D"
+social_welfare,C,C,"### ANSWER
+C"
+social_welfare,C,C,"친숙도(사회적 거리감)를 측정하는 대표적 척도는 보가더스 사회적 거리척도이다.
+
+### ANSWER
+C"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,B,,[EMPTY_RESPONSE]
+social_welfare,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"경사거리 100m, 경사각 60°이므로 수평거리 = 100×cos60° = 50m입니다. 시준오차 5mm에 의한 각오차 = (5mm/50000mm) × 206265″ ≈ 21″.
+
+### ANSWER
+D"
+geomatics,A,A,"방위각법은 관측선이 진행방향에 따라 시계방향으로 각을 관측하는 방법이므로, 반시계방향이라는 설명은 틀렸다.
+
+### ANSWER
+A"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"Throttling process (교축과정) is characterized by constant enthalpy for an ideal gas, as it involves no work or heat transfer with enthalpy remaining unchanged before and after the process.
+
+### ANSWER
+C"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+health,D,D,"### ANSWER
+D"
+health,D,D,"### ANSWER
+D"
+health,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,D,C,"### ANSWER
+C"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,B,B,"### ANSWER
+B"
+public_safety,C,A,"### ANSWER
+A"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,B,A,"### ANSWER
+A"
+construction,D,D,"### ANSWER
+D"
+construction,D,C,"### ANSWER
+C"
+construction,C,C,"### ANSWER
+C"
+construction,D,D,"차량 1대의 사이클타임 = 상차5분+운반(2km/8km/h=15분)+하차5분+공차운반15분=40분
+1일 운반횟수 = 480분/40분=12회
+1대당 1일 운반량 = 12×5m3=60m3
+필요 대수 = 900/60=15대
+
+### ANSWER
+D"
+construction,B,C,"### ANSWER
+C"
+geomatics,A,A,"### ANSWER
+A"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,A,"### ANSWER
+A"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+public_safety,A,A,"### ANSWER
+A"
+public_safety,D,D,"### ANSWER
+D"
+public_safety,C,C,"### ANSWER
+C"
+public_safety,D,D,"### ANSWER
+D"
+criminal_law,A,A,"### ANSWER
+A"
+criminal_law,A,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,C,C,"글렌 스나이더의 이론에서 동맹국 A가 공동의 적에 대해 유화적 태도를 취하면, 오히려 동맹 상대국 B가 초래하는 전쟁에 연루될 위험은 감소합니다. 즉 C의 설명은 실제 이론과 반대로 서술되어 있어 옳지 않습니다.
+
+### ANSWER
+C"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+construction,B,A,"### ANSWER
+A"
+construction,D,B,"### ANSWER
+B"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,B,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,D,"### ANSWER
+D"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,D,,[EMPTY_RESPONSE]
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,D,"### ANSWER
+D"
+political_science_and_sociology,A,D,"### ANSWER
+D"
+political_science_and_sociology,D,C,"### ANSWER
+C"
+taxation,C,D,"### ANSWER
+D"
+taxation,B,B,"### ANSWER
+B"
+taxation,B,,[EMPTY_RESPONSE]
+taxation,D,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,B,"### ANSWER
+B"
+taxation,D,D,"### ANSWER
+D"
+taxation,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"직경 50mm 강재의 단면적 A = π/4 × 50² ≈ 1963.5mm². 응력 σ = P/A = 9000kg / 1963.5mm² ≈ 4.58kg/mm², 가장 근접한 값은 4kg/mm²입니다.
+
+### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,C,"### ANSWER
+C"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+social_welfare,B,B,"### ANSWER
+B"
+social_welfare,C,C,"### ANSWER
+C"
+real_estate,D,A,"### ANSWER
+A"
+real_estate,B,B,"중개사무소 명칭 위반 시 옥외광고물 철거 명령권자는 시장·군수·구청장이며, 시·도지사가 아니다. 따라서 B의 내용이 틀렸다.
+
+### ANSWER
+B"
+real_estate,A,,[EMPTY_RESPONSE]
+real_estate,D,D,"### ANSWER
+D"
+real_estate,C,B,"### ANSWER
+B"
+real_estate,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,C,C,"표준갈고리 기본정착길이 공식: ldh = 0.24·db·fy/√fck = 0.24×22.2×400/√21 ≈ 465~484㎜로 계산되어 근사값인 C가 적합합니다.
+
+### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,D,A,"### ANSWER
+A"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"C is 모접기 (edge chamfering/molding), which relates to surface finishing rather than joinery/joint connections like 주먹장, 연귀, and 장부.
+
+### ANSWER
+C"
+construction,D,B,"### ANSWER
+B"
+construction,B,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+construction,B,B,"유도륜(誘導輪)은 트랙을 지지하고 안내하는 역할을 하는 부품으로 동력전달계통이 아닌 주행장치(하부구동체)에 속합니다. 반면 변속기, 조향클러치, 기동륜은 모두 엔진의 동력을 전달하는 계통에 포함됩니다.
+
+### ANSWER
+B"
+construction,D,C,"### ANSWER
+C"
+real_estate,C,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,D,"### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,A,C,"### ANSWER
+C"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,D,D,"### ANSWER
+D"
+geomatics,B,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,B,C,"### ANSWER
+C"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"거버넌스 등장 배경은 일반적으로 정부실패, 재정위기, 사회적 복잡성 증대 등이 지적되는데, D는 '시장 실패'를 그 원인으로 제시하고 있어 옳지 않다. 거버넌스는 오히려 정부의 계층제적 통치 방식의 한계(정부실패)에 대한 대응으로 등장한 개념이다.
+
+### ANSWER
+D"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,C,"1:25000 지형도의 주곡선 간격은 10m입니다.
+
+### ANSWER
+C"
+geomatics,B,C,"### ANSWER
+C"
+geomatics,B,B,"### ANSWER
+B"
+geomatics,C,C,"### ANSWER
+C"
+geomatics,C,C,"### ANSWER
+C"
+management,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,A,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,D,C,"폴리트로픽 지수 n을 온도-압력 관계식으로 구하면 약 1.244가 되고, 일량 공식 W = mR(T1-T2)/(n-1)을 이용하면 약 -447kJ, 즉 압축에 소요된 일의 크기는 약 447kJ입니다.
+
+### ANSWER
+C"
+construction,C,C,"### ANSWER
+C"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,A,,[EMPTY_RESPONSE]
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,D,D,"### ANSWER
+D"
+criminal_law,A,,[EMPTY_RESPONSE]
+criminal_law,B,B,"### ANSWER
+B"
+criminal_law,A,A,"### ANSWER
+A"
+real_estate,D,D,"한국 공인중개사법령에 따르면, 다른 사람에게 자기의 성명을 사용하여 중개업무를 하게 한 경우는 자격정지 사유가 아니라 필요적 등록취소 사유에 해당합니다. 따라서 D가 틀린 설명입니다.
+
+### ANSWER
+D"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,D,D,"주택수요가 증가할 때, 공급이 탄력적일수록 가격 변화는 작아지고 비탄력적일수록 가격 변화가 커진다. 따라서 D는 틀린 설명이다.
+
+### ANSWER
+D"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,A,C,"### ANSWER
+C"
+real_estate,B,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,A,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,B,B,"### ANSWER
+B"
+management,D,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,C,,[EMPTY_RESPONSE]
+energy_management,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+taxation,B,B,"지방세법상 토지에 대한 재산세는 원칙적으로 종합합산과세대상이며, 별도합산과세대상 및 분리과세대상은 법에서 정한 예외적인 경우에 한합니다. 따라서 종합합산·분리과세 대상을 제외한 나머지 토지가 원칙적으로 별도합산과세대상이라는 설명은 옳지 않습니다.
+
+### ANSWER
+B"
+taxation,A,A,"### ANSWER
+A"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,D,"### ANSWER
+D"
+taxation,C,B,"### ANSWER
+B"
+taxation,A,C,"### ANSWER
+C"
+taxation,C,,"채무의 출자전환 시 시가를 초과하여 발행된 금액은 채무면제이익으로 원칙적으로 익금에 산입되는 것이 원칙이며, 익금불산입 항목이 아니다. 따"
+taxation,D,D,"### ANSWER
+D"
+criminal_law,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,A,"폭굉은 화염전파속도가 음속보다 빠른 폭발적 연소로, 연소파를 수반하며 그 과정에서 난류확산의 영향을 받아 진행됩니다. 반면 A, B는 폭굉의 특성(좁은 공"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+management,B,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,B,D,"### ANSWER
+D"
+management,D,D,"### ANSWER
+D"
+management,D,D,"### ANSWER
+D"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"A는 나폴레옹 전쟁을 종결시킨 조약이 위트레흐트 조약이라고 했는데, 실제로는 파리 조약(1814/1815)이 나폴레옹 전쟁을 종결시켰으며 위트레흐트 조약은 1713년 스페인 왕위계승전쟁을 종결시킨 조약이므로 시대적으로 맞지 않아 옳지 않은 설명이다.
+
+### ANSWER
+A"
+construction,D,D,"### ANSWER
+D"
+construction,D,B,"FMEA 평가요소는 일반적으로 고장의 영향도(C1), 고장 검출도, 고장 발생 빈도(C3), 고장 심각도 등을 포함하며, ""영향을 미치는 시스템의 범위""는 표준 평가요소에 해당하지 않는다.
+
+### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"1 cSt = 10^-6 m²/s
+
+### ANSWER
+D"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+management,A,A,"ISO 9000이 품질경영시스템의 표준 명칭이며, ISO 10000은 이에 해당하지 않는다. 나머지 선택지들은 정확한 국제표준 명칭이다.
+
+### ANSWER
+A"
+management,A,D,"### ANSWER
+D"
+management,D,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+management,C,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,A,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"지방자치법상 주민조례청구 제외사항에는 사용료·수수료·부담금의 부과·징수 또는 감면에 관한 사항이 포함되어 청구할 수 없습니다. 따라서 A는 옳지 않은 설명입니다.
+
+### ANSWER
+A"
+political_science_and_sociology,C,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+management,A,D,"### ANSWER
+D"
+management,C,C,"### ANSWER
+C"
+management,B,B,"### ANSWER
+B"
+management,A,A,"ERP의 특징 중 데이터베이스는 일반적으로 통합형(관계형) 데이터베이스를 채택하는 것이 특징이며, '기능형 데이터베이스'는 ERP의 특징과 맞지 않는 표현입니다.
+
+### ANSWER
+A"
+management,C,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+management,D,D,"### ANSWER
+D"
+management,B,D,"### ANSWER
+D"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,C,C,"ΔS = nR ln(V2/V1) = 1×1.987×ln2 ≈ 1.38 cal/K
+
+### ANSWER
+C"
+energy_management,A,B,"### ANSWER
+B"
+energy_management,A,,[EMPTY_RESPONSE]
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,A,A,"### ANSWER
+A"
+management,D,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,C,A,"### ANSWER
+A"
+management,D,D,"### ANSWER
+D"
+management,D,B,"### ANSWER
+B"
+management,D,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,A,D,"### ANSWER
+D"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,D,D,"### ANSWER
+D"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,D,C,"### ANSWER
+C"
+real_estate,B,,[EMPTY_RESPONSE]
+real_estate,C,D,"### ANSWER
+D"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,B,B,"### ANSWER
+B"
+energy_management,D,C,"### ANSWER
+C"
+energy_management,A,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,A,A,"### ANSWER
+A"
+taxation,B,,[EMPTY_RESPONSE]
+taxation,D,D,"### ANSWER
+D"
+taxation,A,C,"### ANSWER
+C"
+taxation,A,,[EMPTY_RESPONSE]
+taxation,C,C,"### ANSWER
+C"
+taxation,A,,[EMPTY_RESPONSE]
+taxation,A,A,"### ANSWER
+A"
+taxation,B,B,"### ANSWER
+B"
+management,D,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,B,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+management,D,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,B,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,A,"### ANSWER
+A"
+gas_technology_and_engineering,B,B,"가스안전법상 액화가스 저장탱크의 저장능력 산출식은 W=0.9dV이며, 선택지 중 이에 해당하는 형태(부피×비중 계수 형태)는 B입니다.
+
+### ANSWER
+B"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,B,D,"### ANSWER
+D"
+construction,B,,[EMPTY_RESPONSE]
+construction,B,B,"### ANSWER
+B"
+construction,B,B,"### ANSWER
+B"
+construction,D,C,"### ANSWER
+C"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,D,A,"### ANSWER
+A"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,C,"### ANSWER
+C"
+political_science_and_sociology,A,A,"### ANSWER
+A"
+political_science_and_sociology,A,C,"### ANSWER
+C"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,B,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,A,C,"### ANSWER
+C"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,D,A,"### ANSWER
+A"
+gas_technology_and_engineering,D,C,"### ANSWER
+C"
+gas_technology_and_engineering,A,C,"### ANSWER
+C"
+gas_technology_and_engineering,C,C,"단열가역과정에서 T2/T1=(P2/P1)^((γ-1)/γ), γ=5/3이므로 (γ-1)/γ=0.4. T1=313K, 계산하면 T2≈75K.
+
+### ANSWER
+C"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,B,"### ANSWER
+B"
+construction,B,B,"### ANSWER
+B"
+construction,C,A,"### ANSWER
+A"
+construction,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,B,B,"### ANSWER
+B"
+construction,A,C,"### ANSWER
+C"
+construction,C,D,"### ANSWER
+D"
+construction,B,B,"### ANSWER
+B"
+gas_technology_and_engineering,B,C,"### ANSWER
+C"
+gas_technology_and_engineering,B,B,"B는 단열마찰흐름이 마찰로 인해 비가역적이므로 틀린 설명이다.
+
+### ANSWER
+B"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,D,D,"### ANSWER
+D"
+gas_technology_and_engineering,C,C,"### ANSWER
+C"
+gas_technology_and_engineering,A,A,"### ANSWER
+A"
+gas_technology_and_engineering,A,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+management,B,C,"사무실 지역 상가는 업무시설 이용자들의 소비 패턴이 다양하고 특정 업종군에 국한되지 않아 입점 점포들 간의 업종 연관성이 낮은 편입니다. 반면 대학가나 학원가는 특정 수요층(학생)을 중심으로 유사 업종이 몰려 업종친화력이 높게 나타납니다.
+
+### ANSWER
+C"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,D,B,"### ANSWER
+B"
+management,C,C,"### ANSWER
+C"
+real_estate,D,C,"### ANSWER
+C"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,D,,[EMPTY_RESPONSE]
+real_estate,A,A,"### ANSWER
+A"
+real_estate,D,D,"법인이 파산이나 해산으로 등록이 취소된 경우는 결격사유의 예외로 인정되어, 그 대표자였던 자에게는 결격사유가 적용되지 않습니다. 따라서 甲은 중개사무소 개설등록이 가능합니다.
+
+### ANSWER
+D"
+energy_management,B,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,D,"### ANSWER
+D"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,A,,[EMPTY_RESPONSE]
+energy_management,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,C,C,"### ANSWER
+C"
+construction,B,B,"### ANSWER
+B"
+construction,D,D,"### ANSWER
+D"
+construction,C,A,"### ANSWER
+A"
+construction,D,D,"### ANSWER
+D"
+construction,D,D,"### ANSWER
+D"
+economics,D,C,"### ANSWER
+C"
+management,D,A,"### ANSWER
+A"
+management,C,C,"### ANSWER
+C"
+management,D,D,"### ANSWER
+D"
+management,D,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+management,B,D,"### ANSWER
+D"
+management,D,C,"### ANSWER
+C"
+management,B,B,"### ANSWER
+B"
+political_science_and_sociology,C,C,"헌법 제130조에 따르면, 국회는 헌법 개정안이 공고된 날로부터 60일 이내에 의결하여야 하며, 그 의결은 재적의원 3분의 2 이상의 찬성을 필요로 합니다. 이는 헌법 조문과 정확히 일치하는 내용입니다. 다른 선택지들은 국회의장 임기(2년), 교섭단체 구성 요건의 예외, 회기불계속 원칙의 오류를 포함하고 있어 옳지 않습니다.
+
+### ANSWER
+C"
+taxation,C,B,"### ANSWER
+B"
+taxation,C,,"법인세법상 이월결손금은 각 사업연도 개시일 전 ""15년 이내""에 발생한"
+taxation,A,A,"### ANSWER
+A"
+taxation,D,B,"### ANSWER
+B"
+taxation,D,C,"### ANSWER
+C"
+taxation,C,D,"### ANSWER
+D"
+taxation,A,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,B,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"Wire cut EDM uses a wire electrode (usually brass or copper), not graphite electrodes. Graphite electrodes are typically used in die-sinking EDM, not wire cut EDM.
+
+### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,A,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"High Cr강(고크롬강)에서 주의해야 할 대표적인 취성은 475℃ 부근에서 발생하는 475℃ 취성입니다.
+
+### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"중립축에서 전단응력은 최대이고, 상하 표면에서는 0입니다. B는 이를 반대로 설명하고 있어 틀린 설명입니다.
+
+### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+management,B,B,"### ANSWER
+B"
+management,D,D,"### ANSWER
+D"
+management,C,C,"### ANSWER
+C"
+management,B,B,"### ANSWER
+B"
+management,D,C,"### ANSWER
+C"
+management,B,B,"### ANSWER
+B"
+management,B,B,"### ANSWER
+B"
+management,A,A,"### ANSWER
+A"
+taxation,C,C,"### ANSWER
+C"
+taxation,B,B,"### ANSWER
+B"
+taxation,D,D,"### ANSWER
+D"
+taxation,B,B,"### ANSWER
+B"
+taxation,A,D,"### ANSWER
+D"
+taxation,B,D,"### ANSWER
+D"
+taxation,B,D,"### ANSWER
+D"
+taxation,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,D,"Thin solid lines in KS drafting are used for indicating position, showing planes (using diagonal lines), and other special purposes, but extension lines of outlines and hidden lines are typically not among the standard special-purpose thin solid line applications listed in KS.
+
+### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"GC250 is KS symbol for gray cast iron with tensile strength 250 N/mm².
+
+### ANSWER
+C"
+machine_design_and_manufacturing,B,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,A,"### ANSWER
+A"
+energy_management,B,A,"### ANSWER
+A"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"Storage-type displays store the entire image on the phosphor without refresh, avoiding flicker and providing good resolution, but selective erasing is not possible, making them unsuitable for animation.
+
+### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+economics,B,B,"### ANSWER
+B"
+economics,D,D,"### ANSWER
+D"
+economics,B,B,"### ANSWER
+B"
+economics,C,C,"### ANSWER
+C"
+economics,D,D,"### ANSWER
+D"
+economics,D,D,"### ANSWER
+D"
+economics,A,A,"### ANSWER
+A"
+economics,C,C,"### ANSWER
+C"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,D,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,A,B,"### ANSWER
+B"
+energy_management,B,D,"### ANSWER
+D"
+energy_management,B,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,A,C,"### ANSWER
+C"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,B,D,"### ANSWER
+D"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,C,,[EMPTY_RESPONSE]
+real_estate,B,B,"### ANSWER
+B"
+taxation,C,C,"### ANSWER
+C"
+taxation,B,B,"### ANSWER
+B"
+taxation,B,A,"### ANSWER
+A"
+taxation,A,A,"### ANSWER
+A"
+taxation,B,B,"### ANSWER
+B"
+taxation,D,D,"### ANSWER
+D"
+taxation,D,D,"### ANSWER
+D"
+taxation,D,D,"### ANSWER
+D"
+management,D,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,A,A,"### ANSWER
+A"
+management,A,C,"### ANSWER
+C"
+management,B,D,"### ANSWER
+D"
+management,C,C,"### ANSWER
+C"
+management,A,A,"### ANSWER
+A"
+management,C,C,"### ANSWER
+C"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,D,D,"### ANSWER
+D"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,C,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,C,A,"### ANSWER
+A"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+management,C,C,"### ANSWER
+C"
+management,B,B,"### ANSWER
+B"
+management,B,A,"### ANSWER
+A"
+management,B,B,"### ANSWER
+B"
+management,D,D,"### ANSWER
+D"
+management,A,A,"### ANSWER
+A"
+management,D,D,"### ANSWER
+D"
+management,B,A,"### ANSWER
+A"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,B,"### ANSWER
+B"
+real_estate,D,D,"부동산시장이 불완전하더라도 초과이익이 정보비용과 같아진다면 할당효율적 시장이 될 수 있습니다. 불완전성과 할당효율성은 별개의 개념이므로, 불완전한 시장이 할당효율적 시장이 될 수 없다는 설명은 틀렸습니다.
+
+### ANSWER
+D"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,B,B,"### ANSWER
+B"
+energy_management,A,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,D,C,"### ANSWER
+C"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+economics,A,A,"### ANSWER
+A"
+economics,C,C,"상법 제651조에 따르면 보험자가 고지의무 위반 사실을 안 날로부터 1월 내에만 계약을 해지할 수 있으므로, 1월이 경과하면 해지권이 소멸합니다. A는 타인을 위한 보험계약에서도 피보험자가 고지의무를 부담하므로 틀리고, B는 ""추정한다""가 맞는 표현이며, D는 보험자가 계약 당시 이미 알았던 경우에는 해지할 수 없으므로 틀립니다.
+
+### ANSWER
+C"
+economics,B,B,"### ANSWER
+B"
+economics,C,A,"### ANSWER
+A"
+economics,B,B,"### ANSWER
+B"
+economics,C,C,"10개×200원=2,000원, 정상적 감모손실은 매출원가에 포함된다.
+
+### ANSWER
+C"
+economics,D,D,"### ANSWER
+D"
+economics,A,A,"### ANSWER
+A"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,B,A,"### ANSWER
+A"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,C,B,"### ANSWER
+B"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,B,A,"### ANSWER
+A"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,B,B,"### ANSWER
+B"
+energy_management,D,D,"평행류 열교환기에서 LMTD = (ΔT1-ΔT2)/ln(ΔT1/ΔT2) = (70-10)/ln(70/10) = 60/1.94 = 30.93℃
+
+면적 A = Q/(U×LMTD) = 7200/(25×30.93) ≈ 9.32 m²
+
+### ANSWER
+D"
+energy_management,C,C,"### ANSWER
+C"
+law,A,A,"### ANSWER
+A"
+law,B,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,D,"### ANSWER
+D"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,A,"### ANSWER
+A"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,A,A,"나선각 λ = arctan(p/πd) = arctan(3/(π×22.051)) ≈ 2.48°
+마찰각 ρ = arctan(μ/cos30°) = arctan(0.105/0.866) ≈ 6.91°
+η = tanλ / tan(λ+ρ) = tan(2.48°)/tan(9.39°) ≈ 0.0433/0.1654 ≈ 0.262 → 약 25~26%
+
+### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+taxation,A,A,"관세법상 규정을 보면, A는 수입신고 수리물품의 보세구역 반출기한(15일)과 예외적 연장승인 규정을 정확히 반영하고 있다. B는 하역시 '허가'를 받아야 하는데 '신고+승인'으로 잘못 기술되어 있고, C는 '세관장'이 아니라 '관세청장'이 작업 물품 종류를 정한다는 점에서 오류가 있으며, D는 견본품 반출시 '확인'이 아니라 '허가'를 받아야 하므로 옳지 않다.
+
+### ANSWER
+A"
+taxation,A,B,"### ANSWER
+B"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,C,"### ANSWER
+C"
+taxation,C,C,"### ANSWER
+C"
+taxation,B,B,"### ANSWER
+B"
+taxation,B,B,"### ANSWER
+B"
+management,A,A,"### ANSWER
+A"
+management,D,D,"### ANSWER
+D"
+management,C,C,"### ANSWER
+C"
+math,A,A,"항등식이 되도록 우변을 전개하면: x²-x+b(x²-3x+2)+cx²-2cx = (1+b+c)x²+(-1-3b-2c)x+2b
+
+계수 비교:
+- x² 계수: 1+b+c=2 → b+c=1
+- 상수항: 2b=4 → b=2, 따라서 c=-1
+- x 계수: -1-3b-2c=a → -1-6+2=a → a=-5
+
+따라서 abc = (-5)(2)(-1) = 10
+
+### ANSWER
+A"
+math,A,A,"y = cos²(θ+π/2) - 3cos²θ - 4sin(θ+π)를 정리하면:
+cos(θ+π/2) = -sinθ, sin(θ+π) = -sinθ이므로
+
+y = sin²θ - 3cos²θ + 4sinθ = sin²θ - 3(1-sin²θ) + 4sinθ = 4sin²θ + 4sinθ - 3
+
+t = sinθ (t∈[-1,1])로 치환하면 y = 4t² + 4t - 3
+
+이 함수는 t = -1/2에서 최솟값을 가지며 (구간 내 포함): y = 4(1/4) - 2 - 3 = -4
+t = 1에서 최댓값: y = 4 + 4 - 3 = 5
+
+따라서 M = 5, m = -4, M+m = 1
+
+### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,C,C,"좌표를 이용해 기울기를 구합니다. A(0,3)와 C(3a,6) 사이의 기울기는 3/(3a)=1/a이고, A와 B(a-4,0) 사이의 기울기는 -3/(a-4)입니다. 두 기울기가 같아야 하므로 1/a = -3/(a-4)를 풀면 a=1이 되고, 기울기는 1/a=1입니다.
+
+### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,A,A,"APC(Automatic Pallet Changer)는 공작물을 자동으로 교환하는 장치이며, ATC는 공구를 자동으로 교환하는 장치이다.
+
+### ANSWER
+A"
+machine_design_and_manufacturing,B,B,"T=9.55×P/N=9.55×44000/175≈2402 N·m, 허용전단응력=340×0.7/10=23.8MPa. d³=16T/(πτ)=16×2,402,000/(π×23.8)≈514,000 mm³ → d≈80mm=8cm.
+
+### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"1라디안은 360°를 2π로 나눈 값입니다(즉, 180°/π와 동일).
+
+### ANSWER
+C"
+machine_design_and_manufacturing,A,D,"### ANSWER
+D"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,A,A,"R(x)=ax+b는 4x²-1로 나눈 나머지이므로 1차식입니다. x=1/2일 때 (2x+1)^6=2^6=64=a/2+b, x=-1/2일 때 0=-a/2+b. 이를 풀면 b=32, a=64이므로 R(x)=64x+32. R(-1)=-64+32=-32.
+
+### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,D,D,"### ANSWER
+D"
+math,D,D,"### ANSWER
+D"
+real_estate,D,A,"### ANSWER
+A"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,B,A,"### ANSWER
+A"
+real_estate,B,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+real_estate,D,B,"### ANSWER
+B"
+real_estate,C,D,"### ANSWER
+D"
+law,A,A,"### ANSWER
+A"
+law,A,B,"### ANSWER
+B"
+law,A,A,"### ANSWER
+A"
+law,B,A,"### ANSWER
+A"
+law,B,B,"### ANSWER
+B"
+law,B,C,"### ANSWER
+C"
+law,B,C,"### ANSWER
+C"
+law,B,C,"### ANSWER
+C"
+taxation,D,D,"### ANSWER
+D"
+taxation,B,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,D,"### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,C,C,"A∩B={2,4}, A∪B={1,2,3,4,5,6,8}(7개 원소). 조건에서 {2,4}⊆X⊆A∪B이므로 나머지 5개 원소는 자유롭게 포함 여부 결정 가능. 따라서 2^5=32.
+
+### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+law,C,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+law,C,C,"### ANSWER
+C"
+law,B,B,"### ANSWER
+B"
+law,C,B,"### ANSWER
+B"
+law,A,D,"### ANSWER
+D"
+law,D,D,"### ANSWER
+D"
+economics,A,A,"### ANSWER
+A"
+economics,A,,[EMPTY_RESPONSE]
+economics,A,A,"### ANSWER
+A"
+economics,C,C,"### ANSWER
+C"
+economics,D,D,"### ANSWER
+D"
+economics,A,A,"### ANSWER
+A"
+economics,B,B,"### ANSWER
+B"
+economics,A,A,"### ANSWER
+A"
+environmental_science,D,D,"불규칙한 수로에서는 표면최대유속에 평균유속계수(약 0.75~0.85)를 곱하여 평균유속을 구합니다. 여기서는 계수 0.75를 적용하면 평균유속 = 2.4 × 0.75 = 1.8m/sec가 되고, 유량 Q = 1.8 × 3.2 ≈ 5.8m³/sec가 됩니다.
+
+### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,B,"### ANSWER
+B"
+environmental_science,B,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,D,"### ANSWER
+D"
+environmental_science,D,D,"메탄올(CH3OH) 연소반응: CH3OH + 1.5O2 → CO2 + 2H2O
+
+4kg ÷ 32g/mol = 125mol
+필요 O2 = 125 × 1.5 = 187.5mol
+O2 부피 = 187.5 × 22.4L = 4200L = 4.2 Sm³
+이론공기량 = 4.2 ÷ 0.21 ≈ 20 Sm³
+
+### ANSWER
+D"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,A,"### ANSWER
+A"
+math,D,D,"### ANSWER
+D"
+math,C,C,"거리 함수 d(t) = x2 - x1 = -2t³ + 9t² + 24t를 구하고, d'(t) = -6t² + 18t + 24 = -6(t-4)(t+1)을 통해 임계점 t=4를 찾습니다. d(0)=0, d(4)=112, d(5)=95이므로 [0,5] 구간에서 최댓값은 t=4일 때 112입니다.
+
+### ANSWER
+C"
+math,D,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+law,C,B,"### ANSWER
+B"
+law,A,A,"장애미수는 자의에 의하지 않고 외부적 장애(경비원 소리)로 범행을 중지한 경우에 해당한다. 중지미수는 자의로 중지한 경우이므로 해당하지 않으며, 불능미수나 불능범은 결과발생이 불가능한 경우에 적용되므로 본 사안과는 무관하다.
+
+### ANSWER
+A"
+law,C,C,"### ANSWER
+C"
+law,D,B,"### ANSWER
+B"
+law,C,A,"A는 형사조사, 사직 표명, 정신질환 등 무기지급 제외 대상에 해당하지 않으므로 무기를 지급할 수 있습니다.
+
+### ANSWER
+A"
+law,D,D,"### ANSWER
+D"
+law,B,D,"### ANSWER
+D"
+law,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,D,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+economics,D,D,"D is correct as the answer - in Korean insurance law, unlike general civil law third-party beneficiary contracts, the third party in insurance-for-another contracts (타인을 위한 보험) automatically receives the benefit without needing to express an intent to accept (수익의 의사표시). This is a special exception under Insurance Act Article 639. Therefore D's statement is incorrect, making it the correct answer to this question.
+
+### ANSWER
+D"
+economics,A,A,"### ANSWER
+A"
+economics,B,B,"### ANSWER
+B"
+economics,A,A,"### ANSWER
+A"
+economics,A,A,"### ANSWER
+A"
+economics,A,A,"### ANSWER
+A"
+economics,A,A,"### ANSWER
+A"
+economics,B,B,"### ANSWER
+B"
+math,D,B,"### ANSWER
+B"
+math,A,A,"### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,D,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+law,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,B,D,"### ANSWER
+D"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,A,B,"### ANSWER
+B"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,A,C,"### ANSWER
+C"
+real_estate,D,D,"### ANSWER
+D"
+real_estate,D,,[EMPTY_RESPONSE]
+real_estate,C,C,"### ANSWER
+C"
+real_estate,C,C,"### ANSWER
+C"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,B,"Using the Gaussian plume equation with ground reflection:
+C = Q/(π·u·σy·σz) · exp(-H²/(2σz²))
+
+Q=160×10⁶ µg/s, u=6 m/s, σy=36 m, σz=18.5 m, H=60 m
+
+Denominator: π×6×36×18.5 ≈ 12556
+exp(-60²/(2×18.5²)) = exp(-5.258) ≈ 0.00521
+
+C ≈ (160×10⁶/12556) × 0.00521 ≈ 66 µg/m³
+
+### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,B,"### ANSWER
+B"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"Bluing is a heat treatment process applied to cold-worked steel at 200-360°C to improve elastic limit, commonly used for springs.
+
+### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,B,C,"### ANSWER
+C"
+machine_design_and_manufacturing,D,D,"### ANSWER
+D"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,D,B,"### ANSWER
+B"
+machine_design_and_manufacturing,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,B,B,"### ANSWER
+B"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,D,D,"D는 나지의 정의가 잘못되었다. 나지는 건축물이 없는 토지로서 지상권 등 사법상의 제한이 없는 토지를 의미하며, 건부지 중 건폐율·용적률 제한으로 남겨둔 토지는 '공지'에 해당한다.
+
+### ANSWER
+D"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,C,C,"### ANSWER
+C"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,B,B,"### ANSWER
+B"
+real_estate,D,D,"### ANSWER
+D"
+math,A,C,"### ANSWER
+C"
+math,A,B,"log3(10) - log3(5) = log3(2)
+
+### ANSWER
+B"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,B,D,"### ANSWER
+D"
+math,B,B,"### ANSWER
+B"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+machine_design_and_manufacturing,A,A,"### ANSWER
+A"
+environmental_science,D,D,"MHT는 Man-Hour per Ton을 의미하며, 이는 쓰레기 1톤을 수거하기 위해 소요되는 인부-시간을 나타내는 지표입니다.
+
+### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,B,B,"건조 고형분 비중 1.54, 고형분 함량 40%, 수분 60%(비중 1.0)를 이용해 슬러지 케익 비중을 계산합니다.
+
+1/SG = 0.4/1.54 + 0.6/1.0 = 0.2597 + 0.6 = 0.8597
+SG = 1/0.8597 ≈ 1.163
+
+### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,C,C,"### ANSWER
+C"
+economics,B,B,"### ANSWER
+B"
+economics,D,D,"### ANSWER
+D"
+economics,B,B,"### ANSWER
+B"
+economics,A,A,"### ANSWER
+A"
+economics,D,D,"### ANSWER
+D"
+economics,B,B,"상법 제644조에 따르면 보험사고가 이미 발생했거나 발생할 수 없는 경우, 보험자(A), 보험계약자(B), 보험대상자(C) 모두가 이를 알지 못한 때에만 예외적으로 계약이 유효합니다. 따라서 A와 B가 이미 알고 있었다면 C가 몰랐더라도 계약은 무효가 되어야 하므로, B의 설명은 옳지 않습니다.
+
+### ANSWER
+B"
+economics,D,D,"### ANSWER
+D"
+economics,C,C,"Matchmaking purchase costs: 매입할인, 매입환출, 매입에누리 are deductions from cost, while 매입관세 (import duties) is added to cost.
+
+### ANSWER
+C"
+economics,D,D,"D
+
+### ANSWER
+D"
+math,A,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,C,C,"f(x-1)이 x+1로 나누어지므로 f(-2)=0: 4+2+a=0, a=-6.
+f(x+b)가 x+1로 나누어지므로 f(-1+b)=0: (b-1)²-(b-1)-6=0 → b²-3b-4=0 → b=4 또는 b=-1.
+ab가 음수가 되려면 b=4, 이때 ab=-6×4=-24.
+
+### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,D,D,"R(x)=ax+b with roots at x=3,-1: R(3)=130, R(-1)=10, giving a=30, b=40. So R(1)=70, and R(3)-2R(1)=130-140=-10.
+
+### ANSWER
+D"
+math,A,A,"S4-S2=a3+a4=a2² 조건을 이용하면 (1/3)r²(1+r)=(1/9)r²에서 r=-2/3을 얻습니다. 이를 통해 S4=(1/3)(1-r⁴)/(1-r)=13/81을 계산하면 p=81, q=13이 됩니다.
+
+### ANSWER
+A"
+environmental_science,B,A,"### ANSWER
+A"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,B,D,"### ANSWER
+D"
+environmental_science,B,B,"### ANSWER
+B"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,D,D,"### ANSWER
+D"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,C,C,"### ANSWER
+C"
+environmental_science,D,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,D,D,"### ANSWER
+D"
+math,D,D,"### ANSWER
+D"
+math,D,D,"### ANSWER
+D"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,B,B,"### ANSWER
+B"
+math,C,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,B,B,"Derangements of 4 items: D(4)=9, total permutations=24, probability=9/24=3/8.
+
+### ANSWER
+B"
+math,C,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,C,C,"Setting imaginary part to zero: 3b-2a=0, so b=2a/3. With a+b=3, a=9/5, b=6/5. Then ab=54/25, so 25ab=54.
+
+### ANSWER
+C"
+real_estate,B,,[EMPTY_RESPONSE]
+real_estate,D,D,"### ANSWER
+D"
+real_estate,A,A,"### ANSWER
+A"
+marketing,D,D,"BCG 매트릭스는 수직축에 시장성장률, 수평축에 상대적 시장점유율을 나타낸다.
+
+### ANSWER
+D"
+marketing,C,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,B,C,"### ANSWER
+C"
+marketing,B,B,"### ANSWER
+B"
+marketing,A,A,"### ANSWER
+A"
+marketing,B,B,"### ANSWER
+B"
+marketing,B,B,"### ANSWER
+B"
+marketing,D,D,"### ANSWER
+D"
+marketing,A,A,"### ANSWER
+A"
+marketing,C,C,"### ANSWER
+C"
+marketing,A,A,"### ANSWER
+A"
+marketing,C,D,"### ANSWER
+D"
+marketing,D,D,"D
+
+### ANSWER
+D"
+marketing,C,A,"### ANSWER
+A"
+marketing,D,B,"### ANSWER
+B"
+marketing,C,C,"### ANSWER
+C"
+marketing,B,B,"### ANSWER
+B"
+marketing,A,A,"### ANSWER
+A"
+marketing,B,B,"### ANSWER
+B"
+marketing,C,C,"### ANSWER
+C"
+math,D,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,C,C,"g(f(x))나 f(g(x))의 합성함수 문제에서, f(g(x)) ≥ 0이 모든 실수 x에서 성립하려면 g(x)의 치역이 f(u)≥0인 구간(u≤-1 또는 u≥3)에 포함되어야 합니다. g(x)=x²-ax+7의 최솟값은 7-a²/4이며, 치역이 [7-a²/4, ∞)이므로 최솟값이 3 이상이어야 합니다. 7-a²/4≥3을 풀면 a²≤16, 즉 -4≤a≤4가 됩니다.
+
+### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,D,D,"### ANSWER
+D"
+math,D,D,"### ANSWER
+D"
+marketing,B,B,"### ANSWER
+B"
+math,A,A,"주어진 두 직선의 교점을 구하면 x = (2m+4)/(m+5), y = 5(1-m)/(m+5)입니다. 이 교점이 제1사분면에 있으려면 x>0, y>0을 만족해야 합니다.
+
+x>0 조건: (m+2)/(m+5)>0 → m>-2 또는 m<-5
+y>0 조건: (1-m)/(m+5)>0 → -5<m<1
+
+두 조건을 동시에 만족하는 범위는 -2<m<1입니다.
+
+### ANSWER
+A"
+math,B,B,"### ANSWER
+B"
+math,D,D,"### ANSWER
+D"
+math,A,A,"f(f(x))=1 means |f(x)-2|=1, so f(x)=3 or f(x)=1.
+
+For f(x)=|x-2|=3: x=5 or x=-1
+For f(x)=|x-2|=1: x=3 or x=1
+
+Sum = 5+(-1)+3+1 = 8
+
+### ANSWER
+A"
+math,A,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,B,B,"### ANSWER
+B"
+math,D,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,D,D,"### ANSWER
+D"
+math,A,A,"### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,A,A,"### ANSWER
+A"
+math,C,C,"### ANSWER
+C"
+math,A,A,"### ANSWER
+A"
+math,B,B,"### ANSWER
+B"
+math,C,C,"### ANSWER
+C"
+math,D,D,"### ANSWER
+D"
+math,C,C,"### ANSWER
+C"
+math,D,D,"### ANSWER
+D"
+accounting,B,B,"### ANSWER
+B"
+accounting,A,A,"### ANSWER
+A"
+accounting,A,A,"### ANSWER
+A"
+accounting,B,B,"### ANSWER
+B"
+accounting,B,B,"### ANSWER
+B"
+accounting,D,D,"### ANSWER
+D"
+accounting,A,A,"### ANSWER
+A"
+accounting,A,A,"### ANSWER
+A"
+accounting,A,C,"### ANSWER
+C"
+accounting,B,B,"### ANSWER
+B"
+accounting,A,A,"Deposit made July 1, 20×1, so by year-end 6 months of interest accrued: 10,000×10%×6/12=500. Failure to record this means both assets (interest receivable) and net income are understated by ₦500.
+
+### ANSWER
+A"
+accounting,D,D,"### ANSWER
+D"
+accounting,A,A,"### ANSWER
+A"
+accounting,B,B,"### ANSWER
+B"
+accounting,D,D,"D
+
+### ANSWER
+D"
+accounting,B,B,"### ANSWER
+B"
+accounting,D,D,"### ANSWER
+D"
+accounting,C,C,"### ANSWER
+C"
+accounting,B,A,"### ANSWER
+A"
+accounting,A,A,"### ANSWER
+A"
+accounting,D,D,"### ANSWER
+D"
+accounting,D,D,"### ANSWER
+D"
+accounting,D,D,"### ANSWER
+D"
+accounting,C,C,"### ANSWER
+C"
+accounting,A,A,"### ANSWER
+A"
+accounting,C,C,"### ANSWER
+C"

@@ -1,0 +1,3113 @@
+category,answer,pred,response
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+General Knowledge,B,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Loan Words,E,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,E,E,"인가하다는 전압 등을 가할 때 쓰이는 한자어로, 순화어로는 '걸다'가 사용됩니다. 예: ""전압을 인가하다"" → ""전압을 걸다"".
+
+### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+General Knowledge,C,E,"### ANSWER
+E"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,A,A,"(가)는 이어도로, 마라도 남서쪽에 위치한 수중 암초입니다. 이어도는 독도보다 남쪽(저위도)에 위치하며, 수중 암초이므로 영해 기준점이 될 수 없고 한·일 중간 수역과는 무관한 위치입니다.
+
+### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,D,A,"### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,E,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"딸의 꿈이 농구 선수라는 문장 다음에 ""그래서 항상 농구 연습을 합니다""가 이어지는 것이 논리적으로 자연스럽습니다. 따라서 이 문장은 (다) 위치에 들어가야 합니다.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"원문에 ""동아리방에 오시면 과자, 음료수를 드려요""라는 내용이 있어, 동아리방에 과자와 음료수가 준비되어 있음을 알 수 있습니다. A는 지하 1층이므로 틀리고, D는 악기 연주를 못해도 괜찮다고 했으므로 틀립니다.
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,C,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"D
+
+### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,E,E,"### ANSWER
+E"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,B,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,C,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,C,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,D,"### ANSWER
+D"
+General Knowledge,E,D,"### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,B,"### ANSWER
+B"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,D,"### ANSWER
+D"
+Loan Words,A,B,"### ANSWER
+B"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+General Knowledge,C,A,"### ANSWER
+A"
+General Knowledge,C,B,"### ANSWER
+B"
+General Knowledge,C,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,B,"### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+General Knowledge,A,E,"### ANSWER
+E"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge,C,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,B,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Loan Words,A,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,B,"### ANSWER
+B"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,A,"### ANSWER
+A"
+General Knowledge,C,E,"### ANSWER
+E"
+General Knowledge,B,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,E,"### ANSWER
+E"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"지나라시(じならし)는 일본어에서 온 건설 용어로, 땅을 평평하게 고르는 작업을 의미합니다. 이에 대한 순화어는 '땅고르기'입니다.
+
+### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,,[EMPTY_RESPONSE]
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,D,"### ANSWER
+D"
+General Knowledge,D,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Rare Words,A,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Rare Words,E,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,E,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,C,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,A,B,"### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,A,"### ANSWER
+A"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,D,"### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"도복(倒伏)은 작물이 쓰러지는 현상을 의미하며, 이에 대한 순화어는 '쓰러짐'입니다.
+
+### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,B,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,D,"### ANSWER
+D"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,B,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,C,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,B,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Loan Words,D,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,A,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"C
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,D,"### ANSWER
+D"
+Loan Words,C,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"D
+
+### ANSWER
+D"
+Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,,[EMPTY_RESPONSE]
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,A,"### ANSWER
+A"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Rare Words,E,E,"집에서 종일 서서 돌아다니는 발은 ""선(서다) + 발""의 형태로 ""선발""이라는 단어와 연결됩니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,E,"냉장고에 넣어 보관해야 한다는 의미인데, 주어진 선택지 중 '먹으세요', '버리세요', '찾으세요' 모두 문맥에 맞지 않으므로 적절한 답이 없습니다.
+
+### ANSWER
+E"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,C,E,"### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,D,"### ANSWER
+D"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Loan Words,A,E,"### ANSWER
+E"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,A,"### ANSWER
+A"
+Standard Nomenclature,E,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"수상한 그녀는 약 866만 명의 관객을 동원한 영화로, 1000만 관객을 돌파하지 못했습니다. 나머지 선택지들은 영화의 사실과 일치합니다.
+
+### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,E,E,"### ANSWER
+E"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,E,"### ANSWER
+E"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,D,"본문에서는 가게의 위치가 사람들의 심리 상태와 관련이 있다고 설명하고 있으며, 이는 전체 내용을 요약하는 핵심 진술입니다. A와 B도 부분적으로 맞는 내용이지만, 전체 내용과 가장 정확히 일치하는 것은 심리 상태와 위치의 관계를 언급한 D입니다.
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,A,"A
+
+### ANSWER
+A"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"한티역은 수인분당선 역으로, 서울 2호선에는 해당되지 않습니다. 나머지 봉천, 서초, 잠실, 강남은 모두 2호선 역입니다.
+
+### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,A,"A
+
+### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,A,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,D,"### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"Sungkyunkwan University claims founding in 1398, making it historically the oldest institution in Korea.
+
+### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"Seoul Subway Line 3's official color is orange.
+
+### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"B
+
+### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,A,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"

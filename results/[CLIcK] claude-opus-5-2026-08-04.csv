@@ -1,0 +1,5574 @@
+id,category,trial,answer,pred,response
+KIIP_politics_62,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_63,Politics,0,D,D,"1948년 8월 15일 대한민국 정부 수립, 9월 9일 북한 정권 수립 — 같은 해 1948년.
+
+### ANSWER
+D"
+KIIP_politics_64,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_65,Politics,0,C,C,"Korean War armistice was signed July 27, 1953.
+
+### ANSWER
+C"
+KIIP_politics_66,Politics,0,C,C,"2000년 6월 김대중 대통령과 김정일 국방위원장의 평양 회담이 최초의 남북정상회담이다.
+
+### ANSWER
+C"
+KIIP_politics_67,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_68,Politics,0,B,B,"첫 남북 정상회담(2000년 김대중-김정일)과 2007년 회담 모두 북한의 평양에서 개최되었으므로, 전통적으로 남북 정상회담 장소로 언급되는 곳은 평양이다.
+
+### ANSWER
+B"
+KIIP_politics_69,Politics,0,B,B,"### ANSWER
+B"
+KIIP_economy_1,Economy,0,C,C,"IMF 구제금융 차입금을 조기 전액 상환하여 외환위기를 공식적으로 졸업한 시점은 2001년 8월이다.
+
+### ANSWER
+C"
+KIIP_economy_2,Economy,0,A,A,"1960년 한국의 1인당 국민총소득은 약 79달러 수준으로, 세계 최빈국 중 하나였다.
+
+### ANSWER
+A"
+KIIP_economy_3,Economy,0,C,C,"1997년 IMF 외환위기가 발생했다.
+
+### ANSWER
+C"
+KIIP_economy_4,Economy,0,D,D,"**### ANSWER
+D**"
+KIIP_economy_5,Economy,0,C,C,"1970년대 한국은 정부의 중화학 공업 육성 정책(포항제철, 조선, 석유화학 등)으로 중화학 공업이 본격 발달했다. 1960년대는 경공업 중심이었다.
+
+### ANSWER
+C"
+KIIP_economy_6,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_7,Economy,0,B,B,"Korea's GNI per capita in 2014 was about US$28,000 (roughly 27,000–28,000 dollars), consistent with a developed economy of that period.
+
+### ANSWER
+B"
+KIIP_economy_8,Economy,0,A,A,"### ANSWER
+A"
+KIIP_law_31,Law,0,A,A,"협의이혼과 재판상 이혼이 한국 민법상 이혼 방법이다.
+
+### ANSWER
+A"
+KIIP_law_32,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_33,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_34,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_35,Law,0,A,A,"양육권을 가진 쪽은 상대방에게 자녀 양육에 필요한 비용(양육비)을 청구할 수 있다. 위자료는 정신적 손해에 대한 배상이고, 재산분할은 부부 공동재산에 관한 것으로 자녀 양육과는 별개다.
+
+### ANSWER
+A"
+KIIP_law_36,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_37,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_38,Law,0,D,D,"### ANSWER
+D"
+KIIP_tradition_128,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_129,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_130,Tradition,0,B,B,"실은 길게 이어지는 특성으로 인해 돌잡이에서 오래 사는 것, 즉 장수를 상징한다. 쌀·돈은 부, 책·붓은 지혜를 뜻한다.
+
+### ANSWER
+B"
+KIIP_tradition_131,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_132,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_133,Tradition,0,A,A,"첫돌(첫 번째 생일)과 환갑(60세)이 한국에서 특별히 기념된다.
+
+### ANSWER
+A"
+KIIP_tradition_134,Tradition,0,B,B,"백일잔치는 아기가 태어난 지 100일이 되는 날 축하하는 한국의 전통 행사이다.
+
+### ANSWER
+B"
+KIIP_tradition_135,Tradition,0,B,B,"첫 번째 생일은 '돌'이며, 이를 기념하는 잔치가 돌잔치이다. 백일잔치는 100일, 환갑은 60세, 칠순은 70세이다.
+
+### ANSWER
+B"
+Kedu_history_14,History,0,B,B,"### ANSWER
+B"
+Kedu_history_15,History,0,A,A,"### ANSWER
+A"
+Kedu_history_16,History,0,B,B,"### ANSWER
+B"
+Kedu_history_17,History,0,D,D,"### ANSWER
+D"
+Kedu_history_18,History,0,A,A,"고종이 1897년 대한제국 황제로 즉위하며 하늘에 제사를 올리기 위해 세운 제단은 환구단(원구단)이다. 참성단은 강화 마니산의 단군 관련 제단, 천제단은 태백산, 사직단은 토지·곡식 신에게 제사하는 곳이다.
+
+### ANSWER
+A"
+Kedu_history_19,History,0,A,A,"### ANSWER
+A"
+Kedu_history_20,History,0,B,B,"### ANSWER
+B"
+Kedu_history_21,History,0,B,B,"### ANSWER
+B"
+KIIP_society_187,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_188,Society,0,A,A,"어린이집은 평일 오전 7시 30분부터 오후 7시 30분까지 12시간 운영이 원칙입니다.
+
+### ANSWER
+A"
+KIIP_society_189,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_190,Society,0,A,A,"National/public institutions are government-subsidized, so their fees are generally lower than private ones.
+
+### ANSWER
+A"
+KIIP_society_191,Society,0,C,C,"국·공립 어린이집·유치원은 수요가 많아 신청 후 대기 기간이 매우 길다는 것이 한국 사회의 현실이다.
+
+### ANSWER
+C"
+KIIP_society_192,Society,0,C,C,"국·공립 교육기관은 정부 지원을 받아 운영되므로 사립보다 보육료 부담이 적다.
+
+### ANSWER
+C"
+KIIP_society_193,Society,0,A,A,"국·공립 어린이집은 보육료가 저렴하고 신뢰도가 높아 수요가 많아 대기자가 매우 많다. 따라서 신청 후 오랜 기간 대기해야 하는 것이 가장 큰 어려움이다.
+
+### ANSWER
+A"
+KIIP_society_194,Society,0,D,D,"### ANSWER
+D"
+KIIP_politics_70,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_71,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_72,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_73,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_74,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_75,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_76,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_77,Politics,0,C,C,"삼국사기에 신라 지증왕 13년(512년) 이사부가 우산국을 정복했다는 기록이 독도가 한국 영토였음을 보여주는 가장 이른 문헌 근거로 제시된다.
+
+### ANSWER
+C"
+KIIP_tradition_136,Tradition,0,C,C,"환갑(還甲)은 60갑자가 한 바퀴 돌아 태어난 해의 간지로 돌아오는 만 60세 생일을 뜻하며, 이를 기념하는 잔치가 환갑잔치이다. 백일잔치는 생후 100일, 돌잔치는 첫 생일, 칠순잔치는 70세를 기념한다.
+
+### ANSWER
+C"
+KIIP_tradition_137,Tradition,0,A,A,"환갑까지 장수하는 것은 드문 일이어서 큰 복으로 여겨 잔치를 열었다.
+
+### ANSWER
+A"
+KIIP_tradition_138,Tradition,0,D,D,"수명이 길어져 환갑은 간소화되고, 요즘은 칠순(고희) 잔치를 더 크게 치르는 경향이 있다.
+
+### ANSWER
+D"
+KIIP_tradition_139,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_140,Tradition,0,A,A,"이사 시 이웃에게 시루떡을 나누는 것이 한국의 전통 관습이다.
+
+### ANSWER
+A"
+KIIP_tradition_141,Tradition,0,B,B,"학연(같은 학교), 혈연(같은 성씨·가문), 지연(같은 동네)은 한국의 전통적 연고 관계이지만, 같은 직장은 현대적·기능적 조직 관계로 전통적 연고에 해당하지 않는다.
+
+### ANSWER
+B"
+KIIP_tradition_142,Tradition,0,D,D,"졸업 후 같은 학교 출신들이 모이는 모임은 동문회(동창회)이다. 향우회는 같은 고향 사람들의 모임이다.
+
+### ANSWER
+D"
+KIIP_tradition_143,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_economy_9,Economy,0,C,C,"1960년대 한국은 노동집약적 경공업(섬유, 가발, 신발 등) 중심의 수출산업을 발달시켰고, 중화학 공업은 1970년대에 본격화되었다.
+
+### ANSWER
+C"
+KIIP_economy_10,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_11,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_12,Economy,0,A,A,"한국의 최대 무역 상대국은 중국이며, 그 뒤를 미국과 일본이 잇는다. 영국이나 프랑스는 상위 교역국이 아니다.
+
+### ANSWER
+A"
+KIIP_economy_13,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_14,Economy,0,C,C,"2011년 한국 수출액은 약 5,555억 달러로 사상 첫 무역 1조 달러를 달성한 해이다. 따라서 약 5,000억 달러 규모가 맞다.
+
+### ANSWER
+C"
+KIIP_economy_15,Economy,0,D,D,"2011년 12월 한국은 세계 9번째로 무역 1조 달러를 달성했다.
+
+### ANSWER
+D"
+KIIP_economy_16,Economy,0,A,A,"한국은 천연자원이 부족하여 인적 자원과 기술에 의존하는 성장 전략을 취해 왔으므로, 우수한 노동력 확보와 첨단 기술 개발에 주력한다.
+
+### ANSWER
+A"
+KIIP_law_39,Law,0,D,C,"### ANSWER
+C"
+KIIP_law_40,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_41,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_42,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_43,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_44,Law,0,A,A,"국가인권위원회는 준사법적 기구로서 조사 후 시정 권고를 할 수 있으나 직접적인 처벌 권한은 없다.
+
+### ANSWER
+A"
+KIIP_law_45,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_46,Law,0,B,B,"생활법률 정보 제공 및 법률분쟁 예방·법률구조 관련 업무는 법무부가 담당한다.
+
+### ANSWER
+B"
+CSAT_korean_22_7,Textual,0,C,C,"The (나) writer argues that in ㉡, the first category's essence (art's objectivity/sensory perception) is progressively erased, not strengthened—it is the second category's internality/subjectivity that intensifies. So C misstates the analysis.
+
+### ANSWER
+C"
+CSAT_korean_22_8,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_9,Textual,0,C,C,"변증법적 체계성을 ""지녀야""는 소지(물건을 가짐)와 다르고, ""가리킨다""는 포착이 아니며, ""보면""은 간주와 다르고, ""이루어지지""는 결성과 다르다. ""하나의 일방적 승리로 끝나도""는 결과적으로 그렇게 끝맺음된다는 뜻이므로 '귀결되어도'가 적절하다.
+
+### ANSWER
+C"
+CSAT_korean_22_10,Textual,0,B,B,"본문은 트리핀이 브레턴우즈 체제의 구조적 모순을 지적한 내용만 제시하며, 체제 붕괴 이후의 세계 경제 위축에 대한 트리핀의 전망은 언급되지 않았다. 나머지 선택지는 모두 본문에서 확인 가능하다.
+
+### ANSWER
+B"
+CSAT_korean_22_11,Textual,0,E,E,"마르크화가 달러화에 대해 평가 절상되면 같은 마르크화로 더 많은 달러를 얻을 수 있고, 금 가격(35달러/온스)은 고정이므로 구입 가능한 금의 양은 오히려 증가한다. 따라서 E는 잘못된 추론이다.
+
+### ANSWER
+E"
+CSAT_korean_22_12,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_13,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_14,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_195,Society,0,C,C,"공립학교는 지방자치단체가 설립·운영하며, 국립학교는 국가(중앙정부), 사립학교는 개인이나 민간단체가 설립한다.
+
+### ANSWER
+C"
+KIIP_society_196,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_197,Society,0,D,D,D
+KIIP_society_198,Society,0,B,B,"추첨
+
+### ANSWER
+B"
+KIIP_society_199,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_200,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_201,Society,0,B,B,B
+KIIP_society_202,Society,0,A,A,"알림장은 초등학생이 매일 학교에서 받아오는 연락 수단으로, 부모가 매일 확인하여 숙제와 준비물, 학교 소식을 파악하는 것이 한국의 일반적인 관행이다.
+
+### ANSWER
+A"
+Kedu_history_22,History,0,D,D,"### ANSWER
+D"
+Kedu_history_23,History,0,A,A,"### ANSWER
+A"
+Kedu_history_24,History,0,B,B,"### ANSWER
+B"
+Kedu_history_25,History,0,C,C,"숭례문은 국보 제1호이며, 보물 제1호는 흥인지문(동대문)입니다. 따라서 C가 옳지 않습니다. 나머지는 모두 사실에 부합합니다.
+
+### ANSWER
+C"
+Kedu_history_26,History,0,C,C,"소수서원(백운동서원)은 이황의 요청으로 명종에게 사액을 받아 조선 최초의 사액서원이 되었다.
+
+### ANSWER
+C"
+Kedu_history_27,History,0,D,D,"무구정광대다라니경은 8세기(751년경) 제작된 현존 세계 최고(最古)의 목판 인쇄물이며, 초조대장경(11세기), 고려대장경(13세기), 직지심체요절(14세기, 금속활자)보다 앞선다.
+
+### ANSWER
+D"
+Kedu_history_28,History,0,B,B,"홍문관은 사헌부, 사간원과 함께 언론·학술 기능을 담당한 삼사(3사)에 속한다. 성균관은 교육기관, 의금부는 국왕 직속 사법기구, 한성부는 수도 행정기관이다.
+
+### ANSWER
+B"
+Kedu_history_29,History,0,C,C,"신민회와 무정부주의동방연맹 참여, 황성신문 주필은 신채호이며, 그의 저술은 『조선상고사』이다. 『한국통사』는 박은식, 『조선상고사감』은 안재홍의 저작이다.
+
+### ANSWER
+C"
+CSAT_korean_19_12,Grammar,0,B,B,"빚쟁이는 '빌린 사람'과 '빌려준 사람'의 대립적 의미로, 금방은 '조금 전(과거)'과 '조금 후(미래)'의 대립적 의미로 쓰였다. 반면 '뒤'는 두 경우 모두 시간상 이후를 뜻해 대립하지 않고, '돈'도 의미 차이가 없다.
+
+### ANSWER
+B"
+CSAT_korean_20_11,Grammar,0,D,A,"### ANSWER
+A"
+CSAT_korean_20_13,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_20_14,Grammar,0,A,A,"### ANSWER
+A"
+CSAT_korean_13_13,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_11,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_14,Grammar,0,B,B,"### ANSWER
+B"
+KIIP_tradition_144,Tradition,0,C,C,"고등학교나 대학교 동문 관계(학연)가 한국 사회생활에서 서로 돕고 의지하는 대표적 연고 관계로 언급된다.
+
+### ANSWER
+C"
+KIIP_tradition_145,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_146,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_147,Tradition,0,B,B,"효는 자신의 부모를 넘어 모든 웃어른을 공경하고 존중하는 마음으로 확장되는 덕목이다.
+
+### ANSWER
+B"
+KIIP_tradition_148,Tradition,0,B,A,"한국은 유교 전통에 따라 부모에 대한 효도를 중시하는 문화를 지닌 나라로 널리 알려져 있으므로, 가장 대표적으로 강조되는 가치는 효이다.
+
+### ANSWER
+A"
+KIIP_tradition_149,Tradition,0,A,A,"높임말은 상대를 공경하는 언어 예절의 대표적인 예이며, 명절·제사·식사는 풍습이나 의례·행위 자체에 해당한다.
+
+### ANSWER
+A"
+KIIP_tradition_150,Tradition,0,A,A,"Public settings and older people require honorifics.
+
+### ANSWER
+A"
+KIIP_tradition_151,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_society_203,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_204,Society,0,C,C,"4년제 일반대학이 약 190여 개로 전문대학(2~3년제, 약 130~140개)보다 많다.
+
+### ANSWER
+C"
+KIIP_society_205,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_206,Society,0,A,A,"A
+
+### ANSWER
+A"
+KIIP_society_207,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_208,Society,0,B,B,"한국의 학제는 초등학교 6년, 중학교 3년, 고등학교 3년이다.
+
+### ANSWER
+B"
+KIIP_society_209,Society,0,B,B,"초등학교 6년과 중학교 3년이 의무교육에 해당합니다.
+
+### ANSWER
+B"
+KIIP_society_210,Society,0,B,B,"### ANSWER
+B"
+KIIP_politics_78,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_79,Politics,0,C,C,"### ANSWER
+C"
+Kedu_politics_1,Politics,0,B,B,"ASEM 서울 2000년, APEC 부산 2005년, G20 서울 2010년, 핵안보정상회의 서울 2012년 순이다.
+
+### ANSWER
+B"
+Kedu_politics_2,Politics,0,A,A,"### ANSWER
+A"
+Kedu_politics_3,Politics,0,C,C,"### ANSWER
+C"
+Kedu_politics_4,Politics,0,D,D,"### ANSWER
+D"
+Kedu_politics_5,Politics,0,B,B,"### ANSWER
+B"
+KIIP_popular_1,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_economy_17,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_18,Economy,0,C,C,"Korea's first FTA was signed with Chile in 2003 and entered into force in 2004.
+
+### ANSWER
+C"
+KIIP_economy_19,Economy,0,A,A,"FTA 체결을 통해 관세 철폐·인하가 이루어진 세계 3대 거대 시장은 미국, 중국, EU로 언급된다. 일본과는 FTA가 체결되지 않았다.
+
+### ANSWER
+A"
+KIIP_economy_20,Economy,0,B,B,"Korea joined the OECD in December 1996.
+
+### ANSWER
+B"
+KIIP_economy_21,Economy,0,B,B,"2005년 부산에서 APEC 정상회의가 개최되었다. ASEM은 2000년 서울, G20은 2010년 서울이었다.
+
+### ANSWER
+B"
+KIIP_economy_22,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_23,Economy,0,C,C,"2009년 11월 OECD DAC 가입이 승인되어(2010년 1월 활동 시작) 한국은 원조 수혜국에서 공여국으로 전환한 첫 사례로 인정받았다. 따라서 회원국으로 인정받은 시점은 2009년이다.
+
+### ANSWER
+C"
+KIIP_economy_24,Economy,0,B,B,"ASEAN(동남아시아국가연합)은 브루나이, 캄보디아, 인도네시아, 라오스, 말레이시아, 미얀마, 필리핀, 싱가포르, 태국, 베트남 등 10개 회원국으로 구성되어 있으며, 한-아세안 FTA는 이 10개국과 체결되었다.
+
+### ANSWER
+B"
+KIIP_popular_2,Pop Culture,0,A,A,"Baseball (KBO) and football (K League) draw the largest domestic spectator bases in Korea, while taekwondo, short track, archery and shooting are more Olympic/international success sports than popular domestic spectator sports.
+
+### ANSWER
+A"
+KIIP_popular_3,Pop Culture,0,A,A,"A가 한국인들이 즐기는 대중음악 장르(트로트, 발라드, R&B 등)를 가장 잘 반영합니다.
+
+### ANSWER
+A"
+KIIP_popular_4,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_5,Pop Culture,0,C,C,"### ANSWER
+C"
+KIIP_popular_6,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_7,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_8,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_9,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_society_211,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_212,Society,0,C,C,"**Reasoning:** In Korea, elementary school assignment to national/public schools is based on residential district — the proximity between home and school.
+
+### ANSWER
+C"
+KIIP_society_213,Society,0,C,C,"전문계 고등학교(특성화/전문계고)는 직업 교육을 강조하는 학교이다.
+
+### ANSWER
+C"
+KIIP_society_214,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_215,Society,0,B,B,"가정통신문은 학교에서 학생의 가정으로 보내는 문서로, 일반적으로 학급 담임 선생님이 학생을 통해 전달합니다.
+
+### ANSWER
+B"
+KIIP_society_216,Society,0,A,A,"**A**
+
+### ANSWER
+A"
+KIIP_society_217,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_218,Society,0,C,C,"2010년 한국의 고등학교 졸업자 대학진학률은 약 79%로 세계 최고 수준이었다.
+
+### ANSWER
+C"
+Kedu_history_30,History,0,B,B,"청산별곡은 고려가요(고려속요)로, 신라 향가가 아니다. 혜성가, 우적가, 찬기파랑가는 모두 삼국유사에 전하는 신라 향가이다.
+
+### ANSWER
+B"
+Kedu_history_31,History,0,B,B,"### ANSWER
+B"
+Kedu_history_32,History,0,C,C,"후추(pepper)는 고려시대 아라비아 상인 등과의 교역을 통해 유입되었고, 고추·고구마·땅콩은 모두 조선 후기에 들어왔다.
+
+### ANSWER
+C"
+Kedu_history_33,History,0,D,D,"### ANSWER
+D"
+Kedu_history_34,History,0,C,C,"천승세의 <만선>에 등장하는 인물이 '곰치'와 '구포댁'이며, <산불>의 주요 인물은 점례, 사월, 규복이다. 나머지는 <산불>에 대한 옳은 설명이다.
+
+### ANSWER
+C"
+Kedu_history_35,History,0,A,A,"### ANSWER
+A"
+Kedu_history_36,History,0,C,C,"의궤는 조선왕조의 국가 의식·행사 준비와 진행을 기록한 기록물로, 유교 경전이 아니다.
+
+### ANSWER
+C"
+Kedu_history_37,History,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_15,Textual,0,B,B,"B — 왜곡이 보정된 영상(㉡)은 아직 원근 효과가 남아 있어, 촬영 영상(㉠)처럼 카메라(렌즈)에서 멀어질수록 격자판이 작게 나타난다. 원근 제거는 시점 변환(㉢) 단계에서 이루어진다. C는 곡률이 거리 아닌 렌즈 고유 특성이므로 틀리고, D의 기울어짐 보정은 외부 변수 보정 단계이며, E의 원근에 의한 크기 변화는 렌즈 왜곡이 아니다.
+
+### ANSWER
+B"
+CSAT_korean_22_16,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_17,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_18,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_19,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_20,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_21,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_22,Textual,0,A,A,"Reasoning: In (가), the '묵화' of the hometown is framed by ""박쥐 나래 밑에 황혼이 묻혀 오면,"" creating a dark, gloomy image of the village; in (나), the speaker looking out the '북창' at the mountain emphasizes its ""품"" as a warm, embracing home, conveying a comforting atmosphere. The other options misread the symbols (e.g., 북창 as 절망, 보옥 as 안타까움, or a change in perception).
+
+### ANSWER
+A"
+KIIP_law_47,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_48,Law,0,A,A,"**정의의 여신상은 저울과 칼(또는 법전)을 들고 눈을 가린 모습으로 공정하고 형평한 법의 이념을 상징하므로, 법이 추구하는 이상적 모습을 나타낸다.**
+
+### ANSWER
+A"
+KIIP_law_49,Law,0,A,A,"[한국 대법원의 정의의 여신상은 한 손에 저울, 다른 손에 법전을 들고 있다.]
+
+### ANSWER
+A"
+KIIP_law_50,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_51,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_1,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_2,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_3,Law,0,A,A,"A는 헌법 제118조 제2항에 따라 지방의회의 조직·권한·의원선거에 관한 사항도 법률로 정하므로 틀린 설명이다.
+
+### ANSWER
+A"
+CSAT_korean_14_12,Grammar,0,D,D,"Reasoning: (b)는 과거 사건의 결과 상태가 현재까지 지속됨을 나타내야 하며 '-아 있-/-고 있-'으로 교체 가능해야 한다. ""소풍날 날씨가 아주 나빴어""는 단순 과거 사실이므로 (b)의 예로 부적절하다.
+
+### ANSWER
+D"
+CSAT_korean_14_14,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_18_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_12,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_18_14,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_12,Grammar,0,A,A,"제29항에 따라 '꽃이랑'은 'ㄴ' 첨가로 [꼰니랑], 제15항에 따라 '꽃오목'은 받침을 대표음 [ㄷ]으로 바꿔 옮겨 [꼬도목]으로 발음한다.
+
+### ANSWER
+A"
+CSAT_korean_13_14,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_15,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_tradition_152,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_153,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_154,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_155,Tradition,0,A,A,"이웃사촌은 이웃이 사촌처럼 가깝다는 뜻으로, 서로 친하게 지내는 이웃을 가리킵니다.
+
+### ANSWER
+A"
+KIIP_tradition_156,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_157,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_158,Tradition,0,A,A,"연고는 혈연·지연·학연을 모두 포괄하는 개념으로, 한국 사회에서 중시되는 관계망을 통칭한다. 따라서 개별 항목보다 포괄적인 '연고'가 가장 적절한 답이다.
+
+### ANSWER
+A"
+KIIP_tradition_159,Tradition,0,A,A,"족보(family genealogy records) traces lineage and ancestry, which is central to Korean clan/family identity and traditional values.
+
+### ANSWER
+A"
+KIIP_economy_25,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_26,Economy,0,C,C,"2009년 11월 DAC 특별회의에서 한국의 가입이 승인되어 24번째 회원국으로 인정받았고, 실제 활동은 2010년부터 시작되었다. ""인정받은 년도""는 승인 시점인 2009년이다.
+
+### ANSWER
+C"
+KIIP_economy_27,Economy,0,A,A,"한국은 과거 원조를 받던 나라에서 원조를 주는 나라로 전환하여, ODA를 통해 경제적으로 어려운 개발도상국을 적극 지원하고 있다.
+
+### ANSWER
+A"
+KIIP_economy_28,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_29,Economy,0,A,A,"신분증은 신원 확인의 기본 수단으로, 여권·외국인등록증·운전면허증 모두 신분증의 한 종류이므로 가장 포괄적인 정답은 신분증이다.
+
+### ANSWER
+A"
+KIIP_economy_30,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_31,Economy,0,A,A,"외국인이 한국에서 은행 계좌를 개설할 때는 신분 확인을 위해 여권과 외국인등록증(체류 자격 증명)을 요구하는 것이 일반적이다.
+
+### ANSWER
+A"
+KIIP_economy_32,Economy,0,A,A,"### ANSWER
+A"
+KIIP_popular_10,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_11,Pop Culture,0,D,D,"### ANSWER
+D"
+KIIP_popular_12,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_13,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_14,Pop Culture,0,C,C,"프로야구와 인기를 겨루는 종목은 프로축구(K리그)로, 한국에서 대중적 인기가 높은 양대 프로 스포츠입니다.
+
+### ANSWER
+C"
+KIIP_popular_15,Pop Culture,0,A,A,"A는 트로트의 음악적 정의(4분의 4박자, 일본 엔카 음계 영향)에 부합하며, 나머지는 아이돌·스포츠 등 다른 대상을 설명한다.
+
+### ANSWER
+A"
+KIIP_popular_16,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_17,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_society_219,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_220,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_221,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_222,Society,0,A,A,"방송통신대학, 사이버대학의 인기 요인은 시간과 장소에 제약 없이 원하는 시간에 온라인·원격으로 수업을 들을 수 있는 유연성 때문이다.
+
+### ANSWER
+A"
+KIIP_society_223,Society,0,D,D,"특수목적고등학교는 과학고, 외국어고, 국제고, 예술고, 체육고, 산업수요맞춤형고(마이스터고) 등이며, 과학중점고등학교는 일반고 내 교육과정 특화 프로그램이므로 특목고가 아니다.
+
+### ANSWER
+D"
+KIIP_society_224,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_225,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_226,Society,0,B,B,"수능(대학수학능력시험)은 통상 매년 11월 셋째 주 목요일에 실시된다.
+
+### ANSWER
+B"
+Kedu_history_38,History,0,C,C,"### ANSWER
+C"
+Kedu_history_39,History,0,C,C,"갑오개혁 이후 학무아문 설치와 교육입국조서 반포 등으로 근대적 학제가 마련되었습니다. 원산학사는 최초의 근대적 '사립' 학교이며, 육영공원은 정부가 세운 관립 학교, 배재학당은 선교사가 세운 중등 수준 학교입니다.
+
+### ANSWER
+C"
+Kedu_history_40,History,0,A,A,"### ANSWER
+A"
+Kedu_history_41,History,0,C,C,"이제마는 조선 후기 사상의학을 정립하고 『동의수세보원』을 저술한 의학자로, 『농사직설』은 세종 대 정초·변효문 등이 편찬했습니다. 따라서 이제마와 농사직설의 연결은 잘못되었습니다.
+
+### ANSWER
+C"
+Kedu_history_42,History,0,A,A,"### ANSWER
+A"
+Kedu_history_43,History,0,B,B,"### ANSWER
+B"
+Kedu_history_44,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_1,History,0,B,B,"동예의 책화 풍습이 (가), 옥저의 골장제가 (나)이다. 옥저에는 민며느리제 혼인 풍속이 있었다. 영고는 부여, 제가회의는 고구려이며 두 나라는 중앙집권 국가로 발전하지 못했다.
+
+### ANSWER
+B"
+PSAT_17_4,Law,0,A,A,"A는 헌법전문이 1962년 제5차 개정에서 처음 개정되었다는 점에서 틀렸다(1972년이 아님). B, C는 헌법재판소의 판례 내용과 일치하며, D도 현행 헌법전문의 내용상 옳다.
+
+### ANSWER
+A"
+PSAT_17_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_17_6,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_7,Law,0,B,B,"헌법 제107조에 따르면 법률의 위헌 여부는 헌법재판소가 최종 심사하고, 대법원은 명령·규칙·처분의 위헌·위법 여부만 최종적으로 심사한다. 따라서 ""법률""까지 대법원이 최종 심사한다는 설명은 옳지 않다. 나머지는 헌법 규정에 부합한다.
+
+### ANSWER
+B"
+PSAT_17_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_9,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_10,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_11,Law,0,D,D,"D는 헌법 제105조 제3항에 따라 대법원장·대법관이 아닌 법관의 임기는 10년이며 연임 가능하다. A는 탄핵 또는 금고 이상의 형에 의하지 않고는 파면되지 않는다는 규정이므로 틀리고, B는 대법관은 연임 가능하므로 틀리며, C는 국회 동의를 얻어 대통령이 임명한다.
+
+### ANSWER
+D"
+KIIP_economy_33,Economy,0,A,A,"시중은행과 지방은행은 일반적으로 예금자 보호와 감독 체계 하에서 운영되며, 규모가 크고 상대적으로 안정적·안전한 금융기관으로 분류된다.
+
+### ANSWER
+A"
+KIIP_economy_34,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_35,Economy,0,A,A,"농협, 수협, 우체국은 예금자 보호 또는 국가 보증이 되는 안전한 예금 취급 기관이며, 증권사는 예금 기관이 아니라 투자 중개 기관이다.
+
+### ANSWER
+A"
+KIIP_economy_36,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_37,Economy,0,B,B,"예금자보호제도는 금융기관별로 1인당 5천만 원까지 보호하므로, 예금액이 많다면 여러 금융 기관에 분산 예금해야 전액 보호받을 수 있다.
+
+### ANSWER
+B"
+KIIP_economy_38,Economy,0,A,A,"상호저축은행은 시중은행보다 규모가 작고 지점 수가 적으며 상대적으로 안전성이 낮은 대신, 예금·대출 금리를 높게 책정하여 고객을 유치합니다.
+
+### ANSWER
+A"
+KIIP_economy_39,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_40,Economy,0,C,C,"**증권회사** is the financial institution that brokers stock and bond transactions.
+
+### ANSWER
+C"
+CSAT_korean_22_23,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_24,Textual,0,D,D,"[A]는 우산의 존재를 알리고 반응을 살피려는 하나의 목적을 위해 인물이 여러 장소에서 행하는 의도적 행위들을 나열하고 있다.
+
+### ANSWER
+D"
+CSAT_korean_22_25,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_26,Textual,0,E,E,"사복 차림의 청년은 우산 케이스를 아예 거들떠보지도 않았을 뿐, 김달채의 의도를 간파했다고 볼 근거는 없다. 나머지는 서민들이 우산을 무전기로 오인하고, 살짝 보여주는 방식이 더 효과적이라는 서술과 일치한다.
+
+### ANSWER
+E"
+CSAT_korean_22_27,Textual,0,E,E,"학생들과 유대 관계를 맺은 적이 없으며, 김달채는 닭장차에 실릴 위험을 피하려 물러난 것이므로 '유대 관계 단절'이라는 해석은 부적절하다.
+
+### ANSWER
+E"
+CSAT_korean_22_28,Textual,0,B,B,"부인이 꿈에서 학발의관을 갖춘 사람들을 보고 놀라 깨어 남가일몽임을 알았으므로 B가 맞다. 태보는 자청하지 않았고, 초종례는 과천에서 한 뒤 집으로 옮겨 장사했으며, 상은 이름을 물으려 했으나 아이들이 달아나 묻지 못했고, 형조 판서는 대강 직계로 올렸다.
+
+### ANSWER
+B"
+CSAT_korean_22_29,Textual,0,A,A,"‘한 곳’은 임금이 미복(微服)으로 은신하여 백성의 노래를 몰래 듣는 공간이므로 권위를 내세우는 곳이 아니라 오히려 권위가 통하지 않는 공간이다. 따라서 A가 적절하지 않다.
+
+### ANSWER
+A"
+CSAT_korean_22_30,Textual,0,C,C,"[A]에서 제원들은 태보가 죽기로써 간한 충절을 언급하며 자신들의 부끄러움을 말하고, [B]에서 태보는 하늘이 무너져도 뜻을 변할 수 없다며 죽어서도 왕비 환궁을 간하겠다는 소신을 밝힌다. 따라서 강직함의 칭송과 소신의 다짐이 연결된다.
+
+### ANSWER
+C"
+KIIP_tradition_160,Tradition,0,C,C,"향우회는 고향을 떠나 새로 정착한 지역에서 같은 고향 출신 사람들이 결성하는 조직이다.
+
+### ANSWER
+C"
+KIIP_tradition_161,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_1,Tradition,0,D,D,"세한삼우는 추운 겨울을 견디는 소나무(松), 대나무(竹), 매화(梅)를 일컫는 말이므로 동백은 해당하지 않는다.
+
+### ANSWER
+D"
+Kedu_tradition_2,Tradition,0,C,C,"장옷은 조선시대 여성이 외출할 때 얼굴과 몸을 가리기 위해 머리에 쓰거나 입었던 여성 전용 복식이다. 잠방이와 등거리는 남성의 노동복이며, 마고자는 남녀 모두 입되 주로 남성 옷으로 알려져 있다.
+
+### ANSWER
+C"
+Kedu_tradition_3,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_4,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_5,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_6,Tradition,0,D,D,"제사상차림의 원칙은 반서갱동, 어동육서, 홍동백서, 그리고 생선의 머리는 동쪽·꼬리는 서쪽으로 두는 '동두서미(두동미서)'이다. 따라서 머리를 서쪽으로 둔다는 '서두동미'는 원칙에 어긋난다.
+
+### ANSWER
+D"
+KIIP_society_227,Society,0,A,A,"**Reasoning:** In Korea, besides the 수능 (CSAT), university admissions involve 수시 processes such as 면접 (interviews), 논술 (essay exams), and 학생부 evaluation. TOEIC/TOEFL, GRE/GMAT, IELTS/SAT are not standard parts of domestic Korean university entrance.
+
+### ANSWER
+A"
+KIIP_society_228,Society,0,B,B,"2014년 한국의 대학 진학률은 통계상 약 70%대(70.9%)로, 2008년 최고치(약 84%) 이후 하락한 수치입니다.
+
+### ANSWER
+B"
+KIIP_society_229,Society,0,B,A,"### ANSWER
+A"
+KIIP_society_230,Society,0,B,B,"고등학교는 초·중학교와 달리 의무 교육에 포함되지 않으며, 학생이 진학을 선택하는 단계입니다. 따라서 선택 교육에 해당합니다.
+
+### ANSWER
+B"
+KIIP_society_231,Society,0,A,A,"수능(대학수학능력시험)은 대학에서 수학할 능력을 측정하는 시험이다.
+
+### ANSWER
+A"
+KIIP_society_232,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_233,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_234,Society,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_13,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_15,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_11,Grammar,0,A,A,"### ANSWER
+A"
+CSAT_korean_19_13,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_20_12,Grammar,0,C,C,"기존 의미가 사라진 ‘총각’과 달리 ‘수세미’는 기존 의미가 유지되면서 새로운 의미가 더해진 경우이므로 유사하다고 볼 수 없다.
+
+### ANSWER
+C"
+CSAT_korean_15_12,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_13,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_15_14,Grammar,0,B,B,"### ANSWER
+B"
+KIIP_popular_18,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_19,Pop Culture,0,A,A,"**A**
+
+Past Korean popular culture was heavily influenced by imported content from the US and Hong Kong—American films/music and Hong Kong action movies dominated in earlier decades before the Korean Wave.
+
+### ANSWER
+A"
+KIIP_popular_20,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_21,Pop Culture,0,B,B,"한류는 1997년 중국에서 드라마 '사랑이 뭐길래' 방영 등을 계기로 1990년대 말부터 시작된 것으로 본다.
+
+### ANSWER
+B"
+KIIP_popular_22,Pop Culture,0,C,C,"<대장금>은 이란에서 방영되어 80~90%에 이르는 기록적인 시청률을 올린 것으로 유명하다.
+
+### ANSWER
+C"
+KIIP_popular_23,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_24,Pop Culture,0,B,B,"아이돌 음악은 따라 부르기 쉬운 후크성 멜로디가 특징이므로 B는 옳지 않다.
+
+### ANSWER
+B"
+KIIP_popular_25,Pop Culture,0,B,B,"B는 아시아 국가들이 공유하는 정서적 공감대를 자극한다는 점에서 한류 드라마 인기의 핵심 요인으로 흔히 지적된다. 제작비나 배우 인기는 부차적 요소이며, 한국적 특색만으로는 타국 시청자의 호응을 설명하기 어렵다.
+
+### ANSWER
+B"
+KIIP_economy_41,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_42,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_43,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_44,Economy,0,A,A,"현금영수증은 소득공제 혜택을 받아 연말정산 시 세금을 줄일 수 있는 장점이 있습니다.
+
+### ANSWER
+A"
+KIIP_economy_45,Economy,0,A,A,"**A**
+
+### ANSWER
+A"
+KIIP_economy_46,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_47,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_48,Economy,0,A,A,"한국소비자원은 소비자 피해 구제 기관으로, 분쟁 발생 시 책임 소재를 밝히고 피해 보상을 받도록 돕는 역할을 합니다.
+
+### ANSWER
+A"
+KIIP_society_235,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_236,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_237,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_238,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_239,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_240,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_241,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_242,Society,0,B,B,"### ANSWER
+B"
+Kedu_tradition_7,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_8,Tradition,0,C,C,"습(襲)은 시신을 목욕시켜 옷을 입히는 것이고, 염(殮)은 시신을 묶어 입관하는 절차이므로 '습렴'이 해당된다.
+
+### ANSWER
+C"
+Kedu_tradition_9,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_10,Tradition,0,A,A,"비파는 현악기(발현악기)이며, 나발·나각·태평소는 모두 입으로 부는 취악기이다.
+
+### ANSWER
+A"
+Kedu_tradition_11,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_12,Tradition,0,D,D,"반상은 3첩, 5첩, 7첩, 9첩, 12첩(수라상)까지 있으며 15첩반상은 존재하지 않는다. 나머지 설명(반상기 구성, 진짓상 명칭, 첩수에 밥·국·김치·조치 등은 포함되지 않음)은 모두 옳다.
+
+### ANSWER
+D"
+Kedu_tradition_13,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_14,Tradition,0,C,C,"### ANSWER
+C"
+PSE_history_13_2,History,0,D,D,"영조는 속대전 편찬, 균역법 시행, 산림 부정 및 서원 정리 등을 추진했으며 탕평은 온건한 완론탕평이었다. 각 붕당의 시비를 명백히 가리는 적극적(준론) 탕평은 정조의 정책이다.
+
+### ANSWER
+D"
+PSE_history_13_3,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_4,History,0,A,A,"(가)는 1920년 경신참변, (나)는 1932년 이봉창 의거이다. 봉오동·청산리 전투는 경신참변 이전(1920년 가을)이며, 한국광복군(1940년대)과 동북항일연군(1936년 이후)은 (나) 이후이다. 조선혁명군은 1929년 국민부 산하로 남만주에서 창설되어 시기에 부합한다.
+
+### ANSWER
+A"
+PSE_history_13_5,History,0,A,A,"A는 조선 후기 붕당정치기에 재야 학자인 산림이 공론을 주도한 현상으로, 조선 전기 사림의 특징이 아니다. B·C·D는 향촌 자치와 왕도정치 추구, 3사 언관직 장악, 중소지주 출신으로 영남·기호 지방 기반이라는 전기 사림의 일반적 특징에 해당한다.
+
+### ANSWER
+A"
+PSE_history_13_6,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_7,History,0,D,D,"낙론(인물성동론)이 북학파의 이용후생 사상으로 이어졌고, 호론은 화이론적 명분론·위정척사로 이어졌으므로 D가 틀렸다.
+
+### ANSWER
+D"
+PSE_history_13_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_9,History,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_31,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_32,Textual,0,D,D,"(가)는 봄(춘일, 뻐꾸기)이라는 특정 계절을 배경으로 삼아 씨앗도 쥐가 먹어 버린 궁핍한 살림, 즉 화자의 가난한 처지를 부각하고 있다. 자연물의 나열이나 계절의 순환, 풍속 묘사가 중심은 아니다.
+
+### ANSWER
+D"
+CSAT_korean_22_33,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_34,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_5,Textual,0,A,A,"야채와 비타민이 한 병에 담겼다는 광고는 야채 주스 광고이다.
+
+### ANSWER
+A"
+TK_2016_6,Textual,0,B,B,"Advertisement for a special sale on water play/swimming goods indicates a retail store selling such products — a mart.
+
+### ANSWER
+B"
+TK_2016_7,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_8,Textual,0,B,B,"**### ANSWER
+B**"
+PSAT_17_12,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_13,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_14,Law,0,B,B,"### ANSWER
+B"
+PSAT_17_15,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_16,Law,0,B,B,"국무총리 해임건의는 재적의원 3분의 1 이상의 발의와 재적의원 과반수의 찬성으로 가능하므로 B가 틀렸다. 나머지는 헌법 규정과 일치한다.
+
+### ANSWER
+B"
+PSAT_17_17,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_18,Law,0,B,B,"국회는 헌법개정안이 공고된 날로부터 60일 이내에 의결해야 하므로 B가 틀렸다. A(제129조 이하 제128조), C(제130조 제2항), D(제129조)는 옳다.
+
+### ANSWER
+B"
+PSAT_17_19,Law,0,A,A,"### ANSWER
+A"
+KIIP_economy_49,Economy,0,A,A,"정부는 실업자를 위한 직업훈련·교육 프로그램과 고용보험 등 사회보장제도 확대를 추진한다.
+
+### ANSWER
+A"
+KIIP_economy_50,Economy,0,A,A,"근로기준법에 따라 사용자는 근로자와 근로계약서를 반드시 서면으로 작성·교부해야 하므로 법적 의무 사항이다. 이력서, 면접, 사진은 관행일 뿐 필수 법적 요건은 아니다.
+
+### ANSWER
+A"
+KIIP_economy_51,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_52,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_53,Economy,0,B,B,"여성의 경제 활동 참가율이 낮아 비경제활동인구로 분류되는 비중이 크고, 자영업자 비중이 높아 실업자로 집계되지 않기 때문에 실업률이 낮게 나타난다.
+
+### ANSWER
+B"
+KIIP_economy_54,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_55,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_56,Economy,0,A,A,"### ANSWER
+A"
+KIIP_popular_26,Pop Culture,0,A,A,"### ANSWER
+A"
+Kedu_popular_1,Pop Culture,0,A,A,"A는 잘못된 연결입니다. <서편제>는 상하이국제영화제에서 감독상·여우주연상을 받았고, 임권택의 칸영화제 감독상은 <취화선>입니다. 나머지는 모두 올바른 연결입니다.
+
+### ANSWER
+A"
+Kedu_popular_2,Pop Culture,0,C,C,"### ANSWER
+C"
+Kedu_popular_3,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_4,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_5,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_6,Pop Culture,0,B,B,"암살(2015)은 최동훈 감독의 오리지널 시나리오 영화이며, 타짜(허영만), 순정만화(강풀), 공포의 외인구단(이현세)은 모두 만화 원작이다.
+
+### ANSWER
+B"
+Kedu_popular_7,Pop Culture,0,A,A,"### ANSWER
+A"
+TK_2016_9,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_10,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_11,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_13,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_14,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_15,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_16,Textual,0,C,C,"### ANSWER
+C"
+KIIP_society_243,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_244,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_245,Society,0,B,B,"Based on Korean society research, the ""goose father"" phenomenon emerged with the early study-abroad boom following the liberalization of overseas education in the mid-to-late 1990s, so the increase began in the late 1990s.
+
+### ANSWER
+B"
+KIIP_society_246,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_247,Society,0,A,D,"평생교육은 학교 교육 이후에도 계속되는 교육으로, 형식 교육을 대체하는 것이 아니라 부족한 부분을 채워주고 확장하는 역할을 한다. 따라서 학교 교육을 보완하는 성격을 지닌다.
+
+### ANSWER
+D"
+KIIP_society_248,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_249,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_250,Society,0,C,C,"### ANSWER
+C"
+Kedu_14_1,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_2,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_3,Grammar,0,B,B,"접두사는 대개 한정적 기능만 하며 품사를 바꾸지 않는다(품사 변경은 주로 접미사의 기능). 나머지는 한국어의 형태론적 특징으로 옳다.
+
+### ANSWER
+B"
+Kedu_14_4,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_5,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_6,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_7,Grammar,0,B,B,"B: 저울은 ㅈ(구개음)과 ㄹ(치조음), 비열은 ㅂ(양순음)과 ㄹ(치조음)로 각 단어 내 자음의 조음 위치가 다릅니다. 조음 방법도 각각 파찰음/유음, 파열음/유음으로 다르며, 첫 음절 모음 ㅓ(중모음)와 ㅣ(고모음)의 혀 높이도 다르고, 둘째 음절 ㅜ(원순)와 ㅕ(평순)의 입술 모양도 다릅니다.
+
+### ANSWER
+B"
+Kedu_14_8,Grammar,0,A,A,"### ANSWER
+A"
+KIIP_economy_57,Economy,0,B,B,"### ANSWER
+B"
+Kedu_economy_1,Economy,0,C,C,"1970년대 한국은 수입대체가 아닌 수출주도형 중화학공업화를 추진했으므로 C가 옳지 않다.
+
+### ANSWER
+C"
+Kedu_economy_2,Economy,0,D,D,"Reasoning: The First Five-Year Economic Development Plan (1962–66) emphasized securing energy sources (electricity, coal), increasing agricultural productivity, expanding basic industries and infrastructure, and improving the balance of payments. Balanced development among income classes and regions to enhance national welfare was a goal of later plans (5th).
+
+### ANSWER
+D"
+CSAT_geography_06_2,Geography,0,E,E,"### ANSWER
+E"
+CSAT_geography_07_2,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_07_3,Geography,0,E,E,"### ANSWER
+E"
+CSAT_geography_07_4,Geography,0,B,B,"협재굴은 용암동굴로 기반암은 현무암이며, 위 사구층의 석회 성분이 스며들어 종유석·석순이 형성된 것이다. 따라서 기반암이 석회암이라는 추론은 옳지 않다. 나머지는 모두 타당한 설명이다.
+
+### ANSWER
+B"
+CSAT_geography_07_5,Geography,0,B,B,"장기간의 침식으로 지표 위로 화강암이 노출되어 넓게 분포하게 되었으므로 ᄂ 설명이 옳다. 남해안 구릉지는 용식과 무관하고, 대보 화강암은 중생대, 2차 산맥은 주로 중국 방향, 테라로사는 석회암 지대의 특징이다.
+
+### ANSWER
+B"
+TK_2016_17,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_18,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_19,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_20,Textual,0,A,A,"이웃과 관계를 끊고 단절되어 지낸다는 의미이므로 '담을 쌓고'가 적절합니다. 나머지는 상처를 주거나(못을 박고), 함께 의논하거나(머리를 맞대고), 굴복·인사(고개를 숙이고)의 뜻으로 문맥상 맞지 않습니다.
+
+### ANSWER
+A"
+TK_2016_21,Textual,0,B,D,"Three options (A, B, C) are all directly supported by the passage, so the question must ask which does not match; the text says plants, not pets, are being chosen for emotional comfort.
+
+### ANSWER
+D"
+TK_2016_22,Textual,0,D,D,"첫날 밀려드는 손님으로 미숙한 상태에서 땀이 흐른 것은 당황한 심정을 나타낸다.
+
+### ANSWER
+D"
+TK_2016_23,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_24,Textual,0,D,D,"### ANSWER
+D"
+PSE_history_13_10,History,0,A,A,"### ANSWER
+A"
+PSE_history_13_11,History,0,B,B,"1987년 6월 민주항쟁 관련 사건들로, 6·29 선언과 함께 9차 개헌으로 5년 단임 대통령 직선제가 실현되었다.
+
+### ANSWER
+B"
+PSE_history_13_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_13,History,0,C,C,"### ANSWER
+C"
+PSE_history_13_14,History,0,C,C,"### ANSWER
+C"
+PSE_history_13_15,History,0,A,A,"군국기무처(1894년 제1차 갑오개혁)로, 신식화폐발행장정을 통해 은본위 화폐제도를 채택했다. 재판소 설치와 사법권 분리는 제2차 갑오개혁, 지계 발급은 광무개혁, 의정부·삼군부 부활은 흥선대원군 개혁이다.
+
+### ANSWER
+A"
+PSE_history_13_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_17,History,0,C,C,"### ANSWER
+C"
+KIIP_society_251,Society,0,C,C,"평생교육 프로그램은 지역 주민을 위한 공공적 성격이 강해 수강료가 저렴하게 책정되는 경우가 많다. 완전 무료는 아니지만 일반 사설 학원 등에 비해 비교적 싼 편이다.
+
+### ANSWER
+C"
+KIIP_society_252,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_253,Society,0,D,D,"네이버 웹툰은 웹툰 연재 플랫폼(콘텐츠 서비스)으로 사용자 간 관계망 기반 소통 기능이 핵심인 SNS와는 성격이 다릅니다. 카카오톡, 트위터, 페이스북은 모두 소셜 네트워크 서비스로 분류됩니다.
+
+### ANSWER
+D"
+KIIP_society_254,Society,0,A,A,"KakaoTalk is the dominant messaging/social platform in Korea with near-universal adoption.
+
+### ANSWER
+A"
+KIIP_society_255,Society,0,B,B,"아파트 단지는 통상 수백 가구에서 수천 가구 규모로 건설되는 경우가 많습니다.
+
+### ANSWER
+B"
+KIIP_society_256,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_257,Society,0,A,A,"자가 거주는 본인이 소유한 주택에 거주하는 것을 의미한다. B는 전세, C는 월세, D는 보증부 월세에 해당한다.
+
+### ANSWER
+A"
+KIIP_society_258,Society,0,A,A,"### ANSWER
+A"
+Kedu_popular_8,Pop Culture,0,D,D,"### ANSWER
+D"
+Kedu_popular_9,Pop Culture,0,B,B,"천문(세종, 15세기) → 왕의 남자(연산군, 16세기 초) → 명량(1597 임진왜란) → 사도(영조·사도세자, 18세기) 순서이다.
+
+### ANSWER
+B"
+Kedu_popular_10,Pop Culture,0,D,D,"웹툰 원작: 미생(윤태호), 이태원 클라쓰(광진), 나빌레라(HUN·지민). <해를 품은 달>은 정은궐의 소설이 원작이다.
+
+### ANSWER
+D"
+Kedu_popular_11,Pop Culture,0,C,C,"### ANSWER
+C"
+Kedu_popular_12,Pop Culture,0,C,C,"C: <브로커>는 고레에다 히로카즈 감독 작품이며, 이준익(이준익) 감독은 <왕의 남자> 등을 연출했다. 나머지 연결은 모두 옳다.
+
+### ANSWER
+C"
+Kedu_popular_13,Pop Culture,0,D,D,"### ANSWER
+D"
+Kedu_popular_14,Pop Culture,0,D,D,"### ANSWER
+D"
+Kedu_popular_15,Pop Culture,0,D,D,"### ANSWER
+D"
+TK_2016_25,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_26,Textual,0,D,D,"Overproduction of cabbage means too much was produced, causing prices to fall and farmers to sigh with difficulty.
+
+### ANSWER
+D"
+TK_2016_27,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_28,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_29,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_30,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_31,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_32,Textual,0,D,D,"The passage states people are renovating living rooms or bathrooms to make home a resting space.
+
+### ANSWER
+D"
+PSE_history_13_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_19,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_3,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_4,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_6,History,0,B,B,"석장리 유적은 1964년 남한에서 발굴된 최초의 구석기 유적이고, 웅기 굴포리 유적은 1963년 북한에서 발굴되어 구석기 시대 존재를 확인시켰다.
+
+### ANSWER
+B"
+KIIP_society_259,Society,0,D,D,"월세 거주 시에는 보증금, 월세, 관리비가 발생하지만, 전세금은 전세 계약에서 발생하는 비용이다.
+
+### ANSWER
+D"
+KIIP_society_260,Society,0,A,A,"A 선택: 저금리로 전세의 월세 전환이 가속되어 월세 비중이 증가하고, 전세와 월세가 결합된 반전세(보증부 월세)가 늘어나는 추세였다.
+
+### ANSWER
+A"
+KIIP_society_261,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_262,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_263,Society,0,B,B,"전세는 큰 보증금을 맡기고 월 임대료를 내지 않는 방식이며, 월세는 상대적으로 적은 보증금에 매월 임대료를 낸다. 따라서 보증금이 더 많은 것은 전세다.
+
+### ANSWER
+B"
+KIIP_society_264,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_265,Society,0,A,A,"주택법상 한국의 주택은 크게 단독주택과 공동주택(아파트, 연립주택, 다세대주택)으로 구분된다.
+
+### ANSWER
+A"
+KIIP_society_266,Society,0,D,D,"아파트 거주 가구 수가 2000년대 중반부터 단독주택을 넘어 가장 많아졌다.
+
+### ANSWER
+D"
+KIIP_society_1,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_2,Society,0,B,B,"1919년 임시정부 명칭이 기원이지만 선택지에 없으므로, 정부 수립으로 국호가 공식 사용된 1948년이 정답이다.
+
+### ANSWER
+B"
+KIIP_society_3,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_4,Society,0,D,D,"Taegukgi consists of white background, red and blue taeguk, and four black trigrams — no yellow star.
+
+### ANSWER
+D"
+KIIP_society_5,Society,0,A,A,"흰색 바탕은 밝음과 순수, 그리고 전통적으로 평화를 사랑하는 민족성을 상징한다.
+
+### ANSWER
+A"
+KIIP_society_6,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_7,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_8,Society,0,A,A,"태극기의 흰색 바탕은 평화, 태극 문양의 음양은 조화와 균형을 상징하므로 평화와 화합의 가치를 강조한다.
+
+### ANSWER
+A"
+Kedu_14_9,Grammar,0,A,A,"A: 지위(ㅣ, ㅟ)와 구름(ㅜ, ㅡ)은 모두 고모음이다. B의 통근(ㅗ 중모음, ㅡ 고모음), C의 서울(ㅓ 중, ㅜ 고), D의 방송(ㅏ 저, ㅗ 중)은 혀 높이가 다르다.
+
+### ANSWER
+A"
+Kedu_14_10,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_11,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_12,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_13,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_14,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_15,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_16,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_tradition_15,Tradition,0,A,A,"오금당기기는 손을 사용해 상대의 오금을 당기는 손 기술에 속하며, 발 기술에는 밭다리걸기·안다리걸기 등이 포함된다. 앞무릎치기는 손 기술, 들배지기는 허리 기술로 옳게 연결되었다.
+
+### ANSWER
+A"
+Kedu_tradition_16,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_17,Tradition,0,C,C,"C의 온 집안에 등불을 켜고 밤을 새우는 '수세(守歲)' 풍속은 동지가 아니라 섣달그믐(제석)의 풍속이다. 동지는 아세(작은설)로 불리며 양력 12월 22일경 태양의 황도에 따른 절기이고, 팥죽을 대문·벽에 뿌려 액을 막았다.
+
+### ANSWER
+C"
+Kedu_tradition_18,Tradition,0,B,B,"십장생은 해, 산, 물(시내), 돌, 구름, 소나무, 대나무, 불로초, 거북, 학, 사슴 등으로 구성되며, 용은 상상의 동물로 십장생에 포함되지 않는다.
+
+### ANSWER
+B"
+Kedu_tradition_19,Tradition,0,D,D,"오신채는 마늘, 파, 부추, 달래, 흥거로, 고추는 포함되지 않는다.
+
+### ANSWER
+D"
+Kedu_tradition_20,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_21,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_22,Tradition,0,A,A,"### ANSWER
+A"
+TK_2016_33,Textual,0,C,C,"시민들이 자발적으로 문화·역사적 가치가 높은 자산을 지키기 위한 운동을 시작했고, 매화마름 보존 등 성과가 나타났다고 했으므로 C가 일치한다.
+
+### ANSWER
+C"
+TK_2016_34,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_35,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_36,Textual,0,C,C,"Text says to develop 고독력, one must practice facing loneliness without fear.
+
+### ANSWER
+C"
+TK_2016_37,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_38,Textual,0,B,C,"### ANSWER
+C"
+TK_2016_39,Textual,0,B,C,"The 보기 sentence begins with ""그리고"" and continues the thought about feeling ashamed of past failures, leading to receiving courage — so it fits right after that sentence, at ㉢.
+
+### ANSWER
+C"
+TK_2016_40,Textual,0,B,B,"### ANSWER
+B"
+CSAT_geography_07_6,Geography,0,E,E,"Only E has both a correct concept definition (suburbanization = spread of central city population/functions to surrounding areas) and a relevant investigation topic (decline of farmland in the capital region as urban expansion consumes agricultural land). A's investigation (green space in Seoul's CBD) doesn't support multi-nucleation; B misdefines bed towns; C reverses deindustrialization; D misdefines heat island.
+
+### ANSWER
+E"
+CSAT_geography_09_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_09_3,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_09_4,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_09_5,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_10_2,Geography,0,A,A,"### ANSWER
+A"
+CSAT_geography_10_3,Geography,0,B,B,"石灰岩(A)地域은 용식와지(돌리네)가 발달하고, 석회암·현무암 지역 모두 배수가 잘 되어 건천이 나타난다. 토양은 석회암 지역이 붉은색, 현무암 지역이 흑갈색이므로 ㄴ은 반대이다. 석회동굴은 외인적 작용(용식)으로 형성되므로 ㄹ도 틀리다.
+
+### ANSWER
+B"
+CSAT_geography_10_4,Geography,0,D,D,"### ANSWER
+D"
+PSAT_17_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_21,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_22,Law,0,D,D,"헌법 제33조 제3항은 주요방위산업체 근로자의 '단체행동권'을 제한할 수 있다고 규정하므로, 단체교섭권이라 한 D가 틀렸다. A, B, C는 각각 헌재 판례와 헌법 제23조 제3항, 제37조 제2항에 부합한다.
+
+### ANSWER
+D"
+PSAT_17_23,Law,0,A,A,"선택지 A는 내용이 불완전하며, 나머지 B·C·D는 헌재가 합헌으로 판단한 사례들에 해당한다. A는 재판청구권 침해로 위헌이라는 결론을 제시하는데, 이는 헌재 결정 취지와 어긋나는 진술로 보인다. 따라서 옳지 않은 설명은 A이다.
+
+### ANSWER
+A"
+PSAT_17_24,Law,0,D,D,"헌재는 유니온샵 조항(2/3 이상 대표 노조의 조직강제)이 근로자의 단결하지 않을 자유를 침해하지 않아 합헌이라고 결정했으므로, D는 틀린 설명이다. A, B, C는 모두 헌재 결정 취지에 부합한다.
+
+### ANSWER
+D"
+PSAT_17_25,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_1,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_2,Law,0,A,A,"### ANSWER
+A"
+PSE_history_14_7,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_9,History,0,A,A,"고려는 당률을 기본으로 하되 실제 운용은 관습법과 고려 실정에 맞게 조정했다. 행정과 사법은 분리되지 않았고, 형벌은 태·장·도·유·사의 5형 체계였으며 실형주의가 기본이었다.
+
+### ANSWER
+A"
+PSE_history_14_10,History,0,D,D,"향리는 과거 응시 등을 통해 양반으로 신분 상승이 가능했으므로, 그 길이 막혀 있었다는 설명은 옳지 않다. 남반·서리·하급 장교는 모두 중간계층에 해당한다.
+
+### ANSWER
+D"
+PSE_history_14_11,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_14_14,History,0,A,A,"### ANSWER
+A"
+KIIP_society_267,Society,0,D,D,"도시화로 인구가 집중되면서 좁은 토지에 많은 세대를 수용할 수 있는 고층 아파트가 급증했다.
+
+### ANSWER
+D"
+KIIP_society_268,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_269,Society,0,B,B,"B is the standard explanation: apartments in Korea are preferred for convenient transportation and various amenities/facilities.
+
+### ANSWER
+B"
+KIIP_society_270,Society,0,B,B,"집값이 지나치게 높아 서민의 소득 대비 구입이 어렵다는 점이 대도시 주거난의 핵심 원인으로 지적된다.
+
+### ANSWER
+B"
+KIIP_society_271,Society,0,A,A,"A
+
+### ANSWER
+A"
+KIIP_society_272,Society,0,A,B,"공공임대주택 정책처럼 저소득층에게 시세보다 낮은 임대료로 거주를 지원하는 방식이 대표적인 정책이다.
+
+### ANSWER
+B"
+KIIP_society_273,Society,0,D,D,"단기경매주택은 정부 주택 정책 명칭이 아니며, 나머지는 실제 공공주택 정책이다.
+
+### ANSWER
+D"
+KIIP_society_274,Society,0,B,B,"### ANSWER
+B"
+TK_2016_41,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_42,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_43,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_44,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_45,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_46,Textual,0,B,D,"본문은 정부 투자 결정으로 드론 산업이 본격화되어 대중화 시기가 앞당겨질 것이라 했으므로 D가 일치한다. 악용 방지 기술 투자는 아직 당부하는 내용이므로 A는 틀리고, 논란이 잠잠해졌다는 언급도 없다.
+
+### ANSWER
+D"
+TK_2016_47,Textual,0,D,D,"Reasoning: The passage ends by urging cities to prepare creative business support measures suited to their own conditions, emphasizing local specificity in creating economic environments. That matches D.
+
+### ANSWER
+D"
+TK_2016_48,Textual,0,D,D,"### ANSWER
+D"
+Kedu_14_17,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_18,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_19,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_20,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_21,Grammar,0,C,C,"객체 높임(드리다, 여쭈다, 뵙다)과 달리 '잡숫다'는 주체(할아버지)를 높이는 주체 높임 어휘이다.
+
+### ANSWER
+C"
+Kedu_14_22,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_23,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_24,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_tradition_23,Tradition,0,C,C,"설문대할망 전설은 제주도에만 전승되는 지역 특정 전설이며, 아기장수·장자못·오뉘힘내기 전설은 전국적으로 널리 분포하는 광포전설이다.
+
+### ANSWER
+C"
+Kedu_tradition_24,Tradition,0,D,D,"동해안별신굿은 세습무(무당 집안 계승)가 주관하며 풍어제·골매기당제 등으로 불린다. 제주 '심방'은 성별 구분 없는 무당 호칭이고, 허주굿은 잡귀(허주)를 몰아내는 의식이며, 하회탈놀이는 마을 서낭제의의 일부로 행해졌다.
+
+### ANSWER
+D"
+Kedu_tradition_25,Tradition,0,C,C,"판소리는 진양조~휘모리 등 다양한 장단을 활용하며, 아니리는 말로 하는 부분, 발림은 몸짓 연기다. 신재효는 여섯 바탕(변강쇠가 포함)으로 정리했으므로 ㄹ은 틀리다.
+
+### ANSWER
+C"
+Kedu_tradition_26,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_27,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_28,Tradition,0,C,C,"처용가는 ""서울 밝은 달에…""(A), 처용 형상으로 재액을 물리친다는 내용(B), 헌강왕과 망해사 창건 기록(D)과 연결된다. C는 충담사의 「안민가」 내용으로 처용과 무관하다.
+
+### ANSWER
+C"
+Kedu_tradition_29,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_30,Tradition,0,A,A,"### ANSWER
+A"
+PSAT_18_3,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_4,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_6,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_7,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_8,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_10,Law,0,D,D,"헌법 제57조에 따라 국회는 정부의 동의 없이 지출예산 각항의 금액을 증액하거나 새 비목을 설치할 수 없다. A는 예비비는 총액으로 의결하고 지출은 차기 국회의 승인을 받아야 하므로 틀리고, B는 예산안 제출권이 정부에만 있으므로 틀리며, C는 준예산으로 전년도 예산에 준하여 집행하므로 틀리다.
+
+### ANSWER
+D"
+PSAT_18_11,Law,0,C,C,"### ANSWER
+C"
+CSAT_geography_11_2,Geography,0,D,E,"### ANSWER
+E"
+CSAT_geography_11_3,Geography,0,A,E,"### ANSWER
+E"
+CSAT_geography_12_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_13_2,Geography,0,A,A,"A는 저차 중심지인 읍·면이 중소 도시보다 배후지가 좁으므로 옳지 않다. 나머지는 중심지 이론에 부합한다.
+
+### ANSWER
+A"
+CSAT_geography_15_2,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_16_2,Geography,0,A,A,"### ANSWER
+A"
+CSAT_geography_16_3,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_17_2,Geography,0,A,A,"### ANSWER
+A"
+KIIP_society_275,Society,0,A,A,"주택 정책(공공임대·공공분양 등)의 대표적 이점은 주변 시세보다 저렴하게 주택을 임대하거나 분양받을 수 있다는 점입니다. 임대료나 집값 자체를 직접 낮추거나 주택 수량 증가는 부수적 효과에 해당합니다.
+
+### ANSWER
+A"
+KIIP_society_276,Society,0,A,A,"전입신고는 새로운 거주지로 이사한 사실을 관할 관청에 신고하여 주민등록부에 기록하는 것이다.
+
+### ANSWER
+A"
+KIIP_society_277,Society,0,B,B,"주택임대차 계약서에 대해 공적으로 그 계약이 이루어진 날짜를 확인·증명해 주는 것이 확정일자이며, 이는 우선변제권 확보를 위한 기준이 됩니다.
+
+### ANSWER
+B"
+KIIP_society_278,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_279,Society,0,A,A,"손 없는 날은 손(귀신)이 없어 해가 없다는 날로, 이사나 개업 등 중요한 일을 하기에 좋은 날로 여겨진다.
+
+### ANSWER
+A"
+KIIP_society_280,Society,0,B,B,"음력 끝자리 9, 0인 날에는 손(방해하는 귀신)이 하늘로 올라가 어느 방향에도 없다고 하여 이사·개업 등에 길일로 여긴다.
+
+### ANSWER
+B"
+KIIP_society_281,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_282,Society,0,B,B,"이사할 때 짐이 많고 시간이 부족하면 포장부터 운반, 정리까지 대신 해주는 포장이사 서비스가 편리하다.
+
+### ANSWER
+B"
+KIIP_society_9,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_10,Society,0,B,B,"대한민국의 국가는 ""애국가""이다.
+
+### ANSWER
+B"
+KIIP_society_11,Society,0,C,C,"애국가는 4절로 구성되어 있으며, 각 절 뒤에 후렴이 붙는다.
+
+### ANSWER
+C"
+KIIP_society_12,Society,0,C,C,"국기에 대한 경례, 즉 태극기에 경례한다.
+
+### ANSWER
+C"
+KIIP_society_13,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_14,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_15,Society,0,B,B,"애국가의 가사는 19세기 말~20세기 초(대한제국 시기)에 만들어져 사용되기 시작했으므로 약 100년 전으로 보는 것이 적절하다.
+
+### ANSWER
+B"
+KIIP_society_16,Society,0,B,B,"애국가(愛國歌)는 '나라를 사랑하는 노래'라는 뜻입니다.
+
+### ANSWER
+B"
+TK_2016_49,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_5,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_6,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_7,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_8,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_9,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_11,Textual,0,B,B,"Passage says those who watch alone can focus on the performance without worrying about companions — matches B.
+
+### ANSWER
+B"
+PSE_history_14_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_16,History,0,A,A,"정약전은 1801년 신유사옥(신유박해) 때 흑산도로 유배되어 『자산어보』를 저술했다. 기해사옥은 1839년의 일이므로 시기가 맞지 않는다. 나머지 안정복의 『천학문답』, 윤지충의 진산사건(1791), 황사영 백서 사건은 모두 옳다.
+
+### ANSWER
+A"
+PSE_history_14_17,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_18,History,0,D,D,"3·1운동에 관한 내용이며, 파리강화회의에는 신규식이 아니라 김규식이 대표로 파견되었다. 또한 이는 3·1운동 이전(1919년 초) 신한청년당 파견이므로 시기적으로도 맞지 않다.
+
+### ANSWER
+D"
+PSE_history_14_19,History,0,D,D,"4.19 혁명 후 허정 과도 정부가 수립되고 내각 책임제와 양원제를 핵심으로 한 개헌이 이루어져 제2공화국이 출범했다. A와 B는 1948~50년의 일이며, C는 혁명 후 통일 논의가 활발했으므로 틀리다.
+
+### ANSWER
+D"
+PSE_history_15_1,History,0,D,D,"향·부곡·소의 주민은 일반 군현민보다 더 많은 조세와 역의 부담을 졌으며 신분적으로 차별받았으므로 D가 옳지 않다. 이의민은 천민 출신으로 최고 권력자가 되었고, 외거노비는 재산 축적이 가능했으며, 향리 자제는 과거를 통해 신분 상승이 가능했다.
+
+### ANSWER
+D"
+PSE_history_15_2,History,0,D,D,"D는 조선 후기(17세기 이후) 향촌 지배 방식으로, 전기 사림은 소학 보급·향사례·향음주례·향회 등을 통해 향촌을 주도했다.
+
+### ANSWER
+D"
+PSE_history_15_3,History,0,B,B,"공음전은 고려 시대 5품 이상 관료에게 지급된 세습 토지로, 조선의 과전법과는 무관한 제도이다. 나머지는 과전법과 그 변화(수신전·휼양전, 직전법, 관수관급제)에 대한 옳은 설명이다.
+
+### ANSWER
+B"
+TK_2017_12,Textual,0,A,A,"Cats and dogs are famously at odds (가), the reason being different interpretations of expressions (라), example of dog raising paw meaning play (나), and the cat misreading it as attack (다).
+
+### ANSWER
+A"
+TK_2017_13,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_14,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_15,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_16,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_17,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_18,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_19,Textual,0,A,A,"### ANSWER
+A"
+Kedu_14_25,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_26,Grammar,0,D,D,"ㅎ 불규칙 활용(커다랗다 → 커다래)은 어간의 ㅎ이 탈락하고 어미도 함께 바뀌는, 어간과 어미가 모두 변하는 불규칙이다. 흐르다는 르 불규칙(어간만), 일컫다는 ㄷ 불규칙(어간만), 푸르다는 러 불규칙(어미만)이다.
+
+### ANSWER
+D"
+Kedu_14_27,Grammar,0,C,C,"첫 문장의 ‘오늘은’은 조사 ‘은’이 붙은 명사이고, 두 번째 ‘오늘 할 일’의 ‘오늘’은 부사적으로 쓰인 것이므로 설명이 뒤바뀌었습니다. 나머지 ㄱ, ㄴ, ㄹ의 설명은 옳습니다.
+
+### ANSWER
+C"
+Kedu_14_28,Grammar,0,A,A,"ㄱ의 '-어 있다'는 결과 상태의 지속을 나타내는 완료상이며, '-었-'은 과거 시제이다. ㄴ은 현재 시제, ㄷ은 진행상, ㄹ은 과거 진행이므로 모두 틀렸다.
+
+### ANSWER
+A"
+Kedu_14_29,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_30,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_31,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_32,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_society_17,Society,0,C,C,"국가 행사에서는 국민의례로 국기에 대한 경례를 한다.
+
+### ANSWER
+C"
+KIIP_society_18,Society,0,A,A,"국기에 대한 맹세문은 ""조국과 민족의 무궁한 영광을 위하여 충성을 다할 것을 굳게 맹세합니다""이므로 '무궁한 영광'이 정답이다.
+
+### ANSWER
+A"
+KIIP_society_19,Society,0,A,A,"애국가는 4절까지 있으나, 중요한 국가 행사가 아닌 일반적인 경우에는 보통 1절만 부른다.
+
+### ANSWER
+A"
+KIIP_society_20,Society,0,A,A,"Aegukga's composer is Ahn Eak-tai (안익태), who wrote the Korea Fantasy; the others are poets/writers.
+
+### ANSWER
+A"
+KIIP_society_21,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_22,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_23,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_24,Society,0,C,C,"### ANSWER
+C"
+Kedu_tradition_31,Tradition,0,C,C,"백로(9월)→추분→한로→상강 순서가 24절기 배열과 일치한다. A는 처서가 백로보다 앞서고, B는 곡우가 망종보다 앞서며, D도 순서가 어긋난다.
+
+### ANSWER
+C"
+Kedu_tradition_32,Tradition,0,A,A,"연길은 신부 측에서 혼인 날짜를 택하여 택일단자를 신랑 집으로 보내는 절차이므로, 신랑 집에서 신부 집으로 보낸다는 설명은 방향이 뒤바뀐 것이다. 초행, 동상례, 신행의 설명은 모두 옳다.
+
+### ANSWER
+A"
+Kedu_tradition_33,Tradition,0,B,A,"### ANSWER
+A"
+Kedu_tradition_34,Tradition,0,A,B,"### ANSWER
+B"
+Kedu_tradition_35,Tradition,0,A,B,"### ANSWER
+B"
+Kedu_tradition_36,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_37,Tradition,0,A,A,"누마루는 다락처럼 높게 설치하여 지면의 습기를 피하고 통풍이 잘 되게 한 마루로, 주로 사랑채 가장자리에 위치합니다.
+
+### ANSWER
+A"
+Kedu_tradition_38,Tradition,0,B,B,"### ANSWER
+B"
+TK_2017_20,Textual,0,D,D,"맥락상 학교생활을 소홀히 하면서 분별없이 연예인만 쫓아다닌다는 의미이므로, '앞뒤를 가리지 않고'가 알맞다.
+
+### ANSWER
+D"
+TK_2017_21,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_22,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_23,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_25,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_26,Textual,0,D,D,"D — The headline says drama music captivates viewers and boosts ratings.
+
+### ANSWER
+D"
+TK_2017_27,Textual,0,C,C,"### ANSWER
+C"
+PSAT_18_12,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_13,Law,0,C,C,"C는 대법관 경력자와 헌법재판관 경력자 모두 상호 임명이 가능하므로 틀린 설명이다. A, B, D는 헌법 규정(제104조, 제111조, 제105조, 제112조)에 부합한다.
+
+### ANSWER
+C"
+PSAT_18_14,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_15,Law,0,D,D,"언론중재법상 반론보도청구권은 보도내용의 진실 여부와 무관하게 사실적 주장에 관한 보도로 피해를 입은 자가 행사할 수 있으므로, 진실한 보도라도 반론보도 청구가 가능하다. 따라서 D가 옳지 않다. A, B, C는 모두 판례의 입장과 일치한다.
+
+### ANSWER
+D"
+PSAT_18_16,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_17,Law,0,D,D,"### ANSWER
+D"
+PSAT_18_18,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_19,Law,0,B,B,"### ANSWER
+B"
+KIIP_society_283,Society,0,C,D,"### ANSWER
+D"
+KIIP_society_284,Society,0,A,A,"Korea's main housing occupancy forms are ownership (자가), jeonse (lump-sum deposit lease), and monthly rent (월세); 반전세 is a hybrid variant, not a primary category.
+
+### ANSWER
+A"
+Kedu_Society_1,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_2,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_3,Society,0,A,D,"### ANSWER
+D"
+Kedu_Society_4,Society,0,D,B,"### ANSWER
+B"
+Kedu_Society_5,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_6,Society,0,A,A,"### ANSWER
+A"
+PSE_history_15_4,History,0,B,B,"### ANSWER
+B"
+PSE_history_15_5,History,0,C,C,"신석기 시대 설명이며, 사유재산·환호·다목적 집자리는 청동기 시대 특징이다. 신석기 유적에서 흑요석이 출토되어 원거리 교역이 있었음을 알 수 있다.
+
+### ANSWER
+C"
+PSE_history_15_6,History,0,C,C,"환국(換局)정치는 숙종 대(조선 후기)의 현상으로, 조선 전기 중앙 정치 설명으로 부적절하다. 붕당 형성, 삼사의 견제 기능, 인사 행정 제도의 정비는 조선 전기 정치 특징에 해당한다.
+
+### ANSWER
+C"
+PSE_history_15_7,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_8,History,0,A,A,"원효는 일심 사상으로 화쟁을 시도했고, 의상은 화엄 사상을 정립했다. 원효는 아미타(정토) 신앙을 전파하여 불교 대중화에 기여했으며, 미륵 신앙 전파는 그의 활동으로 보기 어렵다. 무애가 유포는 원효, 관음·아미타 신앙 수용과 도성 정비 반대 조언은 의상의 사실에 해당한다.
+
+### ANSWER
+A"
+PSE_history_15_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_10,History,0,C,C,"C: 5소경의 장관은 사신(仕臣)이며, 도독은 주(州)의 장관이므로 틀린 설명이다. 9주 5소경은 신문왕 때 정비되었고, 외사정은 주에 파견된 감찰관이며, 향·부곡은 특수 행정구역으로 존재했다.
+
+### ANSWER
+C"
+PSE_history_15_11,History,0,A,A,"광학보(光學寶)는 고려 태조가 설치한 불교 승려의 장학·불법 학습을 위한 재단으로, 농민 자제의 과거 준비 기금이 아니다. 나머지는 모두 고려의 권농 정책에 해당한다.
+
+### ANSWER
+A"
+KIIP_society_25,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_26,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_27,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_28,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_29,Society,0,C,C,"무궁화는 한국의 국화로서 나라를 상징하는 꽃이다.
+
+### ANSWER
+C"
+KIIP_society_30,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_31,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_32,Society,0,C,C,"무궁화 꽃이 활짝 핀 모양(꽃 문양)은 대한민국 정부를 상징하는 표장으로 사용되고 있다. 국기는 태극기, 국가는 애국가이다.
+
+### ANSWER
+C"
+TK_2017_28,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_29,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_30,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_31,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_32,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_33,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_34,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_35,Textual,0,B,B,"The passage focuses on the leader bird needing experience to find optimal routes and judgment to handle crises.
+
+### ANSWER
+B"
+Kedu_Society_7,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_8,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_9,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_10,Society,0,C,C,"C: 조선 태조가 1394년 한양으로 천도했으므로 정도 600년은 1994년이다.
+
+### ANSWER
+C"
+Kedu_Society_11,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_12,Society,0,D,C,"기초노령연금법은 2007년 제정되었으나 2014년 기초연금법으로 대체되어 폐지되었으므로 ""현재 시행되고 있다""는 설명은 옳지 않다. 나머지 재정 부담 증가, 노인 빈곤·소외·자살 등의 문제는 고령화의 실제 결과로 옳은 내용이다.
+
+### ANSWER
+C"
+Kedu_Society_13,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_14,Society,0,D,D,"재택근무제는 오히려 육아와 일의 병행을 돕는 제도로, 저출산의 원인과는 관련이 적다. 반면 개인주의 확산, 과도한 양육비, 맞벌이 증가는 출산 기피 요인으로 자주 거론된다.
+
+### ANSWER
+D"
+Kedu_tradition_39,Tradition,0,D,D,"박첨지놀음에는 상좌중이 피조리(여인들)와 어울려 춤추는 장면이 있어 파계승을 풍자한다. 대잡이는 인형을 조종하는 사람이고, 반주자는 산받이·잽이이며, 고정된 대본 없이 구전되었고 유네스코 기록유산이 아니다.
+
+### ANSWER
+D"
+Kedu_tradition_40,Tradition,0,D,D,"하례(賀禮)는 축하하는 예로 경사와 관련되며, 부의·근조·추모는 모두 상례·죽음과 관련된 표현이다.
+
+### ANSWER
+D"
+Kedu_tradition_41,Tradition,0,A,A,"판소리 장단은 느린 진양조에서 중모리, 중중모리, 자진모리, 휘모리로 점차 빨라진다. 목을 풀기 위한 노래는 단가(허두가)이며, 발림은 창자가, 추임새는 고수가 하고, 콩쥐팥쥐는 판소리 12마당에 없다.
+
+### ANSWER
+A"
+Kedu_tradition_42,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_43,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_44,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_45,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_46,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_society_33,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_34,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_35,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_36,Society,0,C,C,"천지인(하늘·땅·사람) 삼재를 본떠 모음을 만들었다.
+
+### ANSWER
+C"
+KIIP_society_37,Society,0,C,C,"한글 기본 자음은 14개, 기본 모음은 10개로 총 24개입니다.
+
+### ANSWER
+C"
+KIIP_society_38,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_39,Society,0,A,A,"UNESCO created the King Sejong Literacy Prize (세종대왕 문해상) in 1989 to honor the achievement of Hangeul and promote literacy worldwide.
+
+### ANSWER
+A"
+KIIP_society_40,Society,0,A,A,"천지인은 하늘(ㆍ), 땅(ㅡ), 사람(ㅣ) 세 요소를 조합해 한글 모음을 만들고 자음을 구성하는 대표적인 휴대폰 한글 입력 자판입니다.
+
+### ANSWER
+A"
+TK_2017_36,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_37,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_38,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_39,Textual,0,D,D,"The <보기> sentence is a concluding interpretation (""작가는 …담고 싶었던 것이다""), which summarizes the writer's intent, so it best fits at the end of the passage after the supporting details are presented.
+
+### ANSWER
+D"
+TK_2017_40,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_41,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_42,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_43,Textual,0,C,C,"Universal design considers diverse groups so everyone can live without discrimination — that's the main theme.
+
+### ANSWER
+C"
+PSE_history_15_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_13,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_15_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_15_16,History,0,D,D,"균역법(양역 1필 감축)은 영조 대의 정책이며, 영조는 붕당의 시비를 가리지 않고 붕당 자체를 없애자는 논리에 동조하는 관료들을 등용하여 완론탕평을 추진했다.
+
+### ANSWER
+D"
+PSE_history_15_17,History,0,A,A,"중인(의관·역관 등 기술직 중인)의 통청운동에 해당한다.
+
+### ANSWER
+A"
+PSE_history_15_18,History,0,C,C,"건준위는 1945년 8월 광복 직후 조직되어 (나)의 독립촉성중앙협의회 발족(1945년 10월)보다 앞선다. 좌우합작 7원칙(1946), 김구의 글(1948.2), 유엔 총회 결의(1947.11)는 모두 (나)와 (라) 사이에 해당한다.
+
+### ANSWER
+C"
+PSE_history_16_1,History,0,C,C,"삼국사기(가)는 유교적 합리주의·신라 계승의식, 삼국유사(나)는 단군신화 수록으로 민족적 자주의식을 고양했습니다.
+
+### ANSWER
+C"
+CSAT_geography_17_3,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_18_2,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_19_2,Geography,0,A,A,"### ANSWER
+A"
+CSAT_geography_19_3,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_20_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_21_2,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_22_2,Geography,0,D,C,"### ANSWER
+C"
+CSAT_geography_22_3,Geography,0,C,C,"### ANSWER
+C"
+PSAT_18_20,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_21,Law,0,D,D,"### ANSWER
+D"
+PSAT_18_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_23,Law,0,B,B,"B는 순서가 뒤바뀐 설명입니다. 헌법상 행정각부의 장이 국무위원 중에서 국무총리의 제청으로 대통령이 임명되는 것이며, 국무위원은 국무총리의 제청으로 대통령이 임명합니다. A는 국무총리가 국무회의 부의장이며 국무위원은 아니라는 점에서 옳고, C·D도 헌법 규정에 부합합니다.
+
+### ANSWER
+B"
+PSAT_18_24,Law,0,A,A,"국회법 제15조에 따라 의장·부의장은 무기명투표로 재적의원 과반수의 득표로 당선되므로, ""재적의원 과반수 출석과 출석의원 과반수 득표""라는 A의 서술은 틀렸다. 나머지는 국회법의 수정동의(30인, 예산안 50인), 표결방법(재적 1/5 이상 요구), 회의 비공개(의원 10인 이상 연서 동의) 규정과 일치한다.
+
+### ANSWER
+A"
+PSAT_18_25,Law,0,B,B,"B는 헌법 제114조 제6항의 ""법률에 저촉되지 아니하는 범위 안에서 내부규율에 관한 규칙 제정""을 ""법령에 저촉되지 아니하는 범위""로 잘못 서술하고 있다. A(4종의 위원회), C(국회의원선거구획정위원회의 독립적 지위), D(위원장의 표결권 및 가부동수 시 결정권)는 모두 옳다.
+
+### ANSWER
+B"
+PSAT_19_1,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_2,Law,0,C,C,"### ANSWER
+C"
+KIIP_society_41,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_42,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_43,Society,0,A,A,"한글 창제는 문자 보급과 지식 확산을 통해 문학·기록문화 등 전반적인 문화 발전을 이끌었다.
+
+### ANSWER
+A"
+KIIP_society_44,Society,0,C,C,"초혼 연령이 지속적으로 상승하는 추세입니다.
+
+### ANSWER
+C"
+KIIP_society_45,Society,0,B,A,"1980년대 한국의 합계출산율은 약 1.6~2.8명 수준으로 급격히 감소했고, 가족계획 정책(""하나만 낳아 잘 기르자"")의 영향으로 대부분 1~2명의 자녀를 두었다.
+
+### ANSWER
+A"
+KIIP_society_46,Society,0,A,A,"한국의 전통적 가족 구조에서 장남이 부모를 모시고 함께 사는 관습이 1980년대에도 지속되었다.
+
+### ANSWER
+A"
+KIIP_society_47,Society,0,B,A,"1980년대 한국은 산업화와 도시화가 진행되며 부부와 자녀로 구성된 핵가족이 보편적 형태로 자리 잡았다.
+
+### ANSWER
+A"
+KIIP_society_48,Society,0,A,A,"A에 해당하는 변화가 일어났다. 산업화·도시화로 자녀들이 일자리를 찾아 도시로 이동하며 부모와 분리된 핵가족이 증가했고, 대가족은 축소되었으며 1인 가구는 오히려 늘어났다.
+
+### ANSWER
+A"
+Kedu_tradition_47,Tradition,0,C,C,"시나위는 무속음악에서 유래한 남도 민속 기악합주곡으로, 심방곡(신방곡)이라 불리며 무대화된 기악합주 형태로 발전했다. 정악이나 당악은 궁중·상류층 음악 계통이므로 민속악인 시나위와는 분류가 다르다.
+
+### ANSWER
+C"
+Kedu_tradition_48,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_49,Tradition,0,D,D,"창극은 판소리를 바탕으로 여러 명의 창자가 각각 배역을 나누어 연기하고 노래하는 극 양식이다. <장한몽>은 신파극 작품이며, 창극은 일본 근대극이 아닌 판소리 전통에서 발전했고 해방 이후에도 국립창극단 등을 통해 이어졌다.
+
+### ANSWER
+D"
+Kedu_tradition_50,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_51,Tradition,0,D,D,"금줄치기는 출산·신성 공간 표시 풍속이고 팥죽 쑤기는 동지의 풍속으로, 윤달의 대표 풍속과는 무관하다. 윤달에는 이사, 묘지 이장, 수의 마련, 절 참배 등이 행해졌다.
+
+### ANSWER
+D"
+Kedu_tradition_52,Tradition,0,D,D,"강릉관노가면극은 대사 없이 몸짓과 춤으로만 진행되는 유일한 무언극(묵극)으로 알려져 있다. 봉산탈춤, 고성오광대, 하회별신굿탈놀이는 모두 재담과 대사가 있다.
+
+### ANSWER
+D"
+Kedu_tradition_53,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_54,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_14_33,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_34,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_35,Grammar,0,C,C,"완곡어법은 직접적 표현을 부드럽게 바꾼 것인데, '망하다-부도나다'는 완곡 표현이라기보다 경제적 상태를 지칭하는 별개의 용어로 의미 영역이 다릅니다. 나머지는 모두 부정적·거친 어감을 피하기 위한 전형적 완곡 표현입니다.
+
+### ANSWER
+C"
+Kedu_14_36,Grammar,0,A,A,"A의 ""다른""은 '딴'의 의미로 활용하지 않는 관형사이고, B·C·D의 ""느린, 큰, 높은""은 형용사의 활용형(관형사형)이다.
+
+### ANSWER
+A"
+Kedu_14_37,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_38,Grammar,0,B,B,"B: 밥/쌀을 안치다(조리 준비), 자리에 앉히다(앉게 하다) 모두 올바른 쓰임이다. A는 흥정을 붙이다/힘이 부치다로 바뀌어야 하고, C는 우산을 받치다, D는 구름이 걷히다/대구를 거쳐 오다가 맞다.
+
+### ANSWER
+B"
+Kedu_14_39,Grammar,0,B,B,"Verbs: 헐뜯다, 얕보다, 바로잡다, 굶주리다; Adjectives: 낯설다, 굳세다, 뛰어나다, 쓰디쓰다. 선택지 중 이 구분에 맞는 것은 동사 ㄴ, ㄷ, ㅇ / 형용사 ㄱ, ㅁ, ㅅ이다.
+
+### ANSWER
+B"
+Kedu_14_41,Grammar,0,B,B,"### ANSWER
+B"
+TK_2017_44,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_45,Textual,0,A,C,"### ANSWER
+C"
+TK_2017_46,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_47,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_48,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_5,Textual,0,C,C,"Every morning, drinking freshness with nutrients — this describes a beverage, milk.
+
+### ANSWER
+C"
+TK_2018_6,Textual,0,D,D,"**Reasoning:** The text mentions washing and drying large blankets in one go, which describes a laundromat.
+
+### ANSWER
+D"
+TK_2018_7,Textual,0,C,C,"**Reasoning:** The text warns hikers to leave cigarettes and lighters behind to protect mountains — this is about preventing forest fires.
+
+### ANSWER
+C"
+Kedu_Society_15,Society,0,B,B,"자이툰 부대는 아프가니스탄이 아니라 이라크(아르빌)에 파병된 부대이며, 아프가니스탄에는 동의·다산부대가 파견되었다.
+
+### ANSWER
+B"
+Kedu_Society_16,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_17,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_18,Society,0,B,B,"현충일은 국경일이 아니라 기념일(추모일)이다. 국경일은 3·1절, 제헌절, 광복절, 개천절, 한글날 다섯 개다.
+
+### ANSWER
+B"
+Kedu_Society_19,Society,0,C,C,"중양절(음력 9월 9일)에는 국화를 이용한 국화전·국화주를 먹으며, 진달래화전은 삼월 삼일(상춘절)의 풍습이다. 따라서 C가 옳지 않다.
+
+### ANSWER
+C"
+Kedu_Society_20,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_21,Society,0,C,C,"### ANSWER
+C"
+Kedu_Society_22,Society,0,D,D,"### ANSWER
+D"
+CSAT_geography_22_4,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_1,Geography,0,C,C,"Korea is known for having four distinct seasons: spring, summer, autumn, winter.
+
+### ANSWER
+C"
+KIIP_geography_2,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_3,Geography,0,B,B,"Yellow dust (황사) precautions include staying indoors, closing windows, and wearing masks; carrying an umbrella is a rain measure, not a dust measure.
+
+### ANSWER
+B"
+KIIP_geography_4,Geography,0,D,D,"여름은 북태평양 고기압의 영향으로 고온다습하며 장마와 태풍으로 강수가 집중된다.
+
+### ANSWER
+D"
+KIIP_geography_5,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_6,Geography,0,D,D,"**Late autumn in Korea** — fallen leaves (낙엽) are the characteristic sight on streets.
+
+### ANSWER
+D"
+KIIP_geography_7,Geography,0,C,C,"한국의 겨울은 시베리아 기단의 영향으로 한랭 건조한 북서 계절풍이 불어 춥고 건조하다.
+
+### ANSWER
+C"
+KIIP_society_49,Society,0,A,A,"핵가족(부부와 미혼자녀 중심)이 산업화 이후 한국의 대표적 가족 형태로 자리잡았으며, 2010년대에도 가족 형태의 주류로 언급된다. 1인 가구는 급증하는 '가구' 유형이지만 엄밀히 가족 형태로 보기는 어렵다.
+
+### ANSWER
+A"
+KIIP_society_50,Society,0,B,B,"2010년대 한국 사회에서는 취업난, 주거비 부담 등으로 초혼 연령이 높아지고 비혼이 늘어나는 현상이 나타났다. 즉 결혼을 미루거나 아예 하지 않는 경향이 대표적이다. D는 독신만 강조해 범위가 좁다.
+
+### ANSWER
+B"
+KIIP_society_51,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_52,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_53,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_54,Society,0,C,C,"1인 가구는 혼자 사는 가구를 의미한다.
+
+### ANSWER
+C"
+KIIP_society_55,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_56,Society,0,B,B,"어머니의 남자 형제는 '외삼촌'이라 부른다. 이모는 어머니의 여자 형제, 고모는 아버지의 여자 형제, 삼촌은 아버지의 남자 형제다. ""형제""는 남자 형제를 의미하므로 외삼촌이 맞다.
+
+### ANSWER
+B"
+TK_2018_8,Textual,0,B,B,"주의해야 할 사항(금식, 금주)을 알려주는 안내이므로 주의 사항이다.
+
+### ANSWER
+B"
+TK_2018_9,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_11,Textual,0,B,B,"The passage starts by introducing the packaging-free store (가), then explains that goods like flour and shampoo are kept in large containers (라), so customers must bring empty containers (나), and finally notes that the store lends containers to those without one (다).
+
+### ANSWER
+B"
+TK_2018_12,Textual,0,C,C,"Sequence: boarded bus (다), couldn't find wallet (가), lady paid (라), thanked her (나).
+
+### ANSWER
+C"
+TK_2018_13,Textual,0,D,D,"Introduction (라) presents the common experience, (나) gives the main cause and remedy, (가) adds the alternative cause (magnesium deficiency), and (다) offers the solution for those people.
+
+### ANSWER
+D"
+TK_2018_14,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_15,Textual,0,B,B,"### ANSWER
+B"
+Kedu_tradition_55,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_56,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_57,Tradition,0,D,D,"도·개·걸·윷·모는 각각 돼지, 개, 양, 소, 말에 대응하므로 ""윷은 말, 모는 코끼리""라는 설명은 잘못되었다. 나머지 설명(네 쪽 윷, 29밭, 잡기·지름길 전략)은 모두 옳다.
+
+### ANSWER
+D"
+Kedu_tradition_58,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_59,Tradition,0,B,B,"인왕제색도는 겸재 정선의 대표작이며, 나머지는 김홍도의 작품(금강사군첩의 총석정·도담삼봉, 풍속화 서당)이다.
+
+### ANSWER
+B"
+Kedu_tradition_60,Tradition,0,D,D,"무당의 전통적 기능은 사제, 치병(治病), 예언(豫言), 오락(娛樂) 등으로 정리되며, 재판·사법 기능은 포함되지 않는다.
+
+### ANSWER
+D"
+Kedu_tradition_61,Tradition,0,A,A,"A: 진양조는 판소리 장단 중 가장 느리며 <춘향가>의 옥중가 같은 비장한 대목에 쓰인다. 동편제는 장단이 빠르고 간결하며 발림이 절제된 편(B 오류), 발림은 창자의 몸짓이므로 고수는 추임새만 하고(C 오류), 몸짓 표현은 '발림'이지 '아니리'가 아니다(D 오류).
+
+### ANSWER
+A"
+CSAT_korean_07_6,Functional,0,C,C,"### ANSWER
+C"
+PSE_history_16_2,History,0,D,A,"충선왕의 개혁(사림원 설치, 정방 폐지, 각염법 시행)에 해당한다. 충선왕은 원의 연경에 만권당을 세워 이제현 등 고려 학자와 원 학자들의 학문 교류를 이끌었다.
+
+### ANSWER
+A"
+PSE_history_16_3,History,0,C,A,"### ANSWER
+A"
+PSE_history_16_4,History,0,C,A,"### ANSWER
+A"
+PSE_history_16_5,History,0,B,D,"### ANSWER
+D"
+PSE_history_16_6,History,0,C,A,"A: 1876년 조·일 통상장정에는 무관세·무항세 조항만 있었고, 방곡령(1개월 전 통보) 규정은 1883년 개정 조·일 통상장정에서 마련되었다. 나머지는 모두 옳은 설명이다.
+
+### ANSWER
+A"
+PSE_history_16_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_16_8,History,0,A,D,"한산도 대첩(1592.7) → 1차 진주성 전투(1592.10) → 평양성 탈환(1593.1) → 행주대첩(1593.2) 순이다.
+
+### ANSWER
+D"
+PSE_history_16_9,History,0,B,B,"### ANSWER
+B"
+Kedu_Society_23,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_24,Society,0,C,C,"### ANSWER
+C"
+Kedu_Society_25,Society,0,C,C,"### ANSWER
+C"
+KIIP_tradition_1,Tradition,0,C,C,"동파육(둥포러우)은 중국 항저우의 대표적인 돼지고기 요리이며, 불고기·비빔밥·삼계탕은 한국의 대표 음식이다.
+
+### ANSWER
+C"
+KIIP_tradition_2,Tradition,0,C,C,"두루마기는 조선시대 남성이 외출 시 겉에 입던 포(袍)로, 장옷은 여성의 외출용 쓰개옷이며 치마·저고리는 기본 의복이다.
+
+### ANSWER
+C"
+KIIP_tradition_3,Tradition,0,D,D,"조선시대 여성이 외출 시 얼굴과 몸을 가리기 위해 머리에서부터 덮어쓴 옷은 장옷이다.
+
+### ANSWER
+D"
+KIIP_tradition_4,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_5,Tradition,0,A,A,A
+KIIP_geography_8,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_9,Geography,0,C,C,"가을에는 단풍이 물들어 산으로 단풍 구경을 가는 단풍놀이를 즐긴다. 벚꽃놀이는 봄, 물놀이는 여름, 스키는 겨울 활동이다.
+
+### ANSWER
+C"
+KIIP_geography_10,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_11,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_12,Geography,0,B,B,"산경표는 조선 후기 실학자 신경준이 편찬한 것으로 전해진다.
+
+### ANSWER
+B"
+KIIP_geography_13,Geography,0,A,A,"백두대간은 백두산에서 시작하여 지리산에 이르는 한반도의 큰 산줄기를 의미한다.
+
+### ANSWER
+A"
+KIIP_geography_14,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_15,Geography,0,B,B,"국토의 약 70%가 산지라고 흔히 말하며, 통계적으로 약 65%가 산지로 제시되는 경우가 많습니다.
+
+### ANSWER
+B"
+Kedu_14_42,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_43,Grammar,0,D,D,"A, B, C는 고유어와 차용어(영어·한자어)의 대응으로 생긴 동의어인데, D의 하루살이와 날파리는 둘 다 고유어로서 방언·명칭 차이에서 비롯된 것이다.
+
+### ANSWER
+D"
+Kedu_14_44,Grammar,0,C,C,"'크다/작다' 같은 등급 반의어는 비교 대상이나 기준에 따라 판단이 달라지는 상대적 개념이므로, 대상에 관계없이 동일한 기준이 적용된다는 설명은 옳지 않다.
+
+### ANSWER
+C"
+Kedu_14_45,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_46,Grammar,0,C,C,"ㄱ은 沙果/謝過 모두 한자어, ㄹ의 '비(碑)'는 한자어입니다. ㄴ(쑤는 풀, 베는 풀), ㄷ(재[灰], 재[嶺]), ㅁ(가마[탈것], 가마[솥])은 모두 고유어 동음이의어입니다.
+
+### ANSWER
+C"
+Kedu_14_47,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_48,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_49,Grammar,0,A,A,"### ANSWER
+A"
+TK_2018_16,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_17,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_18,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_19,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_20,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_21,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_22,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_23,Textual,0,A,A,"### ANSWER
+A"
+KIIP_society_57,Society,0,C,C,"**고모** is father's sister.
+
+### ANSWER
+C"
+KIIP_society_58,Society,0,D,D,"아빠의 남자 형제는 삼촌(큰아버지·작은아버지)이며, 이모·외삼촌은 어머니 쪽, 고모는 아버지의 여자 형제입니다.
+
+### ANSWER
+D"
+KIIP_society_59,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_60,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_61,Society,0,B,B,"전통적으로 남편(사위)은 아내의 아버지를 장인, 어머니를 장모라 하며, 높여 부를 때 '장인어른', '장모님'이라 한다.
+
+### ANSWER
+B"
+KIIP_society_62,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_63,Society,0,C,C,"Traditionally, before children, in-laws call the daughter-in-law ""(새)아가,"" but after she bears a child, she is addressed as ""어멈아"" (애어멈), reflecting her new status as a mother.
+
+### ANSWER
+C"
+KIIP_society_64,Society,0,C,C,"김서방 is the traditional term used by a wife's parents to address their son-in-law, combining his surname with ""서방.""
+
+### ANSWER
+C"
+KIIP_tradition_6,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_7,Tradition,0,A,A,"한국인의 주식은 쌀로 지은 밥이다.
+
+### ANSWER
+A"
+KIIP_tradition_8,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_9,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_10,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_11,Tradition,0,A,A,"Kimjang (kimchi-making) is done in late autumn, before the cold winter arrives, to prepare kimchi for winter storage.
+
+### ANSWER
+A"
+KIIP_tradition_12,Tradition,0,C,C,"지역별 기후와 특산물에 따라 사용하는 재료와 양념이 달라 김치 종류가 다양해졌다는 설명이 일반적이다.
+
+### ANSWER
+C"
+KIIP_tradition_13,Tradition,0,A,A,"떡은 삼국시대 이전부터 한국인이 즐겨 먹어온 전통 음식이며, 통닭·LA갈비·라면은 근현대에 등장한 음식이다.
+
+### ANSWER
+A"
+KIIP_geography_16,Geography,0,B,B,"태백산맥은 한반도 동쪽을 남북으로 길게 뻗어 있어 '한반도의 등뼈(등줄기)'로 불린다.
+
+### ANSWER
+B"
+KIIP_geography_17,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_18,Geography,0,A,A,"Korea's highest mountain (in South Korea) is Hallasan, located on Jeju Island, at 1,947 m.
+
+### ANSWER
+A"
+KIIP_geography_19,Geography,0,D,D,"강원도는 산지가 대부분으로 '강원평야'라는 대규모 곡창지대는 없으며, 호남·나주·김포평야는 모두 대표적인 쌀 생산지입니다.
+
+### ANSWER
+D"
+KIIP_geography_20,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_21,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_22,Geography,0,A,A,"Korean peninsula is surrounded by sea on three sides: east, south, and west; the north borders China and Russia.
+
+### ANSWER
+A"
+KIIP_geography_23,Geography,0,A,A,"조선 건국(1392년)과 함께 한양이 수도로 정해진 것으로 보는 선택지가 가장 적절하다.
+
+### ANSWER
+A"
+PSAT_19_3,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_4,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_5,Law,0,C,C,"The Constitutional Court has held that the protective scope of the right to hold public office includes arbitrary exclusion from access to office and unjust deprivation of status or suspension of authority, but does **not** extend to guarantees of promotion opportunities or restrictions on taking promotion examinations. Thus C misstates the doctrine.
+
+### ANSWER
+C"
+PSAT_19_6,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_7,Law,0,A,A,"A는 헌재 판례와 반대로 서술되어 있습니다. 헌법 제24조의 법률유보는 선거권을 법률로 포괄적으로 제한할 수 있다는 의미가 아니라, 선거권 행사절차를 법률로 구체화하는 것에 불과합니다.
+
+### ANSWER
+A"
+PSAT_19_8,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_9,Law,0,A,A,"### ANSWER
+A"
+PSAT_19_10,Law,0,D,D,"### ANSWER
+D"
+TK_2018_24,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_25,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_26,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_27,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_28,Textual,0,B,B,"The discovery was that a film formed on the glass surface held the fragments together, so the inventor applied a film coating to glass.
+
+### ANSWER
+B"
+TK_2018_29,Textual,0,A,A,"Since the passage contrasts the usual order (concept then symbol), infinity's symbol appeared first and the concept was established later.
+
+### ANSWER
+A"
+TK_2018_30,Textual,0,C,C,"Text says adult mayflies have degenerated mouths and only consume nutrients stored as larvae. So C is correct.
+
+### ANSWER
+C"
+TK_2018_31,Textual,0,C,C,"### ANSWER
+C"
+PSE_history_16_10,History,0,C,C,"불교 수용(372, 전진 순도)은 고구려 소수림왕 때의 일이며, 같은 왕은 372년 태학을 설립하고 373년 율령을 반포했다. 신집은 영양왕, 진대법은 고국천왕, 종이·먹 전파는 담징(영양왕 때)이다.
+
+### ANSWER
+C"
+PSE_history_16_11,History,0,A,D,"### ANSWER
+D"
+PSE_history_16_12,History,0,A,C,"### ANSWER
+C"
+PSE_history_16_13,History,0,A,C,"C — 이 사람은 소수서원 사액을 청원한 이황이다. 이황은 주희의 성리설을 수용하고 이(理)의 절대성·우위를 주장한 주리론자이다. A는 조식, B는 이이, D는 서경덕에 해당한다.
+
+### ANSWER
+C"
+PSE_history_16_14,History,0,D,B,"### ANSWER
+B"
+PSE_history_16_15,History,0,A,C,"### ANSWER
+C"
+PSE_history_16_16,History,0,B,D,"### ANSWER
+D"
+PSE_history_16_17,History,0,B,B,"### ANSWER
+B"
+KIIP_society_65,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_66,Society,0,A,A,"Wife addresses husband's parents as 아버님/어머님; 장인어른/장모님 are used by a husband for his wife's parents.
+
+### ANSWER
+A"
+KIIP_society_67,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_68,Society,0,C,C,"호칭 규범상 남편의 형은 '아주버님', 미혼 남동생은 '도련님', 기혼 남동생은 '서방님'이라 부른다.
+
+### ANSWER
+C"
+KIIP_society_69,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_70,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_71,Society,0,A,A,"Parent-child relationship in Korean kinship counting (촌수) is direct lineal, counted as one degree.
+
+### ANSWER
+A"
+KIIP_society_72,Society,0,C,C,"외삼촌 관계로, 나와 남동생은 2촌, 나와 아이는 1촌이므로 합하여 3촌이다.
+
+### ANSWER
+C"
+Kedu_14_50,Grammar,0,D,D,"전설모음화(치찰음 뒤 ‘ㅡ→ㅣ’, 예: 즌흙>진흙, 슳다>싫다)는 근대국어 시기의 특징적 음운 변화이다. ‘ㅸ→w’와 유성 마찰음 존재는 중세국어의 특징이며, 된소리 계열은 중세국어에도 이미 있었다.
+
+### ANSWER
+D"
+Kedu_14_51,Grammar,0,B,B,"파래는 '파랗+아'를 소리 나는 대로 적은 음소적 표기이고, '낳아'는 어간 형태를 유지한 형태음소적 표기입니다. A의 마감·노름은 둘 다 소리대로 적은 음소적 표기이며, C의 누우니·기우니도 모두 음소적 표기입니다.
+
+### ANSWER
+B"
+Kedu_14_52,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_53,Grammar,0,C,C,"C는 실질 형태소 앞에서는 대표음으로 바꾸어 옮겨 발음해야 하며(예: 옷 안[오단]), '제 음가대로' 옮기는 것은 조사·어미 등 형식 형태소가 올 때이다.
+
+### ANSWER
+C"
+Kedu_14_54,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_55,Grammar,0,A,A,"A: 보조 용언 '만하다'는 앞말과 띄어 씀이 원칙이므로 옳고, B는 조사 '밖에'를 붙여야 하며, C는 어미 '-ㄹ지'를 붙여야 하고, D는 '채영신 씨'로 써야 합니다.
+
+### ANSWER
+A"
+Kedu_14_56,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_57,Grammar,0,B,B,"### ANSWER
+B"
+KIIP_tradition_14,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_15,Tradition,0,C,C,"약과는 밀가루를 꿀·기름과 반죽해 튀긴 유밀과(한과)로, 쌀로 만든 떡이 아니다. 백설기·인절미·절편은 모두 떡이다.
+
+### ANSWER
+C"
+KIIP_tradition_16,Tradition,0,A,A,"Korean dishes like bibimbap, soups, and side dishes can be eaten with rice or enjoyed on their own (e.g., as anju or single dishes), so the inclusive option fits best.
+
+### ANSWER
+A"
+KIIP_tradition_17,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_18,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_19,Tradition,0,B,B,"온돌은 아궁이의 열기를 방 밑 구들장으로 통과시켜 방바닥을 데우는 한국의 전통 난방 방식이다.
+
+### ANSWER
+B"
+KIIP_tradition_20,Tradition,0,C,C,"대청마루는 한옥에서 안방과 건넌방 사이의 넓은 널마루 공간으로, 두 방을 연결하는 중심 공간이다.
+
+### ANSWER
+C"
+KIIP_tradition_21,Tradition,0,C,C,"**양반**은 조선시대 지배계층으로 문반과 무반을 아울러 이르는 말이며, 사회적 상류층을 가리킵니다.
+
+### ANSWER
+C"
+TK_2018_32,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_33,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_34,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_35,Textual,0,D,D,"The passage warns that if creation and publishing center on visual media, pure literature's unique characteristics may disappear—indicating a crisis for pure literature.
+
+### ANSWER
+D"
+TK_2018_36,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_37,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_38,Textual,0,B,A,"### ANSWER
+A"
+TK_2018_39,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_73,Society,0,D,D,"자신과 남동생은 2촌, 남동생과 그 아이는 1촌이므로 자신과 조카는 3촌이며, 자신의 아이와 조카는 서로 사촌 관계로 4촌이 된다.
+
+### ANSWER
+D"
+KIIP_society_74,Society,0,B,B,"**### ANSWER
+B**"
+KIIP_society_75,Society,0,C,C,"내 아이 입장에서 아내의 남자 형제는 어머니의 오빠/남동생, 즉 외삼촌이다. 외삼촌의 자녀는 외사촌(외종사촌)에 해당한다.
+
+### ANSWER
+C"
+KIIP_society_76,Society,0,B,B,"Father's sister (고모)'s children are called 고종사촌 from the child's perspective; the husband's sister is the child's 고모.
+
+### ANSWER
+B"
+KIIP_society_77,Society,0,B,B,"한국의 정년은 통상 55~60세로 규정되어 있었고, 2010년대 기준 대부분의 근로자가 이 연령대에 퇴직했다.
+
+### ANSWER
+B"
+KIIP_society_78,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_79,Society,0,A,C,"공무원은 안정성 때문에 2020년 무렵 한국 청년층에서 가장 선호되는 직업으로 꼽혔습니다(공무원 시험 열풍).
+
+### ANSWER
+C"
+KIIP_society_80,Society,0,A,A,"### ANSWER
+A"
+KIIP_geography_24,Geography,0,B,B,"Seoul is divided into 25 autonomous districts (gu).
+
+### ANSWER
+B"
+KIIP_geography_25,Geography,0,C,C,"**강북** means ""north of the river,"" which is the term for the area north of the Han River in Seoul.
+
+### ANSWER
+C"
+KIIP_geography_26,Geography,0,D,D,"Seoul's registered population at the end of 2013 was just over 10 million (about 10,140,000), having recently dipped below the 10.5 million peak but still above 10 million.
+
+### ANSWER
+D"
+KIIP_geography_27,Geography,0,A,B,"### ANSWER
+B"
+KIIP_geography_28,Geography,0,D,D,"경기도는 수도권 인구 분산과 주택 공급을 위해 1기·2기 신도시에 이어 2010년대에도 계속 신도시가 조성되고 있다.
+
+### ANSWER
+D"
+KIIP_geography_29,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_30,Geography,0,D,D,"Korea's well-known Chinatowns are in Incheon (the largest, historic one), Busan (near Busan Station), and Seoul (Daelim-dong/Yeonnam-dong areas). Gwangju does not have a designated Chinatown.
+
+### ANSWER
+D"
+KIIP_geography_31,Geography,0,A,A,"### ANSWER
+A"
+PSE_history_17_1,History,0,A,A,"설총(화왕계)과 최치원(시무책 10여 조)은 모두 6두품 출신이다. 6두품은 아찬까지만 승진 가능해 중위제(중아찬 등)를 적용받았고, 중앙 관부 장관직 독점이나 자색 공복(진골 5관등 이상), 왕위 계승은 진골의 특권이었다.
+
+### ANSWER
+A"
+PSE_history_17_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_17_3,History,0,A,A,"### ANSWER
+A"
+PSE_history_17_4,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_5,History,0,A,A,"### ANSWER
+A"
+PSE_history_17_6,History,0,C,C,"헌의 6조는 1898년 10월 관민공동회에서 결의되었다. 독립신문 창간(1896), 아관파천(1896), 군국기무처(1894)는 모두 그 이전 사실이다. 원수부 설치는 1899년으로 이후에 해당한다.
+
+### ANSWER
+C"
+PSE_history_17_7,History,0,B,B,"흥덕사에서 직지심체요절 간행(1377)은 화통도감 설치(우왕 3년, 1377)와 같은 우왕 대의 일입니다. 복원궁은 예종, 교장도감은 선종, 시무 28조는 성종 대입니다.
+
+### ANSWER
+B"
+PSE_history_17_8,History,0,C,C,"### ANSWER
+C"
+CSAT_korean_07_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_07_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_07_9,Functional,0,B,B,"글감들은 선진국과 달리 개발 사업자가 스스로 평가를 수행하는 제도적 구조 때문에 왜곡된 결과가 나온다는 점을 보여준다. 이는 제도 자체의 문제인 '평가의 객관성 부족'으로 정리할 수 있다. 따라서 'Ⅱ-2-가'의 하위 항목으로 설정하는 것이 적절하다.
+
+### ANSWER
+B"
+CSAT_korean_07_10,Functional,0,B,B,"원문의 “환경오염이 심각해지고 자연 생태계가 파괴됨에 따라”는 두 절이 자연스럽게 대등하게 연결되어 있어 어색하지 않으며, ‘자연 생태계의 파괴’로 바꾸면 오히려 앞 절과의 연결이 어긋난다. 반면 (ㄱ)의 주어(제도는)와 서술어 호응, (ㄷ)의 어휘 부적절, (ㄹ)의 접속어, (ㅁ)의 통일성 문제는 모두 타당한 지적이다.
+
+### ANSWER
+B"
+CSAT_korean_06_6,Functional,0,A,A,"The example song uses 말 잇기 (word-chaining), where the end of one line becomes the start of the next (껌더라→껌으먼 까마구→까마구는 날더라). Choice A follows this same chain structure: 등 굽어→등 굽으면 길마→길마는 네 구멍→네 구멍은 시루→시루면 검지.
+
+### ANSWER
+A"
+CSAT_korean_06_7,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_06_8,Functional,0,C,C,"자전거 분실 문제와 안전 교육 문제는 자전거 전용 도로 설치 요구라는 글의 목적과 직접적 관련이 없어 부적절하다.
+
+### ANSWER
+C"
+CSAT_korean_09_6,Functional,0,B,B,"### ANSWER
+B"
+KIIP_tradition_22,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_23,Tradition,0,B,B,"전주 한옥마을과 서울 북촌 한옥마을이 대표적인 한옥마을 소재지이다.
+
+### ANSWER
+B"
+KIIP_tradition_24,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_25,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_26,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_27,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_28,Tradition,0,C,C,"볏짚(rice straw)으로 지붕을 덮은 집이 초가집입니다. 기와는 기와집, 나무는 너와집에 해당합니다.
+
+### ANSWER
+C"
+KIIP_tradition_29,Tradition,0,C,C,"### ANSWER
+C"
+TK_2018_40,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_41,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_42,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_43,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_44,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_45,Textual,0,D,A,"### ANSWER
+A"
+TK_2018_46,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_47,Textual,0,A,A,"### ANSWER
+A"
+KIIP_society_81,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_82,Society,0,B,B,"1980년대 한국은 남성 생계부양자 중심의 사회로, 여성은 결혼 후 가사에 전념하는 경우가 많아 노동시장 참여자 대부분이 남성이었다.
+
+### ANSWER
+B"
+KIIP_society_83,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_84,Society,0,A,A,"한국은 현재 맞벌이 부부 비율이 높다.
+
+### ANSWER
+A"
+KIIP_society_85,Society,0,A,A,"Korean workplace culture is known for collectivism and emphasis on interpersonal relationships (인간관계), such as hierarchy, harmony, and after-work socializing, more than in other countries.
+
+### ANSWER
+A"
+KIIP_society_86,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_87,Society,0,A,A,"경력단절 여성의 대표적 어려움은 재취업의 어려움입니다.
+
+### ANSWER
+A"
+KIIP_society_88,Society,0,B,B,"한국 직장에서는 상사뿐 아니라 동료 간에도 기본적으로 존댓말을 사용하는 문화가 일반적이다. 나이나 직위가 가장 높은 사람에게만 국한되지 않는다.
+
+### ANSWER
+B"
+Kedu_15_1,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_2,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_3,Grammar,0,D,D,"관형어는 반드시 피수식어 앞에 와야 하며 자리 옮김이 자유롭지 않다. 나머지는 한국어의 통사적 특징으로 옳다.
+
+### ANSWER
+D"
+Kedu_15_4,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_5,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_6,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_7,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_8,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_geography_32,Geography,0,A,A,"직장과 학교 등 통근·통학 목적으로 서울과 경기도 간 이동이 활발하다는 것이 가장 직접적인 이유이다.
+
+### ANSWER
+A"
+KIIP_geography_33,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_34,Geography,0,A,A,"경기도는 수도권으로 서비스업과 공업이 발달했고, 넓은 평야를 바탕으로 근교 농업도 발달하였습니다.
+
+### ANSWER
+A"
+KIIP_geography_35,Geography,0,C,C,"인천은 인구 약 300만 명으로 수도권에서 서울 다음으로 가장 큰 도시이며, 수원(약 120만)이나 용인보다 훨씬 크다. 수도권은 서울·인천·경기를 포함하므로 인천이 정답이다.
+
+### ANSWER
+C"
+KIIP_geography_36,Geography,0,C,C,"인천은 개항 이후 20세기 동안 서울의 관문으로서 무역과 물류의 중심 항구 역할을 담당해 왔다.
+
+### ANSWER
+C"
+KIIP_geography_37,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_38,Geography,0,B,B,"**2014 Incheon Asian Games** were held in Incheon, South Korea.
+
+### ANSWER
+B"
+KIIP_geography_39,Geography,0,B,B,"강원도는 한반도 중부의 동쪽에 위치하여 동해와 접해 있다.
+
+### ANSWER
+B"
+PSE_history_17_9,History,0,B,B,"### ANSWER
+B"
+PSE_history_17_10,History,0,C,C,"고려 숙종 때 사용된 은병(활구)에 대한 설명이다. 고려시대에는 개경에 서적점, 다점 등의 관영상점을 두었다. 청해진과 동시전은 신라, 이앙법 전국 보급은 조선 후기이다.
+
+### ANSWER
+C"
+PSE_history_17_11,History,0,D,D,"정도전에 대한 설명이며, 조선경국전을 편찬했다.
+
+### ANSWER
+D"
+PSE_history_17_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_13,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_14,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_15,History,0,B,B,"제1차 한일협약(1904, ㄴ) → 헤이그 특사 사건과 고종 강제 퇴위(1907, ㄱ) → 한일신협약에 따른 차관정치(1907, ㄹ) → 기유각서로 사법권·감옥 사무 박탈(1909, ㄷ) 순이다.
+
+### ANSWER
+B"
+PSE_history_17_16,History,0,A,A,"조선 후기 광산 개발과 상업 발달을 보여주는 자료로, 도조법·상품작물·견종법은 모두 조선 후기 특징이다. 사패전 분급은 고려~조선 초기 특권층에 대한 토지 지급 방식으로 부농층 대상 개간 장려책이 아니다.
+
+### ANSWER
+A"
+KIIP_society_89,Society,0,A,A,"편의점은 연중무휴 24시간 운영되는 경우가 많아 명절에도 영업하는 곳이 많습니다. 도서관, 동사무소, 체육관은 휴관일이나 공휴일 휴무가 있습니다.
+
+### ANSWER
+A"
+KIIP_society_90,Society,0,B,B,"직급(과장님, 부장님 등)을 붙여 부르는 것이 한국 직장의 일반적 호칭 방식이다.
+
+### ANSWER
+B"
+KIIP_society_91,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_92,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_93,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_94,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_95,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_96,Society,0,B,B,"### ANSWER
+B"
+TK_2018_48,Textual,0,D,D,"Encouraging (""고무적인 일"") indicates positive evaluation of the tax support policy.
+
+### ANSWER
+D"
+TK_2019_5,Textual,0,A,A,"More heat removal and ""natural wind"" indicates a cooling device — among the options, an air conditioner.
+
+### ANSWER
+A"
+TK_2019_6,Textual,0,B,B,"Reasoning: The slogan about smartly gathering/saving and accumulating a happy future refers to savings — a bank advertisement.
+
+### ANSWER
+B"
+TK_2019_7,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_8,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_9,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_11,Textual,0,C,C,"### ANSWER
+C"
+KIIP_tradition_30,Tradition,0,D,D,"현재의 한복은 조선시대 복식 형태를 기본으로 계승한 것이다.
+
+### ANSWER
+D"
+KIIP_tradition_31,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_32,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_33,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_34,Tradition,0,D,D,"한복의 바지와 치마는 온돌 등 좌식 생활 문화에 맞춰 넉넉하게 제작되었습니다.
+
+### ANSWER
+D"
+KIIP_tradition_35,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_36,Tradition,0,C,B,"추석(한가위)은 한국의 대표적인 전통 명절로, 수확을 감사하며 조상에게 차례를 지내는 날입니다. 크리스마스와 부활절은 서양 기독교 기념일입니다.
+
+### ANSWER
+B"
+KIIP_tradition_37,Tradition,0,B,B,"### ANSWER
+B"
+PSAT_19_11,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_12,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_14,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_15,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_16,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_17,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_18,Law,0,C,C,"C is the exact wording of Constitution Art. 110(4): military trials under extraordinary martial law may be single-instance except when a death sentence is imposed. A is wrong because only the trial proceedings (심리), not the judgment, may be closed; B is wrong since judges other than Supreme Court Justices may be placed in the Supreme Court; D is wrong because National Assembly election suits go directly to the Supreme Court without 선거소청.
+
+### ANSWER
+C"
+PSAT_19_19,Law,0,C,C,"### ANSWER
+C"
+CSAT_korean_09_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_09_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_09_9,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_09_10,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_08_6,Functional,0,C,C,"위치에 따라 가치가 달라진다는 의미와 ""어느 곳이든 좋은 사람이 있다""는 연상은 논리적으로 연결되지 않는다. 오히려 장소마다 동일함을 말하는 내용이므로 추출한 의미와 어긋난다. 나머지는 추출 의미와 연상 내용이 일치한다.
+
+### ANSWER
+C"
+CSAT_korean_08_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_08_9,Functional,0,D,D,"D is wrong—""밑그림과 채색을 할 것""은 서술어 호응이 어색해져 오히려 비문이 된다.
+
+### ANSWER
+D"
+CSAT_korean_08_10,Functional,0,E,E,"### ANSWER
+E"
+KIIP_society_97,Society,0,C,C,"Standard Korean workday is 8 hours (9am–6pm with 1 hour lunch).
+
+### ANSWER
+C"
+KIIP_society_98,Society,0,C,C,"주 5일 근무제가 2004년부터 단계적으로 도입되어 현재 한국 직장의 표준 근무제로 자리잡았다.
+
+### ANSWER
+C"
+KIIP_society_99,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_100,Society,0,A,A,"**A** — 회식은 업무 스트레스 해소와 팀워크 강화, 축하 등을 위한 자리다.
+
+### ANSWER
+A"
+KIIP_society_101,Society,0,C,C,"**### ANSWER
+C**"
+KIIP_society_102,Society,0,A,A,"**Convenience stores (편의점) are the classic 24-hour businesses in Korean cities.**
+
+### ANSWER
+A"
+KIIP_society_103,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_104,Society,0,A,A,"Seoul's subway system includes lines 1 through 9, plus the Bundang and Shinbundang lines.
+
+### ANSWER
+A"
+TK_2019_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_13,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_14,Textual,0,C,C,"The logical flow: consumers struggle with wide choice (라) → they hesitate and abandon purchase (가) → so marts display few items (다) → this reduces burden to induce purchase (나).
+
+### ANSWER
+C"
+TK_2019_15,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_16,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_17,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_18,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_19,Textual,0,C,C,"### ANSWER
+C"
+Kedu_15_9,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_10,Grammar,0,A,A,"A의 '닭똥'은 자음군단순화만 적용되며, 둘째 음절이 이미 경음 'ㄸ'이므로 경음화가 일어날 조건이 없습니다. 반면 B, C, D는 제시된 음운현상이 모두 올바르게 적용됩니다.
+
+### ANSWER
+A"
+Kedu_15_11,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_12,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_13,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_14,Grammar,0,B,B,"B는 의미·기능이 다른 별개의 형태소(장소의 '에'와 '에서')로, 상보적 분포에 따른 이형태 관계가 아니다. 나머지는 음운 조건이나 어휘 조건에 따른 이형태이다.
+
+### ANSWER
+B"
+Kedu_15_15,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_16,Grammar,0,A,A,"### ANSWER
+A"
+KIIP_geography_40,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_41,Geography,0,B,B,"오죽헌(오죽헌)은 신사임당·이이의 생가로 강릉의 대표적 문화유산이다. 경포대는 경관 명소, 설악산은 속초·인제 일대, 삼척해변은 삼척에 있다.
+
+### ANSWER
+B"
+KIIP_geography_42,Geography,0,B,B,"강원도는 산지가 많고 눈이 많이 내려 스키장이 많이 분포한다.
+
+### ANSWER
+B"
+KIIP_geography_43,Geography,0,A,A,"산악 지형이 많은 강원도는 험준한 산지와 태백산맥으로 인해 교통로 개설이 어려워 지역 간 왕래가 불편했다.
+
+### ANSWER
+A"
+KIIP_geography_44,Geography,0,A,A,"**설악산은 강원도에 위치한 국립공원이며, 한라산은 제주, 지리산은 전남·경남·전북, 북한산은 서울·경기에 있다.**
+
+### ANSWER
+A"
+KIIP_geography_45,Geography,0,A,A,"강원도는 태백, 정선, 영월 등지의 무연탄 탄광을 중심으로 20세기 중반 광업이 크게 발달했다.
+
+### ANSWER
+A"
+KIIP_geography_46,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_47,Geography,0,C,C,"공주·부여 등 백제의 도읍지가 있었던 충청남도에 백제 문화 유적이 집중되어 있다.
+
+### ANSWER
+C"
+KIIP_society_105,Society,0,A,A,"지하철은 인구가 밀집한 대도시에서 운영되는 대중교통 수단이다.
+
+### ANSWER
+A"
+KIIP_society_106,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_107,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_108,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_109,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_110,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_111,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_112,Society,0,B,B,"모범택시는 고급 서비스와 높은 요금을 특징으로 하는 택시입니다.
+
+### ANSWER
+B"
+PSE_history_17_17,History,0,C,C,"풍수지리설(도참사상)에 관한 내용으로, 서경 천도 운동·남경 설치·한양 천도 주장의 근거가 되었다. 반면 초제는 도교 신앙에 근거한 제사 의식이다.
+
+### ANSWER
+C"
+PSE_history_17_18,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_19,History,0,A,A,"의주는 압록강 하구에 위치한 지역으로, 청천강변에 안북도호부가 설치된 곳(안주)과 구별된다. 흥화진, 각장 설치, 요·금 교체기의 회복 시도는 모두 의주와 관련된 사실이다.
+
+### ANSWER
+A"
+PSE_history_18_1,History,0,A,A,"통일신라는 촌을 지방 행정 최하 단위로 삼아 지방 유력자인 촌주에게 행정 실무를 맡겼다. B는 조선(모든 군현에 수령 파견), C의 면리제는 조선, D의 사심관은 고려 초의 제도이므로 시대가 어긋난다.
+
+### ANSWER
+A"
+PSE_history_18_2,History,0,B,C,"### ANSWER
+C"
+PSE_history_18_3,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_4,History,0,C,C,"### ANSWER
+C"
+PSE_history_18_5,History,0,C,B,"### ANSWER
+B"
+CSAT_korean_10_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_10_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_10_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_10_9,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_10_10,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_11_6,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_11_8,Functional,0,D,D,"글감에 새 책 구입 촉진이나 출판 시장 활성화와 연결되는 내용이 없고, 헌책 교환은 오히려 도서 구입 비용 절감과 관련되므로 논리적 근거가 부족하다.
+
+### ANSWER
+D"
+CSAT_korean_11_9,Functional,0,C,B,"### ANSWER
+B"
+TK_2019_20,Textual,0,B,B,"진땀을 흘리다 means to break out in a cold sweat from difficulty—fitting someone lost without navigation.
+
+### ANSWER
+B"
+TK_2019_21,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_22,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_23,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_25,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_26,Textual,0,C,C,"The headline states the private spacecraft returned safely, bringing the era of space tourism closer (""성큼""). This means the possibility of space travel has increased.
+
+### ANSWER
+C"
+TK_2019_27,Textual,0,D,D,"주 단위 계획은 '라면 안 먹기'처럼 구체적이고 실천 가능한 계획으로 바뀐다는 예시가 이어지므로, 빈칸에는 실천 가능한 계획을 세울 수 있다는 내용이 적절하다.
+
+### ANSWER
+D"
+KIIP_tradition_38,Tradition,0,A,A,"차례는 설날 아침에 조상에게 지내는 제사 의식으로, 성묘는 주로 추석·한식에 산소를 찾는 것이고 세배는 차례 후 어른께 드리는 인사, 떡국은 음식 풍습이다. 따라서 아침에 행하는 의식은 차례이다.
+
+### ANSWER
+A"
+KIIP_tradition_39,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_40,Tradition,0,C,C,"세배를 한 아이들에게 어른들이 주는 돈이 세뱃돈이다.
+
+### ANSWER
+C"
+KIIP_tradition_41,Tradition,0,B,B,"설빔은 설날에 새로 차려입는 옷을 뜻한다.
+
+### ANSWER
+B"
+KIIP_tradition_42,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_43,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_44,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_45,Tradition,0,A,A,"성묘는 조상의 무덤을 찾아가 살피고 돌보는 일이다.
+
+### ANSWER
+A"
+KIIP_society_113,Society,0,C,C,"KTX(Korea Train Express)는 한국의 고속철도로, 국내에서 가장 빠른 속도로 운행하는 기차입니다.
+
+### ANSWER
+C"
+KIIP_society_114,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_115,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_116,Society,0,B,B,"대형택시는 차량이 크기 때문에 승객과 짐을 많이 실을 수 있다는 장점이 있습니다. 요금은 일반택시보다 비싸며 속도나 편리성이 주된 장점은 아닙니다.
+
+### ANSWER
+B"
+KIIP_society_117,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_118,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_119,Society,0,B,B,"한국에서는 대중교통 이용 시 T-money 등 교통카드를 주로 사용한다.
+
+### ANSWER
+B"
+KIIP_society_120,Society,0,A,A,"### ANSWER
+A"
+KIIP_geography_48,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_49,Geography,0,C,C,"소백산은 충청북도 단양에 위치하며 5~6월 철쭉 군락으로 유명하다.
+
+### ANSWER
+C"
+KIIP_geography_50,Geography,0,A,A,"충청북도는 경기도, 강원도, 경상북도, 전라북도, 충청남도와 접하며, 전라남도와는 접하지 않는다.
+
+### ANSWER
+A"
+KIIP_geography_51,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_52,Geography,0,A,A,"천안의 배, 성환·입장 지역의 포도, 예산·청양 등지의 사과 등 과수 재배가 충청남도의 대표적인 농업 특징이다.
+
+### ANSWER
+A"
+KIIP_geography_53,Geography,0,C,C,"충청지역(충청남·북도)의 중심 대도시는 대전광역시이다. 서울·인천은 수도권, 부산은 경남권에 속한다.
+
+### ANSWER
+C"
+KIIP_geography_54,Geography,0,B,B,"대전은 대덕연구개발특구(대덕연구단지)로 대표되는 과학기술 중심 도시로, 정부출연 연구기관과 과학 산업단지가 지역 경제의 핵심 역할을 한다.
+
+### ANSWER
+B"
+KIIP_geography_55,Geography,0,D,D,"경상 지역(경상남·북도)은 한반도의 동남부에 위치한다.
+
+### ANSWER
+D"
+TK_2019_28,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_29,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_30,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_31,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_32,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_33,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_34,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_35,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_121,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_122,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_123,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_124,Society,0,A,A,"Voice phishing is a fraud where criminals obtain personal information like ID numbers over the phone to use in crimes.
+
+### ANSWER
+A"
+KIIP_society_125,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_126,Society,0,D,B,"Newspapers are sold at kiosks in subway stations, convenience stores, and large marts, but bus stops have no sales outlets.
+
+### ANSWER
+B"
+KIIP_society_127,Society,0,C,C,"""Gangnam Style"" was released in July 2012 and by September 2012 it was recognized by Guinness World Records as the most ""liked"" video on YouTube.
+
+### ANSWER
+C"
+KIIP_society_128,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_46,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_47,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_48,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_49,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_50,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_51,Tradition,0,A,A,"정월대보름에는 오곡밥과 묵은 나물(진채), 부럼 깨기 등의 풍습이 있다. 떡국은 설날, 삼계탕은 삼복에 먹는 음식이다.
+
+### ANSWER
+A"
+KIIP_tradition_52,Tradition,0,A,A,"부럼깨기 풍습으로 호두, 밤, 땅콩 등을 딱 소리내어 깨물어 먹으며 한 해의 부스럼을 예방한다는 의미를 담습니다.
+
+### ANSWER
+A"
+KIIP_tradition_53,Tradition,0,A,A,"부럼 깨기는 종기(부스럼) 같은 피부병을 막고 이를 튼튼하게 한다는 믿음에서 유래한 풍속이다.
+
+### ANSWER
+A"
+CSAT_korean_11_10,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_12_6,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_12_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_12_8,Functional,0,B,B,"The (나) outline's section Ⅲ lists concrete activation measures directed at policymakers; adding ""생활 체육 참여가 지역 발전에 미치는 영향"" is not a solution/measure but rather relates to necessity, so it doesn't fit there. The other options appropriately reorganize content or adjust the conclusion to match the new audience and purpose.
+
+### ANSWER
+B"
+CSAT_korean_12_9,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_12_10,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_7,Functional,0,B,B,"The draft omits any survey about supply shortage and instead raises consumers' limited awareness of the certification labels as the problem, which matches the adjustment described in (b). The other options contradict the actual draft, which does explain the background, presents the topic as the labels' types/criteria, omits difficulty of certification, and closes with the significance of proper knowledge.
+
+### ANSWER
+B"
+CSAT_korean_13_7,Functional,0,D,D,"근거(자연은 다음 세대의 유산)→주장(생태계 파괴 않도록 유의)→실천 방안(정해진 탐방로 이용)의 순서로 전개되며, 내용도 관광객의 태도 측면 개선 방안에 해당한다.
+
+### ANSWER
+D"
+Kedu_15_17,Grammar,0,C,C,"C is wrong: 고유어 수사는 '하나/둘/셋'이 관형사로 쓰일 때 '한/두/세'처럼 형태가 바뀌므로 일관되게 관형사로 통용되지 않는다.
+
+### ANSWER
+C"
+Kedu_15_18,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_19,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_20,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_21,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_22,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_23,Grammar,0,D,D,"D는 ""-거나""로 선택 관계를 나타내는 대등하게 이어진 문장이며, 나머지는 조건(-면), 원인(-아서), 계기(-고서) 등의 종속적 연결이다.
+
+### ANSWER
+D"
+Kedu_15_24,Grammar,0,B,B,"B는 안긴 절의 주어(기자)가 생략된 관계 관형사절이고, 나머지는 절이 완전하며 명사(예보·소식·보고)의 내용을 그대로 담는 동격(보문) 관형사절이다.
+
+### ANSWER
+B"
+KIIP_geography_56,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_57,Geography,0,B,B,"울릉도와 독도는 경상북도 울릉군에 속한 섬이다.
+
+### ANSWER
+B"
+KIIP_geography_58,Geography,0,D,D,"경상지역(영남권)은 포항, 울산, 창원, 구미 등 대규모 산업단지가 조성되어 중화학·기계·전자 등 공업이 크게 발달했다.
+
+### ANSWER
+D"
+KIIP_geography_59,Geography,0,A,A,"구미는 섬유공업 단지에서 시작해 전자산업 중심지로 성장한 대표적 내륙 공업도시이다.
+
+### ANSWER
+A"
+KIIP_geography_60,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_61,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_62,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_63,Geography,0,D,D,"안동은 하회마을, 도산서원 등 유교 문화 중심지로 조선 시대 문화유산이 풍부하다.
+
+### ANSWER
+D"
+PSE_history_18_6,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_7,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_8,History,0,C,B,"### ANSWER
+B"
+PSE_history_18_9,History,0,B,B,"무정은 1917년 매일신보에 연재되었고, 임시토지조사국(1910~1918) 존속 시기와 겹칩니다. 조선청년연합회(1920), 연초 전매제(1921), 의열단(1919)은 모두 이후의 일입니다.
+
+### ANSWER
+B"
+PSE_history_18_10,History,0,D,D,"혼일강리역대국도지도(1402)는 유럽·아프리카까지 그려졌고 중화사상과 이슬람 지도학의 영향을 받았다. 백리척은 18세기 정상기의 동국지도에서 사용된 축척법이다.
+
+### ANSWER
+D"
+PSE_history_18_11,History,0,B,C,"신문왕 즉위년 김흠돌의 난과 달구벌 천도 시도가 근거이며, 신문왕은 682년 국학을 설립해 유학을 교육하였다. 우역 설치는 소지마립간, 서시·남시 설치는 효소왕·경덕왕, 녹읍 부활은 경덕왕 때이다.
+
+### ANSWER
+C"
+PSE_history_18_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_18_13,History,0,D,D,"지수신은 임존성에서 끝까지 저항하다가 고구려로 달아났고, 항복한 인물은 흑치상지 등이다. 따라서 지수신의 투항을 받아주었다는 서술은 사실과 다르다.
+
+### ANSWER
+D"
+KIIP_tradition_54,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_55,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_56,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_57,Tradition,0,B,B,"추석은 한국의 대표적인 명절로 음력 8월 15일에 해당하며, 한가위라고도 불린다.
+
+### ANSWER
+B"
+KIIP_tradition_58,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_59,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_60,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_61,Tradition,0,A,A,"### ANSWER
+A"
+PSAT_19_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_19_21,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_22,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_23,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_25,Law,0,D,D,"지방자치법상 자치사무에 대한 감사는 법령 위반사항에 한정되며, 합목적성 감사는 허용되지 않는다(헌재 결정 및 제190조). 따라서 D가 옳지 않다.
+
+### ANSWER
+D"
+PSAT_20_1,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_2,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_3,Law,0,D,D,"### ANSWER
+D"
+KIIP_society_129,Society,0,A,A,"EBS는 한국교육방송공사로 교육 프로그램을 주로 방송한다.
+
+### ANSWER
+A"
+KIIP_society_130,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_131,Society,0,A,A,"These are major national daily newspapers covering general news, not sports/economy, regional, or internet-only outlets.
+
+### ANSWER
+A"
+KIIP_society_132,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_133,Society,0,A,A,"공영방송은 국가나 개인의 소유가 아니라 공공기관(공적 재원과 공적 기구)에 의해 운영되는 방송을 의미한다. 국영방송(C)과는 구별되며, 민영(B)이나 지역 단위(D)와도 다르다.
+
+### ANSWER
+A"
+KIIP_society_134,Society,0,D,D,"JTBC는 종합편성채널(케이블)로 지상파(공중파)가 아니다.
+
+### ANSWER
+D"
+KIIP_society_135,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_136,Society,0,A,A,"### ANSWER
+A"
+TK_2019_36,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_37,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_38,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_39,Textual,0,C,B,"The sentence begins with the pronoun ""그들은,"" so it must follow a place where the group is first introduced, and it elaborates on their activity—fitting best right after that introduction in the middle of the passage.
+
+### ANSWER
+B"
+TK_2019_40,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_41,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_42,Textual,0,A,D,"Without the passage, the most plausible narrative detail is that Sohee kept holding her phone while waiting for her mother.
+
+### ANSWER
+D"
+TK_2019_43,Textual,0,D,D,"### ANSWER
+D"
+KIIP_geography_64,Geography,0,A,A,"2002년 부산은 제14회 아시안 게임을 개최했다. 월드컵은 한일 공동 개최로 여러 도시에서 열렸지만, 부산 자체를 대표하는 2002년 행사는 아시안 게임이다. 세계육상선수권대회는 2011년 대구에서 열렸다.
+
+### ANSWER
+A"
+KIIP_geography_65,Geography,0,B,B,"2011년 세계육상선수권대회가 대구에서 열렸고, 보기 중 대구와 관련된 국제 행사는 세계육상선수권대회뿐입니다. 아시안게임은 인천·부산, 국제영화제는 부산에서 개최되었습니다.
+
+### ANSWER
+B"
+KIIP_geography_66,Geography,0,B,B,"BIFF 광장은 부산 중구 남포동에 위치한다.
+
+### ANSWER
+B"
+KIIP_geography_67,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_68,Geography,0,C,C,"제주도의 오름(기생화산)은 약 360여 개로 알려져 있으므로 선택지 중 300개가 가장 가깝다.
+
+### ANSWER
+C"
+KIIP_geography_69,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_70,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_71,Geography,0,C,C,"전라도는 한반도의 남서쪽에 위치한다.
+
+### ANSWER
+C"
+CSAT_korean_17_6,Functional,0,E,E,"2문단에서는 강요된 희생과 소원한 관계 두 이유를 모두 언급하고, 3문단에서도 두 가지를 병렬적으로 반성하고 있어 주된 이유와 부차적 이유로 구별한 내용은 나타나지 않는다. 나머지 계획들은 각 문단에 반영되어 있다.
+
+### ANSWER
+E"
+CSAT_korean_14_1,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_14_2,Functional,0,B,B,"인터뷰는 천 원권(조선 후기 정선의 그림)을 먼저, 만 원권(조선 초 용비어천가·천상열차분야지도)을 나중에 다루었으므로 질문 순서대로 구성하면 시대순이 되지 않는다. 따라서 ""설명 순서대로 시대순 서술""이라는 말은 내용과 맞지 않는다.
+
+### ANSWER
+B"
+CSAT_korean_14_3,Functional,0,E,E,"신문 기사 중 전국 전통 시장 분포 내용은 아름시장의 특징과 상관없어 제외하고, 특징 소개에 필요한 부분과 설문 결과는 장점 부각에 필요하므로 포함했다. 즉 화제(아름시장의 특징) 제시에 필요한지 여부로 판단했다.
+
+### ANSWER
+E"
+CSAT_korean_14_4,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_14_5,Functional,0,D,D,"청자 3은 야금장터에 대해 공감하지 못하고 있으며, 청자 1도 행동 변화를 언급하지 않았으므로 야금장터 예시가 행동 변화를 유도했다고 볼 수 없다. 나머지 선택지는 각 청자의 반응과 일치한다.
+
+### ANSWER
+D"
+CSAT_korean_14_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_14_8,Functional,0,C,C,"The passage lists the three certification types in sequence, so the contrastive connective needs to be replaced with an additive one like ""한편/또한"" — changing it to ""그런데"" still keeps a contrastive/turning nuance and doesn't fix the problem. The other revisions (passive form for 호응, removing double passive, correct particle, appropriate word ""실천하는"") are all valid.
+
+### ANSWER
+C"
+KIIP_society_137,Society,0,D,D,"아마존은 SNS가 아니라 전자상거래 플랫폼이다.
+
+### ANSWER
+D"
+KIIP_society_138,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_139,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_140,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_141,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_142,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_143,Society,0,C,C,"I need to identify which system provides living costs vs medical costs. The National Basic Living Security System provides livelihood benefits (생계급여), while the Medical Aid (의료급여) program covers medical expenses for low-income households. So the two are distinct programs with distinct supports.
+
+### ANSWER
+C"
+KIIP_society_144,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_62,Tradition,0,C,C,"추석 대표 음식은 송편이다.
+
+### ANSWER
+C"
+KIIP_tradition_63,Tradition,0,B,B,"송편은 반달 모양으로 빚는 것이 전통이며, 추석에 보름달과 반달을 상징하여 만듭니다.
+
+### ANSWER
+B"
+KIIP_tradition_64,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_65,Tradition,0,C,C,"추석(한가위)은 음력 8월 15일로 보름달이 크고 밝은 시기로 알려져 있다.
+
+### ANSWER
+C"
+KIIP_tradition_66,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_67,Tradition,0,B,B,"송편은 멥쌀가루를 반죽해 소를 넣고 빚어 찌는 추석 대표 음식이다.
+
+### ANSWER
+B"
+KIIP_tradition_68,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_69,Tradition,0,A,B,"2015년 인구주택총조사에서 개신교 신자가 약 967만 명(19.7%)으로 불교(약 762만 명, 15.5%)와 천주교(7.9%)를 앞섰다. 이는 이전 조사와 달라진 결과였다.
+
+### ANSWER
+B"
+PSAT_20_4,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_7,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_8,Law,0,D,D,"지방의회의원·기초자치단체장 선거의 당선무효 소송은 고등법원에 제기하므로, 모든 선거를 대법원에 제기한다는 설명은 옳지 않다. A, B, C는 헌법 제108조, 제105조, 제102조의 내용과 일치한다.
+
+### ANSWER
+D"
+PSAT_20_9,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_10,Law,0,C,C,"권한쟁의심판에서 처분을 취소하는 결정은 그 처분의 상대방에 대하여 이미 생긴 효력에 영향을 미치지 아니한다(헌재법 제67조 제2항). 따라서 C가 옳지 않다. A(제63조), B(제23조), D(제65조)는 옳다.
+
+### ANSWER
+C"
+PSAT_20_11,Law,0,C,C,"위원장은 위원 중에서 호선하므로 C가 틀림.
+
+### ANSWER
+C"
+PSE_history_18_14,History,0,B,C,"### ANSWER
+C"
+PSE_history_18_15,History,0,C,C,"### ANSWER
+C"
+PSE_history_18_16,History,0,D,D,"영단주택은 1941년 조선주택영단이 노동자·서민의 주택 부족 해소를 위해 지은 소규모 주택으로, 상류층이 한식 주택을 2층으로 개량해 모여 산 것이 아니다. 나머지는 모두 일제강점기 생활상으로 맞다.
+
+### ANSWER
+D"
+PSE_history_18_17,History,0,B,C,"김종필·오히라 메모(1962)와 브라운 각서(1966) 사이의 사실을 찾아야 한다. 울산 정유 공장은 1964년에 가동되었고, 충주 비료 공장은 1961년, 경부고속국도 개통과 마산 수출자유지역은 1970년이다.
+
+### ANSWER
+C"
+PSE_history_18_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_18_19,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_2,History,0,D,D,"### ANSWER
+D"
+Kedu_15_25,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_26,Grammar,0,B,B,"주체높임에서 신체·소유물 등 주체와 관련된 대상은 간접 높임으로 '있으시다'를 써야 하므로, '따님이 계십니다'는 딸을 직접 높이는 잘못된 표현이다. '있으십니다'가 옳다.
+
+### ANSWER
+B"
+Kedu_15_27,Grammar,0,D,D,"D의 안긴문장 '밥을 먹는'은 주절이 현재('이다')이며 발화시와 사건시가 일치하여 현재로 해석된다. A와 C는 미래, B는 주절이 과거이므로 안긴문장도 발화시 기준 과거로 해석된다.
+
+### ANSWER
+D"
+Kedu_15_28,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_29,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_30,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_31,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_32,Grammar,0,A,A,"### ANSWER
+A"
+TK_2019_44,Textual,0,C,C,"유교의 본질은 형식보다 정성인데, 현재 전해진 예법은 그 본뜻을 잃고 형식(성대한 상차림)에 치우친 잘못된 것이라는 맥락이다.
+
+### ANSWER
+C"
+TK_2019_45,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_46,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_47,Textual,0,D,D,"글은 자치경찰제 시행 시 예상되는 현장 혼선과 부작용을 중심으로 서술하고 있다.
+
+### ANSWER
+D"
+TK_2019_48,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_49,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_5,Textual,0,C,C,"신다 = to wear on feet, and ""어떤 길에서도 편한"" refers to walking on any road — this describes footwear.
+
+### ANSWER
+C"
+TK_2022_6,Textual,0,B,B,"### ANSWER
+B"
+KIIP_geography_72,Geography,0,A,A,"Jeonju is famous for its well-preserved traditional hanok village (전주 한옥마을).
+
+### ANSWER
+A"
+KIIP_geography_73,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_74,Geography,0,D,B,"B is the answer — the Jeolla region experienced population decline (outmigration and aging) in the 2010s, so population growth was not a contributing factor, unlike improved transportation (KTX), corporate investment, and promotion of local specialty products.
+
+### ANSWER
+B"
+KIIP_geography_75,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_76,Geography,0,D,D,"한라산은 해발 1,947m로 남한에서 가장 높은 산이며, 지리산(1,915m)과 설악산(1,708m)보다 높다.
+
+### ANSWER
+D"
+KIIP_geography_77,Geography,0,A,A,"삼다도(三多島)라는 별칭에서 알 수 있듯 제주는 바람, 돌, 여자가 많다고 유명하다.
+
+### ANSWER
+A"
+KIIP_geography_78,Geography,0,A,D,"### ANSWER
+D"
+KIIP_geography_79,Geography,0,C,C,"강화도는 인천광역시 강화군에 속한다.
+
+### ANSWER
+C"
+KIIP_society_145,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_146,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_147,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_148,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_149,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_150,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_151,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_152,Society,0,A,A,"### ANSWER
+A"
+TK_2022_7,Textual,0,B,B,"Smiling and greeting others politely relates to everyday courtesy and manners, not environment, health, or volunteering.
+
+### ANSWER
+B"
+TK_2022_8,Textual,0,A,A,"플랫폼에서 뛰지 말고 문이 닫힐 때 무리하게 타지 말라는 내용은 지하철 이용 시 지켜야 할 안전 수칙에 해당한다.
+
+### ANSWER
+A"
+TK_2022_9,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_10,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_11,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_13,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_14,Textual,0,B,B,"### ANSWER
+B"
+KIIP_tradition_70,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_71,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_tradition_72,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_73,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_74,Tradition,0,A,C,"유교는 종교적 신앙 체계보다 유학(儒學)이라는 학문적 전통으로 여겨지는 경우가 많습니다.
+
+### ANSWER
+C"
+KIIP_tradition_75,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_76,Tradition,0,C,C,"# 무속신앙(shamanism) is the oldest indigenous Korean religion, predating Buddhism's introduction in the 4th century.
+
+### ANSWER
+C"
+KIIP_tradition_77,Tradition,0,A,A,"신령(신)이 사람들의 길흉화복을 정해준다고 믿었다는 것이 한국 전통 신앙의 일반적 관념이다.
+
+### ANSWER
+A"
+CSAT_korean_14_9,Functional,0,E,E,"E는 '오리 토끼' 그림, 선입견의 위험성, 다양한 관점의 중요성을 모두 반영하면서 ""자신이 만든 동굴 속에 가두는 것과 같다""는 비유를 활용하고 있다. 다른 선택지는 메모 항목 중 일부가 빠지거나 비유가 없다.
+
+### ANSWER
+E"
+CSAT_korean_14_10,Functional,0,D,D,"동기(안내문 보고 신청), 시간 순서(오전·오후), 깨달음(분석력·사고력 필요), 권유(끝맺음)는 모두 있으나, 대학 측에 바라는 점은 제시되지 않았다.
+
+### ANSWER
+D"
+CSAT_korean_18_1,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_18_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_3,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_4,Functional,0,D,D,"The discussion required including the fact that teachers also wrote and wore the messages; (라) still limits it to students only, failing to reflect the requested correction.
+
+### ANSWER
+D"
+CSAT_korean_18_5,Functional,0,D,D,"인터뷰는 학생회장이 '주최하며 어려웠던 점'을 말한 내용이어야 하고, 화합의 의미와 행사 이후 결과도 포함되어야 한다. D는 장소 섭외의 어려움(어려웠던 점), 한마음(화합), 성금 전달(결과)을 모두 담고 있다. B는 화합이 빠지고, A·E는 어려움 또는 결과가 미흡하며, C는 인터뷰가 없다.
+
+### ANSWER
+D"
+CSAT_korean_18_6,Functional,0,E,E,"(ㅁ)은 분량을 고려해야 한다는 학생 1의 의견에 동의하며 지면 한정을 근거로 추가 내용을 줄이자고 보태는 발화이므로, 상반된 의견이라는 이해는 적절하지 않다.
+
+### ANSWER
+E"
+Kedu_15_33,Grammar,0,D,D,"천연두는 두려운 질병이어서 직접 말하기를 피하고 '마마'라는 높임·완곡 표현을 사용했습니다. A는 방언(경상 방언 '정구지'), B는 한자어 높임말, C는 속어에 해당합니다.
+
+### ANSWER
+D"
+Kedu_15_34,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_35,Grammar,0,C,C,"나무와 뿌리는 상하(포함) 관계가 아니라 전체-부분 관계이다. 나머지는 상위어-하위어 관계이다.
+
+### ANSWER
+C"
+Kedu_15_36,Grammar,0,D,D,"고유어는 한자어에 비해 다의성이 강하여 하나의 단어가 여러 의미를 가지는 경우가 많고, 한자어가 오히려 개념이 분화되어 단일한 의미를 갖는 경향이 있다. 따라서 D의 설명이 반대로 되어 있어 옳지 않다. 나머지는 고유어의 특징(음운 교체, 기초어휘·문법 기능어, 음성상징어와 색채어 발달)으로 옳다.
+
+### ANSWER
+D"
+Kedu_15_37,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_38,Grammar,0,A,A,"형용사와 동사를 구분하는 문제입니다. '커서(자라다)', '밝는구나(날이 밝다)', '늙었군'은 모두 동사로 쓰였고, '넓게'는 형용사입니다.
+
+### ANSWER
+A"
+Kedu_15_39,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_40,Grammar,0,D,D,"### ANSWER
+D"
+KIIP_geography_80,Geography,0,A,A,"강원도 동해안은 수심이 깊고 조차가 작아 넓고 고운 모래사장이 발달한 해수욕장이 많다.
+
+### ANSWER
+A"
+KIIP_geography_81,Geography,0,C,C,"우포늪은 경상남도 창녕군에 위치한 국내 최대 자연 내륙 습지이다.
+
+### ANSWER
+C"
+KIIP_geography_82,Geography,0,C,C,"고수동굴은 충북 단양의 대표적인 석회암 동굴 관광지이다. 우포늪은 경남 창녕, 명동은 서울, 강화도 갯벌은 인천에 있다.
+
+### ANSWER
+C"
+KIIP_geography_83,Geography,0,C,C,"Cheonggyecheon is a famous restored stream in Seoul.
+
+### ANSWER
+C"
+KIIP_geography_84,Geography,0,D,D,"춘향전의 배경이 남원 광한루이며, 남원에서 춘향제가 매년 열린다. 도자기 엑스포는 이천·여주, 군항제는 진해에서 열린다.
+
+### ANSWER
+D"
+KIIP_geography_85,Geography,0,A,A,"이천은 도자기로 유명한 도시로, 세계 도자기 엑스포(도자기 비엔날레)가 개최된다.
+
+### ANSWER
+A"
+KIIP_geography_86,Geography,0,B,B,"고양시는 고양국제꽃박람회(세계 꽃 박람회)로 유명하며, 세계 도자기 엑스포는 이천·광주·여주 지역 행사입니다.
+
+### ANSWER
+B"
+KIIP_geography_87,Geography,0,A,A,"### ANSWER
+A"
+PSAT_20_12,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_13,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_14,Law,0,D,D,"D is correct per Article 99 of the Constitution — the Board of Audit and Inspection must audit the closing of accounts annually and report results to the President and the National Assembly in the following year. A is wrong (the longest-serving commissioner acts), B is wrong (it is under the President, not the Prime Minister), and C is wrong (the chairman's retirement age is 70, commissioners' is 65).
+
+### ANSWER
+D"
+PSAT_20_15,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_17,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_18,Law,0,B,B,"헌재 2018년 결정에서 국회의사당 100미터 이내 옥외집회 절대적 금지는 과잉금지원칙 위반으로 집회의 자유를 침해한다고 헌법불합치 결정하였다. 나머지 A, C, D는 판례 및 법률 규정에 부합한다.
+
+### ANSWER
+B"
+PSAT_20_19,Law,0,D,D,"### ANSWER
+D"
+PSE_history_19_3,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_4,History,0,C,C,"임병찬의 독립의군부는 1912년(고종 밀조)에 조직되어 3·1운동 이전의 사실이다. 암태도 소작쟁의(1923), 정우회 선언(1926), 민립대학 기성회(1923)는 모두 1919년 이후이다.
+
+### ANSWER
+C"
+PSE_history_19_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_6,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_7,History,0,A,A,"황국중앙총상회는 1898년 조직되어 을미사변(1895)과 을사조약(1905) 사이인 (가) 시기에 해당한다. 105인 사건(1911)은 (나) 이후, 방곡령(1889)은 을미사변 이전, 보안회(1904)는 (가) 시기이다.
+
+### ANSWER
+A"
+PSE_history_19_8,History,0,D,D,"무왕(대무예)은 흑수말갈 정벌을 시도하고 727년 고제덕 등을 일본에 보냈으며, 732년 장문휴를 보내 당의 등주를 공격했다. 진국→발해 개칭은 고왕, 대흥 연호는 문왕, 숭정 파견은 후대의 일이다.
+
+### ANSWER
+D"
+PSE_history_19_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_10,History,0,A,A,"### ANSWER
+A"
+TK_2022_15,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_16,Textual,0,B,B,"여권 표지 색깔, 문양, 문화재 표현 등은 모두 디자인 요소이므로, 국가들이 여권 디자인을 신중하게 결정한다는 내용이 자연스럽다.
+
+### ANSWER
+B"
+TK_2022_17,Textual,0,C,C,"The passage describes Japanese resident birds found on a Korean island, likely blown by a typhoon—an extremely rare case of observing Japanese resident birds there.
+
+### ANSWER
+C"
+TK_2022_18,Textual,0,D,D,"호기심을 자극해 판매를 늘리려던 의도와 반대되는 결과가 나타났음을 나타내므로 '오히려'가 적절하다.
+
+### ANSWER
+D"
+TK_2022_19,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_20,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_21,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_22,Textual,0,A,A,"### ANSWER
+A"
+KIIP_society_153,Society,0,D,D,"최저생계비는 국민기초생활보장제도와 관련된 지표로, 보건복지부가 중앙생활보장위원회를 통해 심의·공표하고 정보를 제공한다.
+
+### ANSWER
+D"
+KIIP_society_154,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_155,Society,0,A,A,"A
+
+### ANSWER
+A"
+KIIP_society_156,Society,0,B,C,"### ANSWER
+C"
+KIIP_society_157,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_158,Society,0,D,D,"2010년대 이후 한국은 저출산 심화로 출산율이 지속 하락했으며, 귀농 인구 증가, 농촌 인구 감소, 도시 집중은 실제 나타난 현상이다.
+
+### ANSWER
+D"
+KIIP_society_159,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_160,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_78,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_79,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_80,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_81,Tradition,0,A,A,"Korean folk religion held that old trees (당산나무, 신목) and stones (선돌, 돌탑) housed sacred spirits, serving as village guardian objects of worship.
+
+### ANSWER
+A"
+KIIP_tradition_82,Tradition,0,C,C,"당산나무(당산목)는 마을 수호신이 머무는 신성한 나무로 여겨져 마을 제사의 대상이 되었다.
+
+### ANSWER
+C"
+KIIP_tradition_83,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_84,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_85,Tradition,0,B,B,"전통 신앙에서는 특별한 나무나 돌(신목, 선돌 등)에 신성함이 깃들었다고 보았으며, 모든 나무와 돌이 다 신성하다고 여긴 것은 아니다. 따라서 ""모든""이라는 표현이 잘못된 진술이다.
+
+### ANSWER
+B"
+CSAT_korean_18_7,Functional,0,C,C,"[A]에서 학생 3은 학생 1의 비유적 표현 활용 제안을 받아들여 표제를 다시 쓰기로 하고, [B]에서는 학생 2의 지적(선생님 응원 메시지 누락, 객관성)을 인정하며 수정하겠다고 한다. 절충안이 아니라 한쪽 의견 수용에 해당한다.
+
+### ANSWER
+C"
+CSAT_korean_18_8,Functional,0,B,B,"B는 로봇세 도입 목적(ㄴ)과 무관하게, 로봇세가 편안한 삶을 지연시킨다는 반대 논거로 쓰인 부분이므로 ㄴ을 고려한 전략으로 보기 어렵다. ㄴ에 대응하는 것은 C(도입 취지 언급)이다.
+
+### ANSWER
+B"
+CSAT_korean_18_9,Functional,0,B,B,"(b)는 새로운 기계 도입에도 전체 일자리는 증가했다는 자료로, [A]에서 일자리 감소 우려 반박에 활용되었다. 중복 과세 논거에는 모바일 뱅킹, 자동 발매기 등 다른 사례와 법인세·소득세 언급이 사용되었다. 따라서 (b)를 중복 과세 근거로 봤다는 설명은 부적절하다.
+
+### ANSWER
+B"
+CSAT_korean_18_10,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_13_1,Functional,0,D,D,"The dialogue shows competition/cooperation, narrowing differences, conditional concessions, and differing priorities about which issue to address first. However, no third party is asked to arbitrate an unresolved deadlock—the offer to arrange talks with farmers is a separate negotiation, not mediation.
+
+### ANSWER
+D"
+CSAT_korean_13_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_4,Functional,0,D,D,"The question is mismatched with the given negotiation context, so we must judge from the choices themselves; a presentation about a hidden underpainting would explain X-ray analysis, the photo in the art room, and digital restoration, but the artist's motive for overpainting on one canvas is not typically explained.
+
+### ANSWER
+D"
+CSAT_korean_13_5,Functional,0,A,A,"### ANSWER
+A"
+KIIP_geography_88,Geography,0,A,A,"대관령과 태백산은 겨울철 폭설 지역으로, 대관령 눈꽃축제와 태백산 눈축제가 열린다. 해돋이 축제는 정동진·호미곶 등 해안, 도자기 엑스포는 이천·여주, 머드 축제는 보령이다.
+
+### ANSWER
+A"
+KIIP_geography_89,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_90,Geography,0,A,A,"울릉도는 오징어로 유명하며 오징어 축제가 열린다. 한산대첩 축제는 통영, 군항제는 진해, 탈춤 페스티벌은 안동이다.
+
+### ANSWER
+A"
+KIIP_geography_91,Geography,0,A,A,"남도 음식 문화 큰잔치는 전남에서 열리는 대표적인 음식 축제이며, 나머지는 음악·문학·수산물 관련 축제이다.
+
+### ANSWER
+A"
+KIIP_geography_92,Geography,0,C,C,"땅끝마을(해남)에서 열리는 해넘이해맞이 축제가 전라남도의 대표적인 해넘이 축제이다.
+
+### ANSWER
+C"
+Kedu_geography_1,Geography,0,B,B,"필암서원은 김인후를 배향한 서원으로 전남 장성에 있다. 소수(소수서원)는 경북 영주, 자운서원은 경기 파주, 화양서원은 충북 괴산에 위치한다.
+
+### ANSWER
+B"
+Kedu_geography_2,Geography,0,C,C,"청마 유치환의 문학관은 경상남도 통영시에 있으며, 하동에는 이병주 문학관(및 박경리 토지 관련 시설)이 있다. 정지용은 옥천, 이효석은 평창 봉평, 최명희 혼불문학관은 남원 사매면으로 모두 옳다.
+
+### ANSWER
+C"
+Kedu_geography_3,Geography,0,C,C,"전주는 한지·비빔밥·판소리(전주대사습놀이)로 유명하며, 별신굿 탈놀이는 안동 하회별신굿탈놀이가 대표적입니다. 제주 칠머리당 영등굿, 강릉 단오제, 한산 모시짜기는 모두 옳게 연결되었습니다.
+
+### ANSWER
+C"
+Kedu_15_41,Grammar,0,D,D,"구우일모는 '아주 사소한 것/극히 적은 양'을 뜻하는 정도·분량 표현이며, 나머지는 모두 어떤 행동이나 행위를 묘사하는 성어입니다.
+
+### ANSWER
+D"
+Kedu_15_42,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_43,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_44,Grammar,0,A,A,"신랑-신부와 사다-팔다는 모두 상대적 관계를 나타내는 방향(관계) 반의어입니다. 나머지는 상보 반의어, 등급 반의어, 방향 반의어가 섞여 있습니다.
+
+### ANSWER
+A"
+Kedu_15_45,Grammar,0,B,B,"쓰다(사용하다)는 두 경우 모두 '이용하다'라는 중심 의미에서 확장된 다의 관계이고, '거칠다'도 촉감의 거칢에서 언행의 거칢으로 확장된 다의어이다. 반면 '기지개를 켜다'와 '텔레비전을 켜다'의 '켜다'는 의미적 관련이 없는 동음이의어이다.
+
+### ANSWER
+B"
+Kedu_15_46,Grammar,0,B,B,"""좀""이 '조금'의 의미를 잃고 청자에게 부탁·요청을 부드럽게 하는 화용적 기능만 담당하는 경우가 담화 표지이다. A와 C는 '조금'의 양적 의미가 살아 있고, D는 강조(반어적 조건) 용법이다. B는 명령·청유에서 어감을 완화하는 담화 표지로 쓰였다.
+
+### ANSWER
+B"
+Kedu_15_47,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_48,Grammar,0,A,A,"### ANSWER
+A"
+PSAT_20_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_21,Law,0,A,A,"A는 긴급재정경제명령(제76조 제1항)의 요건인 ""국회의 집회를 기다릴 여유가 없는 때""를 긴급명령 요건으로 서술한 오류이며, 긴급명령은 ""국회의 집회가 불가능한 때""에 한한다.
+
+### ANSWER
+A"
+PSAT_20_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_24,Law,0,A,A,"A는 ""3분의 1 이상""이라 했으나 헌법 제128조는 국회재적의원 과반수 또는 대통령의 발의로 제안된다고 규정한다. B, C, D는 각각 제128조 제2항, 제130조 제1항, 제130조 제2항에 부합한다.
+
+### ANSWER
+A"
+PSAT_20_25,Law,0,C,C,"국회법 제20조의2는 ""의원이 의장으로 당선된 때""에만 당적 보유를 금지하며, 부의장은 해당되지 않는다. 나머지 A(제19조), B(제20조), D(제11조)는 국회법 규정과 일치한다.
+
+### ANSWER
+C"
+PSAT_21_1,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_2,Law,0,C,C,"### ANSWER
+C"
+TK_2022_23,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_25,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_26,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_27,Textual,0,D,D,"한국 편의점이 현지 취향에 맞추는 일반적 방식과 반대로 성공했다는 것은 한국식을 그대로 옮겼다는 의미다.
+
+### ANSWER
+D"
+TK_2022_28,Textual,0,A,A,"Context explains that keeping constant moisture hardened the sand path, and murals show people sprinkling water — so the key technique was sprinkling the right amount of water.
+
+### ANSWER
+A"
+TK_2022_29,Textual,0,B,C,"Bases on ""공이 바닥의 색과 많이 다르면 선수나 관중 모두 부담을 느낄 수 있기 때문""—the reason is visual comfort, reducing eye strain, not visibility.
+
+### ANSWER
+C"
+TK_2022_30,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_161,Society,0,C,C,"Korea's urbanization rate is around 90% or higher, with the vast majority of the population living in cities.
+
+### ANSWER
+C"
+KIIP_society_162,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_163,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_164,Society,0,B,B,"건강보험제도는 소득에 따라 보험료를 납부하고 의료 이용 시 급여를 받는 사회보험 제도이다.
+
+### ANSWER
+B"
+KIIP_society_165,Society,0,A,A,"**A**
+
+### ANSWER
+A"
+KIIP_society_166,Society,0,B,B,"대학병원은 3차 의료기관으로 정밀·세밀한 검사나 중증 질환 진료가 필요할 때 방문하는 곳이며, 가벼운 증상이나 예방접종은 동네 의원에서 처리한다.
+
+### ANSWER
+B"
+KIIP_society_167,Society,0,A,A,"건강보험제도는 보험료를 납부하고 필요할 때 적은 본인부담으로 의료서비스를 이용할 수 있게 해주는 제도이다. 완전 무료도 아니고 이용에 제한이 전혀 없는 것도 아니다.
+
+### ANSWER
+A"
+KIIP_society_168,Society,0,A,A,"보건소는 지방자치단체(국가) 차원에서 설치·운영하는 공공 보건기관이다.
+
+### ANSWER
+A"
+PSE_history_19_11,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_19_13,History,0,D,D,"전주화약(1894년 6월) 체결로 농민군이 해산한 이후, 일본의 경복궁 점령 등에 반발해 2차 봉기가 일어나 남접과 북접이 논산에서 합류했다. 나머지는 모두 전주화약 이전의 사건이다.
+
+### ANSWER
+D"
+PSE_history_19_14,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_15,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_17,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_18,History,0,B,B,"### ANSWER
+B"
+KIIP_tradition_86,Tradition,0,A,A,"장승과 솟대는 마을 입구에 세워져 마을로 들어오는 액운과 질병, 잡귀를 막는 수호신 역할을 했습니다.
+
+### ANSWER
+A"
+KIIP_tradition_87,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_88,Tradition,0,B,D,"### ANSWER
+D"
+KIIP_tradition_89,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_90,Tradition,0,A,A,"무속인(무당)은 신과 인간 사이를 중재하며 신의 뜻을 전달하는 매개자 역할을 한다.
+
+### ANSWER
+A"
+KIIP_tradition_91,Tradition,0,B,B,"B is false — shamanism still persists today.
+
+### ANSWER
+B"
+KIIP_tradition_92,Tradition,0,A,A,"A
+
+### ANSWER
+A"
+KIIP_tradition_93,Tradition,0,D,D,"### ANSWER
+D"
+CSAT_korean_13_6,Functional,0,C,C,"(나)-1은 관광객의 선호 프로그램 유형을, (다)는 특화 프로그램의 성공 사례를 보여주는 자료로, '생태 보전을 고려한 프로그램의 부족'이라는 문제점을 직접 도출하기는 어렵다. 이 자료들은 오히려 지역 특성을 살린 프로그램 개발 방안의 근거로 적합하다. 따라서 C의 활용 방안이 적절하지 않다.
+
+### ANSWER
+C"
+CSAT_korean_13_8,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_9,Functional,0,B,B,"The text cites a report (""보고서에 따르면"") about reading habits, not an expert's opinion on the library's positive functions. The other methods—stating significance early, using questions to recall experience, omitting the elderly-focused program, and linking to the website—are all present.
+
+### ANSWER
+B"
+CSAT_korean_13_10,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_2,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_15_3,Functional,0,E,E,"연설에는 전용 경기장 내부 구조나 경기력 향상에 관한 전문적 설명이 전혀 없고, 오히려 도로 경기장 노후화 우려에 대한 해명만 있다. 나머지는 모두 연설에 드러난다.
+
+### ANSWER
+E"
+CSAT_korean_15_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_15_7,Functional,0,B,B,"Both questions build on the expert's previous answer—asking about effects and then about specific labels—thus seeking further information connected to the prior response and the writing topic. (b) asks for examples, but (a) does not, so D is too narrow.
+
+### ANSWER
+B"
+TK_2022_31,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_32,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_33,Textual,0,D,D,"**### ANSWER
+D**"
+TK_2022_34,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_35,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_36,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_37,Textual,0,B,B,"Passage emphasizes positive view: moderates' flexibility can ease polarization and lead to rational social consensus—i.e., helping society develop with balance.
+
+### ANSWER
+B"
+TK_2022_41,Textual,0,B,B,"### ANSWER
+B"
+Kedu_geography_4,Geography,0,C,C,"독도는 '독도 천연보호구역'으로 천연기념물 제336호로 지정되어 있습니다. 독도는 동도·서도 2개의 섬과 89개의 부속 암초로 구성되며, 경비는 해군이 아닌 독도경비대(경찰)가 담당합니다. 이사부는 우산국을 정복했을 뿐 '독도'라는 명칭을 붙인 것은 아닙니다.
+
+### ANSWER
+C"
+Kedu_geography_5,Geography,0,C,D,"### ANSWER
+D"
+Kedu_geography_6,Geography,0,D,D,"황순원문학촌 소나기마을은 경기도 양평군 서종면에 위치하므로 정선과의 연결은 옳지 않다. 나머지는 모두 올바른 연결이다.
+
+### ANSWER
+D"
+Kedu_geography_7,Geography,0,A,A,"광한루는 전라북도 남원에 있는 누각이며, 진주에는 촉석루가 있다. 공산성은 공주, 오죽헌(오죽헌)은 강릉, 마니산 참성단은 강화도에 위치하므로 옳다.
+
+### ANSWER
+A"
+Kedu_geography_8,Geography,0,C,C,"### ANSWER
+C"
+Kedu_geography_9,Geography,0,B,B,"통영은 경상남도에 위치하므로 경상북도와의 연결은 옳지 않다. 나머지는 모두 올바른 연결이다.
+
+### ANSWER
+B"
+KHB_66_1,History,0,D,D,"### ANSWER
+D"
+KHB_66_2,History,0,A,A,"무천(10월 제천행사), 책화, 족외혼, 읍군·삼로는 동예의 특징이다.
+
+### ANSWER
+A"
+PSAT_21_3,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_6,Law,0,C,C,"판례(헌재 2019)는 공직선거법이 확성장치 사용에 따른 소음 규제기준을 정하지 않은 것은 국민의 건강하고 쾌적한 환경에서 생활할 권리에 대한 기본권 보호의무를 과소하게 이행한 것이라며 헌법불합치 결정을 내렸다. 따라서 C의 서술은 판례와 반대이다. 나머지는 기본권 보호의무 및 과소보호금지원칙에 관한 타당한 설명이다.
+
+### ANSWER
+C"
+PSAT_21_7,Law,0,D,D,"국민의 보건에 관한 권리는 국가가 소극적으로 침해하지 않을 의무뿐 아니라 건강 유지에 필요한 국가적 급부와 배려까지 요구할 수 있는 권리를 포함한다고 보는 것이 판례의 입장이므로, D가 옳지 않다.
+
+### ANSWER
+D"
+PSAT_21_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_9,Law,0,A,A,"A는 헌법 제72조와 달리 '국회의 동의'를 요건으로 잘못 기술하고 있다(국민투표 부의는 대통령의 재량으로 국회 동의 불요). 나머지는 헌법 제73조, 제66조·제69조, 전직대통령 예우법 규정에 부합한다.
+
+### ANSWER
+A"
+PSAT_21_10,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_11,Law,0,C,C,"정부조직법 제18조 제2항에 따르면 국무총리는 중앙행정기관장의 위법·부당한 명령·처분에 대해 ""대통령의 승인을 받아"" 중지 또는 취소할 수 있으므로, 승인 없이 가능하다는 C가 틀린 설명이다.
+
+### ANSWER
+C"
+KIIP_society_169,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_170,Society,0,A,A,"신고번호(112, 119 등)가 상황별로 정해져 있다.
+
+### ANSWER
+A"
+KIIP_society_171,Society,0,D,D,"4는 한자 '死'(죽음)와 발음이 같아 불길하게 여겨진다.
+
+### ANSWER
+D"
+KIIP_society_172,Society,0,B,B,"1994년 성수대교, 1995년 삼풍백화점 붕괴 등 대형 참사 이후 안전문화 정착을 위해 매월 4일을 안전점검의 날로 지정한 것은 1996년부터이다.
+
+### ANSWER
+B"
+KIIP_society_173,Society,0,D,D,"매월 4일은 '안전점검의 날'로 지정되어 국가 차원의 안전 점검 활동이 이루어진다.
+
+### ANSWER
+D"
+KIIP_society_174,Society,0,A,A,"안전문화운동은 특정 한 분야에 국한되지 않고 사회안전, 생활안전, 교통안전, 산업안전 등 여러 분야에서 실천과제를 정해 범국민적으로 추진하는 활동이다.
+
+### ANSWER
+A"
+KIIP_society_175,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_176,Society,0,D,D,"### ANSWER
+D"
+TK_2022_42,Textual,0,A,A,"A: 준은 방위 감각으로 동쪽(해돋이 방향)을 바로 지적했다. 부모는 그 능력이 없었고, 발견 후 기뻐했으며, 공부는 그럭저럭이었다.
+
+### ANSWER
+A"
+TK_2022_43,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_44,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_45,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_46,Textual,0,C,C,"### ANSWER
+C"
+KIIP_tradition_94,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_95,Tradition,0,D,D,"삼신은 아기의 출산과 육아를 관장하는 신으로 안방에 모셔지며, 부엌을 관장하는 신은 조왕신이다.
+
+### ANSWER
+D"
+KIIP_tradition_96,Tradition,0,D,D,"흰밥, 미역국, 정화수는 삼신상의 기본 제물이지만, 나물은 지역에 따라 다르게 올리므로 ""모든 지역에서""라는 표현이 틀렸다.
+
+### ANSWER
+D"
+KIIP_tradition_97,Tradition,0,A,A,"삼신상은 아기의 출생과 산모를 관장하는 삼신에게 바치는 제상으로, 상을 차려 제사를 올린 후에는 예를 갖추어 절을 하는 것이 전통이다.
+
+### ANSWER
+A"
+KIIP_tradition_98,Tradition,0,A,A,"삼신(삼신할머니)은 출산과 육아를 관장하는 신으로, 아이를 낳은 뒤 안방에 삼신상을 차려 아이의 무병장수와 건강을 기원했습니다.
+
+### ANSWER
+A"
+KIIP_tradition_99,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_100,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_101,Tradition,0,A,A,"불교는 4세기 삼국시대에 전래되어 한국에 들어온 외래 종교 중 가장 오래된 것으로 여겨진다. 기독교는 조선 후기, 이슬람교는 훨씬 후대에 본격 전파되었다.
+
+### ANSWER
+A"
+Kedu_15_49,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_50,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_51,Grammar,0,C,C,"English는 '잉글리시'로 적어야 하며, '쉬'는 외래어 표기법에서 어말 -sh 표기에 쓰이지 않는다. 나머지는 모두 올바른 표기이다.
+
+### ANSWER
+C"
+Kedu_15_52,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_53,Grammar,0,B,B,"B: 냄비와 덩굴은 모두 표준어입니다. '안절부절하다'는 '안절부절못하다'가 표준어이고, '바램'은 '바람'이, '쌍둥밤'은 '쌍동밤'이 표준어입니다.
+
+### ANSWER
+B"
+Kedu_15_54,Grammar,0,B,B,"강릉은 자음동화 반영(Gangneung), 팔당은 된소리되기 미반영(Paldang), 속리산은 Songnisan으로 옳다. 광희문은 'ㅢ'를 항상 ui로 적어 Gwanghuimun이며, 집현전은 체언에서 ㅎ을 밝혀 Jiphyeonjeon으로 적는다.
+
+### ANSWER
+B"
+Kedu_15_55,Grammar,0,C,C,"ㅅ 불규칙 활용(짓다, 긋다)은 중세국어의 반치음 ㅿ이 소멸하면서 생긴 현상이다. ㅸ은 ㅂ 불규칙과 관련된다.
+
+### ANSWER
+C"
+Kedu_15_56,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_15_8,Functional,0,E,E,"자료 (나)와 (다)에는 기업 이미지 제고에 관한 내용이 없고, Ⅲ-2-나의 항목은 '생산 및 유통 과정의 변화'이므로 소비 생활 변화로 귀결시키는 것은 개요와 맞지 않는다.
+
+### ANSWER
+E"
+CSAT_korean_15_9,Functional,0,D,D,"The draft mentions the bus (lack of leisure), bird sounds (joy of new awareness), leaves (diversity/harmony), and friends (regret over intolerance). There is no mention of patience being needed for beauty in autumn.
+
+### ANSWER
+D"
+CSAT_korean_15_10,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_16_1,Functional,0,B,B,"발표자는 정선 산수화의 특징(환, 점경 인물)을 설명하며 <총석정>, <삼일포>, <낙산사> 그림을 화면으로 보여주어 이해를 도왔다.
+
+### ANSWER
+B"
+CSAT_korean_16_2,Functional,0,D,D,"삼일포에서는 평원법을 사용했고, 수직준법은 총석정에 쓰였으므로 (d)가 부적절하다.
+
+### ANSWER
+D"
+CSAT_korean_16_3,Functional,0,D,D,"반대 1은 기존 심사 방식의 타당성, 공평성, 축제 내실화 등 긍정적 측면을 근거로 추첨 방식에 반대하고 있다.
+
+### ANSWER
+D"
+CSAT_korean_16_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_5,Functional,0,E,E,"### ANSWER
+E"
+PSE_history_19_19,History,0,B,B,"### ANSWER
+B"
+PSE_history_19_20,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_2,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_3,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_4,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_6,History,0,B,B,"### ANSWER
+B"
+KHB_66_3,History,0,C,C,"### ANSWER
+C"
+KHB_66_4,History,0,B,B,"### ANSWER
+B"
+KHB_66_5,History,0,A,A,"### ANSWER
+A"
+KHB_66_6,History,0,A,A,"### ANSWER
+A"
+KHB_66_7,History,0,D,D,"### ANSWER
+D"
+KHB_66_8,History,0,D,D,"### ANSWER
+D"
+KHB_66_9,History,0,A,A,"### ANSWER
+A"
+KHB_66_10,History,0,D,D,"### ANSWER
+D"
+KIIP_society_177,Society,0,A,A,"A
+
+### ANSWER
+A"
+KIIP_society_178,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_179,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_180,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_181,Society,0,A,A,"합계출산율은 여성 1명이 평생 낳을 것으로 기대되는 평균 자녀 수를 의미한다.
+
+### ANSWER
+A"
+KIIP_society_182,Society,0,A,A,"국민행복카드를 통한 임신·출산 진료비 지원금은 국민건강보험공단이 정한 지정 요양기관에서 사용할 수 있다.
+
+### ANSWER
+A"
+KIIP_society_183,Society,0,A,A,"어린이집은 영유아보육법에 따라 만 0세부터 취학 전 아동까지 이용 가능하며, 만 3세~취학 전은 유치원 대상이다.
+
+### ANSWER
+A"
+KIIP_society_184,Society,0,A,A,"### ANSWER
+A"
+PSE_history_20_7,History,0,A,A,"### ANSWER
+A"
+PSE_history_20_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_10,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_11,History,0,A,A,"### ANSWER
+A"
+PSE_history_20_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_20_14,History,0,C,C,"### ANSWER
+C"
+KIIP_tradition_102,Tradition,0,D,A,"### ANSWER
+A"
+KIIP_tradition_103,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_104,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_105,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_106,Tradition,0,B,C,"18세기 후반(1784년 이승훈의 세례와 신앙공동체 형성)에 천주교가 서학으로 수용되어 한국에 본격적으로 전래되었다.
+
+### ANSWER
+C"
+KIIP_tradition_107,Tradition,0,D,D,"Protestant missionaries (Underwood, Appenzeller) arrived in Korea in the 1880s, making it the 19th century.
+
+### ANSWER
+D"
+KIIP_tradition_108,Tradition,0,C,C,"원불교와 천도교는 한국에서 자생적으로 창시된 고유 종교이며, 가톨릭·개신교·이슬람은 외래 종교이다.
+
+### ANSWER
+C"
+KIIP_tradition_109,Tradition,0,A,A,"Catholicism entered Joseon in the late 18th century and was harshly persecuted (e.g., Sinyu, Byeongin persecutions) as it clashed with Confucian ancestral rites.
+
+### ANSWER
+A"
+PSAT_21_12,Law,0,B,B,"국무위원은 정무직이며, 정부조직법상 의장에게 의안을 제출하고 국무회의 소집을 요구할 수도 있다. 따라서 소집 요구를 할 수 없다는 B가 틀렸다.
+
+### ANSWER
+B"
+PSAT_21_13,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_14,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_15,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_17,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_18,Law,0,A,A,"국회법 제48조 제3항에 따라 정보위원회 위원은 의장이 교섭단체 대표의원의 추천을 받아 협의하여 선임하며, 각 교섭단체 대표의원은 당연직 위원이 된다. 예산결산특별위원회는 상설특위이고, 대통령비서실·국무총리비서실은 운영위원회 소관이며, 소위원회는 폐회 중에도 활동 가능하고 법률안 심사 소위는 매월 3회 이상 개회한다.
+
+### ANSWER
+A"
+PSAT_21_19,Law,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_6,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_7,Functional,0,B,B,"B는 제품명을 제목에 드러내지 않는 이유를 ""광고처럼 보이기 위한"" 것으로 잘못 설명했다. [B]에 따르면 이는 오히려 '기사처럼 보이기 위한' 기법이다. 나머지는 모두 지문의 설명과 예시가 일치한다.
+
+### ANSWER
+B"
+CSAT_korean_16_8,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_16_9,Functional,0,E,E,"The student observed the green grass and merely recalled that it had once been dried brown grass; he did not actually observe brown withered grass. Thus E misdescribes the process.
+
+### ANSWER
+E"
+CSAT_korean_16_10,Functional,0,C,C,"(ㄷ)의 '푸르고 무성한'은 순접 연결로 자연스러우며, '푸르지만'으로 바꾸면 오히려 의미가 어색해진다. 나머지는 조사, 어휘, 접속어, 목적어 보충으로 모두 적절한 수정이다.
+
+### ANSWER
+C"
+CSAT_korean_19_1,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_19_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_3,Functional,0,A,A,"The speaker's answer explains that paper's fibers act like thin tubes, so ink flows via capillary action, making writing easy — this responds to a question linking easy writing with capillary action. Since the fiber/tube idea hadn't been mentioned yet, E couldn't be the question. Thus A fits.
+
+### ANSWER
+A"
+KHB_66_11,History,0,B,B,"### ANSWER
+B"
+KHB_66_12,History,0,D,D,"### ANSWER
+D"
+KHB_66_13,History,0,C,B,"### ANSWER
+B"
+KHB_66_14,History,0,A,A,"### ANSWER
+A"
+KHB_66_15,History,0,C,C,"### ANSWER
+C"
+KHB_66_16,History,0,C,C,"이성계가 요동 정벌 4불가론을 주장했으며, 그는 1380년 황산 대첩에서 왜구를 격퇴하였다.
+
+### ANSWER
+C"
+KHB_66_17,History,0,B,B,"### ANSWER
+B"
+KHB_66_18,History,0,A,A,"### ANSWER
+A"
+KIIP_society_185,Society,0,A,A,"유치원은 유아교육법에 따라 만 3세부터 초등학교 취학 전 유아를 대상으로 교육을 제공한다. 만 0세~2세는 어린이집(보육) 대상이다.
+
+### ANSWER
+A"
+KIIP_society_186,Society,0,A,A,"유치원은 설립·운영 주체에 따라 국립·공립 유치원과 사립 유치원으로 구분된다. 종교 단체 유치원은 사립에 포함되므로 별도 분류가 아니다.
+
+### ANSWER
+A"
+Kedu_16_1,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_2,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_3,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_4,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_5,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_6,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_7,Grammar,0,A,A,"단어 수를 조사 포함으로 세면 A는 '그/가/가면/나/도/또한/간다'로 7개, B는 5개, C는 6개, D는 5개입니다. 따라서 A가 가장 많습니다.
+
+### ANSWER
+A"
+Kedu_16_8,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_tradition_110,Tradition,0,A,A,"천주교는 신분 질서를 부정하는 평등 사상과 조상 제사 거부(불효, 유교 윤리 위배)로 인해 조선 정부의 탄압을 받았다.
+
+### ANSWER
+A"
+KIIP_tradition_111,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_112,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_113,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_114,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_115,Tradition,0,A,A,"제사에서는 조상에게 재배(再拜), 즉 두 번 절하는 것이 전통적인 예법이다.
+
+### ANSWER
+A"
+KIIP_tradition_116,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_117,Tradition,0,A,B,"조문(문상) 시에는 근조 화환이나 조화 등 꽃을 보내는 것이 관례이므로 꽃 바구니가 적절하다.
+
+### ANSWER
+B"
+CSAT_korean_19_4,Functional,0,E,E,"반대 1은 빅데이터 자체가 특정 대상·사안에 치우쳐 왜곡될 수 있다고 했으므로, ""빅데이터에 근거하지 않고 왜곡된 정보를 바탕으로 평가""한다는 정리는 발언 내용과 어긋난다. 나머지는 입론 내용과 일치한다.
+
+### ANSWER
+E"
+CSAT_korean_13_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_19_5,Functional,0,B,B,"Reasoning: [A]에서 찬성 1은 반대 2의 이의 제기에 반박하며 설문 조사 자료를 근거로 자신의 주장이 타당함을 강조한다. A는 사례 요구가 없고, C는 자료 추가 요청이 아니라 통계 자료를 제시한 것이며, D는 출처 확인이 없고, E는 실현 가능한 방안 추가가 없다.
+
+### ANSWER
+B"
+CSAT_korean_19_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_19_8,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_9,Functional,0,D,D,"D — 자료 2는 공식적 상황에 국한되던 표준어 사용이 일상생활로 확대되고 있음을 보여주므로, 방언을 써도 되는 상황에서도 표준어를 쓰려는 태도를 원인으로 추가할 수 있다. 다른 선택지들은 자료 내용과 어긋나거나 방언 소멸 원인과 무관하다.
+
+### ANSWER
+D"
+CSAT_korean_20_1,Functional,0,B,B,"No 발표자는 ""본 적이 있나요?"", ""무엇을 그렸을까요?"" 같은 질문을 통해 청중의 대답과 반응을 이끌어내고 있다.
+
+### ANSWER
+B"
+CSAT_korean_20_2,Functional,0,D,D,"자료 3은 연꽃 위 신선을 그린 것으로 불교와 도교의 공존을 보여 주는 자료이며, 무덤 주인을 수호한다고 여긴 사신(四神)은 별개로 언급되었을 뿐 자료로 제시되지 않았다.
+
+### ANSWER
+D"
+PSAT_21_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_21,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_22,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_24,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_1,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_2,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_3,Law,0,C,C,"C: 헌재는 선거중립의무가 부과되는 공무원에서 정당활동이 허용되는 국회의원·지방의회의원은 제외된다고 판시했으므로, 이들을 포함한다는 설명은 옳지 않다. A, B, D는 각각 판례 취지에 부합한다.
+
+### ANSWER
+C"
+PSE_history_20_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_16,History,0,B,B,"3저 호황(1986~1988)은 2차 석유파동(1979) 이후, OECD 가입(1996) 이전에 해당한다. 나머지는 1960~70년대 사건이다.
+
+### ANSWER
+B"
+PSE_history_20_17,History,0,D,D,"치안유지법(1925~1945) 시행 기간을 묻는 문제로, 조선 태형령(1912), 경성제국대학 설립(1924), 물산장려운동 시작(1920~1923)은 모두 그 이전이다. 학도 지원병 제도는 1943년 실시로 해당 기간에 속한다.
+
+### ANSWER
+D"
+PSE_history_20_18,History,0,C,C,"조선 후기 향전이 발생한 시기의 상황을 묻는 문제이다. 경재소는 1603년에 폐지되었으므로 후기 향촌사회 설명으로 부적절하다. 나머지는 신향과 구향의 대립 속 수령권 강화, 신향의 수령·향리 결탁, 재지사족의 동계·동약 운영으로 모두 후기 특징이다.
+
+### ANSWER
+C"
+PSE_history_20_19,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_1,History,0,C,C,"황조가는 고구려 유리왕의 작품이며, 유리왕은 재위 22년에 졸본에서 국내성(위나암)으로 천도하였다. 진대법은 고국천왕, 낙랑군 축출은 미천왕, 율령 반포는 소수림왕 때이다.
+
+### ANSWER
+C"
+PSE_history_21_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_3,History,0,C,C,"원각사지 10층 석탑은 세조가 세운 것으로 경천사 10층 석탑의 영향을 받았다. 세조는 왕권 강화를 위해 의정부 서사제를 폐지하고 6조 직계제를 다시 실시했다. 동국병감은 문종, 동문선은 성종, 창덕궁 창건은 태종의 업적이다.
+
+### ANSWER
+C"
+KHB_66_19,History,0,B,B,"### ANSWER
+B"
+KHB_66_20,History,0,B,B,"임진왜란 관련 격전지들이며, 임경업(임경업)의 백마산성 항전은 병자호란 때의 일이다.
+
+### ANSWER
+B"
+KHB_66_21,History,0,D,B,"### ANSWER
+B"
+KHB_66_22,History,0,B,A,"[문맥 없이 보기의 성격상, 서인과 남인의 정권 교체를 다룬 숙종 대 사건이 (가)에 해당하는 것으로 판단됩니다. 예송·박해·사화보다 환국이 가장 적절합니다.]
+
+### ANSWER
+A"
+KHB_66_23,History,0,D,C,"### ANSWER
+C"
+KHB_66_24,History,0,C,D,"Reasoning: 전국적으로 유통된 화폐는 조선 후기의 상평통보로, 장시 발달·공인 활동·송상의 송방 설치는 모두 조선 후기 상황이다. 반면 벽란도 국제 무역은 고려 시대의 일이다.
+
+### ANSWER
+D"
+KHB_66_25,History,0,C,C,"### ANSWER
+C"
+KHB_66_26,History,0,A,C,"### ANSWER
+C"
+KIIP_tradition_118,Tradition,0,C,D,"제사상 차림은 지역별 음식 문화와 가풍에 따라 차이가 나타난다(예: 영남·호남·서울의 차림 차이).
+
+### ANSWER
+D"
+KIIP_tradition_119,Tradition,0,A,A,"폐백(幣帛)은 혼례 후 신랑·신부가 양가 어른들에게 절을 올리는 전통 인사 의례입니다. 상주는 장례의 주인, 상모는 농악 모자, 상가는 장례집을 뜻합니다.
+
+### ANSWER
+A"
+KIIP_tradition_120,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_121,Tradition,0,B,B,"Korean funeral custom: two bows to the deceased's portrait, one bow to the bereaved family.
+
+### ANSWER
+B"
+KIIP_tradition_122,Tradition,0,A,C,"### ANSWER
+C"
+KIIP_tradition_123,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_124,Tradition,0,B,B,"[문상객은 조의를 표하고 유족을 위로하며, 상가에서 음식을 나누고 고인에 대한 이야기를 나눕니다. 전통 음악 연주는 문상객의 행동이 아닙니다.]
+
+### ANSWER
+B"
+KIIP_tradition_125,Tradition,0,C,C,"### ANSWER
+C"
+CSAT_korean_20_3,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_20_4,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_20_5,Functional,0,B,B,"학생 1은 ""지난번에 ... 각자 찾아보기로 했잖아""로 지난 논의를 환기하고(가), 신문 기사에서 읽은 장소의 획일화를 현안으로 제안하며(다), ""다른 역할도 나눠 볼까?""로 역할 분담을 제안한다(마). 교지 비평문 언급은 학생 2, 관점 선정 유의점 안내는 없다.
+
+### ANSWER
+B"
+CSAT_korean_20_6,Functional,0,C,C,"2문단에서 렐프의 견해는 장소에 대한 정서적 유대의 중요성을 강조하기 위해 인용된 것이며, 현안에 대한 '사회적 인식의 변화'를 설명하는 내용은 없다.
+
+### ANSWER
+C"
+CSAT_korean_20_7,Functional,0,C,C,"글에는 사람들이 장소 선택권을 요구했다는 내용이 없으며, 식상함을 느껴 찾지 않게 된다는 내용만 있으므로 C가 적절하지 않다.
+
+### ANSWER
+C"
+CSAT_korean_20_8,Functional,0,A,A,"게임화의 개념과 게임의 범위를 설명하지만 개념 간 차이를 대조하는 방식은 사용되지 않았다. 효용, 사례, 용어 정의, 한국사 수업 경험 공유는 모두 사용되었다.
+
+### ANSWER
+A"
+CSAT_korean_20_9,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_20_10,Functional,0,E,E,"### ANSWER
+E"
+PSE_history_21_4,History,0,A,A,"조광조가 현량과 실시를 건의한 내용으로, 그는 기묘사화로 제거되었다.
+
+### ANSWER
+A"
+PSE_history_21_5,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_6,History,0,D,D,"이차돈 순교(527년)는 백제의 웅진 천도(475년)와 사비 천도(538년) 사이에 해당한다. 대가야 정복(562), 황초령비(568), 국사 편찬(545)은 모두 사비 천도 이후이다.
+
+### ANSWER
+D"
+PSE_history_21_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_8,History,0,C,C,"ㄱ, ㄴ, ㄷ은 모두 옳고, ㄹ은 국조보감에 대한 설명이므로 틀렸다.
+
+### ANSWER
+C"
+PSE_history_21_9,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_10,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_11,History,0,C,C,"### ANSWER
+C"
+PSAT_22_4,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_5,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_7,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_8,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_9,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_10,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_11,Law,0,B,B,"방송사업자에 대한 '시청자에 대한 사과' 명령 조항은 헌법재판소가 방송사업자의 인격권을 침해하며 침해의 최소성에 위배된다고 판단하여 위헌 결정한 사안이므로, B는 옳지 않다. 나머지 A(금치처분 집필 전면금지 위헌), C(문화예술계 블랙리스트 사건), D(사관생도 기본권 제한 한계)는 모두 판례 취지에 부합한다.
+
+### ANSWER
+B"
+KHB_66_27,History,0,C,A,"### ANSWER
+A"
+KHB_66_28,History,0,C,C,"### ANSWER
+C"
+KHB_66_29,History,0,B,C,"### ANSWER
+C"
+KHB_66_30,History,0,B,B,"토지 조사 사업(1910~1918)은 1910년대 무단 통치기에 시행되었으며, 이 시기 일제는 조선 태형령(1912)을 시행했다. 농광 회사는 대한제국 시기, 화폐 정리 사업은 1905년, 산미 증식 계획은 1920년대이다.
+
+### ANSWER
+B"
+KHB_66_31,History,0,D,D,"### ANSWER
+D"
+KHB_66_32,History,0,C,C,"### ANSWER
+C"
+KHB_66_33,History,0,B,B,"### ANSWER
+B"
+KHB_66_34,History,0,D,A,"독립문 건립은 독립협회의 대표적 활동으로, (가)에 해당하는 단체의 활동으로 가장 적절합니다.
+
+### ANSWER
+A"
+KIIP_tradition_126,Tradition,0,C,C,"금반지는 전통적으로 돌잔치의 대표적인 선물로, 아이의 장수와 부귀를 기원하는 의미를 담고 있다.
+
+### ANSWER
+C"
+KIIP_tradition_127,Tradition,0,C,C,"금반지는 돌잔치 선물로, 금의 귀함과 변하지 않는 순수함처럼 아기가 가치 있고 순수하게 자라기를 바라는 의미를 담고 있습니다.
+
+### ANSWER
+C"
+CSAT_korean_13_3,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_15_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_5,Functional,0,C,C,"Presentation stated production increased steadily from 1986 to 2010 (past data), not that it would increase for 25 years after 2010; student 3 misunderstands the content.
+
+### ANSWER
+C"
+CSAT_korean_17_1,Functional,0,B,B,"발표 마무리에서 내용을 요약하지 않고 이해되었기를 바란다는 인사로 끝냈으므로 B가 반영되지 않았다.
+
+### ANSWER
+B"
+CSAT_korean_17_2,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_17_3,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_4,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_5,Functional,0,D,D,"### ANSWER
+D"
+Kedu_16_9,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_10,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_11,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_12,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_13,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_14,Grammar,0,A,A,"A: 밥만(비음화), 심리(비음화), 잡고(경음화)는 모두 한 음소가 다른 음소로 바뀌는 대치 현상입니다. B의 '않네'는 탈락, C의 '눈약'은 ㄴ첨가, D의 '앓고'는 축약(격음화)이 포함되어 대치만으로 구성되지 않습니다.
+
+### ANSWER
+A"
+Kedu_16_15,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_16,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_8,Functional,0,A,A,"첫 문단에서 학교 구성원들 사이에 봉사의 날 운영 방식 논의가 한창이라는 학교 상황을 제시하여 글감에 대한 논의의 필요성을 드러냈다. 나머지는 초고에 나타나지 않은 내용이다.
+
+### ANSWER
+A"
+CSAT_korean_17_9,Functional,0,D,D,"자료 (가)는 만족도 조사이고 (다)는 동아리별 봉사 활동의 준비 시간 문제를 다루므로, 현행 운영 방식(학급별 환경 정화)의 문제점으로 준비 시간 소요를 제시하는 것은 자료에 근거하지 않은 활용이다.
+
+### ANSWER
+D"
+CSAT_korean_17_10,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_35,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_38,Functional,0,D,D,"3문단에서 몇몇 친구들은 힘들다며 포기했지만 '나'는 지도의 의미를 생각하며 의욕적으로 조사했다고 서술하여, 자신의 참여 자세를 친구들과 대조하고 있다.
+
+### ANSWER
+D"
+CSAT_korean_23_43,Functional,0,E,E,"### ANSWER
+E"
+Kedu_16_1,Grammar,0,D,D,"The utterance is a declarative sentence functioning as a statement directly but a warning indirectly; since the illocutionary force isn't stated with a performative verb, it is an implicit (not explicit) performative.
+
+### ANSWER
+D"
+KHB_66_35,History,0,A,A,"### ANSWER
+A"
+KHB_66_36,History,0,A,A,"고종이 경운궁 환궁 후 황제 즉위하며 선포한 국호는 '대한제국'(1897)입니다. 대한제국 시기에는 양전·지계 사업을 통해 지계가 발급되었습니다. 척화비(1871), 육영공원(1886), 군국기무처(1894)는 모두 그 이전입니다.
+
+### ANSWER
+A"
+KHB_66_37,History,0,D,D,"회사령은 1910년(무단통치기)에 공포되었고 1920년 폐지되었으므로 중일전쟁 이후 민족말살통치기와 맞지 않는다. 공출, 황국신민서사, 국민징용령은 모두 1930년대 후반~1940년대 상황이다.
+
+### ANSWER
+D"
+KHB_66_38,History,0,A,A,"### ANSWER
+A"
+KHB_66_39,History,0,C,C,"### ANSWER
+C"
+KHB_66_40,History,0,C,C,"김규식(호 우사)은 파리강화회의 신한청년당 대표, 임시정부 부주석, 남북협상 참여로 유명하며, 해방 후 여운형과 함께 좌우 합작 위원회를 결성했다. 대성학교는 안창호, 조선혁명선언은 신채호, 한국독립운동지혈사는 박은식의 업적이다.
+
+### ANSWER
+C"
+KHB_66_41,History,0,D,D,"1·4 후퇴가 발생한 전쟁은 6·25 전쟁이다. 흥남 철수(1950), 발췌 개헌(1952), 인천 상륙 작전(1950)은 모두 전쟁 중 사실이나, 반민족 행위 처벌법은 1948년 제정으로 전쟁 이전의 일이다.
+
+### ANSWER
+D"
+KHB_66_42,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_12,History,0,B,B,"조미수호통상조약(1882)은 임오군란 발발 이전에 체결되었으며, 임오군란을 계기로 체결된 것은 조청상민수륙무역장정 등이다. 조미조약은 영사재판권, 최혜국 대우를 포함하고 황쭌셴의 『조선책략』 영향을 받았다.
+
+### ANSWER
+B"
+PSE_history_21_13,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_15,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_17,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_19,History,0,C,C,"호포제(동포전)를 강행한 '그'는 흥선대원군이다. 그는 임오군란으로 재집권했을 때 개화기구인 통리기무아문을 없애고 5군영과 삼군부를 부활시켰다. 만동묘는 오히려 철폐했고, 군국기무처 총재는 김홍집이다.
+
+### ANSWER
+C"
+Kedu_16_17,Grammar,0,C,C,"Korean is SOV, agglutinative, and head-final; head-final languages are left-branching (좌분지), not right-branching. So the statement that Korean has right-branching structure is false.
+
+### ANSWER
+C"
+Kedu_16_18,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_19,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_20,Grammar,0,C,C,"관계 관형사절은 안긴 문장의 성분 하나가 피수식 명사와 동일해 생략되는 구조인데, C의 '저 사람을 만난'은 '기억'과 성분이 공유되지 않는 동격(보문) 관형절이다. A, B, D는 각각 '자전거를', '거북선을', '사람들이'가 생략된 관계 관형절이다.
+
+### ANSWER
+C"
+Kedu_16_21,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_22,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_23,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_24,Grammar,0,A,A,"### ANSWER
+A"
+PSAT_22_12,Law,0,D,D,"D의 마지막 부분이 판례와 반대다. 고시 등 행정규칙에 입법위임을 하는 경우에도 법률의 위임은 반드시 구체적·개별적으로 한정된 사항에 대하여 행하여져야 한다는 것이 헌재 판례이다. A, B, C는 모두 판례의 취지에 부합한다.
+
+### ANSWER
+D"
+PSAT_22_13,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_14,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_15,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_18,Law,0,C,C,"C는 국회법상 부의장이 직무를 대행하는 것으로 규정되어 있어(소속 의원 수가 많은 교섭단체 소속 부의장), 임시의장 선출은 옳지 않다. A는 국회법 제9조, B는 헌재 판례, D는 헌법 제51조 내용과 일치한다.
+
+### ANSWER
+C"
+PSAT_22_20,Law,0,D,D,"D는 국회법 제5조에 따라 집회기일 3일 전 공고이며, 둘 이상의 요구가 있으면 집회일이 빠른 것을 공고하므로 틀렸다. A, B, C는 헌법·국회법 규정과 일치한다.
+
+### ANSWER
+D"
+PSAT_22_21,Law,0,C,C,"헌법 제113조 제1항은 법률의 위헌결정, 탄핵의 결정, 정당해산의 결정, 헌법소원 인용결정에 6인 이상의 찬성을 요구하며, 권한쟁의심판의 인용결정은 일반 심판정족수(과반수)로 가능하다. 따라서 C가 옳지 않다. A는 2020년 판례 변경으로 유예기간 경과일이 기산점이 되었고, B와 D는 확립된 판례 내용이다.
+
+### ANSWER
+C"
+KHB_66_43,History,0,C,C,"### ANSWER
+C"
+KHB_66_44,History,0,D,D,"### ANSWER
+D"
+KHB_66_45,History,0,A,A,"### ANSWER
+A"
+KHB_66_47,History,0,A,A,"원효는 화쟁 사상을 담은 『십문화쟁론』을 저술했습니다. 해동 천태종은 의천, 세속 5계는 원광, 수선사 결사는 지눌의 업적입니다.
+
+### ANSWER
+A"
+KHB_66_48,History,0,D,D,"### ANSWER
+D"
+Kedu_history_1,History,0,D,D,"### ANSWER
+D"
+Kedu_history_2,History,0,C,C,"### ANSWER
+C"
+Kedu_history_3,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_1,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_2,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_3,History,0,D,D,"승정원은 왕명 출납을 담당한 비서 기관이다. 사간원은 언론·간쟁, 한성부는 수도 행정, 춘추관은 시정기 편찬(외교문서는 승문원)을 담당했다.
+
+### ANSWER
+D"
+PSE_history_22_4,History,0,A,A,"임시정부는 미국에 구미위원부를 설치해 외교 활동을 전개했다.
+
+### ANSWER
+A"
+PSE_history_22_5,History,0,B,B,"의상(부석사 창건)과 자장(황룡사 9층탑 건의)이다. 일심사상은 원효, 왕오천축국전은 혜초, 교관겸수는 의천이다. 의상은 화엄일승법계도를 지었다.
+
+### ANSWER
+B"
+PSE_history_22_6,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_8,History,0,B,B,"### ANSWER
+B"
+Kedu_16_2,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_3,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_4,Grammar,0,A,A,"Without the dialogue, the typical pattern of such items is that person, place, and social deixis are all present in the conversation, while discourse deixis (referring to portions of the ongoing discourse itself) is the one not used.
+
+### ANSWER
+A"
+Kedu_16_5,Grammar,0,A,A,"Without the example, the maxims listed are quantity, quality, relation, and a false one (도구). Typical textbook items of this type illustrate giving more or less information than required, which violates the maxim of quantity.
+
+### ANSWER
+A"
+Kedu_16_6,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_7,Grammar,0,D,B,"### ANSWER
+B"
+PSE_korean_1,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_2,Functional,0,B,B,"A는 ""그렇군요"" 등의 반응을 보이고, 성과·참여 방법을 물어 홍보를 유도하고, 상대의 말을 정리·보충하지만, 모순점을 지적하며 논리적으로 반박하는 부분은 없다.
+
+### ANSWER
+B"
+Kedu_16_25,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_26,Grammar,0,B,B,"B: ‘-건만, -자’ 등은 후행절에 명령형·청유형이 오는 것을 허용하지 않으므로 설명이 잘못되었다. 나머지는 선어말어미 결합 제약, 동일 주어 제약, 동사 결합 제약으로 옳다.
+
+### ANSWER
+B"
+Kedu_16_27,Grammar,0,A,A,"""좀처럼, 그다지, 비단""은 부정 서술어와만 호응하는 부정 극성 부사이지만, ""아주""는 ""아주 좋다""처럼 긍정문에서도 자유롭게 쓰인다.
+
+### ANSWER
+A"
+Kedu_16_28,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_29,Grammar,0,D,D,"Antonym pairs share a common semantic domain, differ minimally, and show markedness (길다 being unmarked, as in 길이). However, antonyms can readily co-occur in a single sentence (e.g., ""길고 짧은 것은 대어 봐야 안다""), so the claim that paradigmatic relation prevents co-occurrence is false.
+
+### ANSWER
+D"
+Kedu_16_30,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_31,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_32,Grammar,0,D,D,"### ANSWER
+D"
+PSE_history_22_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_10,History,0,C,C,"박지원의 한전론(한민명전의) 주장으로, 토지 소유 상한을 법제로 정하자는 내용이다. 박지원의 대표 저서는 열하일기이다.
+
+### ANSWER
+C"
+PSE_history_22_11,History,0,A,A,"토지조사령은 1912년 공포되어 무단통치기(1910~1919)에 해당한다. 창씨개명(1940), 국민학교 개칭(1941), 국가총동원법(1938)은 민족말살통치기이다.
+
+### ANSWER
+A"
+PSE_history_22_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_15,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_16,History,0,B,B,"### ANSWER
+B"
+Kedu_history_4,History,0,B,B,"### ANSWER
+B"
+Kedu_history_5,History,0,B,B,"### ANSWER
+B"
+Kedu_history_6,History,0,D,D,"### ANSWER
+D"
+Kedu_history_7,History,0,A,A,"사부학당(사학)은 조선 시대 한양의 관립 중등 교육기관으로 근대 이전의 기관이며, 육영공원·원산학사·배재학당은 모두 개항 이후 근대 초기에 설립된 교육기관이다.
+
+### ANSWER
+A"
+Kedu_history_8,History,0,C,C,"구지가는 가락국 건국신화에서 구간과 백성들이 집단으로 부른 주술적 노래(영신군가)로 알려져 있다. 공무도하가와 황조가는 개인적 서정, 정읍사는 백제 가요로 서정적 성격이다.
+
+### ANSWER
+C"
+Kedu_history_9,History,0,B,B,"### ANSWER
+B"
+Kedu_history_10,History,0,B,B,"### ANSWER
+B"
+Kedu_history_11,History,0,A,A,"### ANSWER
+A"
+PSAT_22_22,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_24,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_25,Law,0,C,C,"판례에 따르면 기관위임사무는 원칙적으로 조례 제정 대상이 아니지만, 개별 법령에서 일정 사항을 조례로 정하도록 위임한 경우에는 이른바 위임조례를 제정할 수 있다. 따라서 C가 틀린 설명이다. A는 지방자치법 조문, B는 공포 후 20일 규정, D는 헌재의 포괄위임 관련 판시로 옳다.
+
+### ANSWER
+C"
+PSAT_23_1,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_2,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_3,Law,0,C,C,"C는 헌재가 '도로 외의 곳'을 포함한 운전 개념이 통상적 의미로 파악 가능하여 명확성 원칙에 위배되지 않는다고 판시했으므로 틀린 설명이다. B는 이른바 윤창호법 위헌결정(가중요건에 시간적 제한 없음)으로 옳고, D도 합헌 결정 취지에 부합한다.
+
+### ANSWER
+C"
+PSAT_23_4,Law,0,B,B,"### ANSWER
+B"
+PSE_korean_3,Functional,0,D,D,"### ANSWER
+D"
+PSE_korean_4,Functional,0,D,D,"문맥상 ""억압의 조건들을 변화시키려는 관점을 견지하는 것""이 자연스러우며, '변화시킨다'로 고치면 뒤의 '관점을 견지하는 것'과 연결이 되지 않아 문장이 성립하지 않는다. 나머지는 적절한 수정이다.
+
+### ANSWER
+D"
+PSE_korean_5,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_6,Functional,0,A,A,"### ANSWER
+A"
+PSE_korean_7,Functional,0,B,B,"### ANSWER
+B"
+PSE_korean_8,Functional,0,B,B,"### ANSWER
+B"
+PSE_korean_9,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_10,Functional,0,C,C,"### ANSWER
+C"
+Kedu_history_12,History,0,A,A,"### ANSWER
+A"
+Kedu_history_13,History,0,D,D,"### ANSWER
+D"
+PSE_korean_11,Functional,0,D,D,"묘사적 서술로 풍경을 시각적으로 그려내고 있다.
+
+### ANSWER
+D"
+PSE_korean_12,Functional,0,B,A,"### ANSWER
+A"
+PSE_korean_13,Functional,0,C,C,"The 요령/관용 격률 requires shifting fault to oneself (e.g., ""내가 딴 생각을 해서""), but in C the listener blames A's small voice, which places the fault on the speaker.
+
+### ANSWER
+C"
+PSE_korean_14,Functional,0,B,B,"B는 사회자가 이견 조정이나 의사결정 유도를 하지 않고 단순히 발표 순서를 안내하고 질의응답을 진행하고 있으므로 적절하지 않다.
+
+### ANSWER
+B"
+CSAT_korean_07_11,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_07_12,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_06_11,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_06_12,Grammar,0,B,B,"### ANSWER
+B"
+PSAT_23_5,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_7,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_9,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_10,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_11,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_12,Law,0,C,C,"### ANSWER
+C"
+Kedu_16_33,Grammar,0,D,D,"지역 방언도 표준어의 기반이 될 수 있으므로 ㄱ은 틀리고, 사회 방언은 음운보다 어휘·표현의 차이가 두드러지므로 ㄴ도 틀리다. 방언은 그 집단의 독자적·고유한 언어 체계이며(ㄷ), 방언 어휘는 공동체의 전통과 문화를 반영한다(ㄹ).
+
+### ANSWER
+D"
+Kedu_16_34,Grammar,0,B,B,"B의 '장래를 메고'는 '메다'가 물건을 어깨에 걸치는 중심 의미가 아니라 책임·미래를 짊어진다는 확장된(주변) 의미로 쓰인 경우입니다. 나머지는 목이 메다(중심적 사용), 벼를 베다, 베개를 베다 등 기본 의미에 해당합니다.
+
+### ANSWER
+B"
+Kedu_16_35,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_36,Grammar,0,D,D,"드리다, 여쭙다, 모시다는 객체(목적어·부사어)를 높이는 객체 높임 어휘이고, 주무시다는 주체를 높이는 주체 높임 특수 어휘이다. 따라서 높임의 대상이 다른 것은 주무시다이다.
+
+### ANSWER
+D"
+Kedu_16_37,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_38,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_39,Grammar,0,B,C,"### ANSWER
+C"
+Kedu_16_40,Grammar,0,C,C,"C의 '총각'은 [+사람][+남성][-결혼]으로 각 성분이 서로 예측되지 않는 필수 정보입니다. 반면 A의 [+동물], B의 [+생물]은 [+사람]에서 이미 예측되고, D의 [+여성]은 [-남성]과 중복되므로 잉여성분입니다.
+
+### ANSWER
+C"
+PSE_history_22_17,History,0,B,B,"독립협회는 만민공동회를 열고 영은문 자리 부근에 독립문을 세웠다. 교육입국조서와 홍범 14조는 갑오·을미개혁 시기 정부의 조치이며, 국채보상운동은 대한매일신보 중심의 1907년 운동이다.
+
+### ANSWER
+B"
+PSE_history_22_18,History,0,C,C,"무신정권 몰락(1270)~공민왕 즉위(1351) 사이에는 만권당 설립(1314), 정동행성 설치(1280), 제왕운기 저술(1287)이 모두 해당한다. 쌍성총관부 수복은 공민왕 재위 중인 1356년의 일로 (가) 시기 이후이다.
+
+### ANSWER
+C"
+PSE_history_22_19,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_20,History,0,D,D,"신미양요(1871)와 갑오개혁(1894) 사이 시기의 사건을 찾아야 한다. 오페르트 도굴 미수는 1868년으로 이전이고, 을사늑약(1905)과 정미의병(1907)은 이후이다. 조·미 수호 통상 조약은 1882년으로 해당 시기에 속한다.
+
+### ANSWER
+D"
+KIIP_law_1,Law,0,A,A,"영주권(영주 자격)을 얻은 사람은 체류 기간 제한 없이 한국에 머무를 수 있으므로, 보기 중 영주권과 관련된 선택지가 정답이다. 다른 선택지들은 법적 체류 자격과 직접 관련이 없다.
+
+### ANSWER
+A"
+KIIP_law_2,Law,0,B,B,"사증 is the Korean legal term for visa (여권 = passport).
+
+### ANSWER
+B"
+KIIP_law_3,Law,0,A,A,"안산 원곡동의 '국경 없는 마을'과 인천 차이나타운이 대표적인 외국인 집단 거주지로 알려져 있다.
+
+### ANSWER
+A"
+KIIP_law_4,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_5,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_6,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_7,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_8,Law,0,C,C,"한국은 3심제를 채택하여 지방법원, 고등법원, 대법원의 세 단계 재판을 받을 수 있다.
+
+### ANSWER
+C"
+KIIP_law_9,Law,0,C,C,"1심 재판은 지방법원(및 지원)에서 이루어지며, 고등법원은 2심, 대법원은 3심을 담당한다.
+
+### ANSWER
+C"
+KIIP_law_10,Law,0,A,A,"경찰과 검찰이 법 집행(수사·기소) 기관이며, 국회는 입법, 헌법재판소는 헌법 재판을 담당한다.
+
+### ANSWER
+A"
+KIIP_law_11,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_12,Law,0,A,A,"**A**
+
+### ANSWER
+A"
+PSAT_23_13,Law,0,B,B,"헌법 제57조에 따라 국회는 정부의 동의 없이 지출예산 각 항의 금액을 증가하거나 새 비목을 설치할 수 없다.
+
+### ANSWER
+B"
+PSAT_23_14,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_15,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_16,Law,0,D,D,"위헌심사형 헌법소원(제68조 제2항)도 제72조에 따라 지정재판부의 사전심사를 거치며, 제25조 제3항의 변호사강제주의도 적용된다. 따라서 D가 옳지 않다. A는 제68조 제2항 본문, B는 제75조 제7항, C는 제23조 제2항에 부합한다.
+
+### ANSWER
+D"
+PSAT_23_17,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_18,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_19,Law,0,C,C,"국무회의 심의사항(헌법 제89조 제4호)에 재정에 관한 중요사항이 포함된다. B는 대통령·국무총리 외에 15~30인의 국무위원으로 구성되므로 틀리고, D의 청원 심사도 제89조 심의사항이며, A는 국무회의 의결은 내부적 의사결정으로 직접적 법률효과가 없다.
+
+### ANSWER
+C"
+PSAT_23_20,Law,0,B,B,"### ANSWER
+B"
+CSAT_korean_09_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_09_12,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_08_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_08_12,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_10_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_10_12,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_11_11,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_11_12,Grammar,0,B,B,"### ANSWER
+B"
+KIIP_law_13,Law,0,B,B,"검찰은 수사 결과 범죄 혐의가 인정되면 직접 처벌하지 않고 법원에 공소를 제기(기소)하여 재판을 청구합니다.
+
+### ANSWER
+B"
+KIIP_law_14,Law,0,C,C,"3심(최종심)은 대법원에서 이루어진다. 1심은 지방법원, 2심은 고등법원(또는 지방법원 합의부), 3심은 대법원이 담당한다.
+
+### ANSWER
+C"
+KIIP_law_15,Law,0,B,B,"특별사법경찰관은 특정 행정 분야의 공무원 등이 법률에 의해 사법경찰관의 직무를 수행하도록 지정된 자를 말한다.
+
+### ANSWER
+B"
+KIIP_law_16,Law,0,A,A,"**A** — 특별사법경찰관은 전문 분야(산림, 식품, 관세 등)에서 일반경찰이 수행하기 어려운 수사를 담당한다.
+
+### ANSWER
+A"
+KIIP_law_17,Law,0,A,A,"출입국관리사무소나 세관 직원은 특별사법경찰관리로 지정되어 해당 분야 범죄에 대해 경찰을 대신하여 직접 수사를 담당합니다. 기소나 재판 청구는 검사·법원의 역할이며, 수사 지휘는 검사의 권한입니다.
+
+### ANSWER
+A"
+KIIP_law_18,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_19,Law,0,A,A,"법무사는 등기 및 법원·검찰 제출 서류 작성 대행을 주 업무로 한다.
+
+### ANSWER
+A"
+KIIP_law_20,Law,0,C,C,"한국 민법상 혼인적령은 만 18세로 규정되어 있다(미성년자는 부모 동의 필요).
+
+### ANSWER
+C"
+Kedu_16_41,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_42,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_43,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_44,Grammar,0,C,C,"명시적 수행문은 수행 동사가 문장에 직접 드러나는 문장으로, ""축하합니다""처럼 발화 자체가 행위를 수행하는 동사를 명시한 경우이다. A는 단순 진술, B는 약속이지만 수행 동사가 명시되지 않았고, D는 명령형으로 수행 동사가 없다.
+
+### ANSWER
+C"
+Kedu_16_45,Grammar,0,B,C,"### ANSWER
+C"
+Kedu_16_46,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_47,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_48,Grammar,0,D,D,"치음의 기본자는 전청자 ㅅ, ㅈ 중 소리가 상대적으로 약한(不厲) ㅅ을 택했습니다. 아음 기본자는 전청 ㄱ이고, 설음·순음·후음은 불청불탁(ㄴ, ㅁ, ㅇ)을 기본자로 삼았으며, 전탁자는 초성 17자에 포함되지 않습니다.
+
+### ANSWER
+D"
+PSAT_23_21,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_23,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_24,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_25,Law,0,C,C,"### ANSWER
+C"
+KIIP_politics_1,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_2,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_3,Politics,0,B,B,"### ANSWER
+B"
+CSAT_korean_12_11,Grammar,0,A,A,"### ANSWER
+A"
+CSAT_korean_14_11,Grammar,0,C,C,"(ㄴ)과 (ㄷ)은 단모음 두 개가 각각 ㅕ, ㅝ라는 이중 모음으로 합쳐진 경우이고, (ㄱ)은 반모음 첨가, (ㄹ)은 모음 탈락에 해당한다.
+
+### ANSWER
+C"
+CSAT_korean_14_13,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_15,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_18_15,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_12,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_16_14,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_law_21,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_22,Law,0,A,A,"주택임대차보호법이 정식 법률 명칭입니다.
+
+### ANSWER
+A"
+KIIP_law_23,Law,0,B,B,"주택임대차보호법상 임대차 기간은 최소 2년으로 보장됩니다.
+
+### ANSWER
+B"
+KIIP_law_24,Law,0,A,A,"면접교섭권에 따라 양육하지 않는 부모도 자녀를 만날 권리가 있으나, 자녀의 복리를 위해 시간·방법 등이 정해진 제한된 범위에서 인정됩니다.
+
+### ANSWER
+A"
+KIIP_law_25,Law,0,A,A,"공인중개사는 부동산 거래를 중개하며 등록·보증제도로 보호를 받으므로 비교적 안전한 거래가 가능하다.
+
+### ANSWER
+A"
+KIIP_law_26,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_27,Law,0,A,A,"주택임대차보호법상 기간을 정하지 않았거나 2년 미만으로 정한 경우 임대차 기간은 2년으로 봅니다.
+
+### ANSWER
+A"
+KIIP_law_28,Law,0,A,A,"### ANSWER
+A"
+Kedu_16_49,Grammar,0,A,A,"ㄱ은 '담가야', ㄴ은 '남존여비', ㄹ은 '거친'이 옳은 표기이므로 모두 틀렸다. ㄷ의 '걸맞은'은 형용사 '걸맞다'의 활용으로 옳다.
+
+### ANSWER
+A"
+Kedu_16_50,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_51,Grammar,0,B,B,"Korean loanword orthography rules state that ㅈ/ㅊ are not combined with diphthongs like ㅕ; ""vision"" is correctly written 비전, not 비젼. The others (보트, 터미널, 심포지엄) follow standard rules.
+
+### ANSWER
+B"
+Kedu_16_52,Grammar,0,C,C,"""애닯다""는 비표준어로, 표준어는 ""애달프다""만 인정됩니다(옛말로 처리됨). 나머지 서럽다/섧다, 찌꺼기/찌끼, 서투르다/서툴다는 모두 복수 표준어입니다.
+
+### ANSWER
+C"
+Kedu_16_53,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_54,Grammar,0,C,C,"C의 '떠난지가'는 시간의 경과를 나타내는 의존명사 '지'이므로 '떠난 지가'로 띄어 써야 한다. 나머지는 '만도', '등', '-차' 모두 올바른 표기이다.
+
+### ANSWER
+C"
+TK_2016_1,Grammar,0,C,C,"Since ""내일"" (tomorrow) indicates a future plan, the expression must express a decision/arrangement, which is ""가기로 했다.""
+
+### ANSWER
+C"
+TK_2016_2,Grammar,0,D,D,"**Reasoning:** The sentence means ""Living alone, the more time passes, the more I miss my family."" The construction ""-을수록"" expresses ""the more... the more,"" which fits perfectly with 그리워진다.
+
+### ANSWER
+D"
+KIIP_politics_4,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_5,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_6,Politics,0,B,B,"대한민국은 국민이 선출한 대표를 통해 국가 의사를 결정하는 대의제를 기본 형태로 채택하고 있으며, 국민투표 등 직접민주주의 요소는 보충적으로만 활용됩니다. 따라서 정치 형태상으로는 간접민주주의(대의민주주의)가 기본입니다.
+
+### ANSWER
+B"
+KIIP_politics_7,Politics,0,A,A,"한국은 대통령을 국가원수 및 행정부 수반으로 하는 대통령제를 기본으로 채택하고 있다(일부 의원내각제 요소 포함). 군주제는 아니며, 공화제는 정부 형태보다 국가 형태를 지칭한다.
+
+### ANSWER
+A"
+KIIP_politics_8,Politics,0,C,C,"First president of the Republic of Korea was Syngman Rhee (이승만), elected in 1948; 윤보선 was the fourth, 박정희 followed, and 노태우 served much later.
+
+### ANSWER
+C"
+KIIP_politics_9,Politics,0,A,A,"10대 대통령은 박정희(5~9대) 서거 후 취임한 최규하이며, 전두환은 11·12대, 노태우 13대, 김영삼 14대이다.
+
+### ANSWER
+A"
+KIIP_politics_10,Politics,0,C,C,"18대 대통령은 박근혜(2013년 취임)이며, 16대 노무현, 17대 이명박, 19대 문재인이다.
+
+### ANSWER
+C"
+KIIP_politics_11,Politics,0,C,C,"### ANSWER
+C"
+CSAT_korean_16_15,Grammar,0,D,D,"숨기다는 ‘숨다’의 사동 표현이고, ‘감기다’는 타동사 ‘감다’에 ‘-기-’가 붙은 피동 표현이다. 다른 선택지들은 (ㄴ)에 사동 표현이 들어가 있거나 (ㄱ)에 피동이 들어가 있다.
+
+### ANSWER
+D"
+CSAT_korean_19_11,Grammar,0,E,E,"시력을 뜻하는 확장 의미는 감각 기관이라는 기존 의미보다 추상성이 강화된 것이므로, 더 구체적이라는 추론은 지문의 설명과 어긋난다. 나머지는 중심 의미의 습득 시기·빈도, 문법적 제약, 관련성 조건에 부합한다.
+
+### ANSWER
+E"
+KIIP_law_29,Law,0,A,A,"민법상 부부는 동거·부양·협조 의무를 지며, 정당한 이유 없이 동거를 거부할 수 없다.
+
+### ANSWER
+A"
+KIIP_law_30,Law,0,A,A,"가사노동은 법적으로 가사에 대한 기여, 즉 생활비를 벌어온 것과 동등한 가치로 인정된다.
+
+### ANSWER
+A"
+KIIP_politics_12,Politics,0,B,B,"박정희는 1963년부터 1979년까지 제5대~제9대 대통령을 역임했다. 제4대는 윤보선, 제10대는 최규하, 제11~12대는 전두환이다.
+
+### ANSWER
+B"
+KIIP_politics_13,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_14,Politics,0,A,B,"3·15 부정선거, 즉 1960년 정·부통령 선거에서의 대규모 부정에 항의하며 4·19혁명이 일어났다.
+
+### ANSWER
+B"
+KIIP_politics_15,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_16,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_17,Politics,0,C,C,"**C** — 1980년대 권위주의 정권이 민주화 요구를 수용하지 않아 시민들과 충돌이 빈번했다.
+
+### ANSWER
+C"
+KIIP_politics_18,Politics,0,A,A,"이승만 대통령은 3·15 부정선거에 대한 항거로 일어난 4·19혁명의 결과로 1960년 하야하였다.
+
+### ANSWER
+A"
+KIIP_politics_19,Politics,0,A,A,"### ANSWER
+A"
+TK_2016_3,Grammar,0,A,A,"""-는 바람에"" indicates an unexpected cause with negative result; ""-은 탓에"" also expresses negative cause/blame.
+
+### ANSWER
+A"
+TK_2016_4,Grammar,0,C,C,"### ANSWER
+C"
+TK_17_1,Grammar,0,B,B,"### ANSWER
+B"
+TK_17_2,Grammar,0,A,A,"The sentence means ""Whatever work you do, it's important to do it diligently,"" requiring the concessive ""-든지"" (whichever/whatever).
+
+### ANSWER
+A"
+TK_17_3,Grammar,0,D,D,"The expression ""-나 보다"" indicates the speaker's guess/inference based on evidence, which is equivalent to ""-는 모양이다"" (it seems that...). The other options mean pretending, merely, or to the extent of.
+
+### ANSWER
+D"
+TK_17_4,Grammar,0,A,A,"""~거나 마찬가지이다""는 사실상 그렇다고 볼 수 있다는 뜻으로, ""~ㄴ 셈이다""와 의미가 같습니다. '탓'은 원인, '마련이다'는 필연성, '나름이다'는 조건에 따라 달라짐을 뜻하므로 맞지 않습니다.
+
+### ANSWER
+A"
+TK_2018_1,Grammar,0,B,B,"Interrupted action: while looking at the phone, they missed the stop — ""-다가"" expresses an action interrupted by another.
+
+### ANSWER
+B"
+TK_2018_2,Grammar,0,A,A,"""덕분에"" indicates thanks to something, resulting in a change of state, so ""알게 되었다"" (came to know) fits naturally.
+
+### ANSWER
+A"
+KIIP_politics_20,Politics,0,A,A,"6월 민주항쟁은 6·29 선언을 이끌어내어 대통령 직선제 개헌으로 이어졌다.
+
+### ANSWER
+A"
+KIIP_politics_21,Politics,0,C,B,"### ANSWER
+B"
+KIIP_politics_22,Politics,0,B,D,"### ANSWER
+D"
+KIIP_politics_23,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_24,Politics,0,A,A,"1987년 6월 민주항쟁의 핵심 요구는 호헌 철폐와 대통령 직선제 개헌이었다.
+
+### ANSWER
+A"
+KIIP_politics_25,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_26,Politics,0,B,B,"기초자치단체는 시·군·자치구이며, 특별시·광역시·도는 광역자치단체에 해당한다.
+
+### ANSWER
+B"
+KIIP_politics_27,Politics,0,A,A,"Elections in Korea are direct—citizens vote for their representatives themselves.
+
+### ANSWER
+A"
+TK_2018_3,Grammar,0,C,C,"### ANSWER
+C"
+TK_2018_4,Grammar,0,D,D,"### ANSWER
+D"
+TK_2019_1,Grammar,0,B,B,"### ANSWER
+B"
+TK_2019_2,Grammar,0,A,A,"""점점"" (gradually) requires a progressive form showing ongoing change, which ""-아 가다"" expresses.
+
+### ANSWER
+A"
+TK_2019_3,Grammar,0,D,D,"### ANSWER
+D"
+TK_2019_4,Grammar,0,D,D,"### ANSWER
+D"
+TK_2022_1,Grammar,0,A,A,"**A**
+
+### ANSWER
+A"
+TK_2022_2,Grammar,0,B,B,"꽃이 피기 시작하는 것을 근거로 추측하는 표현이 필요하므로 '-(으)ㄴ 모양이다'가 적절하다.
+
+### ANSWER
+B"
+KIIP_politics_28,Politics,0,B,A,"공직선거법 개정(2019년)으로 선거권 연령이 만 19세에서 만 18세로 하향되었다.
+
+### ANSWER
+A"
+KIIP_politics_29,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_30,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_31,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_32,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_33,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_34,Politics,0,A,A,"Korea has only Seoul as a 특별시 (special city); other metropolitan-level units are 광역시, 특별자치시(세종), 특별자치도, and 도.
+
+### ANSWER
+A"
+KIIP_politics_35,Politics,0,D,D,"사전투표는 선거일 전 5일부터 2일간 실시되므로, 시작일은 선거일 5일 전이다.
+
+### ANSWER
+D"
+TK_2022_3,Grammar,0,C,C,"### ANSWER
+C"
+TK_2022_4,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_1,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_2,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_3,Textual,0,A,A,"독서 계획을 세워 개인적으로 읽는 것은 책과의 소통이며 다른 독자와의 소통이 아니므로 ㉠에 해당하지 않는다. 나머지는 모두 독서 모임, 동아리, 온라인 공유 등 타인과의 소통 사례이다.
+
+### ANSWER
+A"
+CSAT_korean_23_4,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_5,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_6,Textual,0,C,C,"### ANSWER
+C"
+KIIP_politics_36,Politics,0,B,B,"사전투표는 전국 어디서나 설치된 사전투표소에서 신분증만 있으면 가능하므로, 본인이 편리한 곳에서 투표할 수 있다.
+
+### ANSWER
+B"
+KIIP_politics_37,Politics,0,A,A,"신분증(주민등록증, 운전면허증, 여권 등)만 지참하면 사전 투표가 가능하며, 별도 신청서나 투표용지 준비는 필요 없다. 주민등록증은 신분증의 한 종류일 뿐이므로 더 포괄적인 '신분증'이 정답이다.
+
+### ANSWER
+A"
+KIIP_politics_38,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_39,Politics,0,C,C,"대한민국 헌법상 대통령은 국가원수이며 행정부의 수반(최고 책임자)이다. 국무총리는 대통령을 보좌하며 행정각부를 통할하는 2인자다.
+
+### ANSWER
+C"
+KIIP_politics_40,Politics,0,B,B,"**Reasoning:** South Korea's president serves a single five-year term under the 1987 Constitution (단임제).
+
+### ANSWER
+B"
+KIIP_politics_41,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_42,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_43,Politics,0,D,D,"청와대는 대통령의 집무 공간, 관저(생활·휴식 공간), 그리고 비서실 등 보좌 조직이 모두 위치한 곳이므로 세 가지 모두 해당한다.
+
+### ANSWER
+D"
+CSAT_korean_23_7,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_8,Textual,0,E,E,"서유구의 임원경제지에는 서학 중국 원류설이 반영되어 있어 중화 관념에서 벗어났다고 보기 어렵다. 따라서 중화 관념에 구애되지 않았다는 반응은 적절하지 않다.
+
+### ANSWER
+E"
+CSAT_korean_23_9,Textual,0,B,B,"계몽(啓蒙)은 '깨우쳐 가르친다'는 뜻으로, 지식을 '이어받는다'는 계승(繼承)의 의미와 다릅니다. 나머지는 모두 적절한 대체어입니다.
+
+### ANSWER
+B"
+CSAT_korean_23_10,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_11,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_12,Textual,0,B,B,"(나)는 위약금 성격이 증명되지 않아 손해 배상 예정액으로 다루어지므로, 실제 손해가 80으로 증명되어도 을은 예정액 100을 받으며, 손해 배상 예정액은 부당히 과다한 경우 법원이 감액할 수 있다. 나머지 선택지는 감액 가능성이나 금액이 잘못되었다.
+
+### ANSWER
+B"
+CSAT_korean_23_13,Textual,0,E,E,"약속을 지키는 것과 평등 원칙을 지키는 것은 모두 '규범·약속을 준수·이행하다'의 의미로 유사하다. ⓐ는 '부합하다', A는 '틀리지 않다'로 다르고, ⓑ '예를 들다'와 '적금을 들다', ⓒ '금전을 수령하다'와 '주목을 받다', ⓓ '선택하다'와 '평평하게 하다'는 각각 의미가 다르다.
+
+### ANSWER
+E"
+CSAT_korean_23_14,Textual,0,C,C,"기울기는 두 변수 증가율의 차이가 아니라 증가율을 비교하는 수단이며, 증가율이 같으면 기울기가 1이 되므로 '차이와 동일'하다는 진술은 본문과 불일치한다. 나머지 선택지는 모두 본문에 명시되어 있다.
+
+### ANSWER
+C"
+KIIP_politics_44,Politics,0,B,B,"입법부(국회)가 법을 제정하는 역할을 담당한다.
+
+### ANSWER
+B"
+KIIP_politics_45,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_46,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_47,Politics,0,A,D,"### ANSWER
+D"
+KIIP_politics_48,Politics,0,B,C,"Under the principle of constitutionalism and rule of law, the executive branch's actions—both domestic and foreign—must conform first and foremost to the Constitution, which is the supreme law that all statutes and government actions must obey.
+
+### ANSWER
+C"
+KIIP_politics_49,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_50,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_51,Politics,0,A,A,"A와 D 모두 법원만 나열하지만, 법원조직법상 대법원·고등법원·지방법원·가정법원은 기본 체계이며 헌법재판소는 법원에 포함되지 않는다. 따라서 고등법원을 포함한 A가 가장 적절하다.
+
+### ANSWER
+A"
+KIIP_politics_52,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_53,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_54,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_55,Politics,0,A,A,"**A**
+
+### ANSWER
+A"
+KIIP_politics_56,Politics,0,A,A,"민주주의 정착으로 시민들이 자신의 이익과 주장을 적극적으로 표출하게 되었다는 것이 일반적인 설명이다.
+
+### ANSWER
+A"
+KIIP_politics_57,Politics,0,A,A,"분쟁 해결을 위한 서비스는 이웃 간 갈등을 조정·중재하는 성격이므로, 층간소음 중재 서비스가 가장 적절합니다.
+
+### ANSWER
+A"
+KIIP_politics_58,Politics,0,D,D,"건물 점거는 과거 운동권 방식으로, 현재 한국에서 일반적으로 사용되는 정치적 표현 방식은 아니며, 1인 시위·거리 행진·촛불 집회가 보편적이다.
+
+### ANSWER
+D"
+KIIP_politics_59,Politics,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_15,Textual,0,D,D,"Since 대사 체중 (체중^0.75) means smaller animals need relatively more per unit body weight, scaling a mouse's dose linearly from an elephant's would give too little, not too much—so D is incorrect. The other options follow logically: 기초대사량 is 60–75% of total, 0.75 ≠ 0.67 exponent, early researchers used 0.67 (<1), and 0.75 > 0.67 means greater increase.
+
+### ANSWER
+D"
+CSAT_korean_23_16,Textual,0,D,D,"Both methods yield heat production, which equals heat dissipated at constant body temperature, so both can determine heat released. E is wrong since the animal is fasting; C is wrong since both require resting conditions; B contradicts the definition of the indirect method; A is unsupported.
+
+### ANSWER
+D"
+CSAT_korean_23_17,Textual,0,A,A,"The L-graph slope equals the exponent relating the two variables; if the slope is less than 1, ⓑ grows as a power of ⓐ less than 1, so ⓑ is not directly proportional to ⓐ. B reverses the meaning of least squares, C and E misstate the curve/line condition, and D reverses the slope relation.
+
+### ANSWER
+A"
+CSAT_korean_23_18,Textual,0,D,D,"봄밤의 미풍, 밝은 달, 꽃잎 향기 등 감각적 배경 묘사가 최척의 피리 연주와 옥영의 시 읊는 행동을 둘러싼 낭만적 분위기를 부각한다. 시는 갈등이 아니라 정취를 드러내며, 신분 변화나 상반된 평가는 없다.
+
+### ANSWER
+D"
+CSAT_korean_23_19,Textual,0,C,C,"지문에서 ""최척은 애초에 자기 아내가 이리 시를 잘 읊는 줄 모르고 있던 터라 놀라 감탄하였다""라고 하여, 결혼 전에 알고 있었다는 C는 사실과 반대이다.
+
+### ANSWER
+C"
+CSAT_korean_23_20,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_23_21,Textual,0,E,E,"눈물이 다하여 피가 흐르는 것은 재회의 감격에서 비롯된 것으로, 아버지와 장모의 생사를 모르는 또 다른 문제 확인에 따른 불안감과는 관련이 없다.
+
+### ANSWER
+E"
+CSAT_korean_23_22,Textual,0,A,A,"### ANSWER
+A"
+KIIP_politics_60,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_61,Politics,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_23,Textual,0,E,E,"""티 없어""는 관찰한 대상(연못)의 맑은 상태를 묘사한 것으로, 관찰 이전의 화자 심리를 표현한 것이 아니다. 나머지 선지는 반복, 시상 연결, 경관 묘사, 대상과의 친밀성 등을 적절히 설명하고 있다.
+
+### ANSWER
+E"
+CSAT_korean_23_24,Textual,0,C,C,"천석고황은 자연을 사랑하는 마음이 고질병처럼 깊음을 뜻하며, 이상적 공간에 다다르지 못한 아쉬움이 아니다.
+
+### ANSWER
+C"
+CSAT_korean_23_25,Textual,0,C,C,"정자(㉠)는 화자가 무릉도원임을 깨닫고 만족하며 머무는 삶을 생각하게 하며, 옛 망양정 터(㉡)는 정자가 없어졌음에도 글쓴이가 허전하지 않은 이유를 성찰하게 만든다. 따라서 두 대상은 각각 사색의 계기로 작용한다.
+
+### ANSWER
+C"
+CSAT_korean_23_26,Textual,0,D,D,"원근을 보이는 그대로 실현하는 것이 아니라, 인간과의 관계 속에서 재구성된 사실성이라는 점에서 D는 본문 및 <보기>와 어긋난다.
+
+### ANSWER
+D"
+CSAT_korean_23_27,Textual,0,A,A,"영익은 이사 날짜 소식을 듣고도 ""내가…""라며 말을 잇지 못하고 산으로 올라가 자신의 생각을 분명히 드러내지 않았다. 어머니는 소식이 끊긴 것이 아니라 그저께 다녀간 것을 알고 있고, 나는 동생의 위치를 어머니에게 물어 알게 되었으며, 시장 가게는 밤에 문을 닫고, 천변은 한적하고 빈한한 동네였다.
+
+### ANSWER
+A"
+CSAT_korean_23_28,Textual,0,E,E,"The [E] passage omits speaker identification, but this does not prove the speaker and narrator are different people; in fact the narrator ('나') is a participant in the dialogue. The other options accurately describe narrative techniques.
+
+### ANSWER
+E"
+CSAT_korean_23_29,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_30,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_31,Textual,0,A,A,"Both poems affirm and praise their central subjects—the vegetable garden's humble plants and the mushroom as ""황홀한 음지의 꽃""—showing positive recognition and praise.
+
+### ANSWER
+A"
+CSAT_korean_23_32,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_33,Textual,0,B,B,"[B]의 바람이 참나무를 흔들어 변화를 일으킨 뒤, [C]에서 잠자던 홀씨가 일어나 상처마다 버섯이 피어나는 결과가 이어진다. 즉 두 장면은 시간적 흐름에 따른 순차적 관계를 형성한다. 나머지는 순환적·대립적·인과적·동질적 관계로 잘못 규정하고 있다.
+
+### ANSWER
+B"
+CSAT_korean_23_34,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_1,Textual,0,B,B,"B: 현실 도피가 아니라고 명시되어 있으므로 적절하지 않다.
+
+### ANSWER
+B"
+CSAT_korean_22_2,Textual,0,E,E,"E는 비판적 판단을 유보한다는 내용으로, 보기에서 강조한 비판적 검토·평가와 어긋나며 자신의 관점을 분명히 하고 재구성한다는 취지에도 맞지 않는다.
+
+### ANSWER
+E"
+CSAT_korean_22_3,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_4,Textual,0,A,A,"(가) presents Hegel's dialectical system placing art at the lowest stage; (나) critiques and suggests art belongs after philosophy—both discuss art's relative position within a dialectic-based system.
+
+### ANSWER
+A"
+CSAT_korean_22_5,Textual,0,C,C,"The three forms of absolute spirit are distinguished by their cognitive forms (직관·표상·사유), not objects that those forms perceive; the object of cognition is the absolute truth/이념. So C misstates Hegel's view.
+
+### ANSWER
+C"
+CSAT_korean_22_6,Textual,0,D,D,"Directly perceiving a given material object is 직관; planning/conceiving a future creation involves no given sensory object, so it cannot be 직관 (it would be 표상 or 사유). Thus D misapplies the concepts.
+
+### ANSWER
+D"

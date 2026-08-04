@@ -1,0 +1,4215 @@
+id,category,trial,answer,pred,response
+KIIP_economy_1,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_2,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_3,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_4,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_5,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_6,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_7,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_8,Economy,0,A,A,"### ANSWER
+A"
+KIIP_politics_62,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_63,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_64,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_65,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_66,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_67,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_68,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_69,Politics,0,B,B,"### ANSWER
+B"
+KIIP_society_187,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_188,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_189,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_190,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_191,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_192,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_193,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_194,Society,0,D,D,"### ANSWER
+D"
+KIIP_tradition_128,Tradition,0,B,A,"### ANSWER
+A"
+KIIP_tradition_129,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_130,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_131,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_132,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_133,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_134,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_135,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_law_31,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_32,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_33,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_34,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_35,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_36,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_37,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_38,Law,0,D,D,"### ANSWER
+D"
+KIIP_economy_9,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_10,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_11,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_12,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_13,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_14,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_15,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_16,Economy,0,A,A,"### ANSWER
+A"
+Kedu_history_14,History,0,B,B,"### ANSWER
+B"
+Kedu_history_15,History,0,A,A,"### ANSWER
+A"
+Kedu_history_16,History,0,B,B,"### ANSWER
+B"
+Kedu_history_17,History,0,D,D,"### ANSWER
+D"
+Kedu_history_18,History,0,A,A,"### ANSWER
+A"
+Kedu_history_19,History,0,A,A,"### ANSWER
+A"
+Kedu_history_20,History,0,B,A,"### ANSWER
+A"
+Kedu_history_21,History,0,B,B,"### ANSWER
+B"
+KIIP_politics_70,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_71,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_72,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_73,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_74,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_75,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_76,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_77,Politics,0,C,C,"### ANSWER
+C"
+KIIP_law_39,Law,0,D,C,"### ANSWER
+C"
+KIIP_law_40,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_41,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_42,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_43,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_44,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_45,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_46,Law,0,B,B,"### ANSWER
+B"
+KIIP_tradition_136,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_137,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_138,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_139,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_140,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_141,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_142,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_143,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_society_195,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_196,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_197,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_198,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_199,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_200,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_201,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_202,Society,0,A,A,"### ANSWER
+A"
+KIIP_economy_17,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_18,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_19,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_20,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_21,Economy,0,B,B,"APEC 2005 was held in Busan, South Korea.
+
+### ANSWER
+B"
+KIIP_economy_22,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_23,Economy,0,C,D,"### ANSWER
+D"
+KIIP_economy_24,Economy,0,B,B,"### ANSWER
+B"
+KIIP_tradition_144,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_145,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_146,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_147,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_148,Tradition,0,B,A,"### ANSWER
+A"
+KIIP_tradition_149,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_150,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_151,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_economy_25,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_26,Economy,0,C,D,"### ANSWER
+D"
+KIIP_economy_27,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_28,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_29,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_30,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_31,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_32,Economy,0,A,A,"### ANSWER
+A"
+Kedu_history_22,History,0,D,D,"### ANSWER
+D"
+Kedu_history_23,History,0,A,A,"### ANSWER
+A"
+Kedu_history_24,History,0,B,B,"### ANSWER
+B"
+Kedu_history_25,History,0,C,C,"### ANSWER
+C"
+Kedu_history_26,History,0,C,C,"### ANSWER
+C"
+Kedu_history_27,History,0,D,D,"### ANSWER
+D"
+Kedu_history_28,History,0,B,B,"### ANSWER
+B"
+Kedu_history_29,History,0,C,C,"### ANSWER
+C"
+KIIP_society_203,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_204,Society,0,C,A,"### ANSWER
+A"
+KIIP_society_205,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_206,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_207,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_208,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_209,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_210,Society,0,B,B,"### ANSWER
+B"
+KIIP_politics_78,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_79,Politics,0,C,C,"### ANSWER
+C"
+Kedu_politics_1,Politics,0,B,B,"### ANSWER
+B"
+Kedu_politics_2,Politics,0,A,A,"### ANSWER
+A"
+Kedu_politics_3,Politics,0,C,C,"### ANSWER
+C"
+Kedu_politics_4,Politics,0,D,D,"### ANSWER
+D"
+Kedu_politics_5,Politics,0,B,B,"### ANSWER
+B"
+KIIP_popular_1,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_economy_33,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_34,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_35,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_36,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_37,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_38,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_39,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_40,Economy,0,C,C,"### ANSWER
+C"
+KIIP_tradition_152,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_153,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_154,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_155,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_156,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_157,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_158,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_tradition_159,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_society_211,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_212,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_213,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_214,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_215,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_216,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_217,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_218,Society,0,C,C,"### ANSWER
+C"
+KIIP_popular_2,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_3,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_4,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_5,Pop Culture,0,C,C,"### ANSWER
+C"
+KIIP_popular_6,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_7,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_8,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_9,Pop Culture,0,A,A,"### ANSWER
+A"
+Kedu_history_30,History,0,B,B,"청산별곡은 고려시대 고려가요이며, 향가가 아닙니다. 혜성가, 우적가, 찬기파랑가는 신라시대 향가입니다.
+
+### ANSWER
+B"
+Kedu_history_31,History,0,B,B,"### ANSWER
+B"
+Kedu_history_32,History,0,C,C,"### ANSWER
+C"
+Kedu_history_33,History,0,D,D,"### ANSWER
+D"
+Kedu_history_34,History,0,C,C,"### ANSWER
+C"
+Kedu_history_35,History,0,A,A,"### ANSWER
+A"
+Kedu_history_36,History,0,C,C,"### ANSWER
+C"
+Kedu_history_37,History,0,B,B,"### ANSWER
+B"
+KIIP_law_47,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_48,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_49,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_50,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_51,Law,0,A,B,"### ANSWER
+B"
+PSAT_17_1,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_2,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_3,Law,0,A,A,"### ANSWER
+A"
+CSAT_korean_19_12,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_20_11,Grammar,0,D,A,"### ANSWER
+A"
+CSAT_korean_20_13,Grammar,0,B,B,"정답은 (b)입니다. '거르다'는 '르' 불규칙 활용(예: 흐르다→흘러)에 해당하는데, 제시된 예시 '푸르다→푸르러'는 '러' 불규칙 활용이므로 적용 사례가 다릅니다.
+
+### ANSWER
+B"
+CSAT_korean_20_14,Grammar,0,A,,[EMPTY_RESPONSE]
+CSAT_korean_13_13,Grammar,0,D,D,"한국어 문법에서 '-기 전에'는 '전'이라는 의존명사를 수식하는 구조로, 명사절 '겨울이 오기'는 관형어처럼 명사 '전'을 수식하는 역할을 하며, 전체 '겨울이 오기 전에'가 부사어로 쓰인다. 따라서 명사절 자체가 부사어로 쓰였다고 보는 것은 적절하지 않다.
+
+### ANSWER
+D"
+CSAT_korean_15_11,Grammar,0,C,,[EMPTY_RESPONSE]
+CSAT_korean_17_11,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_14,Grammar,0,B,,[EMPTY_RESPONSE]
+CSAT_korean_22_7,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_8,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_9,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_10,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_11,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_12,Textual,0,E,E,"E가 정답입니다. 3개국(미국 포함) 상황에서 ㉡ 브레턴우즈 체제의 교차 환율은 달러 외 2개국 간 1가지이고, ㉢ 기축 통화 없는 경우의 환율 가짓수는 3개국 조합인 3가지이므로 ㉡의 교차 환율 수가 ㉢의 환율 수보다 적습니다.
+
+### ANSWER
+E"
+CSAT_korean_22_13,Textual,0,D,,[EMPTY_RESPONSE]
+CSAT_korean_22_14,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_219,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_220,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_221,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_222,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_223,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_224,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_225,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_226,Society,0,B,B,"### ANSWER
+B"
+KIIP_economy_41,Economy,0,C,C,"### ANSWER
+C"
+KIIP_economy_42,Economy,0,A,B,"### ANSWER
+B"
+KIIP_economy_43,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_44,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_45,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_46,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_47,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_48,Economy,0,A,A,"### ANSWER
+A"
+KIIP_popular_10,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_11,Pop Culture,0,D,D,"### ANSWER
+D"
+KIIP_popular_12,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_13,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_14,Pop Culture,0,C,C,"### ANSWER
+C"
+KIIP_popular_15,Pop Culture,0,A,B,"### ANSWER
+B"
+KIIP_popular_16,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_17,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_tradition_160,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_161,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_1,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_2,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_3,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_4,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_5,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_6,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_history_38,History,0,C,C,"### ANSWER
+C"
+Kedu_history_39,History,0,C,C,"### ANSWER
+C"
+Kedu_history_40,History,0,A,A,"### ANSWER
+A"
+Kedu_history_41,History,0,C,C,"### ANSWER
+C"
+Kedu_history_42,History,0,A,A,"### ANSWER
+A"
+Kedu_history_43,History,0,B,B,"B
+
+### ANSWER
+B"
+Kedu_history_44,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_1,History,0,B,B,"### ANSWER
+B"
+KIIP_society_227,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_228,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_229,Society,0,B,A,"### ANSWER
+A"
+KIIP_society_230,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_231,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_232,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_233,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_234,Society,0,D,D,"### ANSWER
+D"
+KIIP_economy_49,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_50,Economy,0,A,A,"### ANSWER
+A"
+KIIP_economy_51,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_52,Economy,0,D,D,"### ANSWER
+D"
+KIIP_economy_53,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_54,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_55,Economy,0,B,B,"### ANSWER
+B"
+KIIP_economy_56,Economy,0,A,A,"### ANSWER
+A"
+KIIP_popular_18,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_19,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_20,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_popular_21,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_22,Pop Culture,0,C,C,"### ANSWER
+C"
+KIIP_popular_23,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_24,Pop Culture,0,B,B,"### ANSWER
+B"
+KIIP_popular_25,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_tradition_7,Tradition,0,C,C,"C (쑥과 익모초는 단오/삼복 관련 풍습)
+
+### ANSWER
+C"
+Kedu_tradition_8,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_9,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_10,Tradition,0,A,A,"Wind instruments (취악기) include 나발, 나각, and 태평소. 비파 is a string instrument (현악기), not a wind instrument.
+
+### ANSWER
+A"
+Kedu_tradition_11,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_12,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_13,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_14,Tradition,0,C,C,"C
+
+### ANSWER
+C"
+KIIP_society_235,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_236,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_237,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_238,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_239,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_240,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_241,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_242,Society,0,B,B,"### ANSWER
+B"
+PSAT_17_4,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_5,Law,0,B,B,"B - the constitution allows limited leasing of farmland under certain conditions, not an outright ban, making this statement incorrect.
+
+### ANSWER
+B"
+PSAT_17_6,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_7,Law,0,B,B,"B는 법률의 위헌여부까지 대법원이 최종 심사한다고 되어 있으나, 실제로는 법률의 위헌심사는 헌법재판소가 담당하며 대법원은 명령·규칙의 위헌·위법 여부만 최종 심사할 권한을 가진다.
+
+### ANSWER
+B"
+PSAT_17_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_9,Law,0,A,A,"국회법상 공개원칙의 예외 요건은 '재적의원 4분의 1 이상'의 찬성이어야 하는데, A는 이를 '출석의원 4분의 1 이상'으로 잘못 표기하였다.
+
+### ANSWER
+A"
+PSAT_17_10,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_11,Law,0,D,D,"### ANSWER
+D"
+PSE_history_13_2,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_3,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_4,History,0,A,A,"### ANSWER
+A"
+PSE_history_13_5,History,0,A,A,"### ANSWER
+A"
+PSE_history_13_6,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_9,History,0,C,C,"### ANSWER
+C"
+KIIP_popular_26,Pop Culture,0,A,A,"### ANSWER
+A"
+Kedu_popular_1,Pop Culture,0,A,A,"### ANSWER
+A"
+Kedu_popular_2,Pop Culture,0,C,C,"### ANSWER
+C"
+Kedu_popular_3,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_4,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_5,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_6,Pop Culture,0,B,B,"### ANSWER
+B"
+Kedu_popular_7,Pop Culture,0,A,A,"### ANSWER
+A"
+KIIP_society_243,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_244,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_245,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_246,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_247,Society,0,A,D,"### ANSWER
+D"
+KIIP_society_248,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_249,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_250,Society,0,C,C,"### ANSWER
+C"
+KIIP_economy_57,Economy,0,B,B,"### ANSWER
+B"
+Kedu_economy_1,Economy,0,C,C,"### ANSWER
+C"
+Kedu_economy_2,Economy,0,D,D,"D
+
+### ANSWER
+D"
+CSAT_geography_06_2,Geography,0,E,E,"### ANSWER
+E"
+CSAT_geography_07_2,Geography,0,B,B,"울릉도는 화산섬으로 나리분지와 같은 칼데라 분지 지형이 나타난다.
+
+### ANSWER
+B"
+CSAT_geography_07_3,Geography,0,E,E,"### ANSWER
+E"
+CSAT_geography_07_4,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_07_5,Geography,0,B,B,"### ANSWER
+B"
+PSAT_17_12,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_13,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_14,Law,0,B,B,"### ANSWER
+B"
+PSAT_17_15,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_16,Law,0,B,B,"국무총리 해임건의는 국회재적의원 3분의 1 이상의 발의와 재적의원 과반수의 찬성으로 의결되므로, B의 설명(과반수 발의, 2/3 찬성)은 옳지 않다.
+
+### ANSWER
+B"
+PSAT_17_17,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_18,Law,0,B,B,"### ANSWER
+B"
+PSAT_17_19,Law,0,A,A,"### ANSWER
+A"
+KIIP_society_251,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_252,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_253,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_254,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_255,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_256,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_257,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_258,Society,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_15,Textual,0,B,B,"B의 설명처럼, ㉡은 렌즈 왜곡만 보정된 상태이므로 원근에 의한 크기 변화(거리가 멀수록 작게 보이는 현상)는 그대로 남아 있고, 이는 ㉢ 단계인 시점 변환에서 제거된다.
+
+### ANSWER
+B"
+CSAT_korean_22_16,Textual,0,D,C,"### ANSWER
+C"
+CSAT_korean_22_17,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_18,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_19,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_20,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_21,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_22,Textual,0,A,C,"(가)의 '좀이 쳐'는 오랜 세월 고향을 그리워한 화자의 정서적 깊이를 보여주며, (나)의 '오늘'은 화자가 산에 대한 태도를 새롭게 인식하게 된 시점을 강조한다는 점에서 두 시어의 기능이 명확히 대응된다. 다른 선택지들은 이미지의 의미를 왜곡하거나(A, B, D) 시어의 정서적 함의를 잘못 연결(E)하고 있어 적절하지 않다.
+
+### ANSWER
+C"
+KIIP_society_259,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_260,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_261,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_262,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_263,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_264,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_265,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_266,Society,0,D,D,"### ANSWER
+D"
+CSAT_korean_14_12,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_14_14,Grammar,0,E,,[EMPTY_RESPONSE]
+CSAT_korean_18_11,Grammar,0,C,A,### ANSWER
+CSAT_korean_18_12,Grammar,0,B,D,"### ANSWER
+D"
+CSAT_korean_18_14,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_12,Grammar,0,A,A,"### ANSWER
+A"
+CSAT_korean_13_14,Grammar,0,E,E,"한국어 인칭대명사 ""저희""는 원래 1인칭 겸양 표현이지만, (ㅁ)에서는 선생님이 자신의 아이들을 가리켜 ""저희들끼리""라고 말하는 것이므로 이는 화자 자신을 가리키는 것이 아니라 화자가 언급한 대상(아이들)을 가리키는 3인칭적 용법으로 사용되었다. 따라서 (ㅁ)을 1인칭으로 사용되고 있다고 설명하는 것은 적절하지 않다.
+
+### ANSWER
+E"
+CSAT_korean_13_15,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_popular_8,Pop Culture,0,D,D,"베니스 영화제에서 <오아시스>가 수상했으므로 베를린 영화제와의 연결은 틀렸다.
+
+### ANSWER
+D"
+Kedu_popular_9,Pop Culture,0,B,B,"역사적 순서: 천문(세종대, 1400년대) → 왕의 남자(연산군, 1500년대) → 명량(임진왜란, 1597년) → 사도(영조/사도세자, 1762년) 순으로 배열된다.
+
+### ANSWER
+B"
+Kedu_popular_10,Pop Culture,0,D,D,"### ANSWER
+D"
+Kedu_popular_11,Pop Culture,0,C,C,"### ANSWER
+C"
+Kedu_popular_12,Pop Culture,0,C,C,"### ANSWER
+C"
+Kedu_popular_13,Pop Culture,0,D,D,"1990년대 한국 대중문화 현상으로 서태지와 아이들의 인기, 케이블 TV 개막(1995), 부산국제영화제 시작(1996)은 모두 해당되지만, 한국 작가의 맨부커상 수상(한강, 2016년)은 2010년대의 일이다.
+
+### ANSWER
+D"
+Kedu_popular_14,Pop Culture,0,D,D,"부당거래는 남북 정치적 대립을 다룬 영화가 아니라 경찰과 검찰의 부패를 다룬 범죄물입니다. 나머지 세 영화(JSA, 쉬리, 강철비)는 모두 남북 관계를 소재로 한 작품이며 감독 정보도 정확합니다.
+
+### ANSWER
+D"
+Kedu_popular_15,Pop Culture,0,D,D,"### ANSWER
+D"
+PSE_history_13_10,History,0,A,A,"### ANSWER
+A"
+PSE_history_13_11,History,0,B,B,"1987년 6월 민주항쟁으로 인해 6·29 선언이 발표되고, 결과적으로 5년 단임 대통령 직선제 개헌이 이루어졌다.
+
+### ANSWER
+B"
+PSE_history_13_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_13,History,0,C,C,"### ANSWER
+C"
+PSE_history_13_14,History,0,C,C,"### ANSWER
+C"
+PSE_history_13_15,History,0,A,A,"### ANSWER
+A"
+PSE_history_13_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_13_17,History,0,C,C,"### ANSWER
+C"
+KIIP_society_267,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_268,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_269,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_270,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_271,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_272,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_273,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_274,Society,0,B,B,"### ANSWER
+B"
+PSAT_17_20,Law,0,A,A,"현행 헌법(1987년 9차 개정)은 정당조항과 헌법재판소 제도를 처음 도입한 것이 아니라, 이미 1960년 제2공화국 헌법에서 최초로 규정되었던 것을 계승한 것이다. 따라서 ""처음으로 규정""이라는 설명은 옳지 않다.
+
+### ANSWER
+A"
+PSAT_17_21,Law,0,C,C,"### ANSWER
+C"
+PSAT_17_22,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_23,Law,0,A,A,"### ANSWER
+A"
+PSAT_17_24,Law,0,D,D,"### ANSWER
+D"
+PSAT_17_25,Law,0,B,A,"### ANSWER
+A"
+PSAT_18_1,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_2,Law,0,A,A,"### ANSWER
+A"
+Kedu_tradition_15,Tradition,0,A,,"한국 씨름의 기술 분류에서 오금당기기는 발(다리) 동작이 아니라 손으로 상대의 오금을 잡아당기는 손기술로 분류된다. 앞무릎치기, 들배지기, 밭다리걸기는 각각 손기술, 허리기술, 다리기술로 올바르게 연결되어 있다. 따라서 오금당기기를 발 기"
+Kedu_tradition_16,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_17,Tradition,0,C,D,"### ANSWER
+D"
+Kedu_tradition_18,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_19,Tradition,0,D,D,"오신채는 마늘, 파, 부추, 달래, 흥거를 말하며 고추는 포함되지 않는다.
+
+### ANSWER
+D"
+Kedu_tradition_20,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_21,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_22,Tradition,0,A,A,"Ondol has ancient origins in Korea predating the Mongol invasion period, not something introduced by Mongol invasion. This makes option A factually incorrect.
+
+### ANSWER
+A"
+PSE_history_13_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_13_19,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_14_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_3,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_4,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_6,History,0,B,B,"### ANSWER
+B"
+KIIP_society_1,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_2,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_3,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_4,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_5,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_6,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_7,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_8,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_275,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_276,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_277,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_278,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_279,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_280,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_281,Society,0,A,A,"손 없는 날에는 이사 수요가 몰려 이사 관련 차량과 인력이 부족해지는 현상이 발생한다. 이는 해당 날짜에 이사를 하려는 사람들이 집중되기 때문이며, 결과적으로 필요한 자원을 확보하기 어려워진다.
+
+### ANSWER
+A"
+KIIP_society_282,Society,0,B,B,"### ANSWER
+B"
+CSAT_geography_07_6,Geography,0,E,E,"### ANSWER
+E"
+CSAT_geography_09_2,Geography,0,D,D,"한라산 정상의 백록담은 단순한 화구호이며 중앙화구구가 있는 것은 아니므로 B는 틀렸고, 순상화산체는 유동성이 큰(점성이 작은) 용암에 의해 형성되므로 C도 틀렸다. 용암동굴은 용암의 냉각차로 형성된 것으로 용식과 무관하므로 E도 틀렸다. 제주 오름(측화산)은 용암이나 화산쇄설물이 쌓여 형성된 것이므로 D가 옳다.
+
+### ANSWER
+D"
+CSAT_geography_09_3,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_09_4,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_09_5,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_10_2,Geography,0,A,A,"A는 조선누층군(두꺼운 퇴적층)이 무연탄이 매장된 평안누층군보다 먼저 형성되었다는 사실과 반대로 서술되어 있어 옳지 않다.
+
+### ANSWER
+A"
+CSAT_geography_10_3,Geography,0,B,B,"한국 지형 문제: A는 석회암(가=석회동굴), B는 현무암(나=용암동굴)입니다. ㄱ은 석회암 지역에 용식와지(돌리네)가 나타나므로 옳고, ㄴ은 토양색이 반대로 서술되어 틀리며(석회암 지역=붉은색 테라로사, 현무암 지역=흑갈색), ㄷ은 두 지역 모두 투수성이 좋아 건천이 나타나므로 옳고, ㄹ은 동굴 형성이 외인적 작용(용식, 화산활동에 의한 지표 유동)에 해당하므로 틀립니다.
+
+### ANSWER
+B"
+CSAT_geography_10_4,Geography,0,D,D,"### ANSWER
+D"
+KIIP_society_9,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_10,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_11,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_12,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_13,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_14,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_15,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_16,Society,0,B,B,"### ANSWER
+B"
+Kedu_tradition_23,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_24,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_25,Tradition,0,C,D,"### ANSWER
+D"
+Kedu_tradition_26,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_27,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_28,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_29,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_30,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_society_17,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_18,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_19,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_20,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_21,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_22,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_23,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_24,Society,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_23,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_24,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_25,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_26,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_27,Textual,0,E,E,"김달채가 학생들과 유대 관계를 맺었다는 근거는 없으며, 그가 돌아선 것은 비표를 단 청년이 우산을 권력 표지로 승인하지 않았기 때문에 위축된 것일 뿐, 학생들과의 관계를 단절하려는 의도로 보기는 어렵다.
+
+### ANSWER
+E"
+CSAT_korean_22_28,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_29,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_30,Textual,0,C,C,"### ANSWER
+C"
+PSE_history_14_7,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_9,History,0,A,A,"### ANSWER
+A"
+PSE_history_14_10,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_11,History,0,C,C,"정조는 '만천명월주인옹'이라는 호를 쓰고 탕평정치를 추진한 왕으로, 1791년 신해통공을 통해 육의전을 제외한 시전 상인의 금난전권(특권)을 폐지하였다.
+
+### ANSWER
+C"
+PSE_history_14_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_14_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_14_14,History,0,A,A,A
+Kedu_tradition_31,Tradition,0,C,C,"C
+
+### ANSWER
+C"
+Kedu_tradition_32,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_33,Tradition,0,B,A,"### ANSWER
+A"
+Kedu_tradition_34,Tradition,0,A,B,"### ANSWER
+B"
+Kedu_tradition_35,Tradition,0,A,C,"### ANSWER
+C"
+Kedu_tradition_36,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_37,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_38,Tradition,0,B,B,"### ANSWER
+B"
+CSAT_korean_15_13,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_15,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_11,Grammar,0,A,A,"### ANSWER
+A"
+CSAT_korean_19_13,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_20_12,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_15_12,Grammar,0,C,C,"C
+
+### ANSWER
+C"
+CSAT_korean_17_13,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_15_14,Grammar,0,B,B,"### ANSWER
+B"
+KIIP_society_25,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_26,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_27,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_28,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_29,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_30,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_31,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_32,Society,0,C,C,"### ANSWER
+C"
+PSAT_18_3,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_4,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_6,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_7,Law,0,B,B,"헌법 제68조에 따르면 대통령의 임기가 만료되는 때에는 임기만료 70일 내지 40일 전에 후임자를 선거하도록 규정되어 있어 B가 옳다. A는 선거권자 총수 기준이므로 틀리고, C는 감사위원 임명에 국회 동의가 필요 없으므로 틀리며, D는 국가안전보장회의를 대통령이 주재하므로 틀리다.
+
+### ANSWER
+B"
+PSAT_18_8,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_10,Law,0,D,D,"### ANSWER
+D"
+PSAT_18_11,Law,0,C,C,"### ANSWER
+C"
+KIIP_society_283,Society,0,C,D,"### ANSWER
+D"
+KIIP_society_284,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_1,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_2,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_3,Society,0,A,D,"### ANSWER
+D"
+Kedu_Society_4,Society,0,D,C,"한국에서 1948년 정부 수립 이전에는 스코틀랜드 민요인 <올드랭사인>의 멜로디에 애국가 가사를 붙여 불렀다는 것이 역사적으로 알려진 사실이며, 이후 안익태의 곡으로 대체되었다. 다른 선택지들은 시기나 내용에 오류가 있다(독립신문은 19세기 말 발간, 한국환상곡은 일제강점기 공식 애국가로 쓰이지 않음).
+
+### ANSWER
+C"
+Kedu_Society_5,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_6,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_33,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_34,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_35,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_36,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_37,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_38,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_39,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_40,Society,0,A,A,"### ANSWER
+A"
+Kedu_tradition_39,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_40,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_41,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_42,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_43,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_44,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_45,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_46,Tradition,0,B,B,"### ANSWER
+B"
+CSAT_geography_11_2,Geography,0,D,E,"E
+
+### ANSWER
+E"
+CSAT_geography_11_3,Geography,0,A,E,"### ANSWER
+E"
+CSAT_geography_12_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_13_2,Geography,0,A,A,"A는 읍·면이 중소도시보다 배후지역이 넓다는 설명인데, 실제로는 계층이 높을수록(중소도시>읍·면) 배후지역이 넓으므로 이는 옳지 않다.
+
+### ANSWER
+A"
+CSAT_geography_15_2,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_16_2,Geography,0,A,A,"### ANSWER
+A"
+CSAT_geography_16_3,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_17_2,Geography,0,A,A,"### ANSWER
+A"
+KIIP_society_41,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_42,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_43,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_44,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_45,Society,0,B,A,"### ANSWER
+A"
+KIIP_society_46,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_47,Society,0,B,A,"### ANSWER
+A"
+KIIP_society_48,Society,0,A,A,"### ANSWER
+A"
+PSE_history_14_15,History,0,B,B,"가산의 토적 변란은 1811년 홍경래의 난을 가리키며, 이는 순조 12년에 발생했습니다. 순조는 1800년부터 1834년까지 재위했으며, 재위 1년(1801년)에 공노비 6만 6천여 명을 해방시킨 사실이 있습니다. 나머지 선택지들은 각각 철종(D, A)과 고종(C) 재위 기간에 해당하는 사건들입니다.
+
+### ANSWER
+B"
+PSE_history_14_16,History,0,A,A,"### ANSWER
+A"
+PSE_history_14_17,History,0,C,A,"### ANSWER
+A"
+PSE_history_14_18,History,0,D,D,"### ANSWER
+D"
+PSE_history_14_19,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_1,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_2,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_3,History,0,B,B,"### ANSWER
+B"
+Kedu_tradition_47,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_48,Tradition,0,C,C,"### ANSWER
+C"
+Kedu_tradition_49,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_50,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_51,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_52,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_53,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_54,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_society_49,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_50,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_51,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_52,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_53,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_54,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_55,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_56,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_7,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_8,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_9,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_10,Society,0,C,A,"### ANSWER
+A"
+Kedu_Society_11,Society,0,D,C,"### ANSWER
+C"
+Kedu_Society_12,Society,0,D,D,"D 옵션은 문장이 완성되지 않은 상태(""고령화는"")로, 내용이 불완전하여 옳고 그름을 판단할 수 없는 선택지입니다. 나머지 A, B, C는 한국의 고령화 관련 사실로 타당한 내용입니다.
+
+### ANSWER
+D"
+Kedu_Society_13,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_14,Society,0,D,D,"### ANSWER
+D"
+PSAT_18_12,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_13,Law,0,C,C,"C 선지는 논리적으로 근거가 없는 내용으로, 대법관을 역임한 자든 헌법재판소 재판관을 역임한 자든 자격요건을 갖추면 상호 임명이 가능하다는 점에서 옳지 않다.
+
+### ANSWER
+C"
+PSAT_18_14,Law,0,A,B,"### ANSWER
+B"
+PSAT_18_15,Law,0,D,D,"### ANSWER
+D"
+PSAT_18_16,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_17,Law,0,D,B,"### ANSWER
+B"
+PSAT_18_18,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_19,Law,0,B,B,"### ANSWER
+B"
+KIIP_society_57,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_58,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_59,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_60,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_61,Society,0,B,A,"### ANSWER
+A"
+KIIP_society_62,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_63,Society,0,C,B,"### ANSWER
+B"
+KIIP_society_64,Society,0,C,C,"### ANSWER
+C"
+Kedu_14_1,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_2,Grammar,0,D,D,"D
+
+### ANSWER
+D"
+Kedu_14_3,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_4,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_5,Grammar,0,A,A,"정문의 자음은 ㅈ(경구개음), ㅁ(양순음), ㅇ(연구개음, 받침), ㄴ(치조음)으로 구성되어 총 4가지의 서로 다른 조음 위치를 가지므로 가장 다양합니다.
+
+### ANSWER
+A"
+Kedu_14_6,Grammar,0,D,,[EMPTY_RESPONSE]
+Kedu_14_7,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_8,Grammar,0,A,A,"사진에는 파열음(ㄱ,ㅂ,ㄷ 등)이 없고, 통일(ㅌ), 창고(ㄱ), 후방(ㅂ)에는 파열음이 포함되어 있습니다.
+
+### ANSWER
+A"
+CSAT_korean_22_31,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_32,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_22_33,Textual,0,E,A,"A에서 화자는 하늘이 만든 궁핍한 운명을 그대로 받아들이며 서러워하지 않겠다는 수용적 태도를 보일 뿐, 하늘을 예찬하는 어조는 아니다. 반면 B에서는 하느님이 자신을"
+CSAT_korean_22_34,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_5,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_6,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_7,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_8,Textual,0,B,B,"### ANSWER
+B"
+Kedu_Society_15,Society,0,B,B,"B - 자이툰 부대는 이라크에 파견되었다.
+
+### ANSWER
+B"
+Kedu_Society_16,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_17,Society,0,A,A,"### ANSWER
+A"
+Kedu_Society_18,Society,0,B,B,"Korea's national holidays (국경일) include 3·1절, 제헌절, 광복절, 개천절, and 한글날. 현충일 is a memorial day (기념일), not a national holiday.
+
+### ANSWER
+B"
+Kedu_Society_19,Society,0,C,C,"### ANSWER
+C"
+Kedu_Society_20,Society,0,D,D,"### ANSWER
+D"
+Kedu_Society_21,Society,0,C,C,"### ANSWER
+C"
+Kedu_Society_22,Society,0,D,D,"D
+
+### ANSWER
+D"
+PSE_history_15_4,History,0,B,B,"신라 지증왕 대 순장 금지와 순장 대용 흙인형은 노동력을 지닌 인간을 매장하지 않고 대체물을 사용함으로써 노동력의 가치를 중시했음을 보여준다. 이는 농업 생산력 발달로 노동력의 중요성이 커진 사회 변화를 반영한다.
+
+### ANSWER
+B"
+PSE_history_15_5,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_6,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_7,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_8,History,0,A,A,"### ANSWER
+A"
+PSE_history_15_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_10,History,0,C,C,"### ANSWER
+C"
+PSE_history_15_11,History,0,A,A,"### ANSWER
+A"
+CSAT_geography_17_3,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_18_2,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_19_2,Geography,0,A,A,"한국의 침식 분지는 산지로 둘러싸인 저지대로, 야간에 찬 공기가 아래로 흘러 정체되면서 기온 역전 현상이 잘 발생하고 이로 인해 안개가 자주 형성된다. 화강암은 주로 중생대에 관입하였고, 석회암은 변성암이 아닌 퇴적암이며, 돌리네는 배수가 잘 되어 주로 밭으로 이용된다.
+
+### ANSWER
+A"
+CSAT_geography_19_3,Geography,0,C,C,"### ANSWER
+C"
+CSAT_geography_20_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_21_2,Geography,0,B,B,"### ANSWER
+B"
+CSAT_geography_22_2,Geography,0,D,D,"### ANSWER
+D"
+CSAT_geography_22_3,Geography,0,C,C,"### ANSWER
+C"
+KIIP_society_65,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_66,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_67,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_68,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_69,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_70,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_71,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_72,Society,0,C,C,"### ANSWER
+C"
+TK_2016_9,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_10,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_11,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_13,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_14,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_15,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_16,Textual,0,C,C,"### ANSWER
+C"
+Kedu_Society_23,Society,0,B,B,"### ANSWER
+B"
+Kedu_Society_24,Society,0,C,C,"### ANSWER
+C"
+Kedu_Society_25,Society,0,C,C,"### ANSWER
+C"
+KIIP_tradition_1,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_2,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_3,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_4,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_5,Tradition,0,A,A,"### ANSWER
+A"
+CSAT_geography_22_4,Geography,0,C,C,"C
+
+### ANSWER
+C"
+KIIP_geography_1,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_2,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_3,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_4,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_5,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_6,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_7,Geography,0,C,C,"### ANSWER
+C"
+PSE_history_15_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_13,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_15_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_15_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_15_17,History,0,A,A,"### ANSWER
+A"
+PSE_history_15_18,History,0,C,C,"### ANSWER
+C"
+PSE_history_16_1,History,0,C,C,"### ANSWER
+C"
+Kedu_tradition_55,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_56,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_tradition_57,Tradition,0,D,D,"Dはコ끼리ではなく牛(소)が正しい。
+
+### ANSWER
+D"
+Kedu_tradition_58,Tradition,0,B,C,"### ANSWER
+C"
+Kedu_tradition_59,Tradition,0,B,B,"### ANSWER
+B"
+Kedu_tradition_60,Tradition,0,D,D,"### ANSWER
+D"
+Kedu_tradition_61,Tradition,0,A,A,"### ANSWER
+A"
+CSAT_korean_07_6,Functional,0,C,C,"### ANSWER
+C"
+TK_2016_17,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_18,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_19,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_20,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_21,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_22,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_23,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_24,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_73,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_74,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_75,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_76,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_77,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_78,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_79,Society,0,A,C,"### ANSWER
+C"
+KIIP_society_80,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_6,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_7,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_8,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_9,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_10,Tradition,0,A,A,"Kimchi is Korea's representative fermented food, made through a traditional fermentation process using vegetables and seasonings.
+
+### ANSWER
+A"
+KIIP_tradition_11,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_12,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_13,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_geography_8,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_9,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_10,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_11,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_12,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_13,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_14,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_15,Geography,0,B,B,"### ANSWER
+B"
+TK_2016_25,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_26,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_27,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_28,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_29,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_30,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_31,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_32,Textual,0,D,D,"### ANSWER
+D"
+PSE_history_16_2,History,0,D,A,"충선왕의 개혁 정책(정방 폐지, 사림원 설치, 소금 전매제)에 대한 설명이며, 그는 이후 만권당을 세워 고려와 원의 학자 교류를 도왔다.
+
+### ANSWER
+A"
+PSE_history_16_3,History,0,C,A,"### ANSWER
+A"
+PSE_history_16_4,History,0,C,A,"### ANSWER
+A"
+PSE_history_16_5,History,0,B,D,"### ANSWER
+D"
+PSE_history_16_6,History,0,C,A,"### ANSWER
+A"
+PSE_history_16_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_16_8,History,0,A,D,"### ANSWER
+D"
+PSE_history_16_9,History,0,B,B,"### ANSWER
+B"
+KIIP_society_81,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_82,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_83,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_84,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_85,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_86,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_87,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_88,Society,0,B,B,"In Korean workplaces, honorifics (높임말) are typically used toward superiors due to hierarchical workplace culture, but general practice extends respect to colleagues as well depending on context and seniority.
+
+### ANSWER
+B"
+KIIP_tradition_14,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_15,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_16,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_17,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_18,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_19,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_20,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_21,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_geography_16,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_17,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_18,Geography,0,A,A,"한국에서 가장 높은 산은 한라산으로, 이는 제주도에 위치해 있다.
+
+### ANSWER
+A"
+KIIP_geography_19,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_20,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_21,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_22,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_23,Geography,0,A,A,"### ANSWER
+A"
+CSAT_korean_07_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_07_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_07_9,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_07_10,Functional,0,B,A,"### ANSWER
+A"
+CSAT_korean_06_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_06_7,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_06_8,Functional,0,C,C,"C
+
+### ANSWER
+C"
+CSAT_korean_09_6,Functional,0,B,B,"### ANSWER
+B"
+Kedu_14_9,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_10,Grammar,0,B,B,"B는 열역학[열려칵]에서 ㄴ첨가, ㄴ→ㄹ 유음화(대치), ㄱ+ㅎ→ㅋ 축약이 모두 나타나 세 가지 유형이 확인되어 가장 다양합니다.
+
+### ANSWER
+B"
+Kedu_14_11,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_12,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_13,Grammar,0,B,B,"B의 ‘닳지→[달치]’는 유음 종성(ㄹ)과 장애음 초성(ㅈ)의 결합으로, 종성의 음운론적 강도가 초성보다 크지 않아 제약을 위반하지 않습니다. 이는 축약(격음화) 현상으로, 제시된 강도 제약과는 무관합니다. 반면 A, C, D는 모두 종성의 강도가 초성보다 큰 경우로 비음화·유음화가 일어난 사례입니다.
+
+### ANSWER
+B"
+Kedu_14_14,Grammar,0,A,,[EMPTY_RESPONSE]
+Kedu_14_15,Grammar,0,C,B,"### ANSWER
+B"
+Kedu_14_16,Grammar,0,D,D,"### ANSWER
+D"
+KIIP_tradition_22,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_23,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_24,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_25,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_26,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_27,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_28,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_29,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_society_89,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_90,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_91,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_92,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_93,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_94,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_95,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_96,Society,0,B,B,"### ANSWER
+B"
+KIIP_geography_24,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_25,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_26,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_27,Geography,0,A,B,"### ANSWER
+B"
+KIIP_geography_28,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_29,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_30,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_31,Geography,0,A,A,"### ANSWER
+A"
+PSAT_18_20,Law,0,C,,[EMPTY_RESPONSE]
+PSAT_18_21,Law,0,D,D,"### ANSWER
+D"
+PSAT_18_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_18_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_18_24,Law,0,A,A,"### ANSWER
+A"
+PSAT_18_25,Law,0,B,D,"### ANSWER
+D"
+PSAT_19_1,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_2,Law,0,C,C,"### ANSWER
+C"
+KIIP_geography_32,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_33,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_34,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_35,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_36,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_37,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_38,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_39,Geography,0,B,B,"### ANSWER
+B"
+KIIP_tradition_30,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_31,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_32,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_33,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_34,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_35,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_36,Tradition,0,C,B,"한국의 대표적인 명절로는 설날과 추석이 있으나, 보기 중 전통 명절이자 널리 알려진 것은 추석이다.
+
+### ANSWER
+B"
+KIIP_tradition_37,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_society_97,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_98,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_99,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_100,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_101,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_102,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_103,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_104,Society,0,A,A,"### ANSWER
+A"
+TK_2016_33,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_34,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_35,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_36,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_37,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_38,Textual,0,B,C,"### ANSWER
+C"
+TK_2016_39,Textual,0,B,C,"### ANSWER
+C"
+TK_2016_40,Textual,0,B,B,"### ANSWER
+B"
+Kedu_14_17,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_18,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_19,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_20,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_21,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_22,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_23,Grammar,0,A,C,"### ANSWER
+C"
+Kedu_14_24,Grammar,0,D,D,"D의 '와'는 '자유'와 '평등'을 대등하게 연결하는 접속조사이지만, A, B, C의 '와'는 각각 '함께', '같다', '다르다'와 결합하여 비교나 동반의 의미를 나타내는 부사격조사로 기능이 다르다.
+
+### ANSWER
+D"
+KIIP_tradition_38,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_39,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_40,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_41,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_42,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_43,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_44,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_45,Tradition,0,A,A,"### ANSWER
+A"
+CSAT_korean_09_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_09_8,Functional,0,D,D,"자료 (나)-1은 독서량 감소를 보여주고 (다)-2는 어휘력이 글쓰기에 영향을 미친다는 내용인데, 이를 통해 ""어휘력 부족이 독서 기피의 원인""이라는 결론은 자료에서 도출할 수 없는 논리적 비약입니다. 나머지 선택지들은 제시된 자료의 내용과 직접적으로 연결되어 타당한 논의입니다.
+
+### ANSWER
+D"
+CSAT_korean_09_9,Functional,0,E,E,"E는 주어가 '간이역'이므로 '회상하게 한다'가 올바른 표현이며, 이를 '회상한다'로 바꾸면 오히려 주어와 호응이 맞지 않게 됩니다. 따라서 이는 적절하지 않은 고쳐쓰기 방안입니다.
+
+### ANSWER
+E"
+CSAT_korean_09_10,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_08_6,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_08_8,Functional,0,D,C,"### ANSWER
+C"
+CSAT_korean_08_9,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_08_10,Functional,0,E,E,"### ANSWER
+E"
+KIIP_geography_40,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_41,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_42,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_43,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_44,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_45,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_46,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_47,Geography,0,C,C,"### ANSWER
+C"
+KIIP_society_105,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_106,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_107,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_108,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_109,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_110,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_111,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_112,Society,0,B,B,"### ANSWER
+B"
+PSE_history_16_10,History,0,C,C,"### ANSWER
+C"
+PSE_history_16_11,History,0,A,D,"### ANSWER
+D"
+PSE_history_16_12,History,0,A,C,"### ANSWER
+C"
+PSE_history_16_13,History,0,A,C,"This describes Yi Hwang (Toegye), who requested royal sanction for Sosu Seowon while serving as Punggi magistrate. He followed Zhu Xi's philosophy and emphasized the absolute priority of Li (理) in his philosophical system.
+
+### ANSWER
+C"
+PSE_history_16_14,History,0,D,B,"조선혁명선언(신채호)은 의열단의 강령이다. 의열단은 조선총독부, 종로경찰서, 동양척식회사 등에 폭탄을 투척했고 일본 황궁 공격 계획(김지섭)도 있었으며, 이후 민족혁명당 창당에도 참여했다. 그러나 경성 부민관 폭탄 투척(1945)은 대한애국청년당의 활동으로, 의열단과는 관련이 없다.
+
+### ANSWER
+B"
+PSE_history_16_15,History,0,A,C,"### ANSWER
+C"
+PSE_history_16_16,History,0,B,D,"풍수지리설에 대한 설명 중, D는 도교의 초제(醮祭)에 대한 내용으로 풍수지리설과는 관련이 없다. 풍수지리설은 도읍·주택·묘지 선정과 관련된 사상이며, 초제는 하늘에 제사를 지내는 도교의 의식이므로 옳지 않은 설명이다.
+
+### ANSWER
+D"
+PSE_history_16_17,History,0,B,B,"### ANSWER
+B"
+KIIP_tradition_46,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_47,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_48,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_49,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_50,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_51,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_52,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_53,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_society_113,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_114,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_115,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_116,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_117,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_118,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_119,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_120,Society,0,A,A,"### ANSWER
+A"
+KIIP_geography_48,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_49,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_50,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_51,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_52,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_53,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_54,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_55,Geography,0,D,D,"### ANSWER
+D"
+TK_2016_41,Textual,0,A,A,"### ANSWER
+A"
+TK_2016_42,Textual,0,B,B,"### ANSWER
+B"
+TK_2016_43,Textual,0,A,C,"### ANSWER
+C"
+TK_2016_44,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_45,Textual,0,C,C,"### ANSWER
+C"
+TK_2016_46,Textual,0,B,D,"### ANSWER
+D"
+TK_2016_47,Textual,0,D,D,"### ANSWER
+D"
+TK_2016_48,Textual,0,D,D,"### ANSWER
+D"
+KIIP_society_121,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_122,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_123,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_124,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_125,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_126,Society,0,D,B,"### ANSWER
+B"
+KIIP_society_127,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_128,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_54,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_55,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_56,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_57,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_58,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_59,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_60,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_61,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_geography_56,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_57,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_58,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_59,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_60,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_61,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_62,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_63,Geography,0,D,D,"### ANSWER
+D"
+KIIP_society_129,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_130,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_131,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_132,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_133,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_134,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_135,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_136,Society,0,A,A,"### ANSWER
+A"
+PSE_history_17_1,History,0,A,A,"### ANSWER
+A"
+PSE_history_17_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_17_3,History,0,A,A,"### ANSWER
+A"
+PSE_history_17_4,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_5,History,0,A,A,"A
+
+### ANSWER
+A"
+PSE_history_17_6,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_7,History,0,B,B,"### ANSWER
+B"
+PSE_history_17_8,History,0,C,C,"조·청 상민수륙무역장정은 1882년(임오군란 직후)에 체결된 것으로, 갑신정변(1884) 이후의 정세가 아니다. 나머지는 모두 갑신정변 이후(1885년경) 일어난 사건들이다.
+
+### ANSWER
+C"
+TK_2016_49,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_5,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_6,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_7,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_8,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_9,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_11,Textual,0,B,B,"### ANSWER
+B"
+Kedu_14_25,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_26,Grammar,0,D,B,"B
+
+### ANSWER
+B"
+Kedu_14_27,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_28,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_29,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_30,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_31,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_32,Grammar,0,C,B,"### ANSWER
+B"
+KIIP_tradition_62,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_63,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_64,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_65,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_66,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_67,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_68,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_69,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_geography_64,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_65,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_66,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_67,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_68,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_69,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_70,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_71,Geography,0,C,C,"### ANSWER
+C"
+KIIP_society_137,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_138,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_139,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_140,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_141,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_142,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_143,Society,0,C,A,"### ANSWER
+A"
+KIIP_society_144,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_70,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_71,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_tradition_72,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_73,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_74,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_75,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_76,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_77,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_geography_72,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_73,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_74,Geography,0,D,B,"### ANSWER
+B"
+KIIP_geography_75,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_76,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_77,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_78,Geography,0,A,D,"### ANSWER
+D"
+KIIP_geography_79,Geography,0,C,C,"### ANSWER
+C"
+PSAT_19_3,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_4,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_5,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_6,Law,0,D,,[EMPTY_RESPONSE]
+PSAT_19_7,Law,0,A,A,"### ANSWER
+A"
+PSAT_19_8,Law,0,B,A,"### ANSWER
+A"
+PSAT_19_9,Law,0,A,A,"### ANSWER
+A"
+PSAT_19_10,Law,0,D,D,"### ANSWER
+D"
+TK_2017_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_13,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_14,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_15,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_16,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_17,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_18,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_19,Textual,0,A,A,"### ANSWER
+A"
+KIIP_society_145,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_146,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_147,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_148,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_149,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_150,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_151,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_152,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_78,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_79,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_80,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_81,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_82,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_83,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_84,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_85,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_geography_80,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_81,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_82,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_83,Geography,0,C,C,"### ANSWER
+C"
+KIIP_geography_84,Geography,0,D,D,"### ANSWER
+D"
+KIIP_geography_85,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_86,Geography,0,B,B,"### ANSWER
+B"
+KIIP_geography_87,Geography,0,A,A,"### ANSWER
+A"
+TK_2017_20,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_21,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_22,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_23,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_25,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_26,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_27,Textual,0,C,C,"### ANSWER
+C"
+PSAT_19_11,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_12,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_14,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_15,Law,0,D,D,"### ANSWER
+D"
+PSAT_19_16,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_17,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_18,Law,0,C,C,"### ANSWER
+C"
+PSAT_19_19,Law,0,C,C,"### ANSWER
+C"
+PSE_history_17_9,History,0,B,B,"대한제국 칙령 제41호는 울릉도를 군으로 승격시키고 독도를 관할 영역으로 명시한 문서로 한국 영토임을 입증하며, 삼국접양지도는 일본인이 그린 지도로 독도를 조선의 영토로 표기하고 있어 두 자료 모두 독도가 한국 영토임을 뒷받침하는 근거이다. 나머지 선택지들은 간도 문제나 일본의 영유권 주장과 관련된 자료들이 포함되어 있어 옳지 않다.
+
+### ANSWER
+B"
+PSE_history_17_10,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_11,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_13,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_14,History,0,D,D,"### ANSWER
+D"
+PSE_history_17_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_17_16,History,0,A,A,"### ANSWER
+A"
+KIIP_geography_88,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_89,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_90,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_91,Geography,0,A,A,"### ANSWER
+A"
+KIIP_geography_92,Geography,0,C,C,"### ANSWER
+C"
+Kedu_geography_1,Geography,0,B,B,"### ANSWER
+B"
+Kedu_geography_2,Geography,0,C,C,"### ANSWER
+C"
+Kedu_geography_3,Geography,0,C,C,"### ANSWER
+C"
+KIIP_tradition_86,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_87,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_88,Tradition,0,B,D,"### ANSWER
+D"
+KIIP_tradition_89,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_90,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_91,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_92,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_93,Tradition,0,D,D,"### ANSWER
+D"
+CSAT_korean_10_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_10_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_10_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_10_9,Functional,0,C,D,"### ANSWER
+D"
+CSAT_korean_10_10,Functional,0,A,,"홍보 문구는 폐휴대전화가 지닌 양면성(자원/오염)을 대구 형식으로 표현해야 하며,"
+CSAT_korean_11_6,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_11_8,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_11_9,Functional,0,C,B,"### ANSWER
+B"
+Kedu_14_33,Grammar,0,D,D,"한자어 확인: ㄱ.하필(何必), ㄷ.모자(帽子), ㅁ.하마(河馬), ㅂ.미안(未安)은 모두 한자어입니다. 반면 ㄴ.동살과 ㄹ.울력은 순우리말입니다. 따라서 세 개가 모두 한자어로 묶인 선택지는 ㄷ, ㅁ, ㅂ입니다.
+
+### ANSWER
+D"
+Kedu_14_34,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_35,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_36,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_37,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_38,Grammar,0,B,B,"B가 정답입니다. '안치다'는 밥이나 쌀을 솥에 넣는 것을 의미하고, '앉히다'는 사람을 자리에 앉게 하는 것을 의미하여 각각 올바르게 사용되었습니다. 나머지 선택지들은 단어의 의미가 뒤바뀌어 사용되었습니다.
+
+### ANSWER
+B"
+Kedu_14_39,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_41,Grammar,0,B,C,"### ANSWER
+C"
+KIIP_society_153,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_154,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_155,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_156,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_157,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_158,Society,0,D,D,"한국은 2010년대 이후 저출산 현상이 심화되어 출산율이 지속적으로 감소하고 있다. 반면 농촌 인구 감소, 도시 인구 증가, 귀농 인구 증가는 실제로 나타난 현상이다. 따라서 출산율 증가는 2010년대 이후 나타난 현상이 아니다.
+
+### ANSWER
+D"
+KIIP_society_159,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_160,Society,0,A,A,"### ANSWER
+A"
+TK_2017_28,Textual,0,B,B,"### ANSWER
+B"
+TK_2017_29,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_30,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_31,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_32,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_33,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_34,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_35,Textual,0,B,B,"### ANSWER
+B"
+KIIP_society_161,Society,0,C,C,"### ANSWER
+C"
+KIIP_society_162,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_163,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_164,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_165,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_166,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_167,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_168,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_94,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_95,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_96,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_97,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_98,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_99,Tradition,0,D,D,"조계사는 불교 사찰로, 불교는 삼국시대에 전래되었지만 한국 전통문화의 일부로 깊이 자리잡아 전통 종교로 인식되는 반면, 명동성당(천주교), 정동교회(기독교), 이슬람사원(이슬람교)은 근대 이후 유입된 외래 종교의 대표적 예이다.
+
+### ANSWER
+D"
+KIIP_tradition_100,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_101,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_geography_4,Geography,0,C,C,"### ANSWER
+C"
+Kedu_geography_5,Geography,0,C,D,"### ANSWER
+D"
+Kedu_geography_6,Geography,0,D,D,"### ANSWER
+D"
+Kedu_geography_7,Geography,0,A,A,"광한루는 남원에 있는 유적으로, 진주와 연결한 것은 옳지 않다.
+
+### ANSWER
+A"
+Kedu_geography_8,Geography,0,C,C,"### ANSWER
+C"
+Kedu_geography_9,Geography,0,B,B,"통영은 경상남도에 위치한다.
+
+### ANSWER
+B"
+KHB_66_1,History,0,D,D,"### ANSWER
+D"
+KHB_66_2,History,0,A,A,"### ANSWER
+A"
+PSAT_19_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_19_21,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_22,Law,0,B,B,"### ANSWER
+B"
+PSAT_19_23,Law,0,D,A,"### ANSWER
+A"
+PSAT_19_25,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_1,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_2,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_3,Law,0,D,D,"### ANSWER
+D"
+TK_2017_36,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_37,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_38,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_39,Textual,0,D,C,"### ANSWER
+C"
+TK_2017_40,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_41,Textual,0,C,C,"### ANSWER
+C"
+TK_2017_42,Textual,0,A,A,"### ANSWER
+A"
+TK_2017_43,Textual,0,C,C,"### ANSWER
+C"
+KIIP_tradition_102,Tradition,0,D,A,"### ANSWER
+A"
+KIIP_tradition_103,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_104,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_tradition_105,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_106,Tradition,0,B,C,"### ANSWER
+C"
+KIIP_tradition_107,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_108,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_109,Tradition,0,A,A,"### ANSWER
+A"
+Kedu_14_42,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_43,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_44,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_45,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_46,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_47,Grammar,0,C,C,"The particle ""는"" implies contrast, suggesting ""집에서는"" (at home specifically) contrasts with other places, implying he doesn't speak well elsewhere.
+
+### ANSWER
+C"
+Kedu_14_48,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_49,Grammar,0,A,A,"### ANSWER
+A"
+KIIP_society_169,Society,0,B,B,"### ANSWER
+B"
+KIIP_society_170,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_171,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_172,Society,0,B,C,"### ANSWER
+C"
+KIIP_society_173,Society,0,D,D,"### ANSWER
+D"
+KIIP_society_174,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_175,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_176,Society,0,D,D,"D
+
+### ANSWER
+D"
+PSE_history_17_17,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_18,History,0,C,C,"### ANSWER
+C"
+PSE_history_17_19,History,0,A,A,"A는 의주가 청천강변에 위치한다고 했으나 실제 의주는 압록강 하류에 위치하고 있어 이 설명이 옳지 않다.
+
+### ANSWER
+A"
+PSE_history_18_1,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_2,History,0,B,C,"### ANSWER
+C"
+PSE_history_18_3,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_4,History,0,C,C,"### ANSWER
+C"
+PSE_history_18_5,History,0,C,B,"### ANSWER
+B"
+KHB_66_3,History,0,C,C,"### ANSWER
+C"
+KHB_66_4,History,0,B,B,"### ANSWER
+B"
+KHB_66_5,History,0,A,A,"### ANSWER
+A"
+KHB_66_6,History,0,A,A,"### ANSWER
+A"
+KHB_66_7,History,0,D,D,"### ANSWER
+D"
+KHB_66_8,History,0,D,D,"### ANSWER
+D"
+KHB_66_9,History,0,A,A,"### ANSWER
+A"
+KHB_66_10,History,0,D,D,"### ANSWER
+D"
+TK_2017_44,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_45,Textual,0,A,B,"### ANSWER
+B"
+TK_2017_46,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_47,Textual,0,D,D,"### ANSWER
+D"
+TK_2017_48,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_5,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_6,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_7,Textual,0,C,C,"### ANSWER
+C"
+KIIP_tradition_110,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_111,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_112,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_113,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_114,Tradition,0,D,D,"### ANSWER
+D"
+KIIP_tradition_115,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_116,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_117,Tradition,0,A,B,"### ANSWER
+B"
+KIIP_society_177,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_178,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_179,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_180,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_181,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_182,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_183,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_184,Society,0,A,A,"### ANSWER
+A"
+CSAT_korean_11_10,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_12_6,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_12_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_12_8,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_12_9,Functional,0,C,E,"### ANSWER
+E"
+CSAT_korean_12_10,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_7,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_13_7,Functional,0,D,D,"### ANSWER
+D"
+KIIP_tradition_118,Tradition,0,C,D,"### ANSWER
+D"
+KIIP_tradition_119,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_120,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_121,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_122,Tradition,0,A,A,"### ANSWER
+A"
+KIIP_tradition_123,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_124,Tradition,0,B,B,"### ANSWER
+B"
+KIIP_tradition_125,Tradition,0,C,C,"### ANSWER
+C"
+KHB_66_11,History,0,B,B,"### ANSWER
+B"
+KHB_66_12,History,0,D,D,"### ANSWER
+D"
+KHB_66_13,History,0,C,B,"### ANSWER
+B"
+KHB_66_14,History,0,A,A,"### ANSWER
+A"
+KHB_66_15,History,0,C,C,"### ANSWER
+C"
+KHB_66_16,History,0,C,C,"### ANSWER
+C"
+KHB_66_17,History,0,B,B,"### ANSWER
+B"
+KHB_66_18,History,0,A,A,"### ANSWER
+A"
+TK_2018_8,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_9,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_11,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_12,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_13,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_14,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_15,Textual,0,B,B,"### ANSWER
+B"
+KIIP_society_185,Society,0,A,A,"### ANSWER
+A"
+KIIP_society_186,Society,0,A,A,"### ANSWER
+A"
+KIIP_tradition_126,Tradition,0,C,C,"### ANSWER
+C"
+KIIP_tradition_127,Tradition,0,C,C,"### ANSWER
+C"
+KHB_66_19,History,0,B,B,"### ANSWER
+B"
+KHB_66_20,History,0,B,B,"### ANSWER
+B"
+KHB_66_21,History,0,D,B,"### ANSWER
+B"
+KHB_66_22,History,0,B,B,"### ANSWER
+B"
+KHB_66_23,History,0,D,C,"### ANSWER
+C"
+KHB_66_24,History,0,C,D,"### ANSWER
+D"
+KHB_66_25,History,0,C,C,"### ANSWER
+C"
+KHB_66_26,History,0,A,C,"### ANSWER
+C"
+TK_2018_16,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_17,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_18,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_19,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_20,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_21,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_22,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_23,Textual,0,A,A,"### ANSWER
+A"
+PSE_history_18_6,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_7,History,0,A,A,"### ANSWER
+A"
+PSE_history_18_8,History,0,C,B,"### ANSWER
+B"
+PSE_history_18_9,History,0,B,B,"토지조사사업 시행 기구인 임시토지조사국은 1910년~1918년까지 존속했다. 이광수의 소설 ""무정""은 1917년 매일신보에 연재되었으므로 이 시기와 일치한다. 나머지 선택지들(의열단 1919년, 연초전매제도 1921년, 조선청년연합회 1920년)은 모두 이 기구가 폐지된 이후의 사실이다.
+
+### ANSWER
+B"
+PSE_history_18_10,History,0,D,D,"### ANSWER
+D"
+PSE_history_18_11,History,0,B,C,"This describes King Sinmun of Silla, who suppressed Kim Heumdol's rebellion and attempted to move the capital to Dalgubeol. During his reign, he established the National Confucian Academy (Gukhak) to promote Confucian education.
+
+### ANSWER
+C"
+PSE_history_18_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_18_13,History,0,D,D,"### ANSWER
+D"
+PSAT_20_4,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_5,Law,0,B,B,"B는 대통령이 법률안 일부에 대해 재의를 요구할 수 있다고 했으나, 실제로는 법률안 전체에 대해서만 재의를 요구할 수 있고 일부 또는 수정하여 재의를 요구할 수 없다. 따라서 B가 옳지 않은 설명이다.
+
+### ANSWER
+B"
+PSAT_20_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_7,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_9,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_10,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_11,Law,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_6,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_1,Functional,0,A,A,"A는 학생이 이해를 확인하는 질문이라기보다 새로운 정보를 요청하는 질문에 해당하므로 적절하지 않다.
+
+### ANSWER
+A"
+CSAT_korean_14_2,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_14_3,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_4,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_14_5,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_14_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_14_8,Functional,0,C,C,"### ANSWER
+C"
+KHB_66_27,History,0,C,A,"### ANSWER
+A"
+KHB_66_28,History,0,C,C,"### ANSWER
+C"
+KHB_66_29,History,0,B,C,"### ANSWER
+C"
+KHB_66_30,History,0,B,B,"### ANSWER
+B"
+KHB_66_31,History,0,D,D,"### ANSWER
+D"
+KHB_66_32,History,0,C,C,"### ANSWER
+C"
+KHB_66_33,History,0,B,B,"### ANSWER
+B"
+KHB_66_34,History,0,D,D,"### ANSWER
+D"
+Kedu_14_50,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_51,Grammar,0,B,A,"### ANSWER
+A"
+Kedu_14_52,Grammar,0,A,,[EMPTY_RESPONSE]
+Kedu_14_53,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_14_54,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_14_55,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_14_56,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_14_57,Grammar,0,B,B,"### ANSWER
+B"
+TK_2018_24,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_25,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_26,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_27,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_28,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_29,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_30,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_31,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_14_9,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_10,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_18_1,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_18_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_3,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_18_5,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_18_6,Functional,0,E,E,"### ANSWER
+E"
+TK_2018_32,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_33,Textual,0,C,C,"### ANSWER
+C"
+TK_2018_34,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_35,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_36,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_37,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_38,Textual,0,B,A,"### ANSWER
+A"
+TK_2018_39,Textual,0,D,D,"### ANSWER
+D"
+KHB_66_35,History,0,A,A,"### ANSWER
+A"
+KHB_66_36,History,0,A,A,"### ANSWER
+A"
+KHB_66_37,History,0,D,D,"### ANSWER
+D"
+KHB_66_38,History,0,A,A,"### ANSWER
+A"
+KHB_66_39,History,0,C,C,"### ANSWER
+C"
+KHB_66_40,History,0,C,C,"### ANSWER
+C"
+KHB_66_41,History,0,D,D,"### ANSWER
+D"
+KHB_66_42,History,0,B,B,"### ANSWER
+B"
+PSE_history_18_14,History,0,B,C,"### ANSWER
+C"
+PSE_history_18_15,History,0,C,C,"조광조의 소학·향약 실천(중종대, 1510년대) → 서경덕의 태허설(16세기 중반) → 정지운의 천명도를 둘러싼 사단칠정 논쟁(1553년경) → 이이의 경장론(16세기 후반) 순으로 전개되었다.
+
+### ANSWER
+C"
+PSE_history_18_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_18_17,History,0,B,C,"### ANSWER
+C"
+PSE_history_18_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_18_19,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_2,History,0,D,D,"### ANSWER
+D"
+CSAT_korean_18_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_18_8,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_18_9,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_18_10,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_13_1,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_13_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_13_5,Functional,0,A,A,"### ANSWER
+A"
+KHB_66_43,History,0,C,C,"### ANSWER
+C"
+KHB_66_44,History,0,D,D,"### ANSWER
+D"
+KHB_66_45,History,0,A,A,"### ANSWER
+A"
+KHB_66_47,History,0,A,A,"### ANSWER
+A"
+KHB_66_48,History,0,D,D,"### ANSWER
+D"
+Kedu_history_1,History,0,D,D,"### ANSWER
+D"
+Kedu_history_2,History,0,C,C,"### ANSWER
+C"
+Kedu_history_3,History,0,D,D,"### ANSWER
+D"
+TK_2018_40,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_41,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_42,Textual,0,D,D,"### ANSWER
+D"
+TK_2018_43,Textual,0,B,D,"### ANSWER
+D"
+TK_2018_44,Textual,0,A,B,"### ANSWER
+B"
+TK_2018_45,Textual,0,D,A,"### ANSWER
+A"
+TK_2018_46,Textual,0,B,B,"### ANSWER
+B"
+TK_2018_47,Textual,0,A,A,"### ANSWER
+A"
+TK_2018_48,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_5,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_6,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_7,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_8,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_9,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_10,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_11,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_6,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_13_8,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_9,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_13_10,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_2,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_15_3,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_6,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_15_7,Functional,0,B,B,"### ANSWER
+B"
+Kedu_15_1,Grammar,0,B,B,"형태소는 최소의 의미 단위인데, ‘좁쌀’의 ‘ㅂ’은 독립적인 의미를 지닌 형태소가 아니라 역사적 흔적일 뿐이므로 형태소의 예로 옳지 않다.
+
+### ANSWER
+B"
+Kedu_15_2,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_3,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_4,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_5,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_6,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_7,Grammar,0,D,,[EMPTY_RESPONSE]
+Kedu_15_8,Grammar,0,C,B,"### ANSWER
+B"
+Kedu_history_4,History,0,B,B,"### ANSWER
+B"
+Kedu_history_5,History,0,B,B,"### ANSWER
+B"
+Kedu_history_6,History,0,D,D,"### ANSWER
+D"
+Kedu_history_7,History,0,A,A,"사부학당은 조선 초기의 전통 교육기관으로, 근대 교육기관과는 시대적 성격이 다릅니다. 육영공원, 원산학사, 배재학당은 모두 근대 개항기 이후 설립된 근대식 교육기관입니다.
+
+### ANSWER
+A"
+Kedu_history_8,History,0,C,C,"### ANSWER
+C"
+Kedu_history_9,History,0,B,B,"### ANSWER
+B"
+Kedu_history_10,History,0,B,B,"### ANSWER
+B"
+Kedu_history_11,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_3,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_4,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_6,History,0,A,D,"### ANSWER
+D"
+PSE_history_19_7,History,0,A,A,"을미사변(1895)~을사조약(1905) 사이인 (가) 시기에 해당하는 사건을 찾아야 한다. 황국중앙총상회는 1898년에 조직되어 (가) 시기에 해당한다. 보안회는 1904년 조직되어 을사조약 이전이므로 (나)가 아니라 (가)에 해당하므로 오답이다. 105인 사건은 1911년으로 너무 늦고, 방곡령은 1889년으로 너무 이르다.
+
+### ANSWER
+A"
+PSE_history_19_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_10,History,0,A,A,"### ANSWER
+A"
+TK_2019_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_13,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_14,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_15,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_16,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_17,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_18,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_19,Textual,0,C,C,"### ANSWER
+C"
+Kedu_history_12,History,0,A,A,"A(남산지구는 불교 유적 및 유물이 산재한 지역으로, 궁궐터는 월성지구에 해당함)
+
+### ANSWER
+A"
+Kedu_history_13,History,0,D,D,"### ANSWER
+D"
+PSAT_20_12,Law,0,B,B,"국회법상 임시회는 대통령 또는 국회 재적의원 4분의 1 이상의 요구로 집회되는데, B는 5분의 1이라고 잘못 서술하고 있다.
+
+### ANSWER
+B"
+PSAT_20_13,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_14,Law,0,D,A,"### ANSWER
+A"
+PSAT_20_15,Law,0,B,A,"### ANSWER
+A"
+PSAT_20_16,Law,0,D,,[EMPTY_RESPONSE]
+PSAT_20_17,Law,0,D,D,"### ANSWER
+D"
+PSAT_20_18,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_19,Law,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_8,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_15_9,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_10,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_16_1,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_2,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_3,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_5,Functional,0,E,E,"### ANSWER
+E"
+TK_2019_20,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_21,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_22,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_23,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_25,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_26,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_27,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_28,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_29,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_30,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_31,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_32,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_33,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_34,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_35,Textual,0,D,D,"### ANSWER
+D"
+PSE_history_19_11,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_19_13,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_14,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_15,History,0,C,C,"### ANSWER
+C"
+PSE_history_19_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_19_17,History,0,A,A,"### ANSWER
+A"
+PSE_history_19_18,History,0,B,B,"### ANSWER
+B"
+TK_2019_36,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_37,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_38,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_39,Textual,0,C,A,"### ANSWER
+A"
+TK_2019_40,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_41,Textual,0,A,A,"### ANSWER
+A"
+TK_2019_42,Textual,0,A,D,"### ANSWER
+D"
+TK_2019_43,Textual,0,D,D,"### ANSWER
+D"
+PSE_history_19_19,History,0,B,B,"### ANSWER
+B"
+PSE_history_19_20,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_1,History,0,C,C,"C
+
+### ANSWER
+C"
+PSE_history_20_2,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_3,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_4,History,0,B,B,"This describes the Dongdojiki (동도서기, 도기론) philosophy - maintaining traditional ethics (도) while adopting Western technology (기). This became the ideological foundation for accepting modern civilization while preserving Confucian values, distinguishing道 from 器.
+
+### ANSWER
+B"
+PSE_history_20_5,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_6,History,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_6,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_16_7,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_8,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_16_9,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_16_10,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_1,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_19_2,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_3,Functional,0,A,A,"### ANSWER
+A"
+Kedu_15_9,Grammar,0,C,C,C: 달님[달림]은 ㄴ이 앞의 ㄹ에 동화되어 ㄹ로 바뀌는 순행동화의 예이
+Kedu_15_10,Grammar,0,A,D,"### ANSWER
+D"
+Kedu_15_11,Grammar,0,B,B,"입학생[이팍쌩]에서는 ㅂ+ㅎ이 축약되어 ㅍ이 되는 자음축약(유기음화)이 한 번, 그 후 ㄱ 받침 뒤에서 ㅅ이 ㅆ으로 바뀌는 경음화가 한 번 일어나 총 2회의 음운변동이 나타난다.
+
+### ANSWER
+B"
+Kedu_15_12,Grammar,0,D,D,"음운변동을 분석하면 ㉣ '않는다'는 자음군단순화 및 ㅎ탈락이 일어나 [안는다]가 되는 것인데, '막는'은 비음화(ㄱ→ㅇ)가 일어나는 예로 서로 다른 음운변동이다.
+
+### ANSWER
+D"
+Kedu_15_13,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_14,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_15,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_16,Grammar,0,A,,[EMPTY_RESPONSE]
+TK_2019_44,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_45,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_46,Textual,0,C,C,"### ANSWER
+C"
+TK_2019_47,Textual,0,D,D,"### ANSWER
+D"
+TK_2019_48,Textual,0,B,B,"### ANSWER
+B"
+TK_2019_49,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_5,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_6,Textual,0,B,B,"### ANSWER
+B"
+PSAT_20_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_21,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_20_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_20_24,Law,0,A,A,"### ANSWER
+A"
+PSAT_20_25,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_1,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_2,Law,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_4,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_19_5,Functional,0,B,B,"[A]에서 반대 2는 면접관의 견해가 중요한 판단 기준이 되어야 한다는 의견을 제시했고, 찬성 1은 이에 반박하며 설문 조사 자료를 근거로 자신의 주장이 타당함을 강조했다. 이는 B의 설명과 정확히 일치한다.
+
+### ANSWER
+B"
+CSAT_korean_19_7,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_19_8,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_19_9,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_20_1,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_20_2,Functional,0,D,D,"### ANSWER
+D"
+TK_2022_7,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_8,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_9,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_10,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_11,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_12,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_13,Textual,0,D,D,D
+TK_2022_14,Textual,0,B,B,"### ANSWER
+B"
+PSE_history_20_7,History,0,A,A,"신미양요(1871)는 고종 재위 시기 사건입니다. 이 시기 흥선대원군의 개혁으로 호포법이 실시되어 양반에게도 군포(호포)를 부과하며 면세특권이 폐지되었습니다. B(통공정책)는 정조, C(결작)는 영조의 균역법, D(영정법)는 인조 시기 사건으로 시기가 맞지 않습니다.
+
+### ANSWER
+A"
+PSE_history_20_8,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_9,History,0,C,C,"신(臣)이 저술한 이 책은 중국은 반고부터, 동국은 단군부터 시작하여 읊조림(시)의 형식으로 구성되었다는 점에서 이승휴의 「제왕운기」임을 알 수 있다. 이는 원 간섭기에 저술되어 중국과 구별되는 독자적인 우리 역사의 유구성과 자부심을 강조한 것이 특징이다.
+
+### ANSWER
+C"
+PSE_history_20_10,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_11,History,0,A,A,"### ANSWER
+A"
+PSE_history_20_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_20_14,History,0,C,C,"### ANSWER
+C"
+TK_2022_15,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_16,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_17,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_18,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_19,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_20,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_21,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_22,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_23,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_24,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_25,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_26,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_27,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_28,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_29,Textual,0,B,C,"### ANSWER
+C"
+TK_2022_30,Textual,0,D,D,"### ANSWER
+D"
+Kedu_15_17,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_18,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_19,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_20,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_21,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_22,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_23,Grammar,0,D,A,"맞습니다, 정답은 A입니다. ""먹고서""의 '-고서'는 두 사건을 시간적 순서로 단순히 나열하는 연결어미로, 이는 **대등하게 이어진 문장**(나열관계)에 해당합니다. 즉, 앞 문장과 뒤 문장이 독립적으로 대등한 자격으로 연결된 것이지, 한쪽이 다른 쪽에 종속되는 관계가 아닙니다.
+
+반면 B, C, D는 각각 조건(-면), 원인/이유(-아서), 선택(-거나)의 의미를 나타내는 연결어미로, 앞 절이 뒤 절의 의미를 제한하거나 뒤 절에 의존하는 **종속적 연결**로 분류됩니다.
+
+### ANSWER
+A"
+Kedu_15_24,Grammar,0,B,B,"### ANSWER
+B"
+PSE_history_20_15,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_16,History,0,B,B,"### ANSWER
+B"
+PSE_history_20_17,History,0,D,D,"### ANSWER
+D"
+PSE_history_20_18,History,0,C,C,"### ANSWER
+C"
+PSE_history_20_19,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_1,History,0,C,C,"### ANSWER
+C"
+PSE_history_21_2,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_3,History,0,C,C,"### ANSWER
+C"
+TK_2022_31,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_32,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_33,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_34,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_35,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_36,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_37,Textual,0,B,B,"### ANSWER
+B"
+TK_2022_41,Textual,0,B,B,"### ANSWER
+B"
+PSE_history_21_4,History,0,A,A,"이 인물은 조광조로, 현량과 실시를 건의한 개혁 정치가입니다. 그는 급진적 개혁으로 훈구파의 반발을 사서 기묘사화로 탄압받아 사사되었습니다.
+
+### ANSWER
+A"
+PSE_history_21_5,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_6,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_8,History,0,C,C,"ㄱ, ㄴ, ㄷ 모두 옳은 설명이며, ㄹ은 승정원일기가 아니라 국조보감에 대한 설명이므로 옳지 않다.
+
+### ANSWER
+C"
+PSE_history_21_9,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_10,History,0,D,D,"The 1st Five-Year Economic Development Plan was pursued under Park Chung-hee's government, not Rhee Syngman's.
+
+### ANSWER
+D"
+PSE_history_21_11,History,0,C,C,"남면북양 정책은 1930년대 초 세계 경제 대공황 시기 공업 원료 확보를 위한 경제 정책으로, 중일전쟁 이후의 민족 말살 정책과는 시기와 목적이 다르다.
+
+### ANSWER
+C"
+PSAT_21_3,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_5,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_6,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_7,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_8,Law,0,D,D,"D는 DNA신원확인정보의 보관 자체는 헌법재판소가 과잉금지원칙에 위반되지 않는다고 판단했고, 파기·삭제 절차 미비만을 헌법불합치로 결정한 바 있으므로 D의 서술은 판례와 배치된다.
+
+### ANSWER
+D"
+PSAT_21_9,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_10,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_11,Law,0,C,C,"### ANSWER
+C"
+TK_2022_42,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_43,Textual,0,C,C,"### ANSWER
+C"
+TK_2022_44,Textual,0,D,D,"### ANSWER
+D"
+TK_2022_45,Textual,0,A,A,"### ANSWER
+A"
+TK_2022_46,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_20_3,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_20_4,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_20_5,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_20_6,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_20_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_20_8,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_20_9,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_20_10,Functional,0,E,E,"### ANSWER
+E"
+CSAT_korean_13_3,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_15_4,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_15_5,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_1,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_17_2,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_17_3,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_4,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_5,Functional,0,D,D,"### ANSWER
+D"
+PSE_history_21_12,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_13,History,0,D,C,"### ANSWER
+C"
+PSE_history_21_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_15,History,0,A,A,"### ANSWER
+A"
+PSE_history_21_16,History,0,D,D,"### ANSWER
+D"
+PSE_history_21_17,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_18,History,0,B,B,"### ANSWER
+B"
+PSE_history_21_19,History,0,C,C,"### ANSWER
+C"
+PSAT_21_12,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_13,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_14,Law,0,A,D,"### ANSWER
+D"
+PSAT_21_15,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_17,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_18,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_19,Law,0,B,B,"### ANSWER
+B"
+CSAT_korean_17_7,Functional,0,C,C,"### ANSWER
+C"
+CSAT_korean_17_8,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_17_9,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_17_10,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_35,Functional,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_38,Functional,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_43,Functional,0,E,E,"### ANSWER
+E"
+Kedu_16_1,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_25,Grammar,0,C,,[EMPTY_RESPONSE]
+Kedu_15_26,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_27,Grammar,0,D,,[EMPTY_RESPONSE]
+Kedu_15_28,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_29,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_30,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_31,Grammar,0,D,A,"### ANSWER
+A"
+Kedu_15_32,Grammar,0,A,A,"### ANSWER
+A"
+PSAT_21_20,Law,0,A,A,"### ANSWER
+A"
+PSAT_21_21,Law,0,C,C,"### ANSWER
+C"
+PSAT_21_22,Law,0,D,D,"### ANSWER
+D"
+PSAT_21_23,Law,0,B,B,"### ANSWER
+B"
+PSAT_21_24,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_1,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_2,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_3,Law,0,C,C,"### ANSWER
+C"
+PSE_history_22_1,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_2,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_3,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_4,History,0,A,A,"A
+
+### ANSWER
+A"
+PSE_history_22_5,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_6,History,0,C,C,"C
+
+### ANSWER
+C"
+PSE_history_22_7,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_8,History,0,B,B,"### ANSWER
+B"
+Kedu_16_2,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_3,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_4,Grammar,0,A,B,"### ANSWER
+B"
+Kedu_16_5,Grammar,0,A,C,"### ANSWER
+C"
+Kedu_16_6,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_7,Grammar,0,D,B,"### ANSWER
+B"
+PSE_korean_1,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_2,Functional,0,B,B,"### ANSWER
+B"
+Kedu_15_33,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_34,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_35,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_36,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_37,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_38,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_39,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_40,Grammar,0,D,D,"### ANSWER
+D"
+PSAT_22_4,Law,0,D,B,"### ANSWER
+B"
+PSAT_22_5,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_7,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_8,Law,0,B,B,"### ANSWER
+B"
+PSAT_22_9,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_10,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_11,Law,0,B,B,"### ANSWER
+B"
+PSE_korean_3,Functional,0,D,D,"### ANSWER
+D"
+PSE_korean_4,Functional,0,D,D,"D
+
+### ANSWER
+D"
+PSE_korean_5,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_6,Functional,0,A,A,"### ANSWER
+A"
+PSE_korean_7,Functional,0,B,A,"### ANSWER
+A"
+PSE_korean_8,Functional,0,B,B,"### ANSWER
+B"
+PSE_korean_9,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_10,Functional,0,C,C,"### ANSWER
+C"
+PSE_history_22_9,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_10,History,0,C,B,"토지 소유를 제한하되 기존 소유는 인정하고 이후 초과 소유를 금지하는 한전론(限田論)은 성호 이익의 주장으로, 이는 그의 저서인 성호사설에 담겨 있습니다.
+
+### ANSWER
+B"
+PSE_history_22_11,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_12,History,0,D,D,"### ANSWER
+D"
+PSE_history_22_13,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_14,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_15,History,0,A,A,"### ANSWER
+A"
+PSE_history_22_16,History,0,B,B,"### ANSWER
+B"
+Kedu_15_41,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_42,Grammar,0,B,B,"B는 ""지금쯤""이라는 표현으로 현재 진행 중인 사건을 나타내는 반면, 나머지 A, C, D는 모두 미래에 일어날 사건을 나타내고 있어 사건시가 다릅니다.
+
+### ANSWER
+B"
+Kedu_15_43,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_44,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_45,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_46,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_47,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_48,Grammar,0,A,A,"### ANSWER
+A"
+PSE_history_22_17,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_18,History,0,C,C,"### ANSWER
+C"
+PSE_history_22_19,History,0,B,B,"### ANSWER
+B"
+PSE_history_22_20,History,0,D,D,"### ANSWER
+D"
+KIIP_law_1,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_2,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_3,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_4,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_5,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_6,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_7,Law,0,A,B,"### ANSWER
+B"
+KIIP_law_8,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_9,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_10,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_11,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_12,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_13,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_14,Law,0,C,C,"### ANSWER
+C"
+KIIP_law_15,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_16,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_17,Law,0,A,B,"### ANSWER
+B"
+KIIP_law_18,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_19,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_20,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_12,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_13,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_14,Law,0,A,A,"### ANSWER
+A"
+PSAT_22_15,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_18,Law,0,C,C,"### ANSWER
+C"
+PSAT_22_20,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_21,Law,0,C,A,"### ANSWER
+A"
+Kedu_15_49,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_50,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_15_51,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_52,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_15_53,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_54,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_15_55,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_15_56,Grammar,0,C,C,"### ANSWER
+C"
+KIIP_law_21,Law,0,B,C,"### ANSWER
+C"
+KIIP_law_22,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_23,Law,0,B,B,"### ANSWER
+B"
+KIIP_law_24,Law,0,A,A,"면접교섭권은 원칙적으로 인정되지만 자녀의 복리를 위해 필요한 경우 그 범위가 제한될 수 있으므로, 제한된 범위 내에서 허용된다는 것이 가장 적절하다.
+
+### ANSWER
+A"
+KIIP_law_25,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_26,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_27,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_28,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_29,Law,0,A,A,"### ANSWER
+A"
+KIIP_law_30,Law,0,A,A,"### ANSWER
+A"
+PSE_korean_11,Functional,0,D,D,"### ANSWER
+D"
+PSE_korean_12,Functional,0,B,A,"The passage begins by defining ""법치주의"" (rule of law) and then develops its argument by contrasting this concept with historical examples of absolute monarchy and dictatorship. This is a clear case of concept definition followed by explanation, not use of everyday examples, contrasting sources for alternatives, or quotations from others.
+
+### ANSWER
+A"
+PSE_korean_13,Functional,0,C,C,"### ANSWER
+C"
+PSE_korean_14,Functional,0,B,B,"### ANSWER
+B"
+CSAT_korean_07_11,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_07_12,Grammar,0,E,,"<보기>에 따르면 ‘다만’ 규정은 ‘-이’나 ‘-음’이 붙어 명사가 되었지만 어간의 뜻과 멀어진 경우에 해당하며, ‘-이’나 ‘-"
+CSAT_korean_06_11,Grammar,0,E,A,"### ANSWER
+A"
+CSAT_korean_06_12,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_1,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_2,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_3,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_4,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_5,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_6,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_7,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_8,Grammar,0,C,C,"### ANSWER
+C"
+PSAT_22_22,Law,0,D,D,"### ANSWER
+D"
+PSAT_22_23,Law,0,B,B,"법원조직법 제16조에 따르면 대법관회의는 대법관 전원의 3분의 2 이상의 출석과 출석인원 과반수의 찬성으로 의결하도록 규정되어 있어 이는 정확한 설명이다. C는 헌법 제106조상 ""금고 이상의 형""이어야 하는데 ""벌금 이상""으로 잘못 기술되어 있고, D는 대법관 퇴직명령 절차가 대통령의 권한임에도 법원행정처장의 제청으로 대법원장이 명한다고 잘못 서술되어 있다. A는 법원조직법에 그러한 명시적 제한 규정이 없다.
+
+### ANSWER
+B"
+PSAT_22_24,Law,0,A,B,"### ANSWER
+B"
+PSAT_22_25,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_1,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_2,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_3,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_4,Law,0,B,B,"### ANSWER
+B"
+CSAT_korean_09_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_09_12,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_08_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_08_12,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_10_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_10_12,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_11_11,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_11_12,Grammar,0,B,B,"ㄱ, ㄴ, ㅁ에서 '-(으)면서'는 평서문, 명령문, 청유문, 의문문 등 다양한 문장 유형에 자유롭게 쓰이는 반면, '-자'는 이러한 문장 유형에 제약이 있음을 보여줍니다. 따라서 B는 사실과 반대로 서술되어 있어 적절하지 않습니다.
+
+### ANSWER
+B"
+Kedu_16_9,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_10,Grammar,0,C,C,"한국어 자음 체계를 분석하면:
+- ㄱ: 폐�쇄음(파열음)은 양순(ㅂ), 치조(ㄷ), 연구개(ㄱ)에서 조음됨 - 맞음
+- ㄴ: 마찰음은 치조음(ㅅ,ㅆ), 후음(ㅎ)만 있고 경구개 마찰음은 없음 - 틀림
+- ㄷ: 공명음에는 비음(ㅁ,ㄴ,ㅇ)과 유음(ㄹ)이 있음 - 맞음
+- ㄹ: 파찰음(ㅈ,ㅊ,ㅉ)은 평음-유기음-경음의 삼분지 대립을 이룸 - 맞음
+- ㅁ: 마찰음은 3개(ㅅ,ㅆ,ㅎ), 파찰음은 3개(ㅈ,ㅊ,ㅉ)로 5개가 아님 - 틀림
+
+따라서 ㄱ, ㄷ, ㄹ이 옳은 설명입니다.
+
+### ANSWER
+C"
+Kedu_16_11,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_12,Grammar,0,C,B,"### ANSWER
+B"
+Kedu_16_13,Grammar,0,A,,[EMPTY_RESPONSE]
+Kedu_16_14,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_15,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_16,Grammar,0,D,B,"### ANSWER
+B"
+Kedu_16_17,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_18,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_19,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_20,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_21,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_22,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_23,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_24,Grammar,0,A,A,"### ANSWER
+A"
+PSAT_23_5,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_6,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_7,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_8,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_9,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_10,Law,0,A,C,"### ANSWER
+C"
+PSAT_23_11,Law,0,B,,[EMPTY_RESPONSE]
+PSAT_23_12,Law,0,C,C,"### ANSWER
+C"
+CSAT_korean_12_11,Grammar,0,A,A,"A는 '에'(도착지)와 '에서'(출발지)로 의미가 다르므로 이형태 관계가 아니라 별개의 조사입니다. 나머지는 모두 앞말의 음운 조건(자음/모음, 양성/음성 모음)에 따라 형태가 바뀌는 동일 의미의 이형태 관계입니다.
+
+### ANSWER
+A"
+CSAT_korean_14_11,Grammar,0,C,C,"### ANSWER
+C"
+CSAT_korean_14_13,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_14_15,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_18_15,Grammar,0,E,,[EMPTY_RESPONSE]
+CSAT_korean_13_11,Grammar,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_12,Grammar,0,E,E,"### ANSWER
+E"
+CSAT_korean_16_14,Grammar,0,C,C,"C에서 ‘놀이’는 동사 ‘놀다’의 어근 ‘놀-’에 접미사 ‘-이’가 붙어 형성된 명사이며, 글에서 설명한 대로 이때 어근 ‘놀-’은 서술어로 기능하지 못한다. 나머지 선택지들은 각각 어간 비교, 품사 오류, 결합의 자유로움, 형태소 개입 규칙을 잘못 적용하고 있다.
+
+### ANSWER
+C"
+Kedu_16_25,Grammar,0,C,C,"A: '날다'(ㄹ탈락)는 자동적 교체로 ㉠에 해당. B: '흐르다'(르 불규칙)는 어간이 바뀌는 ㉡에 해당. D: '파랗다'(ㅎ 불규칙)는 어간·어미 모두 바뀌는 ㉣에 해당. 그러나 '게으르다'도 르 불규칙으로 어간이 바뀌는 경우이므로 ㉡에 해당하며 ㉢(어미만 바뀜)에는 해당하지 않는다.
+
+### ANSWER
+C"
+Kedu_16_26,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_27,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_28,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_29,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_30,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_31,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_32,Grammar,0,D,A,"### ANSWER
+A"
+PSAT_23_13,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_14,Law,0,B,B,"### ANSWER
+B"
+PSAT_23_15,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_16,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_17,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_18,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_19,Law,0,C,C,"국무회의의 심의사항은 헌법 제89조에 열거되어 있으며, 예산안·결산·국유재산처분의 기본계획·국가의 부담이 될 계약 기타 재정에 관한 중요사항이 포함된다. A는 국무회의 의결이 내부적 의사결정으로 그 자체로 국민에 대한 직접적 법률효과를 발생시키지 않으므로 틀리다. B는 대통령과 국무총리는 국무위원 수(15~30인)에 포함되지 않으므로 틀리다. D는 청원 심사도 헌법상 심의사항에 포함되므로 틀리다.
+
+### ANSWER
+C"
+PSAT_23_20,Law,0,B,B,"### ANSWER
+B"
+CSAT_korean_16_15,Grammar,0,D,D,"D의 예를 보면, (ㄱ) '숨겼다'는 자동사 '숨다'의 어근에 접미사 '-기-'가 붙어 사동의 의미를 더한 것이고, (ㄴ) '감겼다'는 타동사 '감다'의 어근에 접미사 '-기-'가 붙어 피동의 의미를 더한 것이므로 각각 (ㄱ), (ㄴ)의 설명에 정확히 부합한다.
+
+### ANSWER
+D"
+CSAT_korean_19_11,Grammar,0,E,E,"### ANSWER
+E"
+Kedu_16_33,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_34,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_35,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_36,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_37,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_38,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_39,Grammar,0,B,C,"한국어 개념적 은유 분석: ㄱ은 ""시간을 아껴서 쓴다""가 시간을 자원(돈)으로 보는 은유이므로 [시간은 공간이다]가 아니라 [시간은 돈이다]에 해당합니다. ㄴ은 마음을 그릇처럼 담는 표현으로 올바르며, ㄷ은 창조자(모차르트)의 이름으로 창조물(음악)을 가리키는 환유적 은유로 올바르고, ㄹ은 논쟁을 전쟁의 공격 행위로 표현한 것으로 올바릅니다.
+
+### ANSWER
+C"
+Kedu_16_40,Grammar,0,C,C,"### ANSWER
+C"
+PSAT_23_21,Law,0,A,A,"### ANSWER
+A"
+PSAT_23_22,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_23,Law,0,C,C,"### ANSWER
+C"
+PSAT_23_24,Law,0,D,D,"### ANSWER
+D"
+PSAT_23_25,Law,0,C,C,"### ANSWER
+C"
+KIIP_politics_1,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_2,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_3,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_4,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_5,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_6,Politics,0,B,C,"### ANSWER
+C"
+KIIP_politics_7,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_8,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_9,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_10,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_11,Politics,0,C,C,"### ANSWER
+C"
+Kedu_16_41,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_42,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_43,Grammar,0,C,C,"ㄷ에서 여자 친구가 있다는 전제는 형용사 '예쁘다'가 아니라 명사구 '여자 친구'라는 표현 자체에서 유발되는 것이므로 설명이 옳지 않습니다.
+
+### ANSWER
+C"
+Kedu_16_44,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_45,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_46,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_47,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_48,Grammar,0,D,D,"### ANSWER
+D"
+Kedu_16_49,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_50,Grammar,0,A,A,"### ANSWER
+A"
+Kedu_16_51,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_52,Grammar,0,C,C,"### ANSWER
+C"
+Kedu_16_53,Grammar,0,B,B,"### ANSWER
+B"
+Kedu_16_54,Grammar,0,C,C,"C - ""떠난지가""는 ""떠난 지가""로 띄어 써야 합니다. '지'는 시간의 경과를 나타내는 의존명사이므로 앞말과 띄어 써야 합니다.
+
+### ANSWER
+C"
+TK_2016_1,Grammar,0,C,C,"### ANSWER
+C"
+TK_2016_2,Grammar,0,D,D,"### ANSWER
+D"
+TK_2016_3,Grammar,0,A,A,"### ANSWER
+A"
+TK_2016_4,Grammar,0,C,C,"### ANSWER
+C"
+TK_17_1,Grammar,0,B,B,"### ANSWER
+B"
+TK_17_2,Grammar,0,A,A,"### ANSWER
+A"
+TK_17_3,Grammar,0,D,D,"### ANSWER
+D"
+TK_17_4,Grammar,0,A,A,"### ANSWER
+A"
+TK_2018_1,Grammar,0,B,B,"### ANSWER
+B"
+TK_2018_2,Grammar,0,A,A,"### ANSWER
+A"
+TK_2018_3,Grammar,0,C,C,"### ANSWER
+C"
+TK_2018_4,Grammar,0,D,D,"### ANSWER
+D"
+TK_2019_1,Grammar,0,B,B,"### ANSWER
+B"
+TK_2019_2,Grammar,0,A,A,"### ANSWER
+A"
+TK_2019_3,Grammar,0,D,D,"### ANSWER
+D"
+TK_2019_4,Grammar,0,D,D,"### ANSWER
+D"
+TK_2022_1,Grammar,0,A,A,"### ANSWER
+A"
+TK_2022_2,Grammar,0,B,B,"### ANSWER
+B"
+TK_2022_3,Grammar,0,C,C,"### ANSWER
+C"
+TK_2022_4,Grammar,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_1,Textual,0,D,D,"지문에서는 배경지식과 관점은 '독자 요인', 읽기 환경과 과제는 '상황 요인'으로 구분하고 있는데, D는 이 네 가지를 모두 '독자 요인'으로 뭉뚱그려 설명하고 있어 지문 내용과 일치하지 않는다.
+
+### ANSWER
+D"
+CSAT_korean_23_2,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_3,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_4,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_5,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_6,Textual,0,C,C,"### ANSWER
+C"
+KIIP_politics_12,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_13,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_14,Politics,0,A,B,"### ANSWER
+B"
+KIIP_politics_15,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_16,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_17,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_18,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_19,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_20,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_21,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_22,Politics,0,B,D,"### ANSWER
+D"
+KIIP_politics_23,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_24,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_25,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_26,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_27,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_28,Politics,0,B,A,"### ANSWER
+A"
+KIIP_politics_29,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_30,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_31,Politics,0,A,B,"### ANSWER
+B"
+KIIP_politics_32,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_33,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_34,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_35,Politics,0,D,C,"### ANSWER
+C"
+CSAT_korean_23_7,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_8,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_9,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_10,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_11,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_12,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_13,Textual,0,E,,[EMPTY_RESPONSE]
+CSAT_korean_23_14,Textual,0,C,C,"### ANSWER
+C"
+KIIP_politics_36,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_37,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_38,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_39,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_40,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_41,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_42,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_43,Politics,0,D,A,"### ANSWER
+A"
+KIIP_politics_44,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_45,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_46,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_47,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_48,Politics,0,B,C,"### ANSWER
+C"
+KIIP_politics_49,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_50,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_51,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_52,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_53,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_54,Politics,0,C,C,"### ANSWER
+C"
+KIIP_politics_55,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_56,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_57,Politics,0,A,D,"### ANSWER
+D"
+KIIP_politics_58,Politics,0,D,D,"### ANSWER
+D"
+KIIP_politics_59,Politics,0,A,A,"### ANSWER
+A"
+KIIP_politics_60,Politics,0,B,B,"### ANSWER
+B"
+KIIP_politics_61,Politics,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_15,Textual,0,D,,[EMPTY_RESPONSE]
+CSAT_korean_23_16,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_17,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_18,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_19,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_23_20,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_23_21,Textual,0,E,E,"E는 재회의 기쁨이 극에 달해 눈물이 피가 되도록 흘린 것으로, 이는 새로운 문제(부모의 안위)에 대한 불안감과는 무관하며 단순히 감정의 격렬함을 나타낸 것이므로 적절하지 않다.
+
+### ANSWER
+E"
+CSAT_korean_23_22,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_23,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_24,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_23_25,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_23_26,Textual,0,D,,[EMPTY_RESPONSE]
+CSAT_korean_23_27,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_28,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_23_29,Textual,0,A,A,"A는 오동나무 잎사귀가 봄부터 가을까지 손바닥만 하던 것이 손수건, 부채, 종이우산만큼 커지는 모습을 통해 계절의 변화와 나무의 나이(‘나’보다 많음)를 통해 세월의 흐름을 느끼는 장면과 일치한다. D는 별명을 지은 것이 '나' 개인의 생각이었고, C와 E는 나무를 심은 사람이 아버지이며 마을 곳곳에 의도적으로 심은 것이 아니라 씨앗이 바람에 날려 자연히 자란 것이므로 적절하지 않다.
+
+### ANSWER
+A"
+CSAT_korean_23_30,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_31,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_23_32,Textual,0,D,D,"### ANSWER
+D"
+CSAT_korean_23_33,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_23_34,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_1,Textual,0,B,B,"### ANSWER
+B"
+CSAT_korean_22_2,Textual,0,E,E,"### ANSWER
+E"
+CSAT_korean_22_3,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_4,Textual,0,A,A,"### ANSWER
+A"
+CSAT_korean_22_5,Textual,0,C,C,"### ANSWER
+C"
+CSAT_korean_22_6,Textual,0,D,D,"### ANSWER
+D"

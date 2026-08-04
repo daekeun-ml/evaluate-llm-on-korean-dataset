@@ -394,7 +394,7 @@ class HRM8KEvaluator(BenchmarkEvaluator):
 
 class KoBALTEvaluator(BenchmarkEvaluator):
     """KoBALT 벤치마크 평가"""
-    
+
     def _make_result(self, qna, pred):
         return {
             "category": qna.get("category"),
@@ -404,12 +404,34 @@ class KoBALTEvaluator(BenchmarkEvaluator):
             "pred": pred[0],
             "response": pred[1],
         }
-    
+
     def _make_failed(self, qna, error):
         return {
             "category": qna.get("category"),
             "subcategory": qna.get("subcategory"),
             "level": qna.get("level"),
+            "answer": qna["answer"],
+            "pred": "FAILED",
+            "response": error,
+        }
+
+
+class KMMLUProEvaluator(BenchmarkEvaluator):
+    """KMMLU-Pro 벤치마크 평가 (license_name=자격증, subject=세부 과목)"""
+
+    def _make_result(self, qna, pred):
+        return {
+            "license_name": qna.get("license_name"),
+            "subject": qna.get("subject"),
+            "answer": qna["answer"],
+            "pred": pred[0],
+            "response": pred[1],
+        }
+
+    def _make_failed(self, qna, error):
+        return {
+            "license_name": qna.get("license_name"),
+            "subject": qna.get("subject"),
             "answer": qna["answer"],
             "pred": "FAILED",
             "response": error,

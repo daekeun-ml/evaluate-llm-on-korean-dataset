@@ -172,6 +172,15 @@ def get_llm_client(
         if openai_api_base:
             llm_kwargs["openai_api_base"] = openai_api_base
             llm_kwargs["openai_api_key"] = os.getenv("OPENAI_API_KEY", "EMPTY")
+
+            # 자체 서빙 모델(예: DeepSeek-V4-Flash)의 thinking 모드는 vLLM chat_template_kwargs로 켬.
+            # 이 모델의 reasoning_effort는 low/high/max만 지원(medium 없음) — GPT-5.6과 레벨 이름이 다름.
+            reasoning_enabled = os.getenv("REASONING_ENABLED", "false").lower() == "true"
+            if reasoning_enabled:
+                reasoning_effort = os.getenv("REASONING_EFFORT", "high")
+                llm_kwargs["extra_body"] = {
+                    "chat_template_kwargs": {"thinking": True, "reasoning_effort": reasoning_effort}
+                }
         llm = ChatOpenAI(**llm_kwargs)
     elif model_provider == "bedrock_openai":
         # Bedrock에 올라간 OpenAI 모델(GPT-5.6 등)은 bedrock-runtime(Converse)이 아니라
@@ -229,21 +238,29 @@ def get_llm_client(
     elif model_provider == "bedrock":
 
         model_name = os.getenv("BEDROCK_MODEL_ID")
-        
+
         # Build additional_model_request_fields
         additional_fields = {}
-        
+
         # Reasoning config - only for Nova models
         reasoning_enabled = os.getenv("REASONING_ENABLED", "false").lower() == "true"
         is_nova_model = "nova" in model_name.lower()
-        
+        # Claude Sonnet 5 / Opus 5 only support the newer adaptive-thinking API
+        # (thinking.type=adaptive + output_config.effort), not the older
+        # thinking.type=enabled + budget_tokens scheme used by Claude 4.x.
+        is_claude5_model = "sonnet-5" in model_name.lower() or "opus-5" in model_name.lower()
+
         if reasoning_enabled and is_nova_model:
             reasoning_effort = os.getenv("REASONING_EFFORT", "high")
             additional_fields["reasoningConfig"] = {
                 "type": "enabled",
                 "maxReasoningEffort": reasoning_effort
             }
-        
+        elif reasoning_enabled and is_claude5_model:
+            reasoning_effort = os.getenv("REASONING_EFFORT", "medium")
+            additional_fields["thinking"] = {"type": "adaptive"}
+            additional_fields["output_config"] = {"effort": reasoning_effort}
+
         # Prepare system prompt
         system_messages = None
         if system_prompt:

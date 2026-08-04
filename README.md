@@ -41,7 +41,7 @@ KorMedMCQA is a Korean Medical Multiple-Choice Question Answering benchmark deri
 
 ## 🆕 What's New
 
-- Aug 4, 2026: Added **GPT-5.6 (Sol/Terra/Luna)** on Amazon Bedrock and **DeepSeek-V4-Flash** (self-hosted via vLLM) benchmark results on CLIcK, HAE-RAE, KoBALT-700, and KMMLU-HARD. GPT-5.6 Sol leads all four with 95.50% (CLIcK), 94.64% (HAE-RAE), 84.29% (KoBALT-700), and 85.04% (KMMLU-HARD) accuracy. Older per-model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.) have moved to [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md).
+- Aug 4, 2026: Added **GPT-5.6 (Sol/Terra/Luna)**, **Claude Sonnet 5**, **Claude Opus 5** (all Amazon Bedrock, reasoning_effort=medium) and **DeepSeek-V4-Flash** (self-hosted via vLLM, tested at both reasoning=none and reasoning=high) benchmark results on CLIcK, HAE-RAE, KoBALT-700, and KMMLU-HARD. **Claude Opus 5** leads on CLIcK (95.84%), HAE-RAE (95.84%), and KMMLU-HARD (87.79%); **GPT-5.6 Sol** leads on KoBALT-700 (84.29%). DeepSeek-V4-Flash improves substantially with reasoning enabled (e.g. KoBALT-700: 48.86% → 50.43%, KMMLU-HARD: 56.92% → 67.91%) but still trails the frontier reasoning models. Older per-model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.) have moved to [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md).
 
 - Dec 26, 2025: Added **Radar Chart Visualization** for Korean LLM evaluation results with interactive charts showing performance by category/supercategory.
 
@@ -98,13 +98,15 @@ jupyter notebook radar_chart_visualization.ipynb
 
 ### Radar Charts
 
-| CLIcK Performance by Category | HAERAE Performance by Supercategory |
+Charts below compare the current model round: GPT-5.6 (Sol/Terra/Luna), Claude Sonnet 5, Claude Opus 5, and DeepSeek-V4-Flash (reasoning=high).
+
+| CLIcK Performance by Category | HAERAE Performance by Category |
 |:---:|:---:|
 | <img src="./charts/CLIcK_radar_chart.png" width="650"> | <img src="./charts/HAERAE_radar_chart.png" width="650">  |
 
-| KMMLU Performance by Category | KMMLU-Hard Performance by Category |
+| KoBALT-700 Performance by Difficulty | KMMLU-Hard Performance by Supercategory |
 |:---:|:---:|
-| <img src="./charts/KMMLU_radar_chart.png" width="650"> | <img src="./charts/KMMLU-HARD_radar_chart.png" width="650"> |
+| <img src="./charts/KoBALT_radar_chart.png" width="650"> | <img src="./charts/KMMLU-HARD_radar_chart.png" width="650"> |
 
 ## 📈 Results
 
@@ -136,10 +138,13 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 <details>
 <summary>Click to view model versions</summary>
 
-- GPT-5.6 Sol: openai.gpt-5.6-sol on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
-- GPT-5.6 Terra: openai.gpt-5.6-terra on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
-- GPT-5.6 Luna: openai.gpt-5.6-luna on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
-- DeepSeek-V4-Flash: DeepSeek-V4-Flash-0731, self-hosted via vLLM (non-reasoning mode)
+- Claude Opus 5 (reasoning=medium): global.anthropic.claude-opus-5 on Amazon Bedrock, 2026-08-04 model version (thinking.type=adaptive, output_config.effort="medium")
+- Claude Sonnet 5 (reasoning=medium): global.anthropic.claude-sonnet-5 on Amazon Bedrock, 2026-08-04 model version (thinking.type=adaptive, output_config.effort="medium")
+- GPT-5.6 Sol (reasoning=medium): openai.gpt-5.6-sol on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
+- GPT-5.6 Terra (reasoning=medium): openai.gpt-5.6-terra on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
+- GPT-5.6 Luna (reasoning=medium): openai.gpt-5.6-luna on Amazon Bedrock, 2026-07-13 model version (reasoning_effort="medium")
+- DeepSeek-V4-Flash (reasoning=high): DeepSeek-V4-Flash-0731, self-hosted via vLLM (chat_template_kwargs thinking=True, reasoning_effort="high" — the model only supports low/high/max, no "medium")
+- DeepSeek-V4-Flash (reasoning=none): DeepSeek-V4-Flash-0731, self-hosted via vLLM (non-reasoning mode)
 - GPT-5.2 (medium): 2025-12-11 model version (reasoning_effort="medium")
 - GPT-5.2: 2025-12-11 model version (reasoning_effort="none" as default)
 - Nova 2.0 Lite: us.amazon.nova-2-lite-v1:0 model (reasoning mode: medium)
@@ -162,114 +167,118 @@ Since most of them are ChatCompletion or instruction fine-tuned models, the vari
 ### CLIcK
 
 #### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:----------------|--------------:|----------------:|---------------:|--------------------:|
-| Culture         |         94.76 |           91.45 |          91.3  |               80.37 |
-| Language        |         97.04 |           93.85 |          92    |               80    |
-| **Overall**     |         95.5  |           92.24 |          91.53 |               80.25 |
+| supercategory   |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:----------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| Culture         |                              95.02 |                            94.76 |                                92.12 |                              91.45 |                             91.3  |                                85.87 |                                80.37 |
+| Language        |                              97.54 |                            97.04 |                                90.31 |                              93.85 |                             92    |                                84.62 |                                80    |
+| **Overall**     |                              95.84 |                            95.5  |                                91.53 |                              92.24 |                             91.53 |                                85.46 |                                80.25 |
+
 
 <details>
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category    |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:----------------|:------------|--------------:|----------------:|---------------:|--------------------:|
-| Culture         | Economy     |        100    |           98.31 |         100    |               94.92 |
-| Culture         | Geography   |         96.18 |           92.37 |          93.13 |               83.97 |
-| Culture         | History     |         89.29 |           85    |          87.14 |               63.57 |
-| Culture         | Law         |         98.58 |           90.41 |          91.32 |               69.41 |
-| Culture         | Politics    |         90.48 |           92.21 |          86.9  |               86.9  |
-| Culture         | Pop Culture |         97.56 |           97.5  |         100    |               90.24 |
-| Culture         | Society     |         96.12 |           95.22 |          94.17 |               91.26 |
-| Culture         | Tradition   |         95.05 |           91.89 |          89.19 |               86.94 |
-| Language        | Functional  |         98.4  |           96.8  |          92    |               88    |
-| Language        | Grammar     |         96.98 |           89.58 |          90    |               62.08 |
-| Language        | Textual     |         96.49 |           96.14 |          93.68 |               91.58 |
+| supercategory   | category    |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:----------------|:------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| Culture         | Economy     |                             100    |                           100    |                                94.92 |                              98.31 |                            100    |                                96.61 |                                94.92 |
+| Culture         | Geography   |                              94.66 |                            96.18 |                                95.42 |                              92.37 |                             93.13 |                                90.08 |                                83.97 |
+| Culture         | History     |                              90.36 |                            89.29 |                                89.29 |                              85    |                             87.14 |                                76.79 |                                63.57 |
+| Culture         | Law         |                              99.54 |                            98.58 |                                89.95 |                              90.41 |                             91.32 |                                74.89 |                                69.41 |
+| Culture         | Politics    |                              92.86 |                            90.48 |                                89.29 |                              92.21 |                             86.9  |                                90.48 |                                86.9  |
+| Culture         | Pop Culture |                             100    |                            97.56 |                                97.56 |                              97.5  |                            100    |                                97.56 |                                90.24 |
+| Culture         | Society     |                              96.12 |                            96.12 |                                94.82 |                              95.22 |                             94.17 |                                93.53 |                                91.26 |
+| Culture         | Tradition   |                              93.69 |                            95.05 |                                91.44 |                              91.89 |                             89.19 |                                88.29 |                                86.94 |
+| Language        | Functional  |                              98.4  |                            98.4  |                                93.6  |                              96.8  |                             92    |                                88    |                                88    |
+| Language        | Grammar     |                              98.33 |                            96.98 |                                85.42 |                              89.58 |                             90    |                                76.25 |                                62.08 |
+| Language        | Textual     |                              96.49 |                            96.49 |                                92.98 |                              96.14 |                             93.68 |                                90.18 |                                91.58 |
 </details>
 
-### HAE_RAE_BENCH 1.0
+### HAERAE
 
-| category              |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:----------------------|--------------:|----------------:|---------------:|--------------------:|
-| General Knowledge     |         94.32 |           91.48 |          89.2  |               72.16 |
-| History               |         96.81 |           96.28 |          96.28 |               92.55 |
-| Loan Words            |         95.27 |           91.72 |          92.9  |               77.51 |
-| Rare Words            |         94.96 |           93.09 |          95.56 |               90.12 |
-| Reading Comprehension |         92.84 |           91.72 |          90.83 |               85.91 |
-| Standard Nomenclature |         96.08 |           94.12 |          94.77 |               81.7  |
-| **Overall**           |         94.64 |           92.85 |          93.17 |               84.92 |
+#### Accuracy by category
+| category              |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:----------------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| General Knowledge     |                              88.64 |                            94.32 |                                80.11 |                              91.48 |                             89.2  |                                82.95 |                                72.16 |
+| History               |                              98.4  |                            96.81 |                                96.81 |                              96.28 |                             96.28 |                                96.81 |                                92.55 |
+| Loan Words            |                              97.63 |                            95.27 |                                88.76 |                              91.72 |                             92.9  |                                89.35 |                                77.51 |
+| Rare Words            |                              98.52 |                            94.96 |                                97.28 |                              93.09 |                             95.56 |                                88.89 |                                90.12 |
+| Reading Comprehension |                              94.41 |                            92.84 |                                91.05 |                              91.72 |                             90.83 |                                89.71 |                                85.91 |
+| Standard Nomenclature |                              96.08 |                            96.08 |                                92.16 |                              94.12 |                             94.77 |                                90.85 |                                81.7  |
+| **Overall**           |                              95.84 |                            94.64 |                                92    |                              92.85 |                             93.17 |                                89.66 |                                84.92 |
 
-### KoBALT-700
+### KoBALT
 
-| category (difficulty) |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:-----------------------|--------------:|----------------:|---------------:|--------------------:|
-| Easy                   |         98.9  |           97.8  |          97.25 |               85.16 |
-| Moderate               |         90.45 |           89.09 |          87.73 |               50.91 |
-| Hard                   |         70.81 |           54.36 |          56.71 |               25.17 |
-| **Overall**            |         84.29 |           76.57 |          77    |               48.86 |
+#### Accuracy by category
+| category    |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| Easy        |                              97.8  |                            98.9  |                                95.05 |                              97.8  |                             97.25 |                                79.12 |                                85.16 |
+| Moderate    |                              92.27 |                            90.45 |                                77.27 |                              89.09 |                             87.73 |                                61.82 |                                50.91 |
+| Hard        |                              68.79 |                            70.81 |                                43.29 |                              54.36 |                             56.71 |                                24.5  |                                25.17 |
+| **Overall** |                              83.71 |                            84.29 |                                67.43 |                              76.57 |                             77    |                                50.43 |                                48.86 |
 
 ### KMMLU-HARD (0-shot)
 
 #### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:----------------|--------------:|----------------:|---------------:|--------------------:|
-| Applied Science |         85.56 |           78.37 |          76.08 |               59.5  |
-| HUMSS           |         87.27 |           76.81 |          75.74 |               55.41 |
-| Other           |         81.05 |           74.14 |          71.65 |               50.88 |
-| STEM            |         86.27 |           81.41 |          79    |               60.55 |
-| **Overall**     |         85.04 |           77.86 |          75.76 |               56.92 |
+| supercategory   |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:----------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| Applied Science |                              88.42 |                            85.56 |                                76    |                              78.37 |                             76.08 |                                72.67 |                                59.5  |
+| HUMSS           |                              89.54 |                            87.27 |                                77.41 |                              76.81 |                             75.74 |                                59.1  |                                55.41 |
+| Other           |                              83.49 |                            81.05 |                                72.27 |                              74.14 |                             71.65 |                                59.71 |                                50.88 |
+| STEM            |                              89.55 |                            86.27 |                                81    |                              81.41 |                             79    |                                76.64 |                                60.55 |
+| **Overall**     |                              87.79 |                            85.04 |                                76.75 |                              77.86 |                             75.76 |                                67.91 |                                56.92 |
+
 
 <details>
 <summary>Click to view Accuracy by category</summary>
 
 ##### Accuracy by category
-| supercategory   | category                                   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash |
-|:----------------|:-------------------------------------------|--------------:|----------------:|---------------:|--------------------:|
-| Applied Science | Aviation-Engineering-and-Maintenance       |         85    |           82.61 |          77    |               65    |
-| Applied Science | Electronics-Engineering                    |         95    |           90    |          85    |               80    |
-| Applied Science | Energy-Management                          |         89    |           83    |          79    |               54    |
-| Applied Science | Environmental-Science                      |         87    |           74    |          72    |               49    |
-| Applied Science | Gas-Technology-and-Engineering             |         83.7  |           78    |          77    |               51    |
-| Applied Science | Geomatics                                  |         90    |           85.06 |          86    |               61    |
-| Applied Science | Industrial-Engineer                        |         69    |           62    |          60    |               44    |
-| Applied Science | Machine-Design-and-Manufacturing           |         88    |           81    |          77    |               62    |
-| Applied Science | Maritime-Engineering                       |         91    |           82    |          82    |               65    |
-| Applied Science | Nondestructive-Testing                     |         76    |           66    |          69    |               61    |
-| Applied Science | Railway-and-Automotive-Engineering         |         88    |           80    |          76    |               59    |
-| Applied Science | Telecommunications-and-Wireless-Technology |         84.78 |           78    |          73    |               63    |
-| HUMSS           | Accounting                                 |         97.83 |           95.65 |          89.13 |               73.91 |
-| HUMSS           | Criminal-Law                               |         82.61 |           57    |          62    |               47    |
-| HUMSS           | Economics                                  |         95.24 |           90.48 |          80.95 |               64.29 |
-| HUMSS           | Education                                  |        100    |           95.65 |          95.65 |               78.26 |
-| HUMSS           | Korean-History                             |         84.09 |           72.73 |          75    |               40.91 |
-| HUMSS           | Law                                        |         78    |           70    |          68    |               48    |
-| HUMSS           | Management                                 |         90    |           80    |          74    |               62    |
-| HUMSS           | Political-Science-and-Sociology            |         87.78 |           83.33 |          86.67 |               60    |
-| HUMSS           | Psychology                                 |         92    |           86    |          76    |               55    |
-| HUMSS           | Social-Welfare                             |         84    |           82    |          78    |               65    |
-| HUMSS           | Taxation                                   |         86.46 |           62.5  |          73.96 |               39.58 |
-| Other           | Agricultural-Sciences                      |         76    |           73    |          68    |               48    |
-| Other           | Construction                               |         81    |           72    |          73    |               52    |
-| Other           | Fashion                                    |         67    |           58    |          52    |               32    |
-| Other           | Food-Processing                            |         75    |           74    |          64    |               50    |
-| Other           | Health                                     |         86.96 |           91.3  |          86.96 |               65.22 |
-| Other           | Interior-Architecture-and-Design           |         88    |           77    |          82    |               64    |
-| Other           | Marketing                                  |         75    |           72.83 |          66    |               56    |
-| Other           | Patent                                     |         92.16 |           74.51 |          70.59 |               31.37 |
-| Other           | Public-Safety                              |         78    |           68    |          75    |               49    |
-| Other           | Real-Estate                                |         93.26 |           76.4  |          78.65 |               44.94 |
-| Other           | Refrigerating-Machinery                    |         91.3  |           92    |          84    |               68    |
-| STEM            | Biology                                    |         87    |           79    |          77    |               50    |
-| STEM            | Chemical-Engineering                       |         88    |           85    |          84    |               61    |
-| STEM            | Chemistry                                  |         94    |           90    |          91    |               77    |
-| STEM            | Civil-Engineering                          |         78    |           73    |          71    |               56    |
-| STEM            | Computer-Science                           |         81    |           78.26 |          73    |               69    |
-| STEM            | Ecology                                    |         77    |           69    |          70    |               53    |
-| STEM            | Electrical-Engineering                     |         85    |           73    |          75    |               55    |
-| STEM            | Information-Technology                     |         91    |           87.63 |          78    |               75    |
-| STEM            | Materials-Engineering                      |         88    |           84.78 |          81    |               64    |
-| STEM            | Math                                       |         89    |           91    |          88    |               39    |
-| STEM            | Mechanical-Engineering                     |         91    |           85    |          81    |               67    |
+| supercategory   | category                                   |   Claude Opus 5 (reasoning=medium) |   GPT-5.6 Sol (reasoning=medium) |   Claude Sonnet 5 (reasoning=medium) |   GPT-5.6 Terra (reasoning=medium) |   GPT-5.6 Luna (reasoning=medium) |   DeepSeek-V4-Flash (reasoning=high) |   DeepSeek-V4-Flash (reasoning=none) |
+|:----------------|:-------------------------------------------|-----------------------------------:|---------------------------------:|-------------------------------------:|-----------------------------------:|----------------------------------:|-------------------------------------:|-------------------------------------:|
+| Applied Science | Aviation-Engineering-and-Maintenance       |                              94    |                            85    |                                75    |                              82.61 |                             77    |                                75    |                                65    |
+| Applied Science | Electronics-Engineering                    |                              95    |                            95    |                                89    |                              90    |                             85    |                                87    |                                80    |
+| Applied Science | Energy-Management                          |                              94    |                            89    |                                77    |                              83    |                             79    |                                72    |                                54    |
+| Applied Science | Environmental-Science                      |                              89    |                            87    |                                70    |                              74    |                             72    |                                66    |                                49    |
+| Applied Science | Gas-Technology-and-Engineering             |                              89    |                            83.7  |                                76    |                              78    |                             77    |                                67    |                                51    |
+| Applied Science | Geomatics                                  |                              97    |                            90    |                                84    |                              85.06 |                             86    |                                79    |                                61    |
+| Applied Science | Industrial-Engineer                        |                              74    |                            69    |                                61    |                              62    |                             60    |                                56    |                                44    |
+| Applied Science | Machine-Design-and-Manufacturing           |                              93    |                            88    |                                79    |                              81    |                             77    |                                77    |                                62    |
+| Applied Science | Maritime-Engineering                       |                              92    |                            91    |                                84    |                              82    |                             82    |                                80    |                                65    |
+| Applied Science | Nondestructive-Testing                     |                              76    |                            76    |                                65    |                              66    |                             69    |                                63    |                                61    |
+| Applied Science | Railway-and-Automotive-Engineering         |                              85    |                            88    |                                76    |                              80    |                             76    |                                73    |                                59    |
+| Applied Science | Telecommunications-and-Wireless-Technology |                              83    |                            84.78 |                                76    |                              78    |                             73    |                                77    |                                63    |
+| HUMSS           | Accounting                                 |                             100    |                            97.83 |                                89.13 |                              95.65 |                             89.13 |                                80.43 |                                73.91 |
+| HUMSS           | Criminal-Law                               |                              87    |                            82.61 |                                68    |                              57    |                             62    |                                42    |                                47    |
+| HUMSS           | Economics                                  |                              97.62 |                            95.24 |                                92.86 |                              90.48 |                             80.95 |                                73.81 |                                64.29 |
+| HUMSS           | Education                                  |                             100    |                           100    |                                95.65 |                              95.65 |                             95.65 |                                78.26 |                                78.26 |
+| HUMSS           | Korean-History                             |                              84.09 |                            84.09 |                                84.09 |                              72.73 |                             75    |                                59.09 |                                40.91 |
+| HUMSS           | Law                                        |                              84    |                            78    |                                67    |                              70    |                             68    |                                47    |                                48    |
+| HUMSS           | Management                                 |                              88    |                            90    |                                77    |                              80    |                             74    |                                70    |                                62    |
+| HUMSS           | Political-Science-and-Sociology            |                              91.11 |                            87.78 |                                85.56 |                              83.33 |                             86.67 |                                63.33 |                                60    |
+| HUMSS           | Psychology                                 |                              92    |                            92    |                                78    |                              86    |                             76    |                                56    |                                55    |
+| HUMSS           | Social-Welfare                             |                              90    |                            84    |                                83    |                              82    |                             78    |                                80    |                                65    |
+| HUMSS           | Taxation                                   |                              86.46 |                            86.46 |                                64.58 |                              62.5  |                             73.96 |                                34.38 |                                39.58 |
+| Other           | Agricultural-Sciences                      |                              81    |                            76    |                                66    |                              73    |                             68    |                                58    |                                48    |
+| Other           | Construction                               |                              86    |                            81    |                                72    |                              72    |                             73    |                                59    |                                52    |
+| Other           | Fashion                                    |                              68    |                            67    |                                54    |                              58    |                             52    |                                41    |                                32    |
+| Other           | Food-Processing                            |                              81    |                            75    |                                66    |                              74    |                             64    |                                59    |                                50    |
+| Other           | Health                                     |                             100    |                            86.96 |                                91.3  |                              91.3  |                             86.96 |                                60.87 |                                65.22 |
+| Other           | Interior-Architecture-and-Design           |                              88    |                            88    |                                83    |                              77    |                             82    |                                76    |                                64    |
+| Other           | Marketing                                  |                              77    |                            75    |                                69    |                              72.83 |                             66    |                                62    |                                56    |
+| Other           | Patent                                     |                              90.2  |                            92.16 |                                78.43 |                              74.51 |                             70.59 |                                45.1  |                                31.37 |
+| Other           | Public-Safety                              |                              80    |                            78    |                                72    |                              68    |                             75    |                                61    |                                49    |
+| Other           | Real-Estate                                |                              91.01 |                            93.26 |                                68.54 |                              76.4  |                             78.65 |                                42.7  |                                44.94 |
+| Other           | Refrigerating-Machinery                    |                              93    |                            91.3  |                                92    |                              92    |                             84    |                                84    |                                68    |
+| STEM            | Biology                                    |                              87    |                            87    |                                75    |                              79    |                             77    |                                72    |                                50    |
+| STEM            | Chemical-Engineering                       |                              89    |                            88    |                                81    |                              85    |                             84    |                                86    |                                61    |
+| STEM            | Chemistry                                  |                              98    |                            94    |                                88    |                              90    |                             91    |                                89    |                                77    |
+| STEM            | Civil-Engineering                          |                              82    |                            78    |                                74    |                              73    |                             71    |                                68    |                                56    |
+| STEM            | Computer-Science                           |                              84    |                            81    |                                80    |                              78.26 |                             73    |                                73    |                                69    |
+| STEM            | Ecology                                    |                              84    |                            77    |                                70    |                              69    |                             70    |                                52    |                                53    |
+| STEM            | Electrical-Engineering                     |                              93    |                            85    |                                84    |                              73    |                             75    |                                73    |                                55    |
+| STEM            | Information-Technology                     |                              91    |                            91    |                                82    |                              87.63 |                             78    |                                82    |                                75    |
+| STEM            | Materials-Engineering                      |                              92    |                            88    |                                82    |                              84.78 |                             81    |                                75    |                                64    |
+| STEM            | Math                                       |                              92    |                            89    |                                91    |                              91    |                             88    |                                89    |                                39    |
+| STEM            | Mechanical-Engineering                     |                              93    |                            91    |                                84    |                              85    |                             81    |                                84    |                                67    |
 </details>
 
 > **Looking for older model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.)?**
@@ -371,6 +380,19 @@ BEDROCK_MODEL_ID=us.amazon.nova-2-lite-v1:0
 AWS_REGION=us-west-2
 ```
 
+Claude Sonnet 5 / Opus 5 only support the newer adaptive-thinking API
+(`thinking.type=adaptive` + `output_config.effort`), not the older
+`thinking.type=enabled` + `budget_tokens` scheme used by Claude 4.x. This is
+handled automatically when `REASONING_ENABLED=true` and `BEDROCK_MODEL_ID`
+contains `sonnet-5` or `opus-5`:
+```ini
+MODEL_PROVIDER=bedrock
+BEDROCK_MODEL_ID=global.anthropic.claude-opus-5  # or global.anthropic.claude-sonnet-5
+AWS_REGION=us-east-1
+REASONING_ENABLED=true
+REASONING_EFFORT=medium
+```
+
 #### Amazon Bedrock (OpenAI models, e.g. GPT-5.6)
 OpenAI models on Bedrock (GPT-5.6 Sol/Terra/Luna, etc.) are served only through the
 `bedrock-mantle` endpoint's Responses API, not the regular `bedrock-runtime` Converse API.
@@ -396,6 +418,18 @@ MODEL_PROVIDER=openai
 OPENAI_DEPLOYMENT_NAME=deepseek-v4-flash
 OPENAI_API_BASE=http://localhost:8000/v1
 OPENAI_API_KEY=EMPTY
+```
+
+To enable thinking mode on a self-hosted reasoning model (e.g. DeepSeek-V4-Flash-0731, which
+only supports `reasoning_effort` values `low`/`high`/`max` — no `medium`), set
+`REASONING_ENABLED=true`; this is forwarded to vLLM as `chat_template_kwargs`:
+```ini
+MODEL_PROVIDER=openai
+OPENAI_DEPLOYMENT_NAME=deepseek-v4-flash
+OPENAI_API_BASE=http://localhost:8000/v1
+OPENAI_API_KEY=EMPTY
+REASONING_ENABLED=true
+REASONING_EFFORT=high
 ```
 
 #### Azure ML

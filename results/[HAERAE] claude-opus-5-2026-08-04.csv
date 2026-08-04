@@ -1,0 +1,4757 @@
+category,answer,pred,response
+Reading Comprehension,A,A,"The sentence says ""I am nineteen this year; <blank> I will be twenty,"" which requires ""next year"" (내년).
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"Phone numbers in Korean use the counter 번 (number), so ""730-0206번이에요"" is correct.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"The answer asks about location (""near the school""), so the interrogative must be ""where.""
+
+### ANSWER
+A"
+Reading Comprehension,B,B,"The passage mentions strawberries and grapes, which are fruits.
+
+### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"**### ANSWER
+A**"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"C matches: growth speed differences cause density and color differences in wood tissue.
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"Aba는 부모가 관심을 가지고 지켜봐야 한다고 했으므로, 간섭하지 말아야 한다는 D는 그의 생각이 아니다.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge,B,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"말이 많다 = talkative, which corresponds to 수다쟁이 (chatterbox).
+
+### ANSWER
+E"
+General Knowledge,B,B,"Arresting a group of thieves who stole goods from shops is a law enforcement action, which falls under the National Police Agency's duties, not tax, statistics, forestry, or weather agencies.
+
+### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,E,E,"자동차와 반도체는 한국의 대표적인 세계적 수출 품목이다.
+
+### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+Rare Words,D,D,"""간대로""는 '그리 쉽사리'라는 뜻의 부사로, 주로 부정어와 함께 쓰인다.
+
+### ANSWER
+D"
+Rare Words,A,A,"Reasoning: ""이런 까닭으로""는 '그러므로'의 뜻으로, 이에 해당하는 부사는 '시고로'이다. 나머지는 명사이거나 다른 뜻의 부사이다.
+
+### ANSWER
+A"
+Rare Words,B,B,"딴죽은 이미 동의하거나 약속한 일을 딴소리·딴 행동으로 뒤집는 것을 비유하는 말로, ""딴죽을 걸다/치다""로 쓰인다.
+
+### ANSWER
+B"
+Rare Words,E,E,"혜성은 우리말로 '살별' 또는 '길쓸별'이라 부르며, 이는 하늘의 길을 쓸고 다니는 별이라는 뜻입니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"도통 has the noun sense ""the total sum"" (都統) and the adverbial sense equivalent to 도무지, ""no matter how (one tries).""
+
+### ANSWER
+A"
+Rare Words,E,E,"지푸라기는 낱낱의 짚 또는 부서진 짚의 부스러기를 뜻하는 단어입니다. 싸라기는 부스러진 쌀알을 의미하므로 해당되지 않습니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"병구완은 앓는 사람을 돌보아 주는 일을 뜻하는 단어입니다. 다른 선택지들은 신발, 도구, 상태 등을 나타냅니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"꽃달임(화전놀이)은 삼월 삼일에 진달래꽃으로 화전을 부쳐 먹으며 노는 놀이를 뜻하는 우리말이다.
+
+### ANSWER
+A"
+Rare Words,A,A,"말·소의 등에 잔뜩 실은 짐을 뜻하는 단위·명사는 '바리'이며, 이와 관련된 낱말은 '꽃바리'입니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"뜨내기 means both an occasional/irregular occurrence and a wanderer without fixed residence.
+
+### ANSWER
+B"
+Rare Words,D,D,"이등분(二等分)은 둘로 똑같이 나눈다는 뜻입니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"분실물은 자기도 모르게 잃어버린 물건을 뜻하는 단어입니다. 나머지 선택지는 관련 없는 의미입니다.
+
+### ANSWER
+C"
+Rare Words,A,A,"물신선은 좋은 말에도 기뻐하지 않고 언짢은 말에도 성내지 않는 무덤덤한 사람을 비유하는 말입니다. 나머지는 배(연락선), 곡선, 수지, 직업 관련 단어로 의미가 맞지 않습니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+History,E,E,"한자의 음과 훈을 차용하여 우리말을 표기한 차자표기법은 이두(이두문)이다.
+
+### ANSWER
+E"
+History,D,D,"측우기 is the rain gauge invented during King Sejong's reign to measure rainfall amounts.
+
+### ANSWER
+D"
+History,D,D,"설총은 신라 시대 인물로, 이두(향찰) 표기를 모아 체계화하여 백성들이 한자를 쉽게 활용할 수 있게 했다고 전해진다. 세종은 훈민정음 창제, 장영실은 과학기구, 정약용은 실학자이므로 해당하지 않는다.
+
+### ANSWER
+D"
+History,E,E,"용비어천가는 세종 대에 훈민정음으로 편찬된 최초의 작품으로, 조선 왕실 조상들의 업적을 찬양한 악장이다.
+
+### ANSWER
+E"
+History,B,B,"실학(Practical Learning) is the late Joseon scholarship aimed at improving people's livelihoods and strengthening the nation.
+
+### ANSWER
+B"
+History,A,A,"고려 말 최무선의 건의로 1377년에 설치되어 화약과 화기 제조를 담당한 임시 관청은 화통도감이다.
+
+### ANSWER
+A"
+History,D,D,"신사임당의 아들은 율곡 이이이며, 10만 양병설을 주장한 조선의 대표 유학자이다.
+
+### ANSWER
+D"
+History,B,B,"Cheonghaejin was established on Wando island.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"The poster says visitors to the club room receive snacks and drinks, so snacks and beverages are prepared there. The location is basement floor 1, instruments/skill are not required, and they need people to handle vocals, guitar, keyboard, drums (not the instruments themselves).
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"본문은 거꾸로 수업이 질문·토론 중심 교실 수업과 동영상 가정 학습이 함께 이루어지는 방식이라고 설명하며, 동영상 수업이 교실 수업보다 많다는 내용은 없다.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"후지산(Mt. Fuji)은 일본에 있는 산이고, 지리산·태백산·북한산·한라산은 우리나라의 산입니다.
+
+### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"자동차와 관련된 도로, 신호등, 교통 표지, 교통경찰은 모두 자동차 운행 때문에 필요한 것이지만, 구명조끼는 물에서의 안전을 위한 장비로 자동차와 무관하다.
+
+### ANSWER
+D"
+General Knowledge,A,E,"E is incorrect because Korea's legal standard workday is 8 hours, not 10 hours.
+
+### ANSWER
+E"
+General Knowledge,C,C,"우체국은 공과금 수납 업무와 국제 우편·택배 발송을 모두 처리하는 곳입니다.
+
+### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,B,"National/public kindergartens' advantage is lower fees compared to private ones.
+
+### ANSWER
+B"
+General Knowledge,A,A,"귀성(歸省)은 명절에 고향으로 내려가는 것을 뜻하며, 이때 도로가 막혀 고생하는 상황을 '귀성전쟁'이라 비유한다. 귀경은 반대로 고향에서 서울로 돌아오는 것이다.
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"**A** — 빛은 파장이 짧고 열은 파장이 길다고 명시되어 있다. B는 대기 유무 비교를 왜곡했고, C는 온실효과가 생존의 전제조건이라는 내용과 어긋나며, D는 실제 온실 개수와 무관하다.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"Main idea: if both refuse to yield, catastrophe results — dangerous outcomes possible, applies to international politics too.
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"""회의 중"" (meeting in progress) is a sign posted on a door where a meeting is being held, which would be an office setting.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"Signs prohibiting photography are typically found in museums where flash could damage artifacts.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"The sentence states ages: ""I am 27 and my older sister is 30"" — this is about age (나이).
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words,C,C,"차례(순서)대로 일을 진행하는 방식을 뜻하는 말은 '차롓걸음'이다. 나머지는 뛰는 걸음, 조심스러운 걸음, 큰 걸음 등 걸음의 형태를 나타낸다.
+
+### ANSWER
+C"
+Rare Words,A,A,"뭇 = 여러, 많은 → 뭇웃음이 여러 사람이 함께 웃는 웃음, 여러 사람에게 덧없이 짓는 웃음을 뜻한다.
+
+### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"책갈피는 책의 낱장과 낱장 사이(또는 그 사이에 끼우는 표시물)를 뜻하는 말입니다. 용갈이·흙갈이는 농사 관련 말이고, 책꽂이는 책을 세워 두는 가구, 책상등은 조명입니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"""감히 무엇을 하려는 마음""은 '엄두'의 뜻으로, 흔히 '엄두를 내다'로 쓰인다. 나머지는 주변부(변두리), 수확(거두기) 등 다른 의미이다.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"""남볼썽""은 남을 대하여 볼 면목이나 체면을 뜻하는 말입니다. 다른 선택지들은 남우세(놀림), 남성적, 남성복, 남새밭(채소밭)으로 의미가 다릅니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"고유색은 물체가 본래 지니고 있는 색을 뜻하는 용어이다.
+
+### ANSWER
+A"
+Rare Words,E,E,"Sacrificial meat offered in a 고사 ritual (고삿고기) figuratively refers to one who alone bears blame and is sacrificed.
+
+### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"손목, 발목 등의 관절이 과로로 시고 아픈 증상을 뜻하는 고유어는 '자가품'이다.
+
+### ANSWER
+E"
+Rare Words,B,B,"품의서(稟議書)는 윗사람이나 상사에게 여쭈어 의논하여 결재를 요청하는 문서를 뜻한다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"재기(再起)는 힘이나 능력을 모아 다시 일어섬을 뜻한다.
+
+### ANSWER
+D"
+Loan Words,E,E,"""절체(切替)""는 일본어식 한자어로, 우리말 순화어는 '전환' 또는 '바꿈'입니다.
+
+### ANSWER
+E"
+Loan Words,A,A,"저널리즘(journalism)의 순화어는 '언론'입니다. 저널리스트는 '언론인'으로 순화합니다.
+
+### ANSWER
+A"
+Loan Words,E,E,"일용 잡급(日傭雜給)은 임시로 고용된 노동자에게 지급하는 급여/직종을 뜻하는 일본식 한자어로, 우리말 순화어는 '일용직'입니다.
+
+### ANSWER
+E"
+Loan Words,E,E,"전기 용어에서 ""전압을 인가하다""는 ""전압을 걸다""로 순화하여 쓰도록 권장됩니다.
+
+### ANSWER
+E"
+Loan Words,D,D,"이모티콘(emoticon)의 국립국어원 순화어는 감정을 그림으로 표현한 말이라는 뜻의 '그림말'이다.
+
+### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,A,"육우는 고기를 생산하기 위해 기르는 소를 뜻하므로 순우리말 순화어는 '고기소'이다.
+
+### ANSWER
+A"
+Loan Words,B,B,"유저(user)는 영어 차용어로, 국립국어원 순화어는 '사용자'이다. 나머지는 다른 외래어(프라이버시=사생활, 아웃사이더=국외자 등)의 순화어에 해당한다.
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"C는 교육부 발표 내용이 아니라 평가 기준 적용에 따른 논란을 설명하는 부분이다. 정원 감축, 경쟁력 강화, 취업률 기준 평가는 교육부가 직접 발표·시행한 내용이다.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"The passage lists cavities, plaque bacteria, dry mouth, gum disease, nose/digestive issues as causes; it mentions mouthwash/gum overuse worsening odor, but not replacing brushing with mouthwash as a stated cause.
+
+### ANSWER
+D"
+Rare Words,A,A,"The definition describes deep immersion/obsession, which matches ""심탐"" (深耽), combining ""deep"" and ""indulge.""
+
+### ANSWER
+A"
+Rare Words,B,B,"'넌지시'의 준말은 '넌짓'이다.
+
+### ANSWER
+B"
+Rare Words,C,C,"야염(冶艶)은 한자어로 '매우 아리땁고 요염함'을 뜻합니다. 나머지 선택지(야영터, 야외복, 이야기, 야회복)는 모두 아름다움과 무관한 일상적 명사입니다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"손아귀는 손의 안쪽을 뜻하기도 하지만, 관용적으로 '세력이 미치는 범위'를 의미합니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"""들입다""는 부사로 '세차게 마구'의 뜻을 가진다. 나머지는 모두 동사이다.
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"Receipt shows purchases at 하나 슈퍼; individual prices aren't given, so only the store fact is verifiable.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"Reasoning: The sentence ""그래서 항상 농구 연습을 합니다"" (So she always practices basketball) logically follows the statement that her dream is to be a basketball player, providing the cause-effect link. That position is (다).
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Loan Words,D,D,"낚시(遊漁, 유어)는 일본식 한자어로, 물고기를 잡는 취미 행위를 뜻하며 순화어로 '낚시'가 권장됩니다.
+
+### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"오프너는 병이나 캔의 마개를 여는 도구로, 순화어는 '병따개'이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"엽연초(葉煙草)는 한자어로, 순화어(고유어 표현)는 '잎담배'이다.
+
+### ANSWER
+D"
+Loan Words,C,C,"연돌(煙突)은 한자어로, 순우리말 순화어는 '굴뚝'이다.
+
+### ANSWER
+C"
+Loan Words,C,C,"어시스트(assist)는 우리말로 ""도움""으로 순화됩니다.
+
+### ANSWER
+C"
+Loan Words,A,A,"""아티스트""는 영어 차용어로, 우리말 순화어는 '예술가'이다.
+
+### ANSWER
+A"
+Loan Words,B,B,"아우라(aura)는 국립국어원 순화어로 '기품'으로 다듬어 쓰도록 권장됩니다. 나머지 선택지는 다른 외래어의 순화어이거나 관련이 없습니다.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,C,"### ANSWER
+C"
+General Knowledge,B,A,"Confucianism entered the Korean peninsula earliest, spreading through Chinese contact/commanderies well before Buddhism's official introduction in 372 CE, and long before Catholicism, Protestantism, and Islam. Thus among the listed foreign religions, Confucianism is the oldest.
+
+### ANSWER
+A"
+General Knowledge,E,E,"인내천(人乃天) 사상은 최제우가 창시한 동학, 즉 천도교의 근본 이념이다.
+
+### ANSWER
+E"
+General Knowledge,A,A,"보통예금(요구불예금)은 거래 횟수나 금액 제한 없이 자유롭게 입출금이 가능한 상품입니다. 정기예금·정기적금은 일정 기간 및 금액 약정이 필요하고, 보험은 예금 상품이 아닙니다.
+
+### ANSWER
+A"
+General Knowledge,B,B,"Watermelon and samgyetang are both associated with hot weather; samgyetang is eaten on boknal in midsummer.
+
+### ANSWER
+B"
+General Knowledge,D,D,"인천은 서울과 경기도를 거쳐 근접한 수도권 도시로, 보기 중 서울과 가장 인접한 도시이다. 부산, 대전, 광주, 제주시는 모두 서울에서 멀리 떨어져 있다.
+
+### ANSWER
+D"
+General Knowledge,B,B,"Family and juvenile cases are handled by the Family Court (가정법원).
+
+### ANSWER
+B"
+General Knowledge,B,B,"포장이사(packing move service)는 이삿짐 포장부터 운반, 정리까지 업체가 대신해 주는 방식으로, 가족·친지의 도움 없이 편리하게 이사할 수 있어 현대에 선호된다.
+
+### ANSWER
+B"
+General Knowledge,B,B,"First birthday in Korean tradition is called ""돌"" (first birthday celebration).
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"Library is where ""quiet"" signs are posted.
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"Escalator safety signs say to hold children's hands while riding.
+
+### ANSWER
+D"
+Reading Comprehension,A,A,"Fighting with a friend and calling first indicates making up/apologizing.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"This describes the end of a semester with two months without classes, which is a school break (방학), not a general vacation (휴가).
+
+### ANSWER
+D"
+Reading Comprehension,A,A,"Born in Busan and lived there until high school — describing hometown (고향).
+
+### ANSWER
+A"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"도서관 홈페이지의 '나의 도서관 → 친구에게 권하는 책'에 감상문/서평을 작성하는 방식이므로 D가 맞습니다. 우수작성자는 총 3명이지만 책을 사주는 것이 아니라 USB나 문화상품권을 줍니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"서울에서 태어나고 자란 사람을 '서울내기'라고 한다. '-내기'는 특정 지역 출신을 뜻하는 접미사이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"Among the options, only 힘쟁이 refers to a person characterized by strength (힘 + -쟁이, a suffix denoting a person with a certain trait), matching ""힘이 매우 센 사람.""
+
+### ANSWER
+C"
+Rare Words,B,B,"나이배기는 겉보기보다 나이가 많은 사람을 뜻하는 우리말 단어입니다. 다른 선택지들은 관련 없는 명사들입니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"도마질은 도마 위에 올려놓고 칼질하듯 어떤 사물을 비판하는 일을 비유적으로 이르는 고유어입니다. 이간질은 한자어 '離間'이 포함되어 고유어가 아니며, 나머지는 곡식 꽃·베틀 부속·덜 익은 열매 등의 뜻입니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"**두리기** means eating together around a large round table.
+
+### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"앙금은 물에 가라앉은 미세한 가루 층을 뜻하며, 비유적으로 마음에 남은 개운치 않은 감정을 가리킨다.
+
+### ANSWER
+B"
+History,B,B,"신라방 (Silla-bang) was the settlement of Silla people in Tang China.
+
+### ANSWER
+B"
+History,C,C,"Byeokrando (벽란도) near Kaesong was Goryeo's international trade port.
+
+### ANSWER
+C"
+History,E,E,"통신사는 조선이 일본에 파견한 외교 사절단으로, 오늘날의 외교 사절에 해당한다.
+
+### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,B,B,"척화비 — Heungseon Daewongun erected these steles after the 1871 Sinmiyangyo to reject Western overtures.
+
+### ANSWER
+B"
+History,A,A,"The 1871 US naval attack on Ganghwa Island, prompted by the General Sherman incident, is known as 신미양요 (Shinmiyangyo).
+
+### ANSWER
+A"
+History,E,E,"1876년 강화도에서 일본의 무력 시위와 강압으로 체결된 불평등 조약은 강화도 조약(조일수호조규)이다.
+
+### ANSWER
+E"
+Rare Words,C,C,"꽃봉오리는 아직 피지 않고 망울만 맺힌 꽃을 뜻한다. 꽃부리는 화관(花冠)을 의미하고, 꽃바리는 꽃을 실은 짐 등 다른 뜻이다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"도우미는 행사 안내나 남에게 봉사하는 요원을 뜻하는 우리말 단어입니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"떠꺼머리는 장가나 시집갈 나이가 된 총각·처녀가 땋아 늘인 머리 또는 그런 사람을 뜻하는 말이다.
+
+### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"The question asks for a word meaning emotional discord from differing opinions (like ""알력/갈등""). Options A, B, C, E are ordinary adverbs/nouns unrelated to conflict; only D is a distinct, non-standard form that fits as the intended term.
+
+### ANSWER
+D"
+Rare Words,B,B,"**### ANSWER
+B**"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"스토리(story)의 순화어는 우리말 '이야기'이다.
+
+### ANSWER
+A"
+Loan Words,D,D,"스크린 도어(screen door)는 지하철 승강장의 안전을 위한 시설로, 국립국어원 순화어는 '안전문'입니다.
+
+### ANSWER
+D"
+Loan Words,B,B,"소맥피(小麥皮)는 밀의 껍질, 즉 wheat bran을 뜻하며 우리말 순화어는 '밀기울'이다.
+
+### ANSWER
+B"
+Loan Words,A,A,"선루프(sunroof)의 순화어는 차 지붕에 있는 창을 뜻하는 '지붕창'이다.
+
+### ANSWER
+A"
+Loan Words,E,E,"The term 상기(上記) means ""the above,"" and its purified Korean equivalent is simply ""위.""
+
+### ANSWER
+E"
+Loan Words,D,D,"사토(砂土)는 모래가 많이 섞인 흙을 뜻하므로 순화어는 '모래흙'이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"블록(block)의 국어 순화어는 '구역'입니다. 도시의 블록을 가리키는 말로 '구역'이 대체어로 제시되었습니다.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"A - The message says to check the recipient's email address again.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"어원(라틴어 voluntus), 의미와 개념, 자선과의 차이 및 가치관은 제시되어 있으나, 자원봉사가 왜 필요한지에 대한 필요성은 언급되지 않았다.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"욜드(YOLD, young old)는 노년층 중 상대적으로 젊고 활동적인 세대를 뜻하며, 국립국어원 등에서 다듬은 표준 용어는 '청노년'이다.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"디지털 트윈은 실제 대상을 컴퓨터상에 구현한 것으로, 국립국어원 등에서 다듬은 표준 용어는 '가상 모형'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"서스펜더(suspenders)는 바지를 어깨에 걸어 지탱하는 끈으로, 우리말 표준 용어는 '멜빵'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"벽지(僻地)는 외딴 곳, 즉 도시에서 멀리 떨어진 궁벽한 지역을 뜻하는 한자어이므로 이에 대응하는 우리말 표준 표현은 '외딴 곳'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"야키(焼き)는 일본어 '구운'이라는 뜻으로, 이를 우리말로 다듬은 표준어는 '군만두'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"커리어 하이는 선수가 자신의 경력 중 가장 뛰어난 성적을 낸 것을 뜻하므로 우리말 표준 용어는 '최고 기록'이다.
+
+### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,A,A,"임오군란(1882)은 신식 군대 별기군에 비해 차별 대우와 급료 체불에 불만을 품은 구식 군인들이 일으킨 사건이다.
+
+### ANSWER
+A"
+History,C,C,"1884년 우정총국 개국 축하연에서 김옥균 등 급진개화파가 일으킨 정변은 갑신정변이다.
+
+### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"독립신문은 1896년 서구식 민간 신문으로, 총 4면 중 3면은 순한글, 1면은 영문으로 발행되었습니다.
+
+### ANSWER
+E"
+History,B,B,"명성황후 시해 사건(을미사변)은 일본 낭인과 공사 미우라 고로가 주도한 사건이다.
+
+### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+History,A,A,"고종은 1895년 2월 교육을 통해 국가를 부강하게 한다는 취지의 교육입국조서를 발표했다. 을사조약은 1905년 조약이며, 국민교육헌장은 1968년 박정희 정부의 것이다.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"The weekend showtimes are 15:00 and 19:00, meaning 3 PM and 7 PM — not 9 PM. The other statements match the notice: price is 20,000 won, title is ""시장 사람들,"" and performances run Tuesday–Sunday (no Monday).
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"Text says: I can't sing well but I like listening to and watching my friends' songs. So C.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words,E,E,"**범칙금** means a fine imposed for violating traffic laws or minor regulations, which matches the definition exactly.
+
+### ANSWER
+E"
+Rare Words,A,A,"낙하산은 인사에서 배후의 높은 사람의 힘으로 자리를 얻는 것을 비유하는 말입니다. 나머지 선택지는 관련이 없습니다.
+
+### ANSWER
+A"
+Rare Words,E,E,"는개 is the Korean word for rain thicker than mist (안개비) but finer than drizzle (이슬비).
+
+### ANSWER
+E"
+Rare Words,C,C,"명개는 갯가나 흙탕물이 지나간 자리에 앉은 검고 고운 흙을 뜻하는 순우리말이다.
+
+### ANSWER
+C"
+Rare Words,D,D,"난든집은 손에 익어서 생긴 재주(솜씨)를 뜻하는 고유어입니다. 나머지는 집의 종류나 상황을 나타내는 단어입니다.
+
+### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"""시퉁하다""는 주제넘고 건방지다는 뜻의 우리말 형용사입니다. 다른 선택지들은 각각 넓히다, 몹시 급하다, 소식이 없다, 서로 사이가 서름서름하다 등의 다른 의미를 가집니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"푸접은 남에게 인정이나 붙임성, 포용성을 가지고 대함을 뜻하는 우리말 단어입니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"The word ""날빛"" refers to the light spreading over the world from the sun's rays (daylight). The other options relate to wings or other meanings.
+
+### ANSWER
+A"
+Rare Words,A,A,"술적심은 숟가락을 적시는 음식, 즉 국물이 있는 음식을 뜻하는 우리말입니다. 나머지 단어들은 그러한 의미가 없습니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"작열(灼熱)하다는 불 따위가 이글이글 뜨겁게 타오른다는 뜻이다.
+
+### ANSWER
+C"
+Rare Words,D,D,"작렬(炸裂)하다는 포탄 따위가 터져서 쫙 퍼지는 것을 뜻한다.
+
+### ANSWER
+D"
+Rare Words,E,E,"번화자(繁華子)는 한자어로 꽃처럼 아름다운 얼굴빛을 가진 사람, 또는 부귀영달한 사람을 뜻합니다. 다른 선택지들은 모두 일반적인 현대어로 이런 의미와 무관합니다.
+
+### ANSWER
+E"
+Rare Words,B,B,"빚물이는 남의 빚을 대신 갚아 주는 일을 뜻하는 우리말 단어이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+General Knowledge,C,E,"### ANSWER
+E"
+General Knowledge,A,A,"돌잔치에서 아이가 실, 돈, 붓 등을 잡게 하여 미래를 예측하는 풍습은 '돌잡이'입니다.
+
+### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"겨울(나)은 여름(가)에 비해 한파 발생 일수가 많고, 습도·태양고도·대류성 강수·태풍은 모두 여름이 우세하다.
+
+### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,A,A,"A: 강원도는 폭설(영동 지방 등) 피해가 잦아 전남보다 많다. 호우는 남고북저형 기압배치, 태풍은 여름~초가을 열대저기압 영향, 대설의 강수량 비율은 호우보다 낮고, 평균 풍속은 태풍이 호우보다 빠르다.
+
+### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,B,"Party starts at 4pm and they gather an hour earlier (3pm) to prepare, so B is incorrect.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"Books read should be returned to their place — a sign found in a library.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"Lost item looking for its owner — this notice would appear at a lost and found center.
+
+### ANSWER
+D"
+Reading Comprehension,A,A,"링링 씨가 저보다 세 살 어리다는 것은 나이를 비교하는 표현입니다.
+
+### ANSWER
+A"
+Reading Comprehension,B,B,"Running and swimming are physical activities, so the topic is exercise (운동).
+
+### ANSWER
+B"
+Loan Words,C,C,"블랙아웃(blackout)은 대규모 정전 사태를 뜻하므로 순화어는 '대정전'이다.
+
+### ANSWER
+C"
+Loan Words,D,D,"부압(負壓)은 순우리말화·순화 대상 용어로, 표준 순화어는 '음압(陰壓)'으로 제시된다. 나머지 선택지는 다른 용어의 순화어(묶음실, 이음매 등)와 관련된 것들이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"""보텀업(bottom-up)""은 아래에서 위로 올라가는 방식을 뜻하므로 우리말 순화어는 '상향식'이다.
+
+### ANSWER
+D"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,B,B,"버튼(button)의 순화어는 우리말 '단추'이다.
+
+### ANSWER
+B"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,E,E,"무빙워크(moving walk)의 순화어는 국립국어원에서 정한 '자동길'이다.
+
+### ANSWER
+E"
+Loan Words,E,E,"모티켓은 모바일(mobile)과 에티켓(etiquette)의 합성어로, 휴대전화 사용 예절을 뜻하며 순화어는 '통신 예절'이다. 통신 규약은 프로토콜의 순화어이다.
+
+### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,B,B,"원불교는 사은(四恩)에 대한 보은과 저축조합 운동 등 근검·저축을 통한 자립 정신을 강조한 민족종교입니다.
+
+### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,B,B,"나철은 1909년 단군 신앙을 바탕으로 단군교(후에 대종교)를 창시하여 민족의식을 고취하고 항일 독립운동을 전개했다.
+
+### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,C,C,"우편배달원은 개화기 당시 제복과 벙거지(모자)를 쓰고 다녔기 때문에 사람들이 '벙거지꾼'이라 불렀다는 기록이 있다.
+
+### ANSWER
+C"
+History,B,B,"1884년 홍영식의 건의로 설치된 우정총국이 근대적 우편 업무를 담당했으며, 갑신정변이 이곳 개국 축하연에서 일어났다. 광혜원은 근대 의료기관이고 조선총독부는 1910년 이후 기관이다.
+
+### ANSWER
+B"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"대전은 충청권 최대 도시로 옳으며, 호남권 최대 도시는 광주, 영남권 최대 도시는 부산이고, 인구와 지역내총생산 모두 영남권·충청권이 호남권보다 많거나 우세합니다.
+
+### ANSWER
+D"
+General Knowledge,B,B,"B는 세종시(행정중심복합도시)가 충청권에 있다는 사실로 옳다. 수원·고양·용인 등 인구 100만 이상 수도권 도시는 광역시가 아니며, 영남권 GRDP가 호남권보다 크고, 청주 인구는 대구보다 적다.
+
+### ANSWER
+B"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+Rare Words,E,E,"Reasoning: The definition ""정하여지지 아니한 미래의 어떤 날"" (an unspecified future day) corresponds to 다음날, which besides ""the next day"" also means an indefinite future day. The other options (다중화, 다시마, 믿음성, 이음수) have unrelated meanings.
+
+### ANSWER
+E"
+Rare Words,C,C,"맞대매는 단 두 사람이 마지막으로 우열이나 승부를 겨루는 것을 뜻하는 순우리말입니다.
+
+### ANSWER
+C"
+Rare Words,D,D,"지레목은 산줄기가 끊어진 곳을 가리키는 우리말이다. 나들목은 도로의 입출구, 벌레혹은 식물의 혹, 뿌리목은 뿌리와 줄기 경계 부분을 뜻한다.
+
+### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"꽃이나 열매가 잘게 모여 달린 덩어리를 뜻하는 말은 '송아리'이며, '옹아리'와 함께 쓰이는 말입니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"침잠(沈潛)은 마음을 가라앉혀 깊이 생각하거나 몰입함을 뜻하는 단어입니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"물갈이는 물을 바꾸는 것에서 비유적으로 조직 구성원을 대규모로 교체함을 뜻한다.
+
+### ANSWER
+C"
+Rare Words,B,B,"물을 거울처럼 사용해 모습을 비추어 보는 것을 뜻하는 말은 '물거울'이다.
+
+### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"The question describes a compound noun where ""가지"" means kinds/some amount of food, which corresponds to ""음식가지.""
+
+### ANSWER
+D"
+Rare Words,A,A,"중력 방향과 직각(수직)을 이루는 선은 수평선이다.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"Among the choices, the word formed from the sense of ""흘깃흘깃"" (glancing sideways) is 흘그산, which denotes eyes that appear to glance sidelong. The other options (걸그물, 물그릇, 선그림, 흘떼기) relate to nets, containers, drawings, and leftover portions respectively.
+
+### ANSWER
+D"
+Rare Words,C,C,"흘떼기는 짐승의 힘줄이나 근육 사이에 박힌 질긴 고기를 뜻하는 말입니다. 북주기는 농사 용어, 싸라기는 부스러진 쌀알, 띄우기는 발효 등 다른 의미입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"사품은 어떤 동작이나 일이 진행되는 '바람'이나 '겨를'을 뜻하는 순우리말 명사입니다. 나머지는 도구, 상품, 기법, 병증 등과 관련된 말입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"가품(家品)은 한 집안에 대대로 전해지는 풍습이나 범절, 집안의 품격을 뜻하는 말이다. 나머지 선택지는 올가미(덫), 가까운(형용사), 복제품(모방품), 손가락(신체 부위)으로 의미가 다르다.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"Roads with many cars and taking the subway both concern modes/conditions of transportation.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"The invitation states the party begins at 4 PM on Sunday, July 29, at Ina's home — it does not say it ends at 4 PM. Thus D is the mismatch.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"The menu shows 칼국수 as cheapest (4,000원), 동태찌개 only in 2-person servings, and 콩국수 as summer-only. The claim that 된장찌개 costs more than 순두부찌개 is not supported/incorrect.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"무료이므로 표를 살 필요가 없습니다.
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"The passage says the writer bought clothes, cosmetics, and a birthday gift for the younger sibling in Myeongdong; the sibling's birthday is next week, and the writer went with a friend.
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature,B,B,"피팅(fitting)은 옷을 몸에 맞춰 착용해 보는 것을 뜻하므로, 우리말 표준 전문 용어로는 ""입어보기""가 적절하다.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"광폭(廣幅)이라는 표현이 '큰 폭의 금리 조정'이라는 자이언트 스텝의 의미를 우리말로 옮긴 표준 용어에 해당합니다. 나머지 선택지는 폭이 작거나 무관한 조정을 뜻합니다.
+
+### ANSWER
+D"
+Standard Nomenclature,B,B,"베이비 스텝은 금리를 0.25%포인트씩 소폭으로 올리거나 내리는 것을 뜻하는 용어로, 표준 국어 표현으로는 ""소폭 조정""이 적절하다. 반대로 빅 스텝·자이언트 스텝은 대폭 조정에 해당한다.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"에이징 커브는 영어 ""aging curve""의 음차이며, 표준 전문 용어로는 ""노화 곡선""으로 표기합니다.
+
+### ANSWER
+D"
+Standard Nomenclature,C,C,"코로나 블루는 우울, 코로나 레드는 우울을 넘어 분노·화로 표출되는 상태, 코로나 블랙은 절망·암담함을 뜻합니다. 따라서 코로나 레드의 표준 전문 용어는 '코로나 분노'입니다.
+
+### ANSWER
+C"
+Standard Nomenclature,B,B,"브레인 포그(brain fog)는 영어 그대로의 외래어 표현이며, 이를 우리말 전문 용어로 다듬은 표준어는 '뇌 흐림'이다. 나머지 선택지는 관련 없는 표현들이다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"The passage says opening the doors to lower the cabin temperature (matching outside) removes frost, and the vinegar mixture is applied after parking, not before departure.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,A,"The passage states that mushrooms should either be placed directly in the vegetable compartment or frozen raw, so freezing mushrooms raw is acceptable. Option D contradicts the instruction to remove moisture before freezing, and B misstates the advice about lightly cooking fresh vegetables. Thus A matches the text about mushrooms.
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"The passage explains how ""선생님"" versus ""샘/쌤"" are used differently depending on the setting (regular school vs. private academy/tutoring), so the following content would naturally elaborate on term usage according to the environment of use.
+
+### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"B는 마지막 문장의 취지와 일치하며, 자리 선정도 중요하지만 그것에만 신경 쓰다 다른 중요한 것을 놓치면 안 된다는 내용과 맞다.
+
+### ANSWER
+B"
+Loan Words,C,C,"모티브(motive)의 순화어는 '동기'이다.
+
+### ANSWER
+C"
+Loan Words,C,C,"명일은 한자어로 '내일'을 뜻하며, 순화어(고유어)는 '내일'이다.
+
+### ANSWER
+C"
+Loan Words,A,A,"멜로디(melody)의 순화어(우리말)는 '가락'입니다.
+
+### ANSWER
+A"
+Loan Words,C,C,"머스트 해브(must-have)는 반드시 갖춰야 할 물건을 뜻하므로 우리말 순화어는 '필수품'이다.
+
+### ANSWER
+C"
+Loan Words,B,B,"매점매석(買占賣惜)은 물건을 사서 모아두고 팔지 않는 행위로, 순화어는 '사재기'이다.
+
+### ANSWER
+B"
+Loan Words,C,C,"매너리즘(mannerism)은 틀에 박힌 방식을 반복하는 것을 뜻하며, 국어 순화어로 '타성'이 제시된다.
+
+### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"""마켓(market)""의 순화어는 우리말 ""시장""이다. 나머지 선택지는 다른 단어의 순화어이거나 관련이 없다.
+
+### ANSWER
+A"
+History,B,B,"지석영은 조선 말기 우두 종두를 배워 천연두 예방을 위한 종두법을 시행·보급한 인물로 알려져 있다. 교과서적으로 ""종두법 보급""이 정답이다.
+
+### ANSWER
+B"
+History,C,C,"지석영이 1885년 간행한 우두 관련 저서는 「우두신설(牛痘新說)」로, 우리나라 최초의 우두 관련 전문서입니다. 보기 중 이에 해당하는 것은 '우두 신서'입니다. 동의보감은 허준, 마과회통은 정약용, 자전석요는 지석영의 옥편입니다.
+
+### ANSWER
+C"
+History,E,E,"광혜원(제중원)은 1885년 알렌에 의해 설립된 우리나라 최초의 근대식 병원이다. 활인서와 혜민국은 조선시대 전통 의료기관이며, 세브란스는 이후 제중원을 계승한 병원, 보구녀관은 최초의 여성 전용 병원이다.
+
+### ANSWER
+E"
+History,A,A,"한국 최초의 철교는 1900년 경인선 개통과 함께 건설된 한강 철교이다.
+
+### ANSWER
+A"
+History,E,E,"의병(義兵)은 국가가 위기에 처했을 때 백성들이 자발적으로 조직한 군대로, 임진왜란과 을미사변 이후 일본군에 맞서 싸운 농민·평민 중심의 군대를 가리킨다.
+
+### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,E,E,"박승환은 1907년 대한제국 군대 해산에 항거하여 시위대 대대장으로서 나라를 지키지 못한 것을 부끄럽게 여겨 자결하였다.
+
+### ANSWER
+E"
+History,D,D,"1910년 한일병합조약으로 국권을 상실한 사건은 '국권 침탈(경술국치)'이다. 을사조약은 1905년, 정미조약은 1907년, 제물포조약은 1882년이며, 이토 히로부미 암살은 1909년이다.
+
+### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"변통(變通)은 형편과 경우에 따라 막힘없이 일을 알맞게 처리하는 재주를 뜻하며, '-머리'가 붙어 '변통머리'라는 말이 됩니다. '일머리'는 일의 순서나 요령을 아는 것에 가깝습니다.
+
+### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"약으로 쓰는 술은 '약용주(藥用酒)'입니다.
+
+### ANSWER
+C"
+Rare Words,D,D,"주전부리는 때를 가리지 않고 군음식을 자꾸 먹는 것, 또는 심심풀이로 먹는 음식을 뜻하는 단어이다.
+
+### ANSWER
+D"
+Rare Words,B,B,"The term describes a free spirit — being unbound by others' restraints, acting properly of one's own will. Among the options, ""자유혼"" (free soul/spirit) matches this meaning.
+
+### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"""좇다""는 목표·이상·행복을 추구하거나 남의 말이나 뜻을 따른다는 의미를 모두 가진 단어입니다. '따르다'는 뒤를 쫓는 의미가 강하고, '떨치다', '헐뜯다', '앞서다'는 해당 의미와 무관합니다.
+
+### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"**정** is incorrect — shortening retirement age would worsen elderly income insecurity and dependency; the appropriate response is extending retirement age.
+
+### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"가평은 팔당호 상류 지역으로 수도권정비계획법상 자연보전권역에 해당합니다. 1기 신도시는 분당(성남)·일산·평촌·산본·중동이며 화성 동탄은 2기입니다. 정보통신업 취업자는 성남이 압도적으로 많고, 외국인 근로자는 공업 도시인 화성이 많으며, 총부양비는 노년층 비율이 높은 가평이 더 높습니다.
+
+### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,E,E,"구미는 산업도시로 젊은 노동인구 유입이 많아 청장년층 비율이 높고, 안동은 상대적으로 고령화가 진행된 지역이다. 안동은 경상북도이며 도청 소재지이고, 세계유산 역사마을(하회마을)도 안동에 있다.
+
+### ANSWER
+E"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"The speaker says they've been there before and asks for another place, so ""이미"" (already) fits.
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"""량""은 철도 차량의 단위로, 순화어는 ""칸""입니다. 나머지 선택지는 칸막이, 칸델라 등으로 관련 없는 단어입니다.
+
+### ANSWER
+E"
+Loan Words,C,C,"동절기(冬節期)는 겨울 계절을 뜻하는 한자어로, 순화어(쉬운 우리말)는 '겨울철'이다.
+
+### ANSWER
+C"
+Loan Words,D,D,"""당일(當日)""은 한자어로, 이를 다듬은 우리말 표현은 ""그날""입니다.
+
+### ANSWER
+D"
+Loan Words,D,D,"닉네임(nickname)은 국어 순화어로 '별명'으로 바꾸어 쓰도록 권장됩니다. 나머지 선택지는 조명도, 구명줄, 증명서 등 다른 외래어의 순화어이거나 관련이 없습니다.
+
+### ANSWER
+D"
+Loan Words,B,B,"뉴스레터(newsletter)는 국립국어원 순화어로 '소식지'입니다.
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"Miyuki went home from the hospital today (A), returns to school next week (B), and thanks Gamin for visiting her in the hospital (D). She is only now *asking* for help with Korean study, so saying Gamin already helped her is inconsistent.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"""갈아타는 곳"" (transfer point) is signage for changing lines/trains, found in a subway station.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"""밟지 마십시오"" (Do not step on) is a sign typically found on grass/lawn areas.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"Both 어린이날 and 개교기념일 are days off, so the passage is about holidays (휴일).
+
+### ANSWER
+C"
+Rare Words,B,B,"지게걸음은 몸을 좌우로 기우뚱거리며 걷는 걸음을 뜻하는 우리말입니다. 장대걸음은 성큼성큼 걷는 걸음, 지게미는 술 찌끼, 지게차는 기계를 뜻합니다.
+
+### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"[모숨은 한 줌 안에 들어올 만한 길고 가느다란 물건의 분량을 뜻하는 단어입니다.]
+
+### ANSWER
+A"
+Rare Words,A,A,"쥐걸음은 쥐처럼 몸을 낮추고 주위를 살피며 살금살금 걷는 걸음을 뜻하는 말입니다. 나머지 단어들은 걸음과 무관한 의미입니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"화살의 '살'과 걸음이 결합한 '살걸음'이 화살이 날아가는 속도를 뜻하는 순우리말이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"""번번이"" means ""every time/on each occasion.""
+
+### ANSWER
+C"
+Rare Words,A,A,"The meaning ""울퉁불퉁한 데가 없이 펀펀하고 번듯하게"" corresponds to 번번히 (from 번번하다, meaning smooth/flat), whereas 번번이 means ""every time"" repeatedly.
+
+### ANSWER
+A"
+Rare Words,D,E,"### ANSWER
+E"
+History,D,D,"1910년 8월 29일 한일병합조약으로 국권 강탈.
+
+### ANSWER
+D"
+History,D,D,"최남선이 기미독립선언서(3·1 독립선언서) 본문을 작성하고 한용운 등이 공약삼장을 보탠 것으로 알려져 있다.
+
+### ANSWER
+D"
+History,D,D,"민족자결주의를 주창한 인물은 우드로 윌슨 대통령이다.
+
+### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,D,D,"### ANSWER
+D"
+History,B,B,"김구는 대한민국 임시정부 주석으로 한인애국단을 조직하여 이봉창·윤봉길 의거를 주도했다.
+
+### ANSWER
+B"
+History,B,B,"의열단은 1919년 김원봉 등이 만주 길림에서 조직하여 일제 기관 파괴와 관리 암살 등 의열 투쟁을 전개했다.
+
+### ANSWER
+B"
+History,C,C,"김구가 1931년 상하이에서 일본 수뇌 암살 등 의거 활동을 목적으로 조직한 단체는 한인 애국단으로, 이봉창·윤봉길 의거를 주도했다. 의열단은 김원봉이 만주에서 조직했다.
+
+### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"Eight times refers to brain activity, not effort to hold back tears.
+
+### ANSWER
+C"
+Rare Words,C,C,"가축의 나이를 세는 말로 하릅(한 살), 이듭(두 살), 사릅(세 살) 등이 있으므로 두 살은 '이듭'이다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"""엳아홉""은 여덟이나 아홉쯤 되는 수를 뜻하는 우리말 단어입니다. 다른 선택지들은 동사에서 파생된 명사형으로 수와 무관합니다.
+
+### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"시울은 약간 굽거나 휜 부분의 가장자리를 뜻하는 고유어로, '눈시울', '입시울' 등에 쓰인다. 다른 선택지들은 한자어이거나 관련 없는 단어이다.
+
+### ANSWER
+D"
+Rare Words,B,B,"여름살이는 여름에 입는 한 겹으로 지은 옷을 뜻하는 고유어이다.
+
+### ANSWER
+B"
+Rare Words,E,E,"분기점(分岐點)은 길이 여러 갈래로 갈라지기 시작하는 지점을 뜻합니다.
+
+### ANSWER
+E"
+Loan Words,D,D,"""네티즌""의 국립국어원 순화어는 '누리꾼'입니다.
+
+### ANSWER
+D"
+Loan Words,B,B,"내역서는 일본식 표현으로, 국어 순화어로 '명세서'를 권장한다.
+
+### ANSWER
+B"
+Loan Words,C,C,"그린웨이(greenway)는 국립국어원 순화어로 '녹색길'로 다듬어 쓰도록 권장됩니다. '녹색도시'는 green city에 해당하고, 등산길이나 먼 길은 의미가 다릅니다.
+
+### ANSWER
+C"
+Loan Words,B,B,"굴토(掘土)는 '땅을 파는 것'을 의미하는 한자어로, 순화어(우리말로 다듬은 말)는 '땅파기'이다.
+
+### ANSWER
+B"
+Loan Words,C,C,"구배(勾配)는 일본식 한자어로 경사도를 뜻하며, 순화어는 '기울기'이다.
+
+### ANSWER
+C"
+Loan Words,A,A,"고수부지는 일본식 한자어로, 국립국어원에서 '둔치' 또는 '강턱'으로 순화하도록 권장하였다. 따라서 정답은 '둔치'이다.
+
+### ANSWER
+A"
+Loan Words,C,C,"계리(計理)는 회계와 관련된 사무 처리를 뜻하는 일본식 한자어로, 국어 순화어로 ""회계 처리""가 제시된다.
+
+### ANSWER
+C"
+Loan Words,C,C,"거래선은 일본어식 표현(取引先)으로, 국어 순화어는 '거래처'입니다.
+
+### ANSWER
+C"
+History,A,A,"The 1932 Hongkou Park bombing at the Japanese emperor's birthday (천장절) celebration was carried out by 윤봉길, who threw a lunchbox bomb killing/wounding Japanese officials and was later executed.
+
+### ANSWER
+A"
+History,B,B,"한국광복군은 대한민국 임시정부가 1940년 중국 각지의 독립군을 통합해 창설한 정규 군대이다.
+
+### ANSWER
+B"
+History,B,B,"안창호는 1908년 평양에 대성학교를 설립하여 민족 교육을 실시했다.
+
+### ANSWER
+B"
+History,D,D,"안창호는 1913년 미국에서 흥사단을 조직하여 민족의 단결과 독립정신 함양에 힘썼다.
+
+### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,B,B,"물산장려운동(조선 물건 쓰기, 국산품 장려)은 1920년대 민족주의 계열 운동으로, 동아일보가 사설과 캠페인을 통해 적극적으로 후원하였다.
+
+### ANSWER
+B"
+History,B,B,"최현배는 주시경의 제자로 '우리말본'과 '한글갈'을 저술한 대표적 한글 학자이다.
+
+### ANSWER
+B"
+History,A,A,"애국가는 안익태가 작곡했으며, 선택지 중 첫 번째로 제시된 항목이 정답입니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"조각조각 뜯어내거나 찢어 내는 짓, 또는 그 조각을 뜻하는 우리말은 '뜨더귀'입니다.
+
+### ANSWER
+A"
+Rare Words,B,B,"무게는 물체의 중량 외에 ""사람 됨됨이의 침착하고 의젓한 정도""를 뜻하는 다의어입니다(예: 무게 있는 사람). 나머지 단어들은 문양, 물넘이 시설, 방비 없음, 머묾 등의 뜻으로 무관합니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"중무장은 본래 무기를 갖추는 것이지만, 비유적으로 어떤 상황에 대비해 철저히 준비하는 일이나 그런 모양새를 뜻한다. 다른 선택지들은 장소나 물리적 개념이다.
+
+### ANSWER
+E"
+Rare Words,D,D,"단어 ""마련""은 헤아려 갖춤, 또는 어떤 일을 하기 위한 속셈·궁리를 뜻하는 명사입니다. '마련하다'는 동사이므로 의미 정의가 명사형인 이 문항에는 '마련'이 적합합니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"번가루는 반죽할 때 물기를 조절하며 덧뿌리는 덧가루를 뜻하는 우리말이다.
+
+### ANSWER
+E"
+Rare Words,E,E,"""풀칠하다""는 입에 풀칠한다는 표현으로 겨우 끼니를 이어간다는 뜻을 가집니다.
+
+### ANSWER
+E"
+Rare Words,E,E,"물고기의 크기를 팔뚝만 하다고 이르는 말로 제시된 보기 중에서는 '맥짜리'가 해당하며, 나머지는 각각 담합(짬짜미), 곡물(쌀보리), 끝맺음(마무리) 등 다른 뜻이다.
+
+### ANSWER
+E"
+General Knowledge,A,A,"조령(문경새재)과 석탄박물관, 철로 자전거는 문경의 대표적 관광자원이며, 과거 탄광도시로 유명했다.
+
+### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,E,"### ANSWER
+E"
+General Knowledge,B,B,"DAWN(김효종/E'Dawn)은 큐브엔터테인먼트 소속 그룹 펜타곤의 멤버로 활동했으며, 이후 탈퇴하여 솔로로 활동했습니다.
+
+### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"ITZY는 예지, 리아, 류진, 채령, 유나로 구성되며 리더는 맏언니 예지입니다. 지효는 트와이스, 채연은 다이아/트와이스 멤버입니다.
+
+### ANSWER
+D"
+General Knowledge,A,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"The passage contrasts buying goods at a mart versus ordering online — both are ways of purchasing, so the topic is shopping.
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"The passage mentions learning yoga with a friend and walking daily — both are forms of physical exercise, so the general topic is 운동.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"The notice states the venue is the first-floor auditorium, where the free weekend movies are shown together. The titles can be found on the library homepage, so A is false; the library doesn't make films (B), and Saturday/Sunday times differ (D).
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"The passage states cell phones can search the internet, matching B.
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"The text states they moved from a dormitory to a one-room apartment last week, so they previously lived in a dorm and now live in a one-room. They didn't buy furniture (it was already there), wanted to live alone (not with a friend), and the small room is fine with them.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"Magpies don't cry at familiar people but cry at strangers—so they cry because they see the guest first and find them unfamiliar.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,B,B,"인터체인지를 뜻하는 우리말은 '나들목'으로, 도로 교차지점에서 신호 없이 입체적으로 통행할 수 있게 한 시설이다.
+
+### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,D,"가리새는 '일의 갈피와 조리'를 뜻하는 순우리말입니다. 누리꾼은 네티즌, 도리기는 여러 사람이 나누어 먹는 일을 뜻합니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"숨이 차서 호흡이 힘들어지는 것을 ""가빠지다""라고 한다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"남새밭은 '채소를 심어 가꾸는 밭'을 뜻하는 고유어로 채소밭과 같은 의미입니다. 채소밭은 문제에서 이미 유의어로 제시되었으므로 답은 남새밭입니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"[헌 재목이나 낡은 집을 닦아 깨끗하게 하는 일은 '닦이질'이다.]
+
+### ANSWER
+A"
+Rare Words,B,B,"말갈망은 '자기가 한 말의 뒷수습'을 뜻하는 순우리말입니다. 말주벅은 말을 넉살 좋게 늘어놓는 재주, 말솜씨는 말하는 재주를 의미합니다.
+
+### ANSWER
+B"
+History,D,D,"토월회(土月會)는 1923년 결성된 신극 운동 단체로, 일제강점기 연극 활동을 전개했다. 나머지는 무장 독립운동 단체다.
+
+### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,E,E,"**봉선화** was composed by 홍난파 (Hong Nan-pa), a famous Korean composer expressing the sorrow of the lost nation.
+
+### ANSWER
+E"
+History,D,D,"고조선은 사회 질서 유지를 위해 8조법(범금 8조)을 두었으며, 그중 3개 조항이 한서 지리지에 전해진다.
+
+### ANSWER
+D"
+History,B,B,"침류왕은 384년 마라난타를 통해 불교를 공인한 백제 왕이며, 진흥왕·법흥왕·태종무열왕·문무왕은 모두 신라 왕이다. 백제의 왕을 묻는 문제이므로 침류왕이 정답이다.
+
+### ANSWER
+B"
+History,E,E,"**### ANSWER
+E**"
+History,C,C,"### ANSWER
+C"
+History,E,E,"공민왕은 기철 등 친원 세력을 숙청하고 정방을 폐지하는 반원 자주 개혁을 추진했다.
+
+### ANSWER
+E"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"문의 열리는 방향(한옥은 안쪽, 아파트는 바깥쪽)의 차이를 통해 집안과 집밖 중 무엇을 중시하는지, 손님을 맞는 태도 등 사고방식의 차이를 설명하고 있다.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"The logical flow starts with (가) introducing liking people we feel comfortable with, then (다) asking what kind of person that is, then (나) presenting the similarity principle. This matches (가)-(다)-(나)-(라).
+
+### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"The passage says people enjoy drinking coffee *and also* consider the image important — it doesn't say they value the image more than the taste. So C overstates/misstates the text, while A, B, and D match.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"The passage describes what the speaker and their sibling like to eat (meat vs. vegetables), which is about food.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"취미 (hobby) — 테니스와 수영은 좋아하는 여가 활동이므로 취미에 대한 이야기입니다.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"**Reasoning:** The sentence says ""I can speak English but I cannot speak French"" — this is about foreign languages (외국어).
+
+### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"새퉁이는 밉살스럽거나 경망한 짓을 하는 사람을 뜻하는 말이다. 막잡이는 아무렇게나 쓰는 물건, 흙막이·보막이는 토목 관련 용어, 용갈이는 얼음에 생긴 균열을 뜻한다.
+
+### ANSWER
+E"
+Rare Words,B,B,"낱개로 파는 물건을 뜻하는 우리말 단어는 '낱뜨기'이다. '낱'은 하나하나의 개체를 의미한다.
+
+### ANSWER
+B"
+Rare Words,D,D,"박차는 말을 빨리 달리게 하기 위해 사용하는 도구에서 유래해 ""박차를 가하다""처럼 어떤 일을 촉진하려고 더하는 힘을 뜻합니다. 다른 선택지들은 전시 행사(박람회), 차량(순찰차), 고정 가구(붙박이), 배를 대는 곳(정박지)의 의미입니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"게의 꽁지는 매우 짧아서, 지식이나 재주가 아주 짧고 보잘것없음을 비유하는 말로 '게꽁지'가 쓰인다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"후래자(後來者)는 '뒤에 온 사람'을 뜻하는 한자어입니다.
+
+### ANSWER
+C"
+Rare Words,D,D,"거통은 의젓하고 당당한 생김새 또는 그런 태도를 뜻하는 말이다. 다른 선택지들은 의미가 전혀 다르다.
+
+### ANSWER
+D"
+Loan Words,E,E,"개로(開路)는 전기 회로가 끊어져 열린 상태를 뜻하는 용어로, 순화어는 '열린 회로'이다.
+
+### ANSWER
+E"
+Loan Words,A,A,"주어진 '감용기(減容器)'는 부피를 줄이는 기기로, 국어 순화어로 '압축기'가 제시되었습니다. 나머지 선택지는 관련 없는 용어들입니다.
+
+### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"건설 용어 '가사용(假使用)'은 임시로 사용하는 것을 뜻하므로 순화어는 '임시 사용'이다.
+
+### ANSWER
+B"
+Loan Words,B,B,"가계약(假契約)은 ""임시로 맺는 계약""을 뜻하므로 순화어는 '임시 계약'이다.
+
+### ANSWER
+B"
+Loan Words,D,D,"가검물(可檢物)은 검사할 물질을 뜻하는 일본식 한자어로, 국립국어원 순화어는 '검사물'이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"가건물(假建物)은 임시로 지은 건물을 뜻하므로 순화어는 ""임시 건물""이다.
+
+### ANSWER
+D"
+Loan Words,A,C,"외래어 ""bus(부스)""와 한자어 ""모선""을 다듬은 순화어는 전기 배선의 주된 선로를 뜻하는 '주선로'이다.
+
+### ANSWER
+C"
+Standard Nomenclature,E,E,"Reasoning: 테마주(theme stock) is a loan-based stock market jargon; among the options, the only stock-related standardized Korean term is 화제주(話題株), while the others relate to cosmetics, beer, or control lines.
+
+### ANSWER
+E"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,D,D,"워킹 그룹(working group)의 표준 우리말 전문 용어는 실무를 담당하는 집단을 뜻하는 '실무단'입니다.
+
+### ANSWER
+D"
+Standard Nomenclature,B,B,"하이브리드(hybrid)는 두 가지 이상의 요소가 결합된 것을 의미하므로 표준 전문 용어로는 '혼합형'이 적절하다.
+
+### ANSWER
+B"
+Standard Nomenclature,C,C,"풍도(風道)는 공기가 흐르는 통로를 의미하므로 표준 전문 용어로는 '공기 통로'가 적절하다. 공기 커튼이나 공기 구멍은 다른 개념이며, 공공 도로는 무관하다.
+
+### ANSWER
+C"
+Standard Nomenclature,D,D,"트레일(trail)의 우리말 표준 전문 용어는 자연을 걸으며 탐방하는 길을 뜻하는 '탐방로'입니다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"타이틀곡은 외래어 표현으로, 국어 순화 용어로는 '주제곡'이 표준 전문 용어로 제시됩니다. 나머지 선택지는 다른 분야의 용어(복제약=제네릭, 재청곡=앙코르곡 등)입니다.
+
+### ANSWER
+E"
+Standard Nomenclature,C,C,"커플룩(couple look)의 우리말 표준 용어로 국립국어원이 제시한 것은 '짝 차림'이다.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"**Reasoning:** The ad is for a gym (""몸짱 나라"") offering exercise equipment, shower facilities, personal lockers, and free workout clothes. Option C states workout clothes are lent for free, which matches ""운동복 무료 제공."" It's not a bathhouse, not selling equipment, and the gym itself isn't free (only consultation and clothes).
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"The passage and choices are mismatched, but among the options, only C states a plausible fact about a folk village (making Korean food as an experience activity); the others contain unreasonable claims.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"The passage explicitly denies that buildings deserve appreciation merely because they exist, so A contradicts the text while B, C, D all match.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"청소년기는 주거 공간에 대한 요구가 커지므로 가능하면 넓은 공간을 배정한다는 내용과 일치합니다. A는 자율성 부여와 반대이고, B는 독립 공간이 좋다고 했으므로 틀립니다.
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"A는 본문에서 제시한 바람직한 화 표현 요소(화난 이유 포함)와 일치하며, B·C·D는 본문 내용과 어긋난다.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,E,E,"원필은 데이식스에서 키보드(신디사이저)를 담당한다.
+
+### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,D,"Among BTS members, Jimin's fancams (e.g., ""Filter""/""Boy With Luv"") hold the record for the most-viewed fancam views on YouTube.
+
+### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,A,"투모로우바이투게더(TXT)의 공식 팬덤명은 MOA(모아)이며, 아미는 BTS, 샤월은 샤이니, 캐럿은 세븐틴의 팬덤명입니다.
+
+### ANSWER
+A"
+General Knowledge,D,B,"### ANSWER
+B"
+General Knowledge,B,B,"토끼는 뉴진즈의 상징적인 마스코트로, 첫 EP 'New Jeans' 커버 아트에 사용되었습니다.
+
+### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Rare Words,D,D,"씨알은 곡식이나 물고기 등 낱낱의 크기를 뜻하는 말이다. ""씨알이 굵다""처럼 개체 하나하나의 크기를 나타낸다.
+
+### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"The word meaning a secret agreement made among themselves is ""짬짜미,"" which appears in options C, D, and E; the first such option is C.
+
+### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,A,"### ANSWER
+A"
+Rare Words,B,A,"### ANSWER
+A"
+Rare Words,D,D,"막잡이는 좋은 것을 골라낸 나머지 찌꺼기, 또는 아무렇게나 마구 쓰는 물건을 뜻하는 말이다.
+
+### ANSWER
+D"
+Rare Words,E,E,"겪이는 손님에게 음식을 차려 대접하는 일을 뜻하는 고유어입니다. 나머지는 직업(미장이), 안내자(길잡이), 저자(글쓴이), 동작 명사(늘이기)를 뜻합니다.
+
+### ANSWER
+E"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"The passage concludes by stating that youth smartphone addiction is a very serious social problem, so the following content would logically explain why it is so serious.
+
+### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"**C**
+
+### ANSWER
+C"
+Loan Words,A,A,"AT는 Appropriate Technology의 약자로, 지역 환경과 여건에 맞는 기술을 뜻하며 순화어는 '적정 기술'이다.
+
+### ANSWER
+A"
+Loan Words,D,D,"톨게이트는 통행료를 받는 곳이므로 순화어는 '요금소'이다.
+
+### ANSWER
+D"
+Loan Words,E,E,"토션(torsion)은 물체가 꼬이는 현상을 뜻하므로 우리말 순화어는 '비틀림'이다.
+
+### ANSWER
+E"
+Loan Words,B,B,"""타합(打合)""은 일본어식 표현으로, 서로 의논하여 맞춘다는 뜻이므로 순화어는 '협의(의논)'가 적절하다.
+
+### ANSWER
+B"
+Loan Words,D,D,"""존(zone)""은 일본어/외래어로, 우리말 순화어는 ""구역""입니다.
+
+### ANSWER
+D"
+Loan Words,C,C,"시건(施鍵)은 자물쇠를 잠그는 것을 뜻하는 일본식 한자어로, 순화어는 '잠금'이다.
+
+### ANSWER
+C"
+Loan Words,D,A,"### ANSWER
+A"
+Loan Words,E,E,"주어진 ""다케(たけ, 丈)""는 일본어에서 유래한 말로 옷의 '길이'를 뜻하므로, 순화어는 '길이'입니다.
+
+### ANSWER
+E"
+Reading Comprehension,B,B,"The passage mentions drinking water in the morning (like medicine), eight glasses a day, slowly, and that it flushes out bad things — but never says to drink it after breakfast.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"The school is described as very large, with many classrooms, so the playground would logically also be spacious (넓어요), matching the positive/large description.
+
+### ANSWER
+D"
+Reading Comprehension,A,A,"Taking a photo in front of this tree would look cool — the verb for taking photos is 사진을 찍다.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"The word ""우금"" refers to a steep, narrow mountain valley where a stream flows swiftly.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"너겁은 고인 물에 몰려서 떠 있는 지푸라기나 티끌 따위를 뜻하는 우리말이다. 너덜겅은 돌이 많은 산비탈, 두겁대는 건축 용어이다. 따라서 정답은 너겁이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+History,C,C,"승정원(왕명 출납)과 의금부(국왕 직속 사법기관)는 조선의 왕권 강화 기구로 함께 언급된다. 사헌부는 감찰 기구, 비변사는 군국 사무 합의 기구로 오히려 왕권을 제약했다.
+
+### ANSWER
+C"
+History,C,C,"조선은 전국을 8도로 나누고 각 도에 관찰사를 파견하여 수령을 감독하게 했다.
+
+### ANSWER
+C"
+History,D,D,"선조 때 사림이 동인과 서인으로 분열되면서 붕당정치가 시작되었습니다.
+
+### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,A,A,"조선 시대 양반과 상민 사이의 중간 신분 계층은 중인(中人)으로, 서리·향리·기술관 등이 이에 속했다.
+
+### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,A,A,"무구정광대다라니경은 통일신라 시대(8세기)에 제작된 현존 세계 최고(最古)의 목판 인쇄물로, 불국사 석가탑에서 발견되었습니다. 직지심체요절은 금속활자본이며, 팔만대장경은 고려시대 목판입니다.
+
+### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"주니는 '몹시 지루함을 느끼는 싫증'을 뜻하는 순우리말입니다. 나머지 단어들은 우주모(모자), 굶주림(배고픔), 내주다(주다), 주인공(중심인물)으로 의미가 다릅니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"이골이 나다: 아주 길이 들어서 몸에 푹 밴 버릇을 뜻하는 명사는 '이골'이다.
+
+### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,A,"### ANSWER
+A"
+General Knowledge,C,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"KARD는 남녀 혼성(남녀공학) 그룹으로, 2022년 미니앨범 'Re:'의 타이틀곡 'Ring The Alarm'으로 컴백했습니다. 나머지 선택지들은 1990년대 그룹이거나 남성 그룹입니다.
+
+### ANSWER
+C"
+General Knowledge,C,C,"Reasoning: 동방신기는 2003년 12월 싱글 ""Hug(허그)""로 데뷔했다. ""주문-Mirotic""은 2008년, ""풍선""은 리메이크 곡, ""Love in the Ice""와 ""Share The World""는 일본 활동 곡이다.
+
+### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"식부(植付)는 일본식 한자어로 모나 씨앗을 심는 것을 뜻하며, 이를 순화한 우리말은 '심기'입니다.
+
+### ANSWER
+E"
+Loan Words,E,E,"로그(log)는 컴퓨터 시스템의 사용 내역 등을 남긴 것으로, 우리말 순화어는 '기록'이다. 다른 선택지들은 로그와 무관한 단어들이다.
+
+### ANSWER
+E"
+Loan Words,D,D,"""length""는 영어로 길이를 뜻하며, 순우리말 순화어는 ""길이""이다.
+
+### ANSWER
+D"
+Loan Words,C,C,"인스톨레이션(installation)은 국어 순화어로 '설치' 또는 '설치 미술'로 대체됩니다.
+
+### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,A,B,"### ANSWER
+B"
+Loan Words,D,D,"셀렉션(selection)은 영어 차용어로, 우리말 순화어는 '선택'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"""카운트다운""은 시간을 거꾸로 세는 것을 뜻하며, 우리말 표준 순화어는 ""초읽기""이다.
+
+### ANSWER
+E"
+Standard Nomenclature,E,E,"치패(稚貝)의 '패'는 조개를 뜻하므로 어린 조개, 즉 조개 종패를 의미한다.
+
+### ANSWER
+E"
+Standard Nomenclature,A,A,"Journalism의 우리말 표준 전문 용어는 '언론'입니다. 나머지 선택지(의미론, 테토론, 언 알, 토론자)는 저널리즘과 무관한 용어입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,A,A,"잔존(殘存)은 '남아 있음'을 뜻하므로 잔존 기간은 '남은 기간'으로 순화된 표준 전문 용어입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"아우라(aura)는 사람이나 사물에서 느껴지는 고유한 분위기·품격을 뜻하므로, 우리말 표준 용어로는 '기품'이 적절하다. 나머지 선택지는 수학·경제 용어로 의미가 전혀 다르다.
+
+### ANSWER
+E"
+Standard Nomenclature,C,C,"The Korean standard term for ""button"" (버튼) on clothing is 단추.
+
+### ANSWER
+C"
+Standard Nomenclature,E,E,"모티켓은 모바일(mobile)과 에티켓(etiquette)의 합성어로, 통신 기기 사용 시의 예절을 뜻하므로 표준 순화 용어는 '통신 예절'이다.
+
+### ANSWER
+E"
+Rare Words,E,E,"간발(間髮)은 '아주 잠깐 또는 아주 적음'을 뜻하는 말로, '간발의 차이'처럼 쓰인다. 다른 선택지들은 옷, 도구, 온천, 나뭇단 등을 뜻한다.
+
+### ANSWER
+E"
+Rare Words,D,D,"한밑천은 일을 이루는 데 큰 도움이 되는 돈이나 물건을 뜻하는 말입니다. 나머지는 짝, 겨울, 실 가닥, 작은 하천 등 다른 의미입니다.
+
+### ANSWER
+D"
+Rare Words,D,D,"통찰력 means insight — the ability to perceive/insight into things or phenomena.
+
+### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,D,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,D,D,"The question asks about a Sejong-era book depicting acts of loyalty, filial piety, and virtuous women with illustrations and explanations — this is the 삼강행실도 (Samgang haengsildo), compiled in 1434. The other options are paintings (미인도, 모견도, 조충도) or a painting style (진경산수화).
+
+### ANSWER
+D"
+History,C,C,"1960년 3월 15일 자유당의 부정선거에 항거하여 마산 시위가 일어나고 이것이 전국으로 확산되어 4.19 혁명으로 이어졌으며 이승만 정권이 붕괴했다.
+
+### ANSWER
+C"
+History,C,C,"**### ANSWER
+C**"
+History,C,C,"1997년 11월 외환위기 당시 IMF 구제금융을 요청한 것은 김영삼 정부이며, 이후 관리·극복은 김대중 정부에서 이루어졌다. 요청 시점의 정부는 김영삼 정부이다.
+
+### ANSWER
+C"
+History,E,E,"Onjo, son of Jumong, fled south and founded Baekje.
+
+### ANSWER
+E"
+History,C,C,"Silla was founded by Bak Hyeokgeose; Onjo founded Baekje and Jumong founded Goguryeo.
+
+### ANSWER
+C"
+History,B,B,"신라가 668년 삼국을 통일했습니다.
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"계단은 '오르다/올라가다'와 쓰이고, 스키·버스는 '타다', 용돈도 '타다(받다)'가 가능합니다. 따라서 '타요'와 어울리지 않는 것은 계단입니다.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"The context shows ""언니가 있습니다"" followed by ""오빠( ) 있습니다,"" meaning ""I also have an older brother,"" which requires the additive particle 도. The 을 belongs to 과일을 샀습니다 in the reference sentence.
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"The question ""이 서류 언제까지 보내요?"" asks by when the documents should be sent, implying the questioner is the sender seeking instruction. The appropriate response is an imperative/polite command telling them the deadline: ""12시까지 보내세요.""
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"The question asks about weekend plans (future), so a past tense or past experience form doesn't fit. ""하기로 했어요"" expresses a decision/plan to do something, which suits a future arrangement with a friend.
+
+### ANSWER
+C"
+Rare Words,D,D,"후일담(後日譚)은 어떤 사건 이후의 경과를 덧붙여 이야기하는 것을 뜻합니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"A는 '미안(未安)'과 '풀이'가 결합해 남에게 끼친 폐에 대해 사죄하는 일을 뜻하는 말입니다. 나머지는 각각 밭일, 미장 기술자, 길이 관련, 반복 등의 뜻으로 사죄와 무관합니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"머리는 '처음, 으뜸'의 뜻을 지니므로 '머리공'이 가장 먼저 내세울 만한 큰 공을 뜻하는 말이다.
+
+### ANSWER
+C"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"암산을 뜻하는 순우리말 표현은 '주먹셈'이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"새침한 성격을 지닌 사람을 뜻하는 말은 '새침데기(새침떼기)'입니다. 나머지는 성격과 무관한 단어들입니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"기둥뿌리는 집의 기둥 밑부분으로, 비유적으로 사물을 지탱하는 근본·기반을 뜻한다. 나머지는 실제 식물의 뿌리 종류를 가리키는 말이다.
+
+### ANSWER
+B"
+Rare Words,A,A,"셈평은 이익을 따져 보는 생각, 또는 생활의 형편을 뜻하는 순우리말입니다.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"Text says do not rinse with fresh water, bottled water, or alcohol — use seawater. So A is incorrect.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"㉠은 시각·청각 채널을 분리해 부담이 적고, ㉡은 처리해야 할 정보가 늘어나 이해를 방해한다. 따라서 두 방식이 한 번에 수용되는 정보량에 차이가 없다는 진술은 본문과 어긋난다.
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"The text advises bending the knees while descending, not straightening them, so D contradicts the passage.
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"작벼리는 물가의 모래벌판에 돌이 섞여 있는 곳을 뜻하는 고유어입니다. 나머지는 각각 뿌리, 피 제거, 금속 가공, 위치 관련 단어입니다.
+
+### ANSWER
+E"
+Rare Words,C,C,"뒵들다는 서로 덤벼들어 말다툼하다는 뜻의 옛말/방언 표현입니다. 나머지 단어들은 각각 강제로 가져가다, 즐기다, 보호하다, 널리 알리다 등의 의미로 다릅니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"살바람은 초봄에 부는 찬 바람 또는 좁은 틈으로 들어오는 찬바람을 뜻하는 우리말이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"달소수는 '한 달이 조금 넘는 기간'을 뜻하는 고유어로, '달'에 조금 넘음을 뜻하는 '소수'가 붙은 말이다. 나머지 선택지는 관련 없는 단어들이다.
+
+### ANSWER
+C"
+Rare Words,E,E,"비를 잠시 피해 그치기를 기다리는 일을 뜻하는 고유어는 '비그이'입니다.
+
+### ANSWER
+E"
+Rare Words,C,C,"치송(治送)은 행장을 준비하여 길을 떠나보내는 것을 뜻하는 말이다.
+
+### ANSWER
+C"
+Rare Words,D,D,"도리기는 여러 사람이 돈을 나누어 내어 음식을 마련해 나누어 먹는 것을 뜻하는 고유어입니다.
+
+### ANSWER
+D"
+Reading Comprehension,A,A,"The sentence expresses purpose of going (""to buy indigestion medicine, I'm going to the pharmacy""), which requires the purpose ending -(으)러 with movement verbs.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"The context: ""That shoe is uncomfortable"" → ""If those shoes are small, try these shoes."" A conditional is needed before a suggestion/command, and -(으)면 is the only conditional form that works with the imperative.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"Not knowing how to swim means being unable to swim, which matches ""못 해요"" (cannot do).
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"The sequential ""-아서/어서"" indicates meeting the friend first, then going to the department store together — equivalent to ""친구를 만난 후에 백화점에 갑니다.""
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"""회의 중"" (meeting in progress) is a sign posted where meetings take place, which is an office setting.
+
+### ANSWER
+A"
+Reading Comprehension,C,C,"Signs prohibiting photography are typically found in museums, where flash photography can damage artifacts.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"**나이** (age) — the text states ages 27 and 30.
+
+### ANSWER
+B"
+History,D,D,"진흥왕은 백제와 연합해 고구려를 공격하여 한강 유역을 차지하고, 화랑도를 국가적 조직으로 정비했습니다.
+
+### ANSWER
+D"
+History,D,D,"화랑도 출신으로 무열왕(김춘추)을 도와 백제와 고구려를 정벌한 명장은 김유신이다.
+
+### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,A,A,"고려는 왕건이 자신의 근거지였던 송악(개성)을 수도로 삼아 개경이라 하였다.
+
+### ANSWER
+A"
+History,C,C,"### ANSWER
+C"
+History,B,B,"세종 대의 4군 6진 개척으로 압록강·두만강을 국경으로 확정한 것은 조선시대입니다.
+
+### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,A,A,"안시성 전투(645년)에서 고구려 군을 지휘하여 당 태종의 군대를 막아낸 인물은 양만춘으로 전해진다. 서희는 거란과의 외교, 강감찬은 귀주대첩, 윤관은 여진 정벌, 김유신은 삼국통일 관련 인물이다.
+
+### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"iKON's fandom is ""iKONIC"" and their official lightstick is called 콘배트 (KONBAT), a pun combining ""iKON"" with ""combat/bat"" shape.
+
+### ANSWER
+C"
+General Knowledge,D,B,"WINNER's 2014 debut track ""공허해 (Empty)"" music video was shot entirely in monochrome, unlike their later colorful videos such as ""Really Really,"" ""ISLAND,"" or ""LOVE ME LOVE ME.""
+
+### ANSWER
+B"
+General Knowledge,C,C,"2010 MAMA에서 대상급 '올해의 아티스트'를 받은 그룹은 2NE1이며, 엔믹스·아이브·뉴진스는 2020년대 데뷔라 해당될 수 없습니다.
+
+### ANSWER
+C"
+General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"진구덥은 자질구레하고 지저분한 뒤치다꺼리하는 일을 뜻하는 고유어입니다.
+
+### ANSWER
+B"
+Rare Words,C,C,"Reasoning: The word describes someone unmoved emotionally — ""stone heart"" (돌심장) fits this metaphorical meaning.
+
+### ANSWER
+C"
+Rare Words,A,A,"작살비는 매우 굵고 줄기차게 쏟아지는 비를 뜻하는 고유어이며, 나머지는 비의 종류와 무관한 단어들이다.
+
+### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"치사랑은 '아랫사람이 윗사람을 사랑함'을 뜻하는 말로, 윗사람이 아랫사람을 사랑하는 '내리사랑'과 대조되는 단어입니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"모가치는 ""몫으로 돌아오는 물건""을 뜻하는 표준어입니다. 나머지는 관련 없는 단어들입니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Reading Comprehension,A,A,"Reasoning: The sentence states what the speaker will do Friday morning and afternoon using future tense (~을 겁니다), describing intended activities — this is a plan.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"Climbing and traveling are leisure activities one likes — these are hobbies (취미).
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"The text says the narrator will miss friends they studied with for three years, which matches ""보고 싶을 겁니다."" The others contradict the passage (graduation, parents gave flowers, took photos with teachers).
+
+### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"The passage states many people don't do warm-up exercises before swimming, so D contradicts it.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,E,E,"윤관은 별무반을 조직하고 여진 정벌 후 동북 9성(함경도 지역)을 축조했다.
+
+### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,C,C,"### ANSWER
+C"
+History,B,B,"### ANSWER
+B"
+History,A,A,"**### ANSWER
+A**"
+History,D,D,"홍대용은 조선 후기 실학자로 혼천의를 제작하고 지구가 회전한다는 지전설(지동설)을 주장했다.
+
+### ANSWER
+D"
+Rare Words,A,A,"허리를 사용해 일한 뒤 잠깐 쉬며 허리의 피로를 푸는 것을 뜻하는 말은 '허리쉼'입니다. 나머지 단어들은 동작(내리다, 올리다), 지명(그리스), 사물(천리안)로 의미가 전혀 다릅니다.
+
+### ANSWER
+A"
+Rare Words,D,D,"허물은 살갗에서 저절로 벗어지는 껍질(꺼풀)을 뜻하는 단어입니다.
+
+### ANSWER
+D"
+Rare Words,D,D,"두 가지 마음, 즉 배신하거나 다른 생각을 품는 부정적 의미를 가진 단어는 ""두마음""이다.
+
+### ANSWER
+D"
+Rare Words,E,E,"여윈잠은 '깊이 들지 못한 잠, 충분하지 못한 잠'을 뜻하고, 그루잠은 깼다가 다시 든 잠, 겨울잠·여름잠은 동물의 휴면을 의미합니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"떠는잠은 조선시대 왕실 여성이 큰머리에 꽂던 머리 장식품(떨잠)으로, 머리를 꾸미는 장식품을 뜻합니다. 나머지는 머리 장식과 관련이 없습니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"[The word meaning ""cause of troublesome matters"" is 일집; the others refer to time, dwelling, mold, or tiled house.]
+
+### ANSWER
+A"
+Rare Words,C,C,"쟁집(爭執)은 서로 자기 주장을 고집하며 다투는 것을 뜻하는 단어이며, 나머지는 모두 건물·집의 종류를 가리키는 말입니다.
+
+### ANSWER
+C"
+Rare Words,E,E,"거짓으로 자는 체하는 잠은 '헛잠'이라 하며, '헛-'은 거짓·헛됨을 뜻하는 접두사입니다. 갈치잠은 좁은 곳에서 여럿이 옆으로 자는 잠을 뜻합니다.
+
+### ANSWER
+E"
+Loan Words,B,B,"""락(lock)""은 영어 차용어로, 우리말 순화어는 ""잠금""이다.
+
+### ANSWER
+B"
+Loan Words,C,C,"""스테이터스(status)""는 우리말로 ""상태""로 순화해 쓸 수 있습니다. 다른 선택지는 각각 bottom-up(상향식), 브랜딩(상표화), 아이보리(상아색), 개비온(돌망태)에 해당합니다.
+
+### ANSWER
+C"
+Loan Words,A,A,"""스테이트(state)""는 우리말로 ""상태""로 순화하여 쓸 수 있습니다. 나머지 선택지는 각각 다른 외래어(에콜로지, 보텀업 등)의 순화어에 해당합니다.
+
+### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,C,C,"균제(均齊)는 고르고 가지런함을 뜻하는 한자어로, 이를 우리말로 다듬은 순화어는 '고르기'이다.
+
+### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"뜸은 한 마을 안에서 몇 집씩 따로 모여 있는 구역을 뜻하는 말이므로, '뜸마을'이 몇 집씩 모여 있는 작은 마을을 의미합니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"가탈 means a condition that hinders things from going smoothly (obstacle, hitch).
+
+### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"뒤안길은 '다른 것에 가려서 관심을 끌지 못하는 쓸쓸한 생활이나 처지'를 뜻하는 고유어입니다. 나머지는 그런 의미를 갖지 않습니다.
+
+### ANSWER
+E"
+Standard Nomenclature,E,E,"매점매석(買占賣惜)은 물건을 사서 쌓아두고 팔지 않는 행위로, 순화된 표준 용어는 ""사재기""이다.
+
+### ANSWER
+E"
+Standard Nomenclature,D,D,"""마켓""은 영어 market의 외래어 표기로, 이를 대체하는 표준 전문 용어는 '시장'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,B,B,"Logging(로깅)은 시스템의 동작이나 이벤트를 남기는 것으로, 우리말 표준 전문 용어로는 ""기록""에 해당합니다. 나머지 선택지는 관련 없는 단어입니다.
+
+### ANSWER
+B"
+Standard Nomenclature,C,C,"뉴스레터(newsletter)의 국어 표준 순화어는 '소식지'입니다.
+
+### ANSWER
+C"
+Standard Nomenclature,A,A,"그린웨이(greenway)는 국어 표준 전문 용어로 '녹색길'로 순화하여 사용합니다. 이는 도시 내 녹지를 연결하는 선형 녹지 공간을 뜻합니다.
+
+### ANSWER
+A"
+Standard Nomenclature,D,D,"흉부(胸部)는 한자어이며, 표준 해부학 전문 용어(우리말 용어)로는 '가슴'으로 표기한다. 따라서 흉부 부분은 '가슴 부분'이 올바른 용어이다.
+
+### ANSWER
+D"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,D,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"The passage's main idea is that actinomycetes, soil microbes, provide many benefits to our lives (nitrogen supply, decomposition, antibiotics).
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"The passage notes smartphones revolutionized life positively but also highlights negative aspects like addiction, especially among youth. This balanced view matches D.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"Seventeen is a K-pop group with 13 members, despite the name.
+
+### ANSWER
+C"
+General Knowledge,C,C,"ATEEZ의 막내(가장 어린 멤버)는 최종호로, 1998년 10월생 메인보컬입니다. 홍중은 리더, 산·우영·윤호는 그보다 형입니다.
+
+### ANSWER
+C"
+General Knowledge,B,B,"""After Like""는 글로리아 게이너의 'I Will Survive' 후렴 리프를 샘플링한 IVE의 곡이다.
+
+### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,A,"### ANSWER
+A"
+General Knowledge,C,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"(가) introduces topic, (다) prevention advice, (라) specifics about washing with soap, (나) adds that not touching eyes matters as much as washing.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"The coupon is valid Feb 12–28, so it can only be used through February. It's a 3,000원 discount (not a 3,000원 ticket price), excludes the Jeju branch, and is weekdays only.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,B,B,"최무선은 화통도감을 통해 화약과 화포를 제작하여 1380년 진포(금강 하구) 해전에서 왜구를 격파했다.
+
+### ANSWER
+B"
+History,B,B,"### ANSWER
+B"
+History,A,A,"담징은 고구려 영양왕 때 승려로 일본에 건너가 종이·먹 제조법을 전하고 호류사 금당 벽화를 그렸다고 전해진다.
+
+### ANSWER
+A"
+History,C,C,"신라는 당나라와 활발히 교류하며 유학생(숙위학생), 구법승, 상인, 사신 등이 왕래하였다.
+
+### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,A,A,"Tokugawa Ieyasu established the Edo shogunate after Hideyoshi's death and sought to restore diplomatic relations with Joseon, leading to the Tongsinsa missions.
+
+### ANSWER
+A"
+History,B,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"Effective information transfer is the cooperative principle, not politeness; the text says speakers aren't always focused only on efficient information delivery.
+
+### ANSWER
+D"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"화수분은 재물이 계속 나오는 보물단지를 뜻하는 말입니다.
+
+### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,C,C,"애송이는 나이가 어리거나 경험이 부족한 사람, 즉 어린 티가 나는 사람이나 물건을 뜻하는 단어입니다. 나머지는 반복, 동물, 늦게 시작한 사람, 빛나는 물건 등 다른 의미입니다.
+
+### ANSWER
+C"
+Rare Words,E,E,"푸둥지는 아직 깃이 나지 않은 어린 새의 날갯죽지를 뜻하는 고유어입니다. 나머지는 모두 다른 의미의 단어들입니다.
+
+### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"가락지는 기둥머리 등의 둘레를 감은 쇠테를 뜻하기도 하고, 여자가 손가락에 끼는 두 짝의 고리(반지)를 뜻하기도 합니다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"환부(患部)는 병이나 상처가 있는 부위를 뜻하는 한자어로, 이를 쉬운 우리말 표준 용어로 바꾸면 ""아픈 곳""이 된다. 나머지 선택지는 환부의 의미와 무관하다.
+
+### ANSWER
+E"
+Standard Nomenclature,B,B,"Among the options, ""확인인"" corresponds to the confirmation/validation seal, so the standard term is 확인 도장 rather than a date, institutional, or personal stamp.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"호맥(胡麥)은 곡물 라이(rye)를 뜻하는 한자어이며, 표준 용어는 '호밀'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"피톨 is the standardized native Korean term for 혈구 (blood cell), as used in Korean medical/scientific terminology (e.g., 붉은피톨 for red blood cell). The other options relate to shelters or unrelated words.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"헬멧(helmet)의 표준 전문 용어(순화어)는 ""안전모""이다. 나머지 선택지는 지름이나 다른 용어와 관련된 것이다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"헤어 밴드는 머리에 두르는 띠로, 우리말 표준 용어는 '머리띠'입니다.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"헤게모니(hegemony)는 어떤 집단이 주도적 지위를 갖는 것을 뜻하며, 국립국어원의 순화어(표준 전문 용어)로 '주도권'이 제시되어 있다.
+
+### ANSWER
+D"
+Rare Words,E,A,"### ANSWER
+A"
+Rare Words,E,C,"### ANSWER
+C"
+Rare Words,D,D,"책의 앞부분(머리)에 실려 주요 내용을 나타내는 그림은 '머릿그림(권두화, frontispiece)'이다. '머리'가 앞부분을 뜻하므로 D가 적절하다.
+
+### ANSWER
+D"
+Rare Words,B,B,"갈치잠은 좁은 곳에서 여러 사람이 모로 끼어 자는 잠을 뜻하는 말로, 갈치처럼 몸을 옆으로 세워 눕는 모습에서 유래했다.
+
+### ANSWER
+B"
+Rare Words,C,C,"괭이잠은 고양이처럼 자주 깨면서 얕게 자는 잠을 뜻하는 고유어입니다. 나머지 선택지는 잠과 관련된 의미가 없습니다.
+
+### ANSWER
+C"
+Rare Words,A,A,"[The prefix ""알-"" means bare/uncovered, so ""알땅"" refers to bare ground with nothing to block wind and rain.]
+
+### ANSWER
+A"
+Rare Words,B,B,"등걸잠은 옷을 입은 채 아무것도 덮지 않고 아무 데나 쓰러져 자는 잠을 뜻한다. 그루잠은 깨었다가 다시 든 잠, 여윈잠은 깊이 들지 못한 잠이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"돌꼇잠은 한자리에 눕지 못하고 이리저리 굴러다니면서 자는 잠을 뜻합니다. 그루잠은 깨었다가 다시 든 잠이며, 나머지는 관련이 없습니다.
+
+### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"ASTRO의 공식 팬클럽 색상은 2019년에 발표된 우주 테마의 두 가지 색상으로, 스페이스 바이올렛과 비비드 플럼입니다.
+
+### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"NCT의 대표적인 서브 유닛은 NCT U, NCT 127, NCT Dream, WayV로 총 4개로 알려져 있습니다.
+
+### ANSWER
+D"
+General Knowledge,C,C,"Wonder Girls' ""Nobody"" entered the Billboard Hot 100 at #76 in 2009, making them the first K-pop act to appear on that chart.
+
+### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"Option D uses an indirect, self-deprecating expression that attributes the problem to the speaker's own hearing rather than directly commanding the listener to repeat, thus minimizing the burden on the hearer—just like ""찬바람이 들어온다."" The others involve excuses, self-praise, or direct demands.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Rare Words,C,C,"해코지 means an act intended to harm someone.
+
+### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"눈부처는 눈동자에 비쳐 나타난 사람의 형상을 뜻하는 순우리말입니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"눈비음 is the Korean word meaning making an outward show merely to please others' eyes.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"비를 머금은 검은 조각구름을 뜻하는 순우리말은 '매지구름'이다. 나머지는 모두 지름 관련 용어이다.
+
+### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"The word 행선지 (行先地) means the place one is going to, i.e., ""가는 곳.""
+
+### ANSWER
+E"
+Standard Nomenclature,D,D,"햅틱(haptic)은 촉각·힘 피드백을 다루는 기술로, 표준 용어로는 '촉각 기술'로 번역된다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,E,E,"""학부형""은 아버지·형을 뜻하는 편향된 표현으로, 표준화된 용어는 부모를 포괄하는 ""학부모""이다.
+
+### ANSWER
+E"
+Standard Nomenclature,E,E,"하프 코트(half coat)는 순화된 표준 용어로 ""반코트""라고 표현합니다. 나머지 선택지는 의미가 전혀 다른 단어들입니다.
+
+### ANSWER
+E"
+Standard Nomenclature,A,A,"""하이 삭스""는 국립국어원 순화어로 '긴양말'로 대체되는 외래어 표현이다.
+
+### ANSWER
+A"
+Standard Nomenclature,E,E,"핀트는 일본어 ピント에서 온 말로, 우리말 표준 용어는 '초점'이다.
+
+### ANSWER
+E"
+Standard Nomenclature,A,A,"플리츠(pleats)는 주름을 뜻하므로 플리츠 스커트의 표준 용어는 주름치마이다.
+
+### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,D,"### ANSWER
+D"
+Loan Words,A,A,"""헬프(help)""의 순화어는 '도움말'이며, 도입종은 exotic species, 그림말은 이모티콘, 긴양말은 스타킹의 순화어입니다.
+
+### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"피니싱(finishing)은 '마무리'로 순화된다.
+
+### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"선바람은 '지금 차리고 나선 그대로의 차림새'를 뜻하는 순우리말입니다. 나머지 단어들은 잎의 바탕, 바르다, 모습을 바꿈, 아래쪽 등 다른 의미를 지닙니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"한물은 채소·과일·해산물 등이 제철에 한창 많이 나오는 때를 뜻하는 말이다.
+
+### ANSWER
+A"
+Rare Words,A,A,"일의 방법이나 절차의 줄거리를 뜻하는 우리말은 '일머리'이다. 나머지 단어들은 금속 열처리, 원래 있던 자리, 남은 것, 망치 종류 등 다른 의미를 가진다.
+
+### ANSWER
+A"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"주마등(走馬燈)은 언뜻언뜻 빨리 지나가는 것을 비유하는 말이다.
+
+### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"치레는 실속 이상으로 겉을 꾸미어 드러냄, 또는 잘 손질하여 모양을 냄을 뜻하는 말이다. 나머지 선택지는 동작이나 사물의 이름으로 의미가 다르다.
+
+### ANSWER
+A"
+Rare Words,D,D,"**자리매김** means establishing a fixed position in society or people's perception.
+
+### ANSWER
+D"
+History,E,E,"최충은 고려 시대 문헌공도(9재학당)를 세운 학자로 '해동공자'라 불렸다.
+
+### ANSWER
+E"
+History,B,B,"### ANSWER
+B"
+History,A,A,"병인양요(1866) 때 정족산성에서 프랑스군을 격퇴한 인물은 양헌수 장군이다.
+
+### ANSWER
+A"
+History,E,E,"### ANSWER
+E"
+History,B,B,"이승훈은 1784년 베이징에서 세례(세례명 베드로)를 받은 한국 최초의 천주교 영세자입니다.
+
+### ANSWER
+B"
+History,D,D,"지봉유설은 이수광이 편찬한 백과전서적 저술로, 천주교와 서구 문물을 처음 소개한 책이다.
+
+### ANSWER
+D"
+History,E,E,"정두원은 1630년(인조 8년) 명(청) 사신으로 다녀오며 천리경, 자명종, 화포, 천문·지리 서적 등을 들여왔다.
+
+### ANSWER
+E"
+History,D,D,"단발령은 을미개혁의 상징이지만, 과거제 폐지·노비제 폐지는 1894년 갑오개혁의 핵심 내용입니다. 넓은 의미의 갑오개혁(1~3차)은 을미개혁 내용까지 포함해 다루어지므로, 세 항목을 모두 아우르는 것은 갑오개혁입니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"초꼬슴은 어떤 일을 시작하는 맨 처음을 뜻하는 우리말 단어입니다. 초단파는 전파, 초상집은 상가, 초기값은 수학·공학 용어입니다.
+
+### ANSWER
+C"
+Rare Words,E,E,"초꼬지는 작은 전복을 말린 것을 뜻하는 우리말 단어입니다.
+
+### ANSWER
+E"
+Rare Words,E,E,"시름 is the Korean word meaning lingering worry or anxiety that weighs on one's mind.
+
+### ANSWER
+E"
+Rare Words,B,B,"끝없는 시름은 '만리수(萬里愁)'로, 만 리에 걸친 근심이라는 뜻입니다. 다른 선택지들은 시름과 무관한 의미입니다.
+
+### ANSWER
+B"
+Rare Words,D,D,"섬서하다는 '지내는 사이가 서먹서먹하다'는 뜻의 우리말 형용사입니다. 나머지 단어들은 각각 '전과 같다', '붙이다', '힘쓰다', '넓히다'의 의미로 관련이 없습니다.
+
+### ANSWER
+D"
+Rare Words,D,D,"""서낙하다""는 장난이 심하고 하는 짓이 극성맞다는 뜻의 형용사입니다. 다른 선택지들은 피함, 변화, 명확함 등의 의미로 관련이 없습니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"도치기는 인색하고 인정이 없는 사람을 가리키는 말로, 나머지 선택지는 관련 없는 단어들이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,C,C,"접질리다는 심한 충격으로 지나치게 접혀 삔 상태, 비유적으로 기가 꺾임을 뜻한다.
+
+### ANSWER
+C"
+Rare Words,C,C,"""다락같다""는 물건 값이 매우 비싸다는 뜻을 가진 형용사입니다. 다른 선택지들은 각각 다루다(취급하다), 다채롭다(여러 색이나 종류), 다급하다(매우 급하다)의 의미입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"""국으로""는 '제 생긴 그대로, 자기 주제에 맞게'를 뜻하는 부사입니다.
+
+### ANSWER
+B"
+Rare Words,B,B,"""하나""는 ""뜻이 하나다""처럼 마음·생각이 일치한 상태를 나타내는 의미로 쓰인다.
+
+### ANSWER
+B"
+Rare Words,B,B,"청안시(靑眼視)는 푸른 눈으로 본다는 뜻으로, 남을 달갑게 여겨 좋은 마음으로 봄을 의미한다.
+
+### ANSWER
+B"
+Rare Words,A,A,"""뜬금""은 일정하지 않고 시세에 따라 달라지는 값을 뜻하는 말입니다.
+
+### ANSWER
+A"
+Rare Words,D,D,"기시감(déjà vu)은 처음 경험하는 상황을 이미 경험한 것처럼 느끼는 현상을 뜻한다.
+
+### ANSWER
+D"
+History,C,C,"독립신문(1896)은 서재필이 정부 지원을 받아 창간하고 중심적으로 발행한 최초의 민간 신문입니다.
+
+### ANSWER
+C"
+History,A,A,"### ANSWER
+A"
+History,E,E,"독립협회가 종로에서 개최한 대중 집회로, 각계각층의 사람들이 자유롭게 연설하고 토론했던 모임은 만민공동회입니다.
+
+### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,A,A,"### ANSWER
+A"
+History,A,A,"배재학당은 1885년 미국 북감리회 선교사 아펜젤러가 설립한 근대식 학교이며, 이화학당은 스크랜턴, 육영공원은 정부, 대성학교는 안창호, 원산학사는 지역민이 설립했다.
+
+### ANSWER
+A"
+History,B,B,"Mary Scranton founded Ewha Haktang (이화 학당) in 1886 for women's education.
+
+### ANSWER
+B"
+History,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,A,A,"품의서는 일본식 한자어로, 우리말 순화 표준 용어는 '건의서'입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"표지(冊 표지)는 책의 겉면을 뜻하며, 이에 대응하는 우리말 표준 용어는 '겉장'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"포멀 웨어(formal wear)의 우리말 표준 전문 용어는 '정장'입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,A,A,"편모(偏母)는 아버지 없이 홀로 자녀를 키우는 어머니를 뜻하므로, 순화된 표준 용어는 '홀어머니'이다. 나머지 선택지는 모임이나 주머니를 뜻하는 무관한 단어들이다.
+
+### ANSWER
+A"
+Standard Nomenclature,E,E,"페스트(plague)의 우리말 표준 용어는 '흑사병'이다. 나머지 선택지는 관련 없는 표현이다.
+
+### ANSWER
+E"
+Standard Nomenclature,E,E,"패션에서 시즌별로 유행하는 색을 지칭하는 표준 전문 용어는 '유행색(trend color)'이다. 나머지 선택지는 색채 용어와 무관하다.
+
+### ANSWER
+E"
+Standard Nomenclature,C,C,"스포츠 용어 '파울(foul)'은 규칙 위반을 뜻하므로 우리말 표준 순화어는 '반칙'이다. 나머지는 의미가 전혀 다른 단어들이다.
+
+### ANSWER
+C"
+General Knowledge,D,D,"Based on commonly cited K-pop generational divisions (1st: late 1990s, 2nd: mid-2000s, 3rd: 2012–2017, 4th: 2018 onward), the widely referenced count at present is four generations.
+
+### ANSWER
+D"
+General Knowledge,C,C,"BoA는 데뷔 이후 줄곧 솔로로만 활동해 그룹 활동 경력이 없는 유일한 인물입니다. 나머지는 소녀시대, 레드벨벳, 에스파 등 그룹 소속입니다.
+
+### ANSWER
+C"
+General Knowledge,D,D,"Hani's fancam of ""위 아래"" (Up & Down) went viral in 2014, reviving the song on the charts and preventing EXID's disbandment.
+
+### ANSWER
+D"
+General Knowledge,C,C,"Psy의 '강남스타일'은 2012년 발표 후 유튜브 최초 10억 뷰를 돌파하며 30억 뷰 이상을 기록해, 2021년 이전 K-Pop 뮤직비디오 중 최다 조회수를 보유했습니다. 블랙핑크의 '뚜두뚜두'는 K-Pop 그룹 뮤직비디오 중 최다였으나 전체로는 강남스타일에 미치지 못했습니다.
+
+### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"W (더블유)는 16부작으로 방영되었고, 상속자들·피노키오·닥터스는 20부작, 꽃보다 남자는 25부작이다.
+
+### ANSWER
+B"
+General Knowledge,E,E,"""안나""는 쿠팡플레이 오리지널 시리즈이며, 나머지 보건교사 안은영, 수리남, 더 글로리, 마이 네임은 모두 넷플릭스 오리지널 작품입니다.
+
+### ANSWER
+E"
+General Knowledge,D,C,"### ANSWER
+C"
+Rare Words,C,C,"감응(感應)은 어떤 자극이나 느낌을 받아 마음이 따라 움직이는 것을 뜻하는 단어이다. 나머지 선택지는 감자 관련 단어이거나 감도를 나타내는 말이다.
+
+### ANSWER
+C"
+Rare Words,A,A,"깜냥은 스스로 일을 헤아림, 또는 헤아릴 수 있는 능력을 뜻하는 순우리말입니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"**깜빡이** is the colloquial term for a car's turn signal (방향 지시등), named for its blinking action.
+
+### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"철(季節)을 알지 못하는 사람이라는 뜻으로, 사리를 분별하지 못하는 어리석은 사람을 가리키는 말은 '철부지'입니다. '철'은 계절을, '부지(不知)'는 알지 못함을 뜻합니다.
+
+### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"The word meaning a habit of wandering about without settling is 방랑벽 (放浪癖).
+
+### ANSWER
+A"
+Rare Words,B,B,"벽계수(碧溪水)는 물빛이 푸르게 맑은 시냇물을 뜻하는 한자어입니다.
+
+### ANSWER
+B"
+Rare Words,B,B,"자마구는 곡식의 꽃가루를 뜻하는 우리말 어휘이다.
+
+### ANSWER
+B"
+Rare Words,E,E,"나락 is used figuratively to mean an abyss or hopeless situation from which escape is difficult.
+
+### ANSWER
+E"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,E,E,"송두리(째)는 '있는 것의 전부'를 뜻하는 말이다. 나머지는 각각 물난리(홍수 피해), 우두머리(수장), 쌀보리, 판유리 등으로 의미가 다르다.
+
+### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"유리(玻璃, 파리)로 만든 옥·구슬을 뜻하는 말은 '파리옥'입니다. 나머지는 유리와 무관한 단어입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"종(從)은 사촌 관계를 나타내는 접두 한자로, 종자매는 사촌 사이의 자매를 뜻한다.
+
+### ANSWER
+D"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"**Reasoning:** The passage discusses Moore's Law describing exponential growth in memory capacity and CPU speed, noting how computing power has increased hundreds of millions of times, showing unprecedented technological development speed. The main topic is the exponentially developing computer industry.
+
+### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"The text explains negative reinforcement and then gives specific, concrete instructions on how to handle a child's tantrums—guiding parents in specific child-rearing methods.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+History,A,A,"신채호는 『조선상고사』를 저술하고 을지문덕전·이순신전 등 영웅전을 써서 민족의식을 고취했다.
+
+### ANSWER
+A"
+History,D,D,"**서유견문**은 유길준이 서구 문물을 소개한 기행문입니다.
+
+### ANSWER
+D"
+History,D,D,"혈의 누(1906)는 이인직이 지은 우리나라 최초의 신소설로 알려져 있다.
+
+### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,A,A,"파발은 조선시대 사람이 말을 타거나(기발) 달려서(보발) 공문·소식을 전달한 제도이다. 봉화는 불과 연기, 전보는 전신을 이용한 방식이다.
+
+### ANSWER
+A"
+History,A,A,"Reasoning: 광혜원(1885)은 미국인 선교사 겸 의사 호러스 알렌이 고종의 허락을 받아 설립한 최초의 서양식 병원이다. 언더우드는 선교사·교육자, 에비슨은 후에 제중원을 맡은 인물이다.
+
+### ANSWER
+A"
+History,E,C,"### ANSWER
+C"
+History,D,D,"전깃불이 처음 조선에 들어왔을 때 신기하고 변덕스럽다 하여 '도깨비불', '묘화', '괴화', '건달불' 등으로 불렸습니다. 이는 경복궁에 처음 설치된 전등을 가리키는 별칭입니다.
+
+### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,D,D,"크러셔(crusher)는 돌을 부수는 기계로, 순화어는 '쇄석기'입니다.
+
+### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,B,B,"카운터파트(counterpart)는 대응하는 상대를 뜻하므로 순화어는 '상대방'이다.
+
+### ANSWER
+B"
+Loan Words,A,A,"취체(取締)는 일본식 한자어로, 우리말 순화어는 '단속'이다.
+
+### ANSWER
+A"
+Loan Words,D,D,"지원(支援)은 한자어로, 이를 쉬운 우리말로 순화하면 '도움'이 된다. 손도장은 '지장(指章)', 포도주는 '와인', 끼움쇠는 '스페이서'의 순화어이다.
+
+### ANSWER
+D"
+Loan Words,A,A,"지나라시(地ならし)는 일본어에서 온 건설 용어로 땅을 평평하게 고르는 작업을 뜻하므로 순화어는 '땅고르기'입니다.
+
+### ANSWER
+A"
+Loan Words,E,E,"조언은 ""도움말""로 순화합니다. 이모티콘은 그림말, 서문은 머리말, 귀화종/도입종은 다른 용어입니다.
+
+### ANSWER
+E"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"파라솔은 햇빛을 가리는 우산으로, 우리말 표준 용어는 '양산'입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,A,A,"""특단의""는 일본식 표현으로, 표준 국어로는 ""특별한""으로 순화해서 써야 합니다.
+
+### ANSWER
+A"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"트랜스는 transformer의 축약어로, 표준 전문 용어는 변압기입니다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"투기장(投棄場)은 폐기물을 버리는 장소를 뜻하므로, 순화된 표준 용어는 ""버리는 곳""이다.
+
+### ANSWER
+A"
+Standard Nomenclature,E,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"Reasoning: The sentence following (다) begins with ""외국인 관광객의 경우도…"", which requires a preceding statement about domestic tourists/travel agencies struggling despite the boom. Thus the missing sentence fits right after the mention of the boom becoming meaningless for most sectors, at position (다).
+
+### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"관상은 약 913만 관객으로 천만을 넘지 못했고, 실미도·도둑들·변호인·왕의 남자는 모두 천만 관객을 돌파했습니다.
+
+### ANSWER
+C"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,D,D,"8월의 크리스마스(1998)는 한석규, 심은하 주연으로 전지현은 출연하지 않았다. 나머지는 모두 전지현 출연작이다.
+
+### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,A,"국제시장은 2014년 12월에 개봉했고, 나머지 검은 사제들·베테랑·사도·내부자들은 모두 2015년 작품이다.
+
+### ANSWER
+A"
+General Knowledge,A,A,"갯마을 차차차는 2021년 방영작이고, 나머지(나의 해방일지, 빅마우스, 이상한 변호사 우영우, 스물다섯 스물하나)는 모두 2022년 방영작입니다.
+
+### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"해학(諧謔)은 익살스럽고 품위 있는 말이나 행동을 뜻하는 단어이다. 다른 선택지들은 해면종(의학 용어), 해가림(그늘 만드는 것), 해학문학(문학 장르) 등으로 정의에 맞지 않는다.
+
+### ANSWER
+C"
+Rare Words,D,D,"틀거지는 '듬직하고 위엄이 있는 겉모양'을 뜻하는 순우리말이다.
+
+### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"겉잡다는 겉으로 보고 대강 짐작하여 헤아린다는 뜻의 단어이다(겉잡아서 이틀 걸릴 일). '걷잡다'와 구별된다.
+
+### ANSWER
+D"
+Rare Words,B,B,"[걷잡다는 ""한 방향으로 치우쳐 흘러가는 형세를 붙들어 잡다"", ""마음을 진정하거나 억제하다""의 뜻을 가진 단어이다.]
+
+### ANSWER
+B"
+History,B,B,"경인선(노량진–제물포)은 1899년 개통된 한국 최초의 철도이다.
+
+### ANSWER
+B"
+History,D,D,"덕률풍(德律風)과 다리풍은 'telephone'의 음역어로, 개화기 조선에서 전화를 부르던 명칭이다.
+
+### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,E,E,"### ANSWER
+E"
+History,A,A,"### ANSWER
+A"
+History,A,A,"민영환은 을사조약 체결에 항거하여 유서를 남기고 자결하며 동포들에게 일제에 맞서 싸울 것을 당부했다. 장지연은 '시일야방성대곡'을 쓴 언론인, 신돌석은 의병장, 안중근은 이토 히로부미를 저격한 의사, 최익현(최익현→최익현)은 대마도에서 순국한 유학자이다.
+
+### ANSWER
+A"
+History,E,E,"장지연이 1905년 황성신문에 '시일야방성대곡'을 게재하여 을사조약의 부당성을 비판했다.
+
+### ANSWER
+E"
+History,E,E,"유관순(Yu Gwan-sun)은 이화학당 재학 중 16세에 3·1 운동에 참여하고 아우내 장터에서 독립 만세 운동을 주도한 인물이다.
+
+### ANSWER
+E"
+Rare Words,B,B,"게의 수컷을 가리키는 말은 접두사 '수-'를 붙인 '수게'이다. 다른 선택지들은 게와 무관한 단어들이다.
+
+### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"청안(靑眼)은 남을 달갑게 여겨 좋은 마음으로 본다는 뜻이며, '청안시'는 그렇게 바라봄을 의미합니다. 색안경은 편견을 뜻하므로 반대 의미입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"""뜬금""은 일정하지 않고 시세에 따라 달라지는 값을 뜻하는 말입니다(여기서 '뜬금없다'가 파생됨).
+
+### ANSWER
+C"
+Rare Words,E,E,"기시감(既視感)은 déjà vu, 즉 처음 경험하는 일을 이미 본 것처럼 친숙하게 느끼는 현상을 뜻한다.
+
+### ANSWER
+E"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"적과(摘果)는 과실을 솎아내는 작업으로, 순화어는 ""열매솎기""이다.
+
+### ANSWER
+E"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,B,B,"### ANSWER
+B"
+Loan Words,E,E,"일동(一同)은 한자어로 '모두'를 뜻하므로, 순화어는 고유어 '모두'가 됩니다.
+
+### ANSWER
+E"
+Loan Words,C,C,"""인저리""는 영어 injury의 외래어로, 우리말 순화어는 '부상'이다.
+
+### ANSWER
+C"
+Loan Words,A,A,"응당일(應當日)은 '해당하는 그 날'을 뜻하는 한자어로, 순화어는 '그날'이다.
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"고대 로마에서 화장이 특권층 여성들의 상징이었다는 내용은 신분·계급 차별화를 나타내는 수단이었음을 의미한다. A는 화장의 목적 중 하나일 뿐 시작 원인은 아니며, B는 대표적 방법은 아름다움 표현이라는 점에서 부정확하고, C는 이집트의 경우 피부 보호·종교적 목적이 강조되었다.
+
+### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words,C,C,"가르마처럼 똑바로 갈라져 올라가는 언덕길을 뜻하는 말은 '가르맛길'이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"체에 걸러 액체만 받아 내는 것을 ""밭치다""라고 한다.
+
+### ANSWER
+C"
+Rare Words,D,D,"받치다 means to put something underneath to support—matches the definition.
+
+### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"촉기는 눈빛 등에서 느껴지는 생기와 재기를 뜻하는 말입니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,C,C,"감응(感應)은 어떤 느낌을 받아 마음이 따라 움직이거나 반응하는 것을 뜻하는 단어입니다. 나머지 선택지는 민감한 정도, 바느질 방법, 식물 분류, 기기 명칭 등으로 의미가 맞지 않습니다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"방향 지시등은 깜빡거리며 작동하므로 '깜빡이'라 부른다.
+
+### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+History,D,D,"제암리 학살 사건은 3·1운동 당시 일제가 화성 제암리 주민들을 교회에 모아 놓고 불을 질러 학살한 사건이다.
+
+### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,E,E,"Independence diplomacy activities abroad were notably conducted in France (Paris) and the United States (Washington), where delegations like Kim Kyu-sik's and Syngman Rhee's worked for recognition.
+
+### ANSWER
+E"
+History,A,A,"나라와 민족을 위해 의로운 일을 하다 목숨을 바친 분을 '의사(義士)'라 부른다(예: 안중근 의사, 윤봉길 의사). 다른 선택지는 모두 직업명이다.
+
+### ANSWER
+A"
+History,D,D,"### ANSWER
+D"
+History,E,E,"독립군은 만주 간도 지역과 러시아 연해주를 근거지로 삼아 조직·활동했다.
+
+### ANSWER
+E"
+History,E,E,"홍범도는 1920년 봉오동 전투에서 대한독립군을 지휘하여 일본군을 격퇴하고 독립군의 사기를 크게 높였다.
+
+### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+Loan Words,C,C,"""윙(wing)""은 영어 차용어로, 우리말 순화어는 ""날개""입니다.
+
+### ANSWER
+C"
+Loan Words,A,A,"요동(搖動)은 흔들려 움직임을 뜻하므로 순화어는 '흔들림'이다.
+
+### ANSWER
+A"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,E,E,"심도(深度)는 한자어로, 고유어 순화어는 ""깊이""이다.
+
+### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,C,C,"소집(召集)은 사람을 불러 모으는 것으로, 이를 고유어로 순화하면 '모음'이 된다. 나머지는 대각선(맞모금), 사각형(네모틀) 등 다른 용어의 순화어이다.
+
+### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,B,B,"""서비스 차지(service charge)""는 봉사에 대한 대가로 받는 요금이므로 순화어는 '봉사료'이다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"고스락은 '가장 위태롭고 아슬아슬한 순간, 절정의 때'를 뜻하는 순우리말입니다. 다른 선택지들은 품질, 재귀 표현, 비판, 피고용인 등 전혀 다른 의미입니다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"조리차는 물건을 알뜰하게 아껴 쓰는 일을 뜻하는 고유어입니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,C,E,"The coupon cannot be combined with others (A false), cannot be used on weekends including Saturday (B false), and C and D are unrelated to the coupon content. Therefore none of the statements match.
+
+### ANSWER
+E"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+General Knowledge,E,E,"기황후는 고려 말~원나라를 배경으로 하며, 나머지 작품들(공주의 남자, 성균관 스캔들, 마의, 일지매)은 모두 조선 시대를 배경으로 합니다.
+
+### ANSWER
+E"
+General Knowledge,D,D,"김은숙 작가는 '더 글로리', '미스터 션샤인', '시크릿 가든', '신사의 품격'을 집필했다. '시그널'은 김은희 작가의 작품이다.
+
+### ANSWER
+D"
+General Knowledge,B,B,"Life on Mars, 본 대로 말하라, 38사 기동대, 미씽: 그들이 있었다는 모두 OCN 드라마이지만, '라이브'는 tvN에서 방영되었습니다.
+
+### ANSWER
+B"
+General Knowledge,C,C,"택시운전사는 광주(5·18)와 서울을 배경으로 하고, 나머지는 모두 부산을 배경으로 한다.
+
+### ANSWER
+C"
+General Knowledge,A,A,"낭만닥터 김사부에서 김사부는 지방의 작은 병원인 돌담병원에서 근무하며, 본원은 거대병원(거산의료원 계열)으로 설정되어 있다. 율제병원은 다른 드라마(스카이캐슬 등)의 설정이다.
+
+### ANSWER
+A"
+General Knowledge,E,E,"순풍산부인과는 1998년부터 2000년까지 방영된 SBS 시트콤으로, 총 682회로 종료되었다.
+
+### ANSWER
+E"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"곰의 새끼를 뜻하는 고유어는 '능소니'입니다.
+
+### ANSWER
+A"
+Rare Words,D,D,"느렁이는 노루의 암컷을 가리키는 고유어이며, 수컷은 '노루아재비/궁노루' 등과 구별된다. 다른 선택지들은 직업(미장이), 행위(돈놀이), 사물(깜빡이, 흙막이)을 뜻한다.
+
+### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,A,A,"찌러기는 성질이 몹시 사나운 황소를 뜻하는 고유어이다.
+
+### ANSWER
+A"
+Rare Words,C,C,"초고리는 '작은 매'를 뜻하는 우리말 단어입니다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,C,C,"타임 테이블(time table)의 순화된 표준 용어는 '시간표'이다.
+
+### ANSWER
+C"
+Standard Nomenclature,D,D,"타이피스트(typist)의 순화어/표준 전문 용어는 '타자원'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"The natural collocation with 비 (rain) stopping is 비가 그치다. So ""비가 그친 다음에 나갑시다"" means ""let's go out after the rain stops.""
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"**Reasoning:** The passage mentions liking apples and watermelons, both of which are fruits. Therefore the topic is fruit (과일).
+
+### ANSWER
+A"
+Reading Comprehension,A,A,"I bought pants, socks, sneakers; wanted a bag but refrained. So A is false.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"The sentence says the speaker wants to improve Korean, so they watch Korean dramas ""often"" (자주), which fits the context of regular practice.
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"The writer went with a friend (not alone), they watched horror this week since action wasn't released yet, and the writer wanted action. The friend wanted to see the horror film, indicating the friend likes horror.
+
+### ANSWER
+D"
+Loan Words,C,C,"상이(傷痍)는 몸에 상처를 입은 것을 뜻하는 한자어로, 국어 순화 자료에서 '부상(負傷)' 또는 '상처'로 다듬어 쓰도록 제시되어 있다. 나머지 선택지들은 의미상 관련이 없다.
+
+### ANSWER
+C"
+Loan Words,C,C,"제품의 규격·성능을 적은 '사양서(仕樣書)'는 일본식 한자어로, 국립국어원에서 '설명서(명세서)'로 순화하도록 권고하고 있다.
+
+### ANSWER
+C"
+Loan Words,D,D,"비육우(肥育牛)는 고기를 얻기 위해 살을 찌워 기르는 소로, 순화어(우리말)로는 '고기소'이다.
+
+### ANSWER
+D"
+Loan Words,E,E,"맨투맨(man-to-man)은 '일대일'로 순화하여 사용하는 것이 국어 순화 원칙에 맞습니다.
+
+### ANSWER
+E"
+Loan Words,C,C,"매점(買占)은 물건을 미리 사서 쌓아두는 행위로, 순화어는 '사재기'이다.
+
+### ANSWER
+C"
+Loan Words,E,E,"### ANSWER
+E"
+Loan Words,D,D,"일본어 '마키자쿠(巻尺)'는 두루마리 형태의 자를 뜻하며, 우리말 순화어는 '줄자'이다.
+
+### ANSWER
+D"
+Loan Words,B,B,"일본어 '마키자쿠(巻尺)'는 감는 자, 즉 '줄자'를 뜻하므로 순화어는 줄자이다.
+
+### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+History,D,D,"조선어 연구회(1921)가 후에 조선어 학회로 개칭되어 한글 연구와 민족 문화 수호에 힘썼다.
+
+### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+History,B,A,"### ANSWER
+A"
+History,A,A,"박은식은 일제의 침략 과정을 서술한 『한국통사(韓國痛史)』를 저술했다.
+
+### ANSWER
+A"
+History,B,B,"### ANSWER
+B"
+History,E,E,"'님의 침묵'은 승려이자 독립운동가인 만해 한용운의 대표 시집으로, 저항 문학의 대표작이다.
+
+### ANSWER
+E"
+History,D,D,"상록수는 심훈이 1935년 발표한 농촌 계몽 소설이며, 심훈은 소설가이자 영화인으로 활동했다. 선택지 D와 E가 동일하나 먼저 제시된 D를 택한다.
+
+### ANSWER
+D"
+History,D,D,"### ANSWER
+D"
+Rare Words,D,D,"발강이는 잉어의 어린 새끼를 가리키는 고유어입니다. 다른 선택지들은 각각 지명, 균류, 소비 습관, 방향지시등 등을 뜻합니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"모쟁이는 숭어의 어린 새끼를 가리키는 우리말 명칭이다. 나머지는 물갈이(물을 갈아줌), 되살이, 흙막이, 밑막이 등으로 어류와 무관하다.
+
+### ANSWER
+A"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,A,A,"별일 = 드물고 이상한 일, 특별한 사건을 뜻하는 단어이다.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"건어물(乾魚物)은 생선·조개류를 말린 식품을 뜻한다.
+
+### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,B,B,"묵사발은 묵이 깨져 흐물흐물해진 모양에서 유래해, 완전히 패배하여 망한 상태를 비유적으로 뜻합니다.
+
+### ANSWER
+B"
+Standard Nomenclature,C,C,"크레인(crane)의 한국어 표준 전문 용어는 '기중기'이다.
+
+### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"""케이스 바이 케이스(case by case)""는 외래어 표현으로, 이를 우리말 표준 전문 용어로 다듬으면 각 사례마다 따로 처리한다는 뜻의 ""사례별""이 된다. 나머지 선택지는 장례나 모임 관련 용어로 무관하다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"A 색 배합이 색상 조화·배합을 뜻하는 표준 전문 용어로, ""컬러 매치""의 올바른 대응어입니다. 나머지는 관련 없는 표현입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,C,C,"컨설턴트(consultant)의 국어 순화어(표준 전문 용어)는 '상담사'입니다.
+
+### ANSWER
+C"
+Standard Nomenclature,B,B,"Calendar in Korean standard terminology is ""달력"" (dallyeok).
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"캔버스는 유화 등을 그리는 천으로, 표준 전문 용어로는 '화포(畵布)'라고 한다.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"제비뽑기 is the standard Korean term for drawing lots (추첨).
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"It's raining outside, so the needed item is an umbrella (우산).
+
+### ANSWER
+D"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,B,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"내 딸 서영이는 최고 시청률 약 47~48%를 기록해 넝쿨째 굴러온 당신(약 45%)보다 높았고, 나머지 작품들은 20~30%대였다.
+
+### ANSWER
+D"
+General Knowledge,C,C,"국가대표는 스키점프, 리바운드는 농구, 드림은 홈리스 축구, 코리아는 탁구를 다룬 스포츠 영화입니다. 반면 '영웅'은 안중근 의사를 다룬 뮤지컬 영화로 스포츠와 무관합니다.
+
+### ANSWER
+C"
+General Knowledge,D,D,"포화 속으로(2010)는 6.25 한국전쟁 중 학도병 전투를 다룬 영화로, 독립운동과 무관하다. 암살, 밀정, 봉오동 전투, 박열은 모두 일제강점기 독립운동/항일 소재 영화다.
+
+### ANSWER
+D"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,B,B,"엑시트는 103분, 씽크홀 113분, 다만 악에서 구하소서 108분, 헌트 125분, 곡성 156분이므로 가장 짧은 것은 엑시트입니다.
+
+### ANSWER
+B"
+General Knowledge,E,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,A,D,"### ANSWER
+D"
+Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension,D,D,"The text says to dry the toothbrush first, then microwave for 1 minute — not immediately after use. Other options match the passage (replace every 3 months, head up/handle down, store separately).
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Loan Words,C,C,"줄자(巻尺, makijaku)에서 온 일본어계 표현으로, 순화어는 '줄자'입니다.
+
+### ANSWER
+C"
+Loan Words,E,E,"러닝메이트(running mate)는 함께 출마하는 사람을 뜻하며, 국립국어원 순화어로 '동반자(동반 출마자)'가 제시되었습니다.
+
+### ANSWER
+E"
+Loan Words,A,A,"국립국어원 순화어로 '랭크되다'는 순위에 '오르다'로 다듬어 쓰도록 권장됩니다.
+
+### ANSWER
+A"
+Loan Words,D,D,"램프(ramp)는 고속도로 등에서 도로를 이어주는 길을 뜻하므로 순화어는 '연결로'이다.
+
+### ANSWER
+D"
+Loan Words,E,E,"동요(動搖)는 흔들리는 것을 뜻하는 한자어로, 이를 순화하면 고유어 '흔들림'이 된다. 다른 선택지들은 반환(되돌림), 기아(굶주림), 대량(줄뿌림) 등 다른 한자어의 순화어이다.
+
+### ANSWER
+E"
+Loan Words,D,D,"도복(倒伏)은 작물이 넘어지는 현상을 뜻하는 한자어로, 순화어(쉬운 우리말)는 '쓰러짐'이다.
+
+### ANSWER
+D"
+Loan Words,C,C,"담화(談話)는 한자어로, 이를 순우리말로 다듬은 순화어는 ""이야기""이다. 나머지 선택지들은 다른 한자어(알솎기-적과, 단쌓기-속가리, 모찌기-발묘 등)의 순화어이다.
+
+### ANSWER
+C"
+Loan Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"초주검(初주검)은 심하게 맞거나 병들어 거의 죽게 된 상태를 뜻한다.
+
+### ANSWER
+D"
+Rare Words,C,C,"이 단어는 ""대마루판""으로, 일의 성패나 승패가 결정되는 마지막 판을 뜻하는 우리말 표현이다.
+
+### ANSWER
+C"
+Rare Words,C,C,"복사판은 원본을 그대로 베낀 것처럼 모습이 매우 비슷한 사물이나 사람을 비유하는 말이다.
+
+### ANSWER
+C"
+Rare Words,D,D,"판박이는 매우 비슷하게 닮은 사람을 뜻하는 말로, 붕어빵과 같은 의미로 쓰입니다.
+
+### ANSWER
+D"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,C,C,"제구실은 '자기가 마땅히 해야 할 일이나 책임'을 뜻하는 고유어입니다. 다른 선택지는 실 관련 단어이거나 무관합니다.
+
+### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"이육사의 본명은 이원록이며, 「광야」 등을 남기고 옥사한 저항시인이다.
+
+### ANSWER
+E"
+History,E,E,"전곡리 유적은 아슐리안형 주먹도끼가 출토된 대표적인 구석기시대 유적이다.
+
+### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,B,B,"### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,C,C,"정도전은 조선경국전·경제문감을 저술해 조선의 통치 기준을 마련하고 재상 중심의 정치를 주장했다.
+
+### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"**Reasoning:** The sentence means ""Before cooking, you must ___ your hands cleanly."" Hands are washed = 씻어야. 빨아야 is for laundry/clothes, 감아야 is for hair, 끼어야 is for wearing gloves/rings.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"Comparative ""더 잘합니다"" requires 보다 (than).
+
+### ANSWER
+B"
+Reading Comprehension,A,A,"The passage mentions liking dogs and cats, which are animals.
+
+### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"**경치를 보는 것** — enjoying seeing/viewing the scenery. ""보는"" is the correct verb for scenery.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature,B,B,"추리닝(트레이닝복)은 운동할 때 입는 옷을 뜻하므로 표준어 표현은 '운동복'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,E,E,"총장(總長)은 전체 길이를 뜻하므로 표준 전문 용어로는 '총길이'가 맞다.
+
+### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,A,A,"차출(差出)하다는 어떤 일을 시키기 위해 사람을 골라 뽑아내는 것을 뜻하므로, 우리말로 다듬으면 ""뽑아내다""가 적절하다.
+
+### ANSWER
+A"
+Standard Nomenclature,D,D,"""찌찌""는 유아어로, 표준어는 ""젖""입니다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"집시 스커트는 외래어 표기를 우리말로 다듬은 표준 용어로 '집시치마'가 사용됩니다. 속치마는 페티코트, 트임치마는 슬릿 스커트에 해당하므로 적절하지 않습니다.
+
+### ANSWER
+D"
+Standard Nomenclature,C,C,"지급 미필금은 아직 지급하지 않은 금액을 뜻하며, 표준 회계·행정 용어로는 '미지급금'이 올바른 전문 용어입니다. '미지급'은 상태를 나타내는 말이고, 금액을 지칭하는 명사형 용어는 '미지급금'입니다.
+
+### ANSWER
+C"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,C,"### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,A,A,"(나) introduces the topic, (다) elaborates that regular walking reduces heart attack risk, (가) gives specific statistics, and (라) adds further benefits with ""그리고.""
+
+### ANSWER
+A"
+Reading Comprehension,B,B,"Logical order: smartphones reduce paper calendar use (가) → so companies struggle (다) → to solve, special calendars (라) → examples (나).
+
+### ANSWER
+B"
+Reading Comprehension,C,C,"(다) introduces the general claim, (라) draws the conclusion about parents reading aloud, (가) gives the reason, and (나) adds the enhancing detail about music.
+
+### ANSWER
+C"
+Reading Comprehension,B,B,"### ANSWER
+B"
+Rare Words,D,D,"여간내기는 '보통 사람, 만만하게 여길 만큼 평범한 사람'을 뜻하며 주로 부정문에 쓰입니다. 나머지는 모두 동작을 나타내는 말입니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"고팽이는 ①일의 가장 어려운 고비, ②비탈길의 가장 높은 곳을 뜻하는 단어입니다.
+
+### ANSWER
+A"
+Rare Words,D,D,"술고래는 '고래처럼 술을 많이 마시는 사람'을 비유하는 말이다.
+
+### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"나들이 means a short outing away from home.
+
+### ANSWER
+D"
+Rare Words,A,A,"허우대 means one's outward, often large or impressive, physique.
+
+### ANSWER
+A"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,C,C,"지은탁은 도깨비 김신의 검을 뽑을 수 있는 운명의 존재로, 드라마에서 '도깨비 신부'로 불린다.
+
+### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,D,D,"공효진은 '괜찮아, 사랑이야'(조인성과), '주군의 태양'(소지섭과), '동백꽃 필 무렵'(강하늘과) 모두 주연으로 출연했습니다. 다른 배우들은 각각 한 작품에만 출연했습니다.
+
+### ANSWER
+D"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+History,B,B,"광해군은 명의 원병 요청에 강홍립을 파견하면서도 후금과의 충돌을 피하는 실리적 태도를 취해, 두 세력 사이에서 중립적 외교를 유지했다.
+
+### ANSWER
+B"
+History,D,D,"### ANSWER
+D"
+History,C,C,"### ANSWER
+C"
+History,D,D,"신라의 만장일치 귀족 합의 제도는 화백회의이다. 제가회의는 고구려, 정사암회의는 백제의 제도이다.
+
+### ANSWER
+D"
+History,E,E,"의상은 당에서 화엄학을 배우고 돌아와 부석사를 창건하며 신라 화엄종을 개창, 화엄 사상을 확립했다.
+
+### ANSWER
+E"
+History,C,C,"팔만대장경(고려대장경)은 몽골 침입을 부처의 힘으로 물리치려는 염원으로 조성되었습니다.
+
+### ANSWER
+C"
+History,E,E,"동학을 창시한 인물은 수운 최제우이며, 인내천 사상은 동학의 핵심 교리로 알려져 있다. 최시형(해월 최시형)은 2대 교주, 손병희는 3대 교주이다.
+
+### ANSWER
+E"
+History,A,A,"토지조사사업을 통한 토지 약탈은 식민 지배의 경제적 기초를 마련하기 위한 초기 작업이었다. 황국신민화정책·징병 등은 후기 민족말살 및 전시 동원 정책에 해당한다.
+
+### ANSWER
+A"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,A,A,"노견(路肩)은 도로 가장자리를 뜻하는 일본식 한자어로, 우리말 순화어는 '갓길'이다.
+
+### ANSWER
+A"
+Loan Words,D,D,"노견(路肩)은 일본식 한자어로, 도로 가장자리를 뜻하며 순화어는 '갓길'이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"""길어깨""는 일본어식 표현으로, 국어 순화어는 ""갓길""이다.
+
+### ANSWER
+D"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,E,E,"기점(基點)은 어떤 것의 기준이 되는 점을 뜻하므로, 순화된 우리말 표현은 '기준점'이다.
+
+### ANSWER
+E"
+Loan Words,D,D,"권척(卷尺)은 두루마리처럼 감는 자를 뜻하며, 순화어는 '줄자'이다.
+
+### ANSWER
+D"
+Loan Words,A,A,"굴삭(掘削)은 땅을 파내는 작업을 뜻하며, 국어 순화어로 '땅파기'가 권장됩니다.
+
+### ANSWER
+A"
+Rare Words,B,B,"색안경은 주관이나 선입견에 얽매여 좋지 않게 보는 태도를 비유하는 말입니다. B와 D가 동일하지만 먼저 제시된 B를 선택합니다.
+
+### ANSWER
+B"
+Rare Words,B,B,"안다미는 남의 책임을 맡아 지는 것 또는 그 책임을 뜻하는 고유어입니다. 나머지는 각각 꽃 묶음, 내경, 은밀한 약속, 머리 보호 장구를 뜻합니다.
+
+### ANSWER
+B"
+Rare Words,C,C,"후원(後援)은 '뒤에서 돕는다'는 뜻의 한자어로, 지원·도움을 의미한다.
+
+### ANSWER
+C"
+Rare Words,E,E,"배경(背景)은 뒤에서 드러나지 않게 돌봐 주는 힘, 즉 후원 세력을 뜻하는 말입니다. 나머지 단어들은 그런 의미와 관련이 없습니다.
+
+### ANSWER
+E"
+Rare Words,C,C,"동생의 아내(아랫동서)가 남편의 형의 아내(윗동서)를 부르는 호칭은 '형님'이다.
+
+### ANSWER
+C"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,A,A,"식구(食口)는 본래 한 집에서 함께 밥을 먹는 가족을 뜻하지만, 비유적으로 한 조직에 속해 함께 일하는 사람을 가리킵니다. 나머지 선택지는 질식, 안식(멈춤), 장식 등과 관련된 단어로 해당 의미가 없습니다.
+
+### ANSWER
+A"
+Rare Words,E,E,"### ANSWER
+E"
+History,E,E,"장지연이 을사조약을 규탄하며 1905년에 쓴 논설로, 그가 주필로 있던 황성신문에 게재되었다.
+
+### ANSWER
+E"
+History,D,D,"First Five-Year Economic Development Plan in South Korea started in 1962 under Park Chung-hee's military government.
+
+### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+Loan Words,E,E,"""언택트(untact)""는 접촉하지 않는다는 의미로, 국립국어원 순화어는 ""비대면""이다.
+
+### ANSWER
+E"
+Loan Words,C,C,"**### ANSWER
+C**"
+Loan Words,D,D,"해중림(海中林)은 바다 속의 숲을 뜻하므로 순우리말 순화어는 '바다숲'이다.
+
+### ANSWER
+D"
+Loan Words,A,A,"하절기(夏節期)는 한자어로, 우리말 순화어는 ""여름철""이다.
+
+### ANSWER
+A"
+Loan Words,E,E,"하이브리드(hybrid)는 국립국어원 순화어로 '혼합형'으로 다듬어 쓰도록 권장됩니다.
+
+### ANSWER
+E"
+Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension,B,B,"배우는 이 프로그램이 특별할 것이 없어 곧 없어질 것이라 예상했지만, 예상과 달리 시청률이 올라갔다고 했으므로 ""예상대로 사랑받았다""는 내용은 틀렸다.
+
+### ANSWER
+B"
+Reading Comprehension,B,B,"The study says those with sufficient sleep have fewer negative thoughts, not that they have none at all — B overstates this.
+
+### ANSWER
+B"
+Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"절취선은 ""자르는 선""으로 순화된 표준 용어입니다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"자상(刺傷)은 뾰족한 물체에 찔려 생긴 상처로, 표준 용어는 ""찔린 상처""이다. 물린 상처는 교상, 찢긴 상처는 열상, 터진 상처는 파열창에 해당한다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature,A,A,"자가 노동(자기 노동)으로 만든 산물을 가리키는 표준 용어로는 '제집품'이 가장 적절해 보입니다. 나머지 선택지는 덤으로 주는 상품, 금지된 물품, 수학 용어, 수집 양식 등으로 자가 노동과 관련이 없습니다.
+
+### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"""이콜로지(ecology)""의 표준 전문 용어는 ""생태학""이다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,E,"### ANSWER
+E"
+Standard Nomenclature,C,C,"이니셜(initial)은 낱말의 첫 글자를 뜻하므로, 국어의 표준 순화 용어는 '머리글자'이다. '머리말'은 서문(preface), '머리글'도 서문에 가까운 표현이다.
+
+### ANSWER
+C"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"This is Ki-taek's famous monologue about ""no plan"" from Bong Joon-ho's film.
+
+### ANSWER
+E"
+General Knowledge,C,C,"Both ""Train to Busan"" (부산행) and ""#Alive"" (#살아있다) are Korean zombie apocalypse films.
+
+### ANSWER
+C"
+General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+Loan Words,E,E,"펜네임(pen name)은 작가가 사용하는 가명을 뜻하며, 국어 순화어로는 '필명(筆名)'이 알맞다. 나머지 선택지는 다른 외래어의 순화어이거나 무관한 단어들이다.
+
+### ANSWER
+E"
+Loan Words,D,D,"### ANSWER
+D"
+Loan Words,B,B,"톱다운(top-down)은 위에서 아래로 진행되는 방식을 뜻하므로 순화어는 '하향식'이다.
+
+### ANSWER
+B"
+Loan Words,D,D,"테이블클로스(tablecloth)의 순화어는 '식탁보'이다.
+
+### ANSWER
+D"
+Loan Words,E,E,"타이틀곡(title곡)은 앨범의 대표곡을 뜻하며, 국립국어원의 순화어는 '주제곡'입니다. 나머지는 커튼(주름막), 헤드테이블(주빈석) 등 다른 말의 순화어입니다.
+
+### ANSWER
+E"
+Loan Words,A,A,"""콘셉트/컨셉""은 영어 concept의 외래어로, 순화어는 '개념'이다.
+
+### ANSWER
+A"
+Loan Words,A,A,"카운트다운은 시간을 거꾸로 세는 것으로, 우리말 순화어는 '초읽기'입니다.
+
+### ANSWER
+A"
+Loan Words,A,A,"""출감(出監)""은 감옥에서 나옴을 뜻하며, 순화어로 ""출소""를 쓴다. 나머지 선택지는 보관, 의복, 유제품, 말버릇 등과 관련되어 무관하다.
+
+### ANSWER
+A"
+Rare Words,C,C,"향수(鄕愁)는 고향을 그리워하는 마음, 노스탤지어를 뜻한다.
+
+### ANSWER
+C"
+Rare Words,A,A,"병뚜껑을 여는 기구는 ""병따개""(bottle opener)입니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"개념(concept)은 어떤 현상이나 대상에 대한 일반적인 지식·관념을 뜻하는 단어이다. 나머지는 별개, 조개, 개수대, 날개 등 의미가 전혀 다르다.
+
+### ANSWER
+C"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"세계(世界)는 지구상의 모든 나라, 인류 사회 전체를 뜻하는 단어다.
+
+### ANSWER
+D"
+Rare Words,B,B,"뻥튀기는 곡식을 부풀려 튀기는 것으로, 비유적으로 사실을 과장해 크게 부풀리는 일을 뜻한다.
+
+### ANSWER
+B"
+Rare Words,A,A,"그루잠은 깨었다가 다시 든 잠을 뜻하는 순우리말이다. 겨울잠은 동면, 돌꼇잠은 한자리에 누워 있지 못하고 이리저리 굴러다니며 자는 잠이다.
+
+### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,C,C,"The passage emphasizes Seoul's concentration of educational and cultural facilities, which draws people there for convenient living.
+
+### ANSWER
+C"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension,D,D,"The text traces how a supermarket owner observed customers' behavior, got the idea of adding wheels, and persisted through poor reactions until carts became popular—this is the process of creating the shopping cart.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"유충(幼蟲)의 순우리말·표준 용어는 '애벌레'이다. 나머지는 벌레집, 손수레 등 무관한 단어들이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"유아(젖을 먹는 아기)를 가리키는 고유어 표준어는 '젖먹이'이다. 나머지는 유아와 관련 없는 단어들이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"워킹 슈즈는 산책할 때 신는 신발로, 우리말 표준 전문 용어로는 '산책화'로 표현합니다. '서양화'나 '국산영화'는 전혀 다른 분야의 용어이고, '산책복'은 신발이 아닌 의복을 뜻합니다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"""울트라""는 접두사 '초-'로 순화되므로 '울트라 미니'의 표준 전문 용어는 '초미니'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,D,D,"Offshoring refers to relocating business operations/production to another country, so the standard term is ""국외 이전"" (relocation abroad), distinct from outsourcing or foreign investment.
+
+### ANSWER
+D"
+Standard Nomenclature,A,A,"오버 스커트(over skirt)는 속치마 위에 덧입는 겉옷 치마로, 표준 전문 용어는 '겉치마'이다.
+
+### ANSWER
+A"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,E,E,"에피소드(episode)의 우리말 표준 전문 용어는 '일화'입니다. 나머지 선택지는 다른 개념(부호화=encoding 등)에 해당합니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"""짜장""은 부사로 '과연 정말로'라는 뜻을 가진 순우리말이다. 다른 선택지들은 모두 명사(먹장어, 골프장, 자기장 등)로 그 의미와 무관하다.
+
+### ANSWER
+D"
+Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge,A,A,"SKY 캐슬은 2018년 11월부터 2019년 2월까지 JTBC에서 방영된 드라마이므로 A가 옳습니다. 원작 웹툰은 '어쩌다 발견한 7월'이며, 강예서(김보라)와 은단오(김혜윤)는 다른 배우입니다.
+
+### ANSWER
+A"
+General Knowledge,C,C,"명량(Roaring Currents)은 2014년에 개봉한 김한민 감독의 이순신 장군 관련 영화이며, 7년의 밤은 정유정 소설을 원작으로 2018년 개봉했다. 따라서 명량이 2013년 개봉이라는 진술이 틀렸다.
+
+### ANSWER
+C"
+General Knowledge,C,C,"C는 잘못되었습니다. 수상한 그녀는 약 865만 관객으로 1000만을 넘지 못했습니다. 나머지는 모두 사실입니다.
+
+### ANSWER
+C"
+General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge,A,A,"한국 공공기관에서는 HWP 형식의 아래아 한글이 표준적으로 사용됩니다.
+
+### ANSWER
+A"
+General Knowledge,E,E,"Korean pizzas commonly feature potato, sweet potato, pepperoni, and shrimp toppings, so all listed items are used.
+
+### ANSWER
+E"
+Loan Words,D,D,"계육(鷄肉)의 순우리말 순화어는 ""닭고기""입니다.
+
+### ANSWER
+D"
+Loan Words,A,A,"### ANSWER
+A"
+Loan Words,C,C,"### ANSWER
+C"
+Rare Words,D,D,"건목은 물건을 만들 때 다듬지 않고 거칠게 대강 만드는 일을 뜻하며, ""건목치다""라는 표현으로 쓰인다. 나머지는 도로·목재·논리 관련 용어이다.
+
+### ANSWER
+D"
+Rare Words,A,A,"낚시나 사냥에서 아무 소득 없이 허탕만 치는 것을 비유적으로 '강목'(강목 치다)이라 표현합니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"받돌은 그물 아래에 매달아 그물을 가라앉히는 돌추를 뜻하는 말이다. 호박돌은 둥근 자연석, 마름돌은 다듬은 석재, 징검돌은 디딤돌, 뚜껑돌은 덮개돌이다.
+
+### ANSWER
+A"
+Rare Words,D,D,"지게의 구조에서 아래쪽 양쪽으로 뻗은 두 다리를 '목발' 또는 '동발'이라 부릅니다. 나머지 선택지는 지게와 무관한 일반 단어들입니다.
+
+### ANSWER
+D"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,E,E,"체크 리스트(check list)는 확인할 항목을 나열한 표이므로 순화어는 '점검표'이다.
+
+### ANSWER
+E"
+Loan Words,C,C,"체인(체인점)의 순화어는 '가맹점(연쇄점)'입니다. 나머지는 파우더스노(가루눈), 분리대(가름둑) 등 다른 말의 순화어입니다.
+
+### ANSWER
+C"
+Loan Words,C,C,"### ANSWER
+C"
+Loan Words,A,A,"차폐는 '가리어 막음'을 뜻하는 한자어로, 순화어(고유어)로는 '가림'이 적절하다.
+
+### ANSWER
+A"
+Loan Words,E,E,"주어진 선택지 중 '집하(集荷)'는 물건을 모으는 것을 뜻하므로 순화어로 '모음'이 적절하다. 다른 보기들은 백사(흰모래), 우각(모서리), 사장(모래터), 심중(마음속) 등 다른 한자어의 순화어에 해당한다.
+
+### ANSWER
+E"
+Loan Words,D,D,"직결(直結)은 ""직접 연결""로 순화된다.
+
+### ANSWER
+D"
+Loan Words,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,E,E,"에스닉(ethnic)은 민족·민속을 의미하므로 표준 전문 용어는 '민속풍'이다.
+
+### ANSWER
+E"
+Standard Nomenclature,C,C,"""어젠다(agenda)""는 회의에서 논의할 안건을 뜻하므로, 우리말 표준 전문 용어는 '의제'가 맞다.
+
+### ANSWER
+C"
+Standard Nomenclature,B,B,"""어시머트리""는 asymmetry의 외래어 표기로, 표준 전문 용어는 '비대칭'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,D,D,"앵클 팬츠는 발목 길이의 바지를 뜻하며, 국립국어원 순화어(표준 전문 용어)로 '발목바지'가 제시되어 있다.
+
+### ANSWER
+D"
+Standard Nomenclature,B,B,"애시 블루(ash blue)는 재색(회색) 기미가 도는 파란색으로, 표준 색이름은 ""회청색""이다.
+
+### ANSWER
+B"
+Standard Nomenclature,A,A,"### ANSWER
+A"
+Loan Words,A,A,"접속 도로(接續道路)는 국어 순화 자료에서 한자어 '접속'을 쉬운 말 '연결'로 바꾸어 '연결 도로'로 순화하도록 제시되었습니다.
+
+### ANSWER
+A"
+General Knowledge,B,B,"다대포항역은 부산 도시철도 1호선(다대포 연장 구간)의 역으로, 수도권 지하철에는 존재하지 않습니다. 잠실, 공덕, 학여울, 삼성은 모두 서울 지하철 역입니다.
+
+### ANSWER
+B"
+General Knowledge,E,A,"울산은 광역시 중 유일하게 도시철도(지하철)가 없는 도시이며, 부산·인천·대구는 모두 지하철이 운영되고 있다.
+
+### ANSWER
+A"
+General Knowledge,E,E,"Line 2 includes Hongik Univ. Station, Sinchon, Jamsil, and Samseong. Gongdeok is served by Lines 5, 6, Gyeongui-Jungang, and AREX — not Line 2.
+
+### ANSWER
+E"
+General Knowledge,A,A,"Line 2 includes 서초, 신도림, 신림, 봉천 stations, while 송파역 is on Line 8.
+
+### ANSWER
+A"
+General Knowledge,D,D,"한티역은 수인분당선 역으로 2호선에 속하지 않으며, 봉천·서초·잠실·강남은 모두 서울 지하철 2호선 역이다.
+
+### ANSWER
+D"
+General Knowledge,E,E,"Line 3 includes 학여울, 대치, 교대, 압구정, but 강남역 is on Line 2 (and Shinbundang), not Line 3.
+
+### ANSWER
+E"
+General Knowledge,A,A,"Line 3 includes 대화, 독립문, 경복궁, 경찰병원, but 동대문역 is on Lines 1 and 4 (Line 3 has 동대입구, not 동대문).
+
+### ANSWER
+A"
+General Knowledge,C,C,"Seoul Line 3 passes through 약수, 금호, 수서, 일원. 강남역은 2호선(및 신분당선) 역으로 3호선으로는 갈 수 없다.
+
+### ANSWER
+C"
+Rare Words,E,E,"Among the choices, ""선발"" can be parsed as ""선 발"" (standing feet), matching the meaning of feet that stand and move about working all day; the other options are unrelated compounds.
+
+### ANSWER
+E"
+Rare Words,A,A,"호박돌은 둥글고 큰 돌을 뜻하는 말로, 집터의 바닥을 다지는 데 쓰였습니다. 나머지 선택지는 관련 없는 단어들입니다.
+
+### ANSWER
+A"
+Rare Words,E,E,"무덤구덩이를 덮는 판석은 '뚜껑돌(개석)'이라 한다.
+
+### ANSWER
+E"
+Rare Words,A,A,"괴끼는 벼나 보리, 옥수수 등 곡식의 수염이나 껍질 부스러기를 뜻하는 우리말 단어입니다. 나머지 선택지는 식물 이름이나 다른 뜻의 단어입니다.
+
+### ANSWER
+A"
+Rare Words,A,A,"A가 곡식을 평평하게 되는 것을 뜻하는 말로 제시된 유일한 단어이며, 나머지는 식물·동물·신체 관련 어휘로 의미가 전혀 다릅니다.
+
+### ANSWER
+A"
+Rare Words,C,C,"Curbstone (연석/경계석) placed between roadway and sidewalk is expressed in native Korean as ""둔덕돌""; 마름돌 is dressed stone, 호박돌 is cobblestone.
+
+### ANSWER
+C"
+Rare Words,D,D,"주어진 선택지 중 '쪼갠 돌'이라는 의미를 직접적으로 담고 있는 단어는 '가르다(쪼개다)'와 '돌'이 결합된 형태입니다. 나머지는 논, 모, 꼴 등으로 돌과 무관합니다.
+
+### ANSWER
+D"
+Rare Words,A,A,"""웃날""은 흐렸을 때의 날씨를 이르는 말입니다. 나머지는 웃자람(도장), 웃돌다(초과하다) 등 다른 뜻입니다.
+
+### ANSWER
+A"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,A,A,"소매 = sleeve in Korean standard terminology.
+
+### ANSWER
+A"
+Standard Nomenclature,C,C,"슬랙스(slacks)는 외래어로, 우리말 표준 전문 용어로는 '긴바지'로 순화하여 사용한다. 고리바지는 다른 형태의 바지이며, 앞바람·센바람은 기상 용어, 속표지는 출판 용어이다.
+
+### ANSWER
+C"
+Standard Nomenclature,D,D,"수렴(收斂)은 '거두어 모으다'는 뜻으로, 순화된 표준 용어는 '모아들임'이 적절하다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"수경재배(水耕栽培)는 물에서 식물을 기르는 방식으로, 우리말 표준 전문 용어로는 '물가꾸기'로 표현한다. 물대기는 관수(灌水), 물끊기는 단수(斷水)에 해당한다.
+
+### ANSWER
+E"
+Standard Nomenclature,C,C,"손금(損金)은 일본식 표현으로, 우리말 표준 전문 용어로는 손실금(損失金)이 올바른 표현이다.
+
+### ANSWER
+C"
+Standard Nomenclature,E,E,"소임(所任)은 한자어로 '맡겨진 임무'를 뜻하므로, 이를 대체할 표준적인 우리말 표현은 '맡은 일'이다.
+
+### ANSWER
+E"
+Standard Nomenclature,B,D,"### ANSWER
+D"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature,A,A,"석교(石橋)는 돌로 만든 다리를 뜻하므로 순우리말 표준 용어는 '돌다리'이다.
+
+### ANSWER
+A"
+Standard Nomenclature,B,B,"상응하다는 '서로 어울리다, 알맞다'의 뜻이므로 순우리말 표현으로 '걸맞다'가 대응된다. 나머지는 펼치다·다루다·넘기다·떨치다로 의미가 다르다.
+
+### ANSWER
+B"
+Standard Nomenclature,C,A,"The term for gathering/piling logs at the harvest site is written as a single compound noun in standard forestry terminology.
+
+### ANSWER
+A"
+Standard Nomenclature,C,C,"산유(産乳)는 젖을 생산하는 것을 뜻하므로, 순우리말 표준 전문 용어는 '젖내기'가 맞다.
+
+### ANSWER
+C"
+Standard Nomenclature,C,C,"""삭스(socks)""의 순화어/표준 전문 용어는 우리말 '양말'이다. 나머지는 다른 용어(이모티콘=그림말, 양자화, 도움말 등)에 해당한다.
+
+### ANSWER
+C"
+General Knowledge,C,B,"### ANSWER
+B"
+General Knowledge,D,D,"휘문고, 중동고, 보인고, 단국대학교사범대학부속고(단대부고)는 모두 실재하는 서울 지역 고등학교이나, '중상고'라는 학교는 존재하지 않는다.
+
+### ANSWER
+D"
+General Knowledge,B,B,"대치동은 한국 사교육의 대표적 중심지로, 드라마 스카이캐슬의 입시 경쟁 배경으로 자주 언급됩니다.
+
+### ANSWER
+B"
+General Knowledge,C,C,"김포공항은 국내선 중심 공항으로 제주 노선 운항 편수가 가장 많다. 인천은 국제선 중심, 서울공항은 군용/공무용, 청주·대구는 규모가 작다.
+
+### ANSWER
+C"
+General Knowledge,A,A,"인천국제공항은 한국의 최대 관문 공항으로 국제선 노선이 가장 많다.
+
+### ANSWER
+A"
+General Knowledge,B,B,"서울공항은 성남에 있는 공군기지(대통령 전용 등 군용 공항)로 민간 여객 운항을 하지 않는 반면, 나머지는 민항기가 운항하는 민간(또는 민군 겸용) 공항입니다.
+
+### ANSWER
+B"
+General Knowledge,B,B,"한라산은 제주도(섬)에 있으므로 내륙에서 가장 높은 산은 지리산(1,915m)이며, 설악산(1,708m)보다 높다. 금강산과 백두산은 남한이 아니다.
+
+### ANSWER
+B"
+General Knowledge,A,A,"한강 유역 면적은 약 26,000 km²로 낙동강(약 23,000 km²)보다 넓어 한국에서 가장 큰 유역을 가진다.
+
+### ANSWER
+A"
+Rare Words,B,B,"The Korean word ""진날"" refers to a day when rain or snow makes the ground muddy (""질척거리는 날"").
+
+### ANSWER
+B"
+Rare Words,E,E,"길목은 원래 길의 요긴한 통로를 뜻하지만, 비유적으로 한 시기에서 다른 시기로 넘어가는 때를 의미한다. 나들목은 도로의 진출입 지점이며, 다른 단어들은 관련 의미가 없다.
+
+### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,E,E,"단서(端緒)는 '어떤 일의 시초'와 '문제 해결의 실마리'라는 두 가지 뜻을 가진 단어입니다. 나머지는 문서나 건물 종류를 뜻합니다.
+
+### ANSWER
+E"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,D,D,"온새미는 '가르거나 쪼개지 않은 생긴 그대로의 상태'를 뜻하는 고유어입니다. 짬짜미는 은밀한 담합, 수세미는 그릇 닦는 도구, 안다미는 남의 책임을 맡는 것을 뜻합니다.
+
+### ANSWER
+D"
+Rare Words,D,D,"새롭게 변하는 풍조를 뜻하는 말은 '새바람'입니다.
+
+### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+General Knowledge,D,D,"성균관대학교는 1398년 조선 성균관에 기원을 두어 한국에서 가장 오래된 대학으로 여겨진다.
+
+### ANSWER
+D"
+General Knowledge,A,A,"Lotte World Tower (555m) is Korea's tallest building.
+
+### ANSWER
+A"
+General Knowledge,E,E,"함경도는 한반도 북부에 위치하여 북한 영토에 속한다. 나머지는 남한에 (전체 또는 일부) 포함된다.
+
+### ANSWER
+E"
+General Knowledge,A,A,"Line 2 of the Seoul Metro is designated with a green line color.
+
+### ANSWER
+A"
+General Knowledge,C,C,"Seoul Subway Line 3 is represented by orange on maps and signage.
+
+### ANSWER
+C"
+General Knowledge,C,C,"Among the listed surnames, 박 (Park) is the third most common surname in Korea, ranking above 최 (Choi), 강, 송, and 손.
+
+### ANSWER
+C"
+General Knowledge,B,B,"2002 아시안 게임은 부산에서 개최되었다.
+
+### ANSWER
+B"
+General Knowledge,C,C,"2018 동계 올림픽은 대한민국 강원도 평창에서 개최되었다.
+
+### ANSWER
+C"
+Standard Nomenclature,C,C,"""사료하다(思料)""는 깊이 생각하여 헤아린다는 뜻의 한자어로, 표준어로는 ""생각하다""로 순화하여 쓴다.
+
+### ANSWER
+C"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,E,E,"시조(始祖)는 비조와 같은 뜻으로, 어떤 일이나 계통의 맨 처음 시작한 사람을 가리키는 표준 용어입니다.
+
+### ANSWER
+E"
+Standard Nomenclature,B,B,"블라인드스티치(blind stitch)는 겉으로 실이 드러나지 않게 안쪽에서 감아 꿰매는 바느질법으로, 우리말 표준 용어는 '공그르기'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,E,E,"모자의 ""브림(brim)""은 햇빛을 가리는 부분으로, 우리말 표준 용어는 '차양'이다.
+
+### ANSWER
+E"
+Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature,B,B,"브레이드(braid)는 옷이나 소품 장식에 쓰이는 끈 형태의 재료로, 표준 전문 용어로는 '장식끈'이라 한다.
+
+### ANSWER
+B"
+Standard Nomenclature,E,E,"Brown(브라운)은 우리말 표준 전문 용어로 '갈색'에 해당한다. 다갈색은 적갈색 계열의 다른 색이며, 갈라짐·판갈이·흙갈이는 색과 무관한 용어이다.
+
+### ANSWER
+E"
+History,B,B,"청동기 시대 지배층(족장)의 무덤으로 거대한 돌을 이용해 만든 것은 고인돌(지석묘)이다.
+
+### ANSWER
+B"
+History,E,E,"고조선(Gojoseon)은 한국 역사상 최초의 국가로 알려져 있다.
+
+### ANSWER
+E"
+History,E,E,"홍익인간(弘益人間)은 ""널리 인간을 이롭게 한다""는 뜻으로 고조선 단군의 건국 이념입니다.
+
+### ANSWER
+E"
+History,C,C,"참성단은 강화도 마니산에 위치한 단군 제천 유적이다.
+
+### ANSWER
+C"
+History,C,C,"동명성왕 주몽은 고구려의 건국자입니다.
+
+### ANSWER
+C"
+History,C,C,"대조영이 698년 고구려 유민과 말갈족을 이끌고 세운 나라는 발해이다.
+
+### ANSWER
+C"
+History,D,D,"문무왕은 668년 고구려를 멸망시키고 676년 당을 축출하여 삼국 통일을 완성한 왕이다.
+
+### ANSWER
+D"
+History,B,B,"원광 법사가 진평왕 때 세속오계를 지어 화랑 정신의 기초가 되었다.
+
+### ANSWER
+B"
+Rare Words,B,B,"재넘이는 산바람(밤에 산 정상에서 산기슭·평지로 내려오는 바람)의 순우리말 표현이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"빗밑은 ""비가 그치어 날이 개는 속도""를 뜻하는 순우리말입니다. 빗밑이 가볍다/무겁다는 표현으로 쓰입니다.
+
+### ANSWER
+D"
+Rare Words,B,B,"대추씨는 작지만 단단한 씨로, 키는 작아도 야무지고 단단한 사람을 비유하는 말입니다.
+
+### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,E,E,"용갈이는 해빙기 두꺼운 얼음판이 갈라져 생긴 금을 용이 밭을 갈아 놓은 것처럼 본 데서 유래한 말이다. 나머지는 각각 판에 박은 듯한 것, 매달, 식물 이름, 물의 회오리를 뜻한다.
+
+### ANSWER
+E"
+Rare Words,E,E,"갈망은 '일을 능히 감당하여 수습하고 처리함'을 뜻하는 우리말 단어입니다. 다른 선택지들은 전산 관련 용어, 흙, 기록물, 도구 등을 의미합니다.
+
+### ANSWER
+E"
+Rare Words,A,A,"말휘갑은 ""이리저리 말을 잘 둘러맞추는 일""을 뜻하며, '말휘갑을 치다'라는 표현으로 쓰인다. 말주벅은 말을 이러니저러니 늘어놓는 솜씨를 뜻해 의미가 다르다.
+
+### ANSWER
+A"
+Rare Words,D,D,"말주벅은 남을 공박하거나 자기 이론을 주장할 만한 말주변을 뜻하는 단어입니다.
+
+### ANSWER
+D"
+History,E,E,"근초고왕은 4세기 백제의 전성기를 이끌며 북으로 황해도·한강 유역, 남으로 마한 및 탐라를 복속시켰다.
+
+### ANSWER
+E"
+History,E,E,"### ANSWER
+E"
+History,D,D,"### ANSWER
+D"
+History,E,E,"### ANSWER
+E"
+History,C,C,"고려는 거란(요)·여진과는 갈등이 있었으나, 송나라와는 사신과 교역을 활발히 하며 친교를 유지했다. 문화·경제적 교류가 활발했던 상대가 송이다.
+
+### ANSWER
+C"
+History,C,C,"Salsu Daecheop (612) — Goguryeo general Eulji Mundeok lured Sui forces across the Salsu River and destroyed them.
+
+### ANSWER
+C"
+History,C,C,"### ANSWER
+C"
+History,E,E,"### ANSWER
+E"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,D,D,"터수는 ① 살림살이의 형편이나 정도, ② 서로 사귀는 사이를 뜻하는 우리말 명사입니다. 나머지 단어들은 각각 속이는 꾀, 물을 퍼올리는 곳, 서류 받는 곳, 십진법 수를 의미합니다.
+
+### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,D,D,"한밤중은 문자적으로 깊은 밤을 뜻하지만, 비유적으로 어떤 일에 대해 전혀 모르는 상태를 가리킨다.
+
+### ANSWER
+D"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,E,E,"기대치 means the expected level or value that one anticipated would be achieved.
+
+### ANSWER
+E"
+Rare Words,B,B,"분위기 means the mood or atmosphere of a place/situation, and also the general trend of social opinion in an era.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"부상(浮上)하다는 물 위로 떠오르거나 어떤 현상이 위로 오르는 것을 뜻하므로, 순우리말로 다듬은 표준 표현은 '떠오르다'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"부르마는 일본어 ブルマー에서 온 말로, 표준 전문 용어로는 영어 원어에 가까운 '블루머'가 올바른 표기입니다.
+
+### ANSWER
+E"
+Standard Nomenclature,D,D,"보파(補播)는 씨앗을 보충하여 다시 뿌리는 것을 뜻하는 한자어로, 이에 대응하는 우리말 표준 전문 용어는 '덧뿌림'이다.
+
+### ANSWER
+D"
+Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature,B,B,"보상(補償)은 남에게 준 손해를 갚는다는 뜻으로, 우리말 표준 전문 용어로는 '갚음'에 해당한다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"벤츠(vent)는 옷의 갈라진 트임 부분을 뜻하는 외래어로, 국어 순화된 표준 전문 용어는 '트임'이다.
+
+### ANSWER
+B"
+Standard Nomenclature,D,D,"베타 버전은 정식 출시 전 시험적으로 배포하는 판을 뜻하므로, 우리말 표준 전문 용어로는 '시험판'이 알맞다.
+
+### ANSWER
+D"
+Standard Nomenclature,A,A,"풍선(balloon) 모양으로 부풀린 실루엣의 스커트를 순화한 표준 용어는 '풍선치마'이다.
+
+### ANSWER
+A"
+History,B,B,"곽재우는 임진왜란 때 경남 의령에서 의병을 일으켜 정암진 전투 등에서 왜군에 큰 타격을 준 대표적 의병장이다.
+
+### ANSWER
+B"
+Rare Words,D,D,"지나간 일에 대한 회상, 지금은 존재하지 않게 된 사실을 뜻하는 단어는 '옛말'이다.
+
+### ANSWER
+D"
+Rare Words,C,C,"### ANSWER
+C"
+Rare Words,A,A,"### ANSWER
+A"
+Rare Words,B,B,"### ANSWER
+B"
+Rare Words,E,E,"### ANSWER
+E"
+Rare Words,C,C,"조건부는 어떤 일에 일정한 제한(조건)이 붙는 것을 뜻하는 말이다.
+
+### ANSWER
+C"
+Rare Words,B,B,"앞부리는 물건의 앞쪽 뾰족한 부분을 뜻하는 말입니다. 다른 선택지들은 각각 다른 의미(외부의, 겉보리, 못자리 등)를 지닙니다.
+
+### ANSWER
+B"
+Rare Words,D,D,"### ANSWER
+D"
+Rare Words,B,B,"쇠사슬(chains)은 구속·억압의 상징으로 비유적으로 쓰인다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"배기 팬츠(baggy pants)는 자루처럼 헐렁한 형태의 바지로, 국어 순화 표준 용어로 '자루바지'가 제시된다.
+
+### ANSWER
+B"
+Standard Nomenclature,B,B,"발문(發問)은 '문제를 내다, 물음을 내어 놓다'는 뜻으로, 표준적인 표현은 '질문하다'입니다.
+
+### ANSWER
+B"
+Standard Nomenclature,E,B,"시계 신호(visual/sight signal)는 빛을 이용해 시각으로 전달되는 신호를 가리키는 표준 용어로, 발광 신호를 규정상 지칭할 때 사용된다. 나머지는 신호의 목적이나 비표준적 표현에 해당한다.
+
+### ANSWER
+B"

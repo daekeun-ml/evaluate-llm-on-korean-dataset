@@ -9,8 +9,12 @@ class RadarChartGenerator:
     def __init__(self, results_dir="./results"):
         self.results_dir = results_dir
         
-    def read_dataset_results(self, dataset_name):
-        """Read all CSV files for a specific dataset"""
+    def read_dataset_results(self, dataset_name, model_filter=None):
+        """Read all CSV files for a specific dataset.
+
+        model_filter: optional list of model name substrings to include (e.g. only the
+        4 models being compared in this round) instead of every CSV under results_dir.
+        """
         if dataset_name == "KMMLU":
             # KMMLU-HARD를 제외하고 KMMLU만 선택
             pattern = os.path.join(self.results_dir, f"*{dataset_name}*.csv")
@@ -18,16 +22,18 @@ class RadarChartGenerator:
         else:
             pattern = os.path.join(self.results_dir, f"*{dataset_name}*.csv")
             files = glob.glob(pattern)
-        
+
         results = {}
         for file in files:
             model_name = os.path.basename(file).replace(f"[{dataset_name}] ", "").replace(".csv", "")
+            if model_filter and not any(m in model_name for m in model_filter):
+                continue
             df = pd.read_csv(file)
             # Calculate accuracy
             if 'answer' in df.columns and 'pred' in df.columns:
                 df['correct'] = (df['answer'] == df['pred']).astype(int)
             results[model_name] = df
-        
+
         return results
     
     def create_radar_chart(self, data_dict, title, save_path=None, top_n=None):
@@ -111,16 +117,34 @@ class RadarChartGenerator:
     def process_click_results(self, results):
         """Process CLIcK results by category"""
         processed = {}
-        
+
         for model_name, df in results.items():
-            if 'correct' in df.columns and 'id' in df.columns:
-                # Extract category from id (e.g., "KIIP_economy_1" -> "economy")
-                df['category'] = df['id'].str.extract(r'_([a-zA-Z]+)_')[0]
-                # Fill NaN values with 'other' for non-matching patterns
-                df['category'] = df['category'].fillna('other')
+            if 'correct' not in df.columns:
+                continue
+            if 'category' in df.columns:
+                # CSV already carries the accurate category column
                 category_scores = df.groupby('category')['correct'].mean() * 100
+            elif 'id' in df.columns:
+                # Fallback: extract category from id (e.g., "KIIP_economy_1" -> "economy")
+                df['category'] = df['id'].str.extract(r'_([a-zA-Z]+)_')[0].fillna('other')
+                category_scores = df.groupby('category')['correct'].mean() * 100
+            else:
+                continue
+            processed[model_name] = category_scores.to_dict()
+
+        return processed
+
+    def process_kobalt_results(self, results):
+        """Process KoBALT results by difficulty level"""
+        processed = {}
+        level_names = {1: "Easy", 2: "Moderate", 3: "Hard"}
+
+        for model_name, df in results.items():
+            if 'correct' in df.columns and 'level' in df.columns:
+                df['level_name'] = df['level'].map(level_names)
+                category_scores = df.groupby('level_name')['correct'].mean() * 100
                 processed[model_name] = category_scores.to_dict()
-        
+
         return processed
     
     def get_kmmlu_supercategory(self, category):
@@ -181,19 +205,23 @@ class RadarChartGenerator:
         
         return processed
     
-    def generate_all_charts(self, datasets=['CLIcK', 'KMMLU', 'HAERAE', 'HRM8K', 'KoBALT', 'KorMedMCQA'], top_n=None):
-        """Generate radar charts for all specified datasets"""
-        
+    def generate_all_charts(self, datasets=['CLIcK', 'KMMLU', 'HAERAE', 'HRM8K', 'KoBALT', 'KorMedMCQA'], top_n=None, model_filter=None):
+        """Generate radar charts for all specified datasets.
+
+        model_filter: optional list of model name substrings to restrict the comparison to
+        (e.g. only the current round's models instead of every model ever benchmarked).
+        """
+
         for dataset in datasets:
             print(f"Processing {dataset}...")
-            
+
             # Read results
-            results = self.read_dataset_results(dataset)
-            
+            results = self.read_dataset_results(dataset, model_filter=model_filter)
+
             if not results:
                 print(f"No results found for {dataset}")
                 continue
-            
+
             # Process based on dataset type
             if dataset == 'CLIcK':
                 processed_data = self.process_click_results(results)
@@ -201,6 +229,8 @@ class RadarChartGenerator:
                 processed_data = self.process_kmmlu_results(results)
             elif dataset == 'HAERAE':
                 processed_data = self.process_haerae_results(results)
+            elif dataset == 'KoBALT':
+                processed_data = self.process_kobalt_results(results)
             else:
                 # Generic processing for other datasets
                 processed_data = {}
