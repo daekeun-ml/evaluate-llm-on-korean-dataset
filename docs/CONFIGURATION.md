@@ -1,6 +1,6 @@
 # Configuration
 
-Full reference for `.env` provider configuration. See [README.md](README.md#-quick-start) for the
+Full reference for `.env` provider configuration. See [../README.md](../README.md#-quick-start) for the
 general setup flow — this file covers per-provider options in detail.
 
 ## Multiple Models Setup

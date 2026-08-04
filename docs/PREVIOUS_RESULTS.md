@@ -1,15 +1,15 @@
 # Previous Results
 
 This file archives per-model detailed results for models benchmarked before the current round in
-[README.md](README.md#-results) (GPT-5.6 Sol/Terra/Luna, Claude Sonnet 5, Claude Opus 5, and
+[../README.md](../README.md#-results) (GPT-5.6 Sol/Terra/Luna, Claude Sonnet 5, Claude Opus 5, and
 DeepSeek-V4-Flash-0731). See [DETAILED_RESULTS.md](DETAILED_RESULTS.md) for full per-category breakdowns
 across all historical models.
 
 ## Aug 4, 2026 round: GPT-5.6 (Sol/Terra/Luna) vs. DeepSeek-V4-Flash-0731 (non-reasoning)
 
 This was the first pass of the current benchmark round, before Claude Sonnet 5 / Opus 5 were added
-and before DeepSeek-V4-Flash-0731 was re-run with reasoning enabled (`reasoning=high`). See README.md for
-the superseding 7-model comparison.
+and before DeepSeek-V4-Flash-0731 was re-run with reasoning enabled (`reasoning=high`). See
+[../README.md](../README.md#-results) for the superseding 7-model comparison.
 
 ### CLIcK
 
@@ -123,9 +123,6 @@ the superseding 7-model comparison.
 | STEM            | Math                                       |         89    |           91    |          88    |               39    |
 | STEM            | Mechanical-Engineering                     |         91    |           85    |          81    |               67    |
 </details>
-
-> **Looking for older model results (GPT-5.2, GPT-5.1, Nova 2, GPT-4.1, Phi, Llama, etc.)?**
-> See [PREVIOUS_RESULTS.md](PREVIOUS_RESULTS.md) for full CLIcK/HAE-RAE/KMMLU/KMMLU-HARD tables from earlier benchmark rounds.
 
 
 

@@ -17,7 +17,7 @@ fi
 ### Parallel execution version of run_all.sh with resume capability
 
 # Ask user for dataset selection
-read -p "[Q1] 평가할 데이터셋을 선택하세요 (1:CLIcK, 2:HAE-RAE, 3:KMMLU, 4:KMMLU-HARD, 5:HRM8K, 6:KoBALT, 7:KorMedMCQA, 기본값: 1): " dataset_choice
+read -p "[Q1] 평가할 데이터셋을 선택하세요 (1:CLIcK, 2:HAE-RAE, 3:KMMLU, 4:KMMLU-HARD, 5:HRM8K, 6:KoBALT, 7:KorMedMCQA, 8:KMMLU-Pro, 9:MuSR-Ko, 기본값: 1): " dataset_choice
 dataset_choice=${dataset_choice:-1}
 
 case "$dataset_choice" in
@@ -28,7 +28,9 @@ case "$dataset_choice" in
     5) benchmark="hrm8k" ;;
     6) benchmark="kobalt" ;;
     7) benchmark="kormedmcqa" ;;
-    *) 
+    8) benchmark="kmmlu-pro" ;;
+    9) benchmark="musr-ko" ;;
+    *)
         echo "잘못된 선택입니다. 기본값(CLIcK)으로 실행합니다."
         benchmark="click"
         ;;
@@ -102,9 +104,15 @@ run_model() {
         kormedmcqa)
             DOTENV_PATH="$env_file" uv run python benchmarks/kormedmcqa_main.py $common_args
             ;;
+        kmmlu-pro)
+            DOTENV_PATH="$env_file" uv run python benchmarks/kmmlu_pro_main.py $common_args
+            ;;
+        musr-ko)
+            DOTENV_PATH="$env_file" uv run python benchmarks/musr_ko_main.py $common_args
+            ;;
         *)
             echo "Invalid benchmark: $benchmark"
-            echo "Usage: ./scripts/run_debug.sh [click|haerae|kmmlu|kmmlu-hard|hrm8k|kobalt|kormedmcqa]"
+            echo "Usage: ./scripts/run_debug.sh [click|haerae|kmmlu|kmmlu-hard|hrm8k|kobalt|kormedmcqa|kmmlu-pro|musr-ko]"
             exit 1
             ;;
     esac
