@@ -15,7 +15,7 @@ from config.question_templates import get_question_template
 from core.evaluator import KMMLUProEvaluator
 from core.logger import logger
 from util.custom_parser import MultipleChoicesFourParser, MultipleChoicesFiveParser
-from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug
+from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug, skip_completed_samples
 from util.evaluate_helper import evaluate
 
 
@@ -112,10 +112,11 @@ def main():
     dataset = load_dataset("LGAI-EXAONE/KMMLU-Pro")["test"]
 
     all_data = []
-    for item in dataset:
+    for idx, item in enumerate(dataset):
         if args.licenses and item["license_name"] not in args.licenses:
             continue
         all_data.append({
+            "qid": str(idx),
             "license_name": item["license_name"],
             "subject": item["subject"],
             "num_choices": len(item["options"]),
@@ -125,6 +126,9 @@ def main():
 
     if args.is_debug:
         all_data = all_data[:args.num_debug_samples]
+
+    # Re-answer only the samples that previously failed or came back empty
+    all_data = skip_completed_samples(all_data, csv_path)
 
     if not all_data:
         logger.info("✅ All data completed!")

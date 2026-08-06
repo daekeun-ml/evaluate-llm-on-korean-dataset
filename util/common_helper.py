@@ -2,8 +2,12 @@ import os
 import argparse
 import boto3
 import time
+import logging
+import pandas as pd
 from functools import wraps
 from typing import Any, Dict, List, Optional
+
+logger = logging.getLogger(__name__)
 
 from langchain_openai import AzureChatOpenAI, ChatOpenAI
 from langchain_huggingface import HuggingFaceEndpoint
@@ -34,6 +38,53 @@ def str2bool(v):
         return False
     else:
         raise argparse.ArgumentTypeError("Boolean value expected.")
+
+
+def prune_failed_and_get_completed_qids(csv_path, qid_col="qid"):
+    """Drop failed/empty rows from an existing result CSV and return the qids that succeeded.
+
+    Skipping those qids on a re-run means successful samples are not re-answered, while
+    the ones that came back FAILED or [EMPTY_RESPONSE] are retried.
+    """
+    if not os.path.exists(csv_path):
+        return set()
+
+    df = pd.read_csv(csv_path)
+    if df.empty:
+        return set()
+
+    if qid_col not in df.columns:
+        # Appending new-schema rows (header=False) to a CSV written before qid existed
+        # would shift every column, so start the file over instead.
+        logger.warning(f"{csv_path} has no '{qid_col}' column (old schema) — re-running all samples")
+        os.remove(csv_path)
+        return set()
+
+    is_failed = df["pred"] == "FAILED"
+    is_empty = df["response"].astype(str).str.contains("EMPTY_RESPONSE", na=False)
+    bad = is_failed | is_empty
+
+    if bad.any():
+        df[~bad].to_csv(csv_path, index=False)
+
+    # Compare as strings: purely numeric qids (KMMLU-Pro, KoBALT) come back from read_csv
+    # as int64, so "2118" != 2118 would make every sample look unfinished.
+    return set(df.loc[~bad, qid_col].astype(str).tolist())
+
+
+def skip_completed_samples(all_data, csv_path, qid_col="qid"):
+    """Filter out samples that already have a good answer in the result CSV.
+
+    Re-running the same command therefore only re-answers the samples that previously
+    failed or came back empty.
+    """
+    completed = prune_failed_and_get_completed_qids(csv_path, qid_col=qid_col)
+    if not completed:
+        return all_data
+
+    remaining = [d for d in all_data if str(d[qid_col]) not in completed]
+    logger.info(f"Skipping {len(completed)} completed samples, {len(remaining)} to go")
+    return remaining
 
 
 def check_existing_csv_in_debug(csv_path, is_debug):
@@ -178,6 +229,26 @@ def get_llm_client(
             reasoning_enabled = os.getenv("REASONING_ENABLED", "false").lower() == "true"
             if reasoning_enabled:
                 reasoning_effort = os.getenv("REASONING_EFFORT", "high")
+
+                # The high/max effort prompts tell the model to keep verifying until it is
+                # certain, so on hard items it never emits </think>: the whole budget goes to
+                # reasoning and the response comes back empty. FORCED_THINK_CLOSE drives the
+                # raw /completions endpoint and closes the thinking block once the budget is
+                # spent. See util/forced_close_llm.py for the measurements behind this.
+                if os.getenv("FORCED_THINK_CLOSE", "false").lower() == "true":
+                    from .forced_close_llm import ForcedCloseDeepSeekLLM
+
+                    llm = ForcedCloseDeepSeekLLM(
+                        base_url=openai_api_base,
+                        api_key=os.getenv("OPENAI_API_KEY", "EMPTY"),
+                        model=model_name,
+                        reasoning_effort=reasoning_effort,
+                        system_prompt=system_prompt,
+                        max_tokens=max_tokens,
+                        temperature=temperature,
+                    )
+                    return llm, model_name
+
                 llm_kwargs["extra_body"] = {
                     "chat_template_kwargs": {"thinking": True, "reasoning_effort": reasoning_effort}
                 }

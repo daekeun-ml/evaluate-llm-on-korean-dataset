@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from core.evaluator import KoBALTEvaluator
 from core.logger import logger
 from util.evaluate_helper import evaluate
-from util.common_helper import check_existing_csv_in_debug, get_provider_name, str2bool, format_timespan
+from util.common_helper import check_existing_csv_in_debug, get_provider_name, str2bool, format_timespan, skip_completed_samples
 from util.custom_parser import MultipleChoicesTenParser
 
 def process_chunk(chunk_info):
@@ -87,22 +87,26 @@ def main():
     dataset = load_dataset("snunlp/KoBALT-700", "kobalt_v1", split="raw")
     
     all_data = []
-    for item in dataset:
+    for idx, item in enumerate(dataset):
         if item["Level"] in all_levels:
             all_data.append({
+                "qid": str(idx),
                 "category": item["Class"],
                 "subcategory": item.get("Subclass"),
                 "level": item.get("Level"),
                 "question": item["Question"],
                 "answer": item["Answer"],
             })
-    
+
     # 디버그 모드
     if args.is_debug:
         logger.info(f"🔍 Debug mode: requested {args.num_debug_samples} samples, available {len(all_data)} samples")
         all_data = all_data[:args.num_debug_samples]
         logger.info(f"🔍 Using {len(all_data)} samples for evaluation")
-    
+
+    # Re-answer only the samples that previously failed or came back empty
+    all_data = skip_completed_samples(all_data, csv_path)
+
     if not all_data:
         logger.info("✅ All data completed!")
         evaluate(csv_path, dataset="KoBALT", verbose=True)

@@ -108,6 +108,9 @@ REASONING_EFFORT=medium   # exact accepted values vary by provider — see CONFI
 ## Output
 
 Evaluation results are saved as `results/[<Benchmark>] <MODEL_NAME>-<MODEL_VERSION>.csv`, with one
-row per question (`answer`, `pred`, `response`, plus benchmark-specific category columns). Re-run
-`evaluate.ipynb` / `evaluate-all.ipynb` (or `util/evaluate_helper.get_experiments_md`) to regenerate
-the markdown leaderboard tables shown in [RESULTS.md](RESULTS.md).
+row per question (`qid`, `answer`, `pred`, `response`, plus benchmark-specific category columns).
+Re-run `evaluate-all.ipynb` (or `util/evaluate_helper.get_experiments_md`) to regenerate the
+markdown leaderboard tables shown in [RESULTS.md](RESULTS.md).
+
+Re-running the same command skips questions that already have a good answer and retries only the
+ones that came back `FAILED` or `[EMPTY_RESPONSE]`, so an interrupted run can simply be restarted.

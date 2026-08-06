@@ -42,10 +42,16 @@ def _generate_reasoning_prompt(num_choices, reasoning_effort="medium"):
     """Generate reasoning prompt based on effort level"""
     effort_instructions = {
         "none": "Keep your reasoning VERY BRIEF (1 sentence maximum)",
-        "minimal": "Keep your reasoning BRIEF (1-2 sentences maximum)", 
+        "minimal": "Keep your reasoning BRIEF (1-2 sentences maximum)",
         "low": "Keep your reasoning CONCISE (2-3 sentences maximum)",
         "medium": "Provide clear reasoning (3-4 sentences maximum)",
-        "high": "Provide detailed reasoning and analysis (4-6 sentences maximum)"
+        "high": "Provide detailed reasoning and analysis (4-6 sentences maximum)",
+        # Self-hosted DeepSeek-V4-Flash exposes a "max" level; without an entry here it
+        # silently fell back to "medium". Note that asking for brevity does NOT actually
+        # bound this model's reasoning: its own effort prompt (injected by the checkpoint's
+        # encoder) tells it to keep verifying until certain, and that wins. Truncation is
+        # handled at the decoding layer instead — see util/forced_close_llm.py.
+        "max": "Provide thorough reasoning, but keep it under 300 words. Do NOT enumerate every option exhaustively, and do NOT revisit conclusions you already reached — decide and commit",
     }
     
     instruction = effort_instructions.get(reasoning_effort, effort_instructions["medium"])

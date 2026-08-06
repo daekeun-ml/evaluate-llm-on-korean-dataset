@@ -258,6 +258,7 @@ class BenchmarkEvaluator:
         """결과 엔트리 생성 (서브클래스에서 오버라이드)"""
         if isinstance(pred, (list, tuple)):
             return {
+                "qid": qna.get("qid"),
                 "answer": qna["answer"],
                 "pred": pred[0],
                 "response": pred[1],
@@ -265,28 +266,31 @@ class BenchmarkEvaluator:
         else:
             # Handle AIMessage object
             response_text = pred.content if hasattr(pred, 'content') else str(pred)
-            
+
             # Handle list content (for reasoning models)
             if isinstance(response_text, list):
                 response_text = ' '.join([str(item) for item in response_text])
-            
+
             return {
+                "qid": qna.get("qid"),
                 "answer": qna["answer"],
                 "pred": None,
                 "response": response_text,
             }
-    
+
     def _make_failed(self, qna, error):
         """실패 엔트리 생성"""
         return {
+            "qid": qna.get("qid"),
             "answer": qna["answer"],
             "pred": "FAILED",
             "response": error,
         }
-    
+
     def _make_filtered(self, qna):
         """Content filtering 엔트리 생성"""
         return {
+            "qid": qna.get("qid"),
             "answer": qna["answer"],
             "pred": "FILTERED",
             "response": "CONTENT_FILTER_ERROR",
@@ -303,6 +307,7 @@ class CLIcKEvaluator(BenchmarkEvaluator):
     
     def _make_result(self, qna, pred):
         return {
+            "qid": qna["id"],
             "id": qna["id"],
             "category": qna.get("category", self.id_to_category.get(str(qna["id"]))),
             "trial": 0,
@@ -310,9 +315,10 @@ class CLIcKEvaluator(BenchmarkEvaluator):
             "pred": pred[0],
             "response": pred[1],
         }
-    
+
     def _make_failed(self, qna, error):
         return {
+            "qid": qna["id"],
             "id": qna["id"],
             "category": qna.get("category", self.id_to_category.get(str(qna["id"]))),
             "trial": 0,
@@ -320,7 +326,7 @@ class CLIcKEvaluator(BenchmarkEvaluator):
             "pred": "FAILED",
             "response": error,
         }
-    
+
     def save_results(self, responses, csv_path, chunk_id=None):
         """CLIcK는 ID 기준으로 저장"""
         return super().save_results(responses, csv_path, merge_key='id', chunk_id=chunk_id)
@@ -328,17 +334,19 @@ class CLIcKEvaluator(BenchmarkEvaluator):
 
 class HAERAEEvaluator(BenchmarkEvaluator):
     """HAERAE 벤치마크 평가"""
-    
+
     def _make_result(self, qna, pred):
         return {
+            "qid": qna.get("qid"),
             "category": qna["category"],
             "answer": qna["answer"],
             "pred": pred[0],
             "response": pred[1],
         }
-    
+
     def _make_failed(self, qna, error):
         return {
+            "qid": qna.get("qid"),
             "category": qna["category"],
             "answer": qna["answer"],
             "pred": "FAILED",
@@ -348,17 +356,19 @@ class HAERAEEvaluator(BenchmarkEvaluator):
 
 class KMMLUEvaluator(BenchmarkEvaluator):
     """KMMLU 벤치마크 평가"""
-    
+
     def _make_result(self, qna, pred):
         return {
+            "qid": qna.get("qid"),
             "category": qna["category"],
             "answer": qna["answer"],
             "pred": pred[0],
             "response": pred[1],
         }
-    
+
     def _make_failed(self, qna, error):
         return {
+            "qid": qna.get("qid"),
             "category": qna["category"],
             "answer": qna["answer"],
             "pred": "FAILED",
@@ -397,6 +407,7 @@ class KoBALTEvaluator(BenchmarkEvaluator):
 
     def _make_result(self, qna, pred):
         return {
+            "qid": qna.get("qid"),
             "category": qna.get("category"),
             "subcategory": qna.get("subcategory"),
             "level": qna.get("level"),
@@ -407,6 +418,7 @@ class KoBALTEvaluator(BenchmarkEvaluator):
 
     def _make_failed(self, qna, error):
         return {
+            "qid": qna.get("qid"),
             "category": qna.get("category"),
             "subcategory": qna.get("subcategory"),
             "level": qna.get("level"),
@@ -421,6 +433,7 @@ class KMMLUProEvaluator(BenchmarkEvaluator):
 
     def _make_result(self, qna, pred):
         return {
+            "qid": qna.get("qid"),
             "license_name": qna.get("license_name"),
             "subject": qna.get("subject"),
             "answer": qna["answer"],
@@ -430,6 +443,7 @@ class KMMLUProEvaluator(BenchmarkEvaluator):
 
     def _make_failed(self, qna, error):
         return {
+            "qid": qna.get("qid"),
             "license_name": qna.get("license_name"),
             "subject": qna.get("subject"),
             "answer": qna["answer"],
@@ -443,6 +457,7 @@ class MuSRKoEvaluator(BenchmarkEvaluator):
 
     def _make_result(self, qna, pred):
         return {
+            "qid": qna.get("qid"),
             "subset": qna.get("subset"),
             "answer": qna["answer"],
             "pred": pred[0],
@@ -451,6 +466,7 @@ class MuSRKoEvaluator(BenchmarkEvaluator):
 
     def _make_failed(self, qna, error):
         return {
+            "qid": qna.get("qid"),
             "subset": qna.get("subset"),
             "answer": qna["answer"],
             "pred": "FAILED",

@@ -1,0 +1,3515 @@
+qid,category,answer,pred,response
+Reading Comprehension-27,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-28,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-29,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-30,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-31,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-32,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-33,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-34,Reading Comprehension,D,D,"### ANSWER
+D"
+History-17,History,E,E,"### ANSWER
+E"
+History-18,History,D,D,"### ANSWER
+D"
+History-19,History,D,D,"설총은 이두를 정리하고 체계화하여 백성들이 쉽게 사용할 수 있게 한 인물이다.
+
+### ANSWER
+D"
+History-20,History,E,E,"### ANSWER
+E"
+History-21,History,B,B,"### ANSWER
+B"
+History-22,History,A,A,"### ANSWER
+A"
+History-23,History,D,D,"### ANSWER
+D"
+History-24,History,B,B,"### ANSWER
+B"
+Reading Comprehension-35,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-36,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-37,Reading Comprehension,B,B,"The blank connects the health benefits of traditional drinks to people regarding them as medicine, so “그래서” (therefore) is correct.
+
+### ANSWER
+B"
+Reading Comprehension-38,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-39,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-40,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-41,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-42,Reading Comprehension,D,D,"### ANSWER
+D"
+General Knowledge-0,General Knowledge,B,C,"The description refers to the custom of visiting and tending ancestral graves during Korean holidays, which is called 성묘.
+
+### ANSWER
+C"
+General Knowledge-1,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-2,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-3,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-4,General Knowledge,E,E,"한국은 대의민주주의를 채택하고 있어 모든 국가 사무를 국민 투표로 결정하지 않는다. 따라서 E가 옳지 않다.
+
+### ANSWER
+E"
+General Knowledge-5,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-6,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-7,General Knowledge,D,D,"### ANSWER
+D"
+Reading Comprehension-413,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-414,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-415,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-416,Reading Comprehension,B,B,"㉡ 투기 바람이 형성되면 가격 상승 기대가 이어져 ㉠ 거품이 발생한다는 내용이므로 적절한 것은 B이다.
+
+### ANSWER
+B"
+Reading Comprehension-417,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-418,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-419,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-420,Reading Comprehension,D,D,"### ANSWER
+D"
+Loan Words-22,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-23,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-24,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-25,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-26,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-27,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-28,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-29,Loan Words,B,B,"### ANSWER
+B"
+Reading Comprehension-220,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-221,Reading Comprehension,A,A,"편지에서 “고등학교를 졸업한 지도 벌써 3년이 지났습니다”라고 했으므로 A가 맞습니다. 나머지는 내용과 맞지 않습니다.
+
+### ANSWER
+A"
+Reading Comprehension-222,Reading Comprehension,D,D,"아빠는 부모가 관심을 가지고 지켜보면 게임이 큰 문제가 되지 않는다고 했지, 간섭하지 말아야 한다고는 하지 않았습니다.
+
+### ANSWER
+D"
+Reading Comprehension-223,Reading Comprehension,B,B,"The father gained both a closer relationship with his son and a victory in the competition, so the proverb “꿩 먹고 알 먹기” (two benefits at once) fits.
+
+### ANSWER
+B"
+Reading Comprehension-224,Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension-225,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-226,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-227,Reading Comprehension,B,B,"### ANSWER
+B"
+History-25,History,B,B,"### ANSWER
+B"
+History-26,History,C,C,"### ANSWER
+C"
+History-27,History,E,E,"### ANSWER
+E"
+History-28,History,C,C,"### ANSWER
+C"
+History-29,History,A,A,"### ANSWER
+A"
+History-30,History,B,B,"### ANSWER
+B"
+History-31,History,A,A,"### ANSWER
+A"
+History-32,History,E,E,"### ANSWER
+E"
+Rare Words-239,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-240,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-241,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-242,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-243,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-244,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-245,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-246,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-46,Rare Words,D,D,"""그리 쉽사리""는 'so easily'라는 뜻으로, 이를 의미하는 부사는 '간대로'입니다.
+
+### ANSWER
+D"
+Rare Words-47,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-48,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-49,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-50,Rare Words,A,A,"도통은 명사로 ‘모두 합한 셈’, 부사로 ‘아무리 해도/전혀’의 뜻을 가진다.
+
+### ANSWER
+A"
+Rare Words-51,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-52,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-53,Rare Words,E,E,"### ANSWER
+E"
+History-33,History,C,C,"### ANSWER
+C"
+History-34,History,A,A,"### ANSWER
+A"
+History-35,History,C,C,"### ANSWER
+C"
+History-36,History,C,C,"The movement started by Donghak followers and peasants in Gobu, Jeolla Province is the Donghak Peasant Movement.
+
+### ANSWER
+C"
+History-37,History,E,E,"### ANSWER
+E"
+History-38,History,B,B,"### ANSWER
+B"
+History-39,History,C,C,"### ANSWER
+C"
+History-40,History,A,A,"### ANSWER
+A"
+General Knowledge-8,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-9,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-10,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-11,General Knowledge,A,E,"### ANSWER
+E"
+General Knowledge-12,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-13,General Knowledge,B,B,"다누리 포털은 다문화가족의 한국생활 적응에 필요한 기본정보와 최신 다문화 관련 정보를 제공하는 역할을 한다.
+
+### ANSWER
+B"
+General Knowledge-14,General Knowledge,D,B,"국·공립 유치원은 민간(사립)에 비해 보육료가 저렴한 것이 대표적인 장점이다.
+
+### ANSWER
+B"
+General Knowledge-15,General Knowledge,A,A,"### ANSWER
+A"
+Reading Comprehension-421,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-422,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-423,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-424,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-425,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-426,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-427,Reading Comprehension,A,A,"이 글은 어려운 일을 당했을 때 이웃이 가까이 있어서 가장 빠르게 도움을 줄 수 있다는 뜻으로 ‘이웃사촌’을 설명하고 있으므로, 빈칸에는 A가 가장 알맞다.
+
+### ANSWER
+A"
+Reading Comprehension-428,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-43,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-44,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-45,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-46,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-47,Reading Comprehension,A,A,### ANSWER A
+Reading Comprehension-48,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-49,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-50,Reading Comprehension,C,C,"The text explains why warm-up exercises are necessary before swimming—to prevent accidents and warm up the body—not how to do them.
+
+### ANSWER
+C"
+Loan Words-30,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-31,Loan Words,C,E,"### ANSWER
+E"
+Loan Words-32,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-33,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-34,Loan Words,C,C,"연돌은 '굴뚝'을 뜻하는 한자어이므로 순화어는 '굴뚝'이다.
+
+### ANSWER
+C"
+Loan Words-35,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-36,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-37,Loan Words,B,B,"### ANSWER
+B"
+Reading Comprehension-228,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-229,Reading Comprehension,C,C,"The notice says the club needs people for vocals, guitar, keyboard, and drums, not the instruments themselves. It also states that snacks and drinks are given to visitors in the club room, which matches choice C. Choices A and D contradict the notice.
+
+### ANSWER
+C"
+Reading Comprehension-230,Reading Comprehension,D,D,"본문에는 거꾸로 수업의 인기 요인이 교실 수업보다 동영상 수업이 더 많다는 내용이 없다.
+
+### ANSWER
+D"
+Reading Comprehension-231,Reading Comprehension,C,C,"본문은 일부 체험 농가가 학교로 찾아가는 체험 교육을 실시한다고 했을 뿐, 체험 농가에 경제적 어려움이 없다고는 하지 않는다. 오히려 목장 체험, 딸기 체험 농가 등은 5월 예약이 모두 취소되는 어려움을 겪는다고 했으므로 C는 내용과 같지 않다.
+
+### ANSWER
+C"
+Reading Comprehension-232,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-233,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-234,Reading Comprehension,B,B,"The passage emphasizes that small, easy actions in daily life—like greeting others, expressing gratitude, and apologizing—can improve relationships.
+
+### ANSWER
+B"
+Reading Comprehension-235,Reading Comprehension,C,C,"공고에 따르면 누구나 참여 가능하고, 우승자에게만 국제 대회 기회가 주어지며, 3등도 상금을 받을 수 있다. 따라서 C가 가장 적절하다.
+
+### ANSWER
+C"
+Reading Comprehension-51,Reading Comprehension,D,D,"The text says many people do not warm up before swimming, but option D claims people usually warm up well, which contradicts the passage.
+
+### ANSWER
+D"
+Reading Comprehension-52,Reading Comprehension,B,B,"The passage explains how the internet lets people do tasks like sending mail, shopping, and banking from home, avoiding trips to post offices, stores, or banks. This clearly describes life becoming more convenient, not complicated, safe, or tiring.
+
+### ANSWER
+B"
+Reading Comprehension-53,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-54,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-55,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-56,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-57,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-58,Reading Comprehension,A,A,"### ANSWER
+A"
+General Knowledge-16,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-17,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-18,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-19,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-20,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-21,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-22,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-23,General Knowledge,B,B,"### ANSWER
+B"
+Rare Words-54,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-55,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-56,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-57,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-58,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-59,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-60,Rare Words,B,B,"이력은 여러 번 겪어서 생긴 슬기나 경험을 뜻하므로, 많이 겪어 보아서 얻게 된 슬기에 해당한다.
+
+### ANSWER
+B"
+Rare Words-61,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-247,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-248,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-249,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-250,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-251,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-252,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-253,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-254,Rare Words,D,D,"### ANSWER
+D"
+Loan Words-38,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-39,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-40,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-41,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-42,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-43,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-44,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-45,Loan Words,D,D,"### ANSWER
+D"
+Reading Comprehension-429,Reading Comprehension,A,A,"The passage begins by saying big data applications are not limited to new product development or marketing, implying the preceding text discussed such cases. Therefore, the most suitable preceding content is an example of using big data to develop new products.
+
+### ANSWER
+A"
+Reading Comprehension-430,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-431,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-432,Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension-433,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-434,Reading Comprehension,A,A,"The text focuses on how men and women communicate differently, noting that while they use the same language system, they often mean different things, leading to misunderstandings. The main topic is the difference in communication styles between genders.
+
+### ANSWER
+A"
+Reading Comprehension-435,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-436,Reading Comprehension,D,D,"### ANSWER
+D"
+History-41,History,D,D,"### ANSWER
+D"
+History-42,History,B,B,"### ANSWER
+B"
+History-43,History,D,A,"### ANSWER
+A"
+History-44,History,B,B,"### ANSWER
+B"
+History-45,History,E,C,"### ANSWER
+C"
+History-46,History,B,B,"### ANSWER
+B"
+History-47,History,C,C,"### ANSWER
+C"
+History-48,History,B,B,"### ANSWER
+B"
+Reading Comprehension-236,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-237,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-238,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-239,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-240,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-241,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-242,Reading Comprehension,B,B,"입 냄새의 원인을 정확히 파악하는 것이 중요하다고 했으므로, 뒤에는 원인별 치료법이 이어지는 것이 자연스럽다.
+
+### ANSWER
+B"
+Reading Comprehension-243,Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words-255,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-256,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-257,Rare Words,B,B,"나이배기는 “겉보기보다 나이가 많은 사람”을 뜻하는 말이다. 다른 선택지는 의미가 맞지 않는다.
+
+### ANSWER
+B"
+Rare Words-258,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-259,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-260,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-261,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-262,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-59,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-60,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-61,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-62,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-63,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-64,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-65,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-66,Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words-62,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-63,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-64,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-65,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-66,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-67,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-68,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-69,Rare Words,B,B,"### ANSWER
+B"
+Loan Words-46,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-47,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-48,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-49,Loan Words,B,B,"벤트(vent)는 외래어로, 공기나 액체를 내보내는 것을 뜻하므로 순화어로는 ‘배출’이 가장 알맞다.
+
+### ANSWER
+B"
+Loan Words-50,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-51,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-52,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-53,Loan Words,E,E,"### ANSWER
+E"
+History-49,History,B,B,"지석영은 조선 후기에 종두법을 보급하여 천연두를 예방하는 데 기여했습니다.
+
+### ANSWER
+B"
+History-50,History,C,C,"### ANSWER
+C"
+History-51,History,E,E,"### ANSWER
+E"
+History-52,History,A,A,"### ANSWER
+A"
+History-53,History,E,E,"### ANSWER
+E"
+History-54,History,B,B,"### ANSWER
+B"
+History-55,History,E,E,"### ANSWER
+E"
+History-56,History,D,D,"The 1910 event when Korea's sovereignty was taken was the Japan-Korea Annexation Treaty, commonly referred to as ""국권 침탈"" (loss of national sovereignty). The other options are different treaties or events from other years.
+
+### ANSWER
+D"
+Reading Comprehension-437,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-438,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-439,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-440,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-441,Reading Comprehension,D,D,"이 글은 봄볕(오뉴월)의 자외선이 한여름보다 오히려 해롭다는 내용이다. ‘봄볕에는 며느리 내보내고 가을볕에는 딸 내보낸다’는 속담은 봄볕이 가을볕보다 강하고 해롭다는 뜻으로, 본문의 맥락에 맞다.
+
+### ANSWER
+D"
+Reading Comprehension-442,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-443,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-444,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-67,Reading Comprehension,B,B,"선우는 1년 전부터 바이올린을 배웠다고 했으므로 1년 동안 배운 것이 맞습니다. 이사는 지난주, 수업은 주 2회, 연락은 문자메시지로 가능하다고 했습니다.
+
+### ANSWER
+B"
+Reading Comprehension-68,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-69,Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension-70,Reading Comprehension,C,C,"The text says Anna, Marie, and Harry will prepare food, while the friends are asked to prepare music or drinks. So the claim that Anna is preparing music is incorrect.
+
+### ANSWER
+C"
+Reading Comprehension-71,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-72,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-73,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-74,Reading Comprehension,B,B,"### ANSWER
+B"
+History-57,History,D,D,"### ANSWER
+D"
+History-58,History,D,D,"### ANSWER
+D"
+History-59,History,D,D,"### ANSWER
+D"
+History-60,History,C,C,"### ANSWER
+C"
+History-61,History,D,D,"### ANSWER
+D"
+History-62,History,B,B,"### ANSWER
+B"
+History-63,History,B,B,"The group organized in 1919 in Manchuria (Jiandao) to destroy Japanese institutions and assassinate Japanese officials was the 의열단 (Heroic Corps), founded by Kim Won-bong and others.
+
+### ANSWER
+B"
+History-64,History,C,C,"### ANSWER
+C"
+General Knowledge-24,General Knowledge,C,E,"제사상에 치킨을 올려야 한다는 설명은 사실이 아니다.
+
+### ANSWER
+E"
+General Knowledge-25,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-26,General Knowledge,A,A,"(가)는 이어도로, 북위 약 32°에 있어 독도(북위 약 37°)보다 저위도에 위치한다. 수중 암초이므로 영해나 영토의 극서 지점으로 볼 수 없다.
+
+### ANSWER
+A"
+General Knowledge-27,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-28,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-29,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-30,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-31,General Knowledge,A,A,"### ANSWER
+A"
+Rare Words-70,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-71,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-72,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-73,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-74,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-75,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-76,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-77,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-75,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-76,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-77,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-78,Reading Comprehension,C,C,"The notice says the concert is free (무료), so buying a ticket is not required. Therefore, the incorrect statement is C.
+
+### ANSWER
+C"
+Reading Comprehension-79,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-80,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-81,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-82,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-263,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-264,Rare Words,A,A,"낙하산은 비유적으로 채용·승진 등 인사에서 배후의 높은 사람의 은밀한 지원이나 힘을 뜻한다.
+
+### ANSWER
+A"
+Rare Words-265,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-266,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-267,Rare Words,D,A,"### ANSWER
+A"
+Rare Words-268,Rare Words,E,B,"### ANSWER
+B"
+Rare Words-269,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-270,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-445,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-446,Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature-0,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-1,Standard Nomenclature,B,B,"디지털 트윈은 현실의 객체를 가상으로 구현한 모형이므로 표준 전문 용어로는 “가상 모형”이 적절합니다.
+
+### ANSWER
+B"
+Standard Nomenclature-2,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-3,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-4,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-5,Standard Nomenclature,D,D,"### ANSWER
+D"
+History-65,History,A,A,"### ANSWER
+A"
+History-66,History,B,B,"### ANSWER
+B"
+History-67,History,B,B,"### ANSWER
+B"
+History-68,History,D,D,"### ANSWER
+D"
+History-69,History,E,E,"### ANSWER
+E"
+History-70,History,B,B,"The ""조선 물건 쓰기 운동"" (Buy Korean Products Movement) was a nationalist economic campaign during the Japanese colonial period, and the Dong-a Ilbo (동아일보) was the newspaper that most actively supported and promoted it.
+
+### ANSWER
+B"
+History-71,History,B,B,"### ANSWER
+B"
+History-72,History,A,A,"### ANSWER
+A"
+Reading Comprehension-244,Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension-245,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-246,Reading Comprehension,D,D,"이 글은 여성화장품 상품명에 나타난 사회 문화적 현상들을 한방·식품, 과학·의학, 선망 대상 등으로 나누어 설명하고 있으므로, 제목은 ‘여성화장품 상품명에 반영된 사회 문화상’이 적절하다.
+
+### ANSWER
+D"
+Reading Comprehension-247,Reading Comprehension,A,A,"공지는 4층 과학예술 자료실이 청소 및 재배치 작업으로 일정 기간 사용 중지됨을 알리는 내용입니다.
+
+### ANSWER
+A"
+Reading Comprehension-248,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-249,Reading Comprehension,D,D,"(라)에서 제도 시행을 밝히고, (다)에서 소비 기한을 정의한 뒤, (나)에서 보관 방법에 따라 기한이 길어질 수 있음을 설명하고, (가)에서 결론을 맺는 것이 자연스럽다.
+
+### ANSWER
+D"
+Reading Comprehension-250,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-251,Reading Comprehension,D,D,"The notice asks participants to write a book review/impression on the library homepage to recommend a book to a friend. This matches option D.
+
+### ANSWER
+D"
+Loan Words-54,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-55,Loan Words,C,C,"### ANSWER
+C</think>명일은 한자어"
+Loan Words-56,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-57,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-58,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-59,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-60,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-61,Loan Words,A,A,"'마켓(market)'의 순화어는 '시장'입니다.
+
+### ANSWER
+A"
+Rare Words-271,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-272,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-273,Rare Words,D,C,"### ANSWER
+C"
+Rare Words-274,Rare Words,A,B,"The word ""산자갈"" specifically refers to a jealous wife brazenly nagging her husband, matching the definition in the question.
+
+### ANSWER
+B"
+Rare Words-275,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-276,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-277,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-278,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-78,Rare Words,E,E,"푸접은 남을 인정하고 붙임성 있게 포용적으로 대하는 것을 뜻하는 단어이다.
+
+### ANSWER
+E"
+Rare Words-79,Rare Words,A,B,"### ANSWER
+B"
+Rare Words-80,Rare Words,A,A,"술적심은 국물이 있는 음식, 즉 국물을 뜻하는 말입니다. 다른 보기들은 의미가 맞지 않습니다.
+
+### ANSWER
+A"
+Rare Words-81,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-82,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-83,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-84,Rare Words,B,B,"‘빚물이’는 남의 빚을 대신 갚아 주는 일을 뜻하는 말입니다.
+
+### ANSWER
+B"
+Rare Words-85,Rare Words,D,D,"### ANSWER
+D"
+History-73,History,D,D,"### ANSWER
+D"
+History-74,History,E,E,"### ANSWER
+E"
+History-75,History,E,E,"### ANSWER
+E"
+History-76,History,D,D,"### ANSWER
+D"
+History-77,History,B,C,"### ANSWER
+C"
+History-78,History,E,E,### ANSWER E
+History-79,History,C,C,"### ANSWER
+C"
+History-80,History,E,E,"### ANSWER
+E"
+Reading Comprehension-252,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-253,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-254,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-255,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-256,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-257,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-258,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-259,Reading Comprehension,A,A,"The notice explains that an email the reader sent was not delivered, likely due to an incorrect or dormant recipient address, and advises checking the address. The most appropriate reaction is to check whether the email address was entered incorrectly.
+
+### ANSWER
+A"
+General Knowledge-32,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-33,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-34,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-35,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-36,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-37,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-38,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-39,General Knowledge,E,E,"### ANSWER
+E</think>### ANSWER
+E"
+Reading Comprehension-83,Reading Comprehension,A,A,### ANSWER A
+Reading Comprehension-84,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-85,Reading Comprehension,B,B,"글에서 기분, 이동 수단, 외국인이 많이 오는 이유는 알 수 있지만, 오늘의 날짜와 날씨는 알 수 없습니다.
+
+### ANSWER
+B"
+Reading Comprehension-86,Reading Comprehension,C,E,"### ANSWER
+E"
+Reading Comprehension-87,Reading Comprehension,B,B,"Miyuki’s message says she is back home from the hospital, thanks Min-ssi for visiting, and states she will return to school next week. She asks what lessons will be studied and requests help with Korean. Options A, C, and D directly respond to her questions or request. Option B asks when she will come to school and tells her to get better soon, but she already said she is coming next week, so this is not an appropriate response.
+
+### ANSWER
+B"
+Reading Comprehension-88,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-89,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-90,Reading Comprehension,C,C,"The note mentions Children’s Day and the school foundation anniversary, both of which are special days off, so the topic is holidays.
+
+### ANSWER
+C"
+Loan Words-62,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-63,Loan Words,E,E,"리더십(leadership)의 순화어는 '지도력'입니다.
+
+### ANSWER
+E"
+Loan Words-64,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-65,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-66,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-67,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-68,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-69,Loan Words,B,B,"### ANSWER
+B"
+History-81,History,C,C,"### ANSWER
+C"
+History-82,History,C,C,"### ANSWER
+C"
+History-83,History,D,D,"### ANSWER
+D"
+History-84,History,D,D,"### ANSWER
+D"
+History-85,History,E,E,"### ANSWER
+E"
+History-86,History,A,A,"### ANSWER
+A"
+History-87,History,D,D,"### ANSWER
+D"
+History-88,History,A,A,"### ANSWER
+A"
+Standard Nomenclature-6,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-7,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-8,Standard Nomenclature,B,B,"""베이비 스텝""은 작은 폭으로 진행하는 조정을 의미하므로, 표준 전문 용어로는 ""소폭 조정""이 가장 적절하다.
+
+### ANSWER
+B"
+Standard Nomenclature-9,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-10,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-11,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-12,Standard Nomenclature,B,B,"""위드 코로나""는 코로나19와 함께 일상을 이어가는 것을 뜻하므로, 표준 전문 용어로는 **코로나 일상**이 알맞다.
+
+### ANSWER
+B"
+Standard Nomenclature-13,Standard Nomenclature,A,A,"그린테일(Green Tail)은 그린(green)과 리테일(retail)의 합성어로, 환경친화적 유통을 뜻하는 표준 전문 용어이다.
+
+### ANSWER
+A"
+History-89,History,B,A,"### ANSWER
+A"
+History-90,History,D,D,"### ANSWER
+D"
+History-91,History,C,C,"### ANSWER
+C"
+History-92,History,C,C,"The June Democracy Movement (6월 민주항쟁) in 1987 demanded direct presidential elections and also called for revealing the truth about the Gwangju Uprising and punishing those responsible.
+
+### ANSWER
+C"
+History-93,History,C,C,"### ANSWER
+C"
+History-94,History,E,E,"### ANSWER
+E"
+History-95,History,C,C,"### ANSWER
+C"
+History-96,History,B,B,"### ANSWER
+B"
+Loan Words-70,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-71,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-72,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-73,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-74,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-75,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-76,Loan Words,C,A,"### ANSWER
+A"
+Loan Words-77,Loan Words,C,C,"### ANSWER
+C"
+Rare Words-279,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-280,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-281,Rare Words,C,C,"불시울은 화로에 오래 보관하는 불씨를 뜻하는 말입니다.
+
+### ANSWER
+C"
+Rare Words-282,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-283,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-284,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-285,Rare Words,A,A,"""혼잣손""은 혼자서만 일하거나 살림을 꾸려 나가는 처리라는 뜻을 가진 단어입니다.
+
+### ANSWER
+A"
+Rare Words-286,Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature-14,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-15,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-16,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-17,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-18,Standard Nomenclature,C,C,"풍도(風道)는 공기가 이동하는 통로를 뜻하므로 표준 전문 용어는 '공기 통로'이다.
+
+### ANSWER
+C"
+Standard Nomenclature-19,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-20,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-21,Standard Nomenclature,C,C,"### ANSWER
+C"
+Reading Comprehension-91,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-92,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-93,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-94,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-95,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-96,Reading Comprehension,D,D,"The passage states the speaker moved from a dormitory to a studio apartment because they wanted to live alone. The furniture was already in the room, so they did not buy any, and although the room is small, they are fine with it. Thus, the correct choice is D.
+
+### ANSWER
+D"
+Reading Comprehension-97,Reading Comprehension,B,A,"### ANSWER
+A"
+Reading Comprehension-98,Reading Comprehension,D,D,"### ANSWER
+D"
+History-97,History,D,D,"### ANSWER
+D"
+History-98,History,D,D,"### ANSWER
+D"
+History-99,History,C,C,"### ANSWER
+C"
+History-100,History,A,A,"### ANSWER
+A"
+History-101,History,C,C,"### ANSWER
+C"
+History-102,History,B,B,"### ANSWER
+B"
+History-103,History,E,E,"### ANSWER
+E"
+History-104,History,A,A,"### ANSWER
+A"
+Rare Words-86,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-87,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-88,Rare Words,A,A,"중력의 방향은 수직 방향이며, 이와 직각을 이루는 선은 수평선이다.
+
+### ANSWER
+A"
+Rare Words-89,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-90,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-91,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-92,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-93,Rare Words,C,C,"### ANSWER
+C"
+General Knowledge-40,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-41,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-42,General Knowledge,D,D,"고령 사회 문제로 갑, 을, 병은 모두 타당한 지적이다. 해결 방안으로 정은 “정년 단축”을 주장했는데, 이는 오히려 고령 인력 활용을 줄여 문제를 악화시키므로 옳지 않다. 무의 실버타운 확대와 여가 시설 확충은 노인 복지 측면의 해결 방안으로 볼 수 있다.
+
+### ANSWER
+D"
+General Knowledge-43,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-44,General Knowledge,C,C,"화성시는 신도시 개발로 유소년층 비율이 높고, 안성시는 농촌 지역으로 고령화 비율이 높아 C가 옳다.
+
+### ANSWER
+C"
+General Knowledge-45,General Knowledge,A,A,"가평은 수도권정비계획법상 자연보전권역에 해당한다. 나머지 보기는 사실과 다르다.
+
+### ANSWER
+A"
+General Knowledge-46,General Knowledge,D,D,"춘천은 대표적인 석회동굴 지역이 아니며, 천연기념물로 지정된 석회 동굴은 주로 영월·삼척·단양 등에 분포한다. 나머지 지역-활동 연결은 적절하다.
+
+### ANSWER
+D"
+General Knowledge-47,General Knowledge,E,E,"### ANSWER
+E"
+Reading Comprehension-260,Reading Comprehension,C,C,"The passage says opening the car doors wide to lower the interior temperature can remove frost, so the appropriate response is that frost disappears when the inside is made as cold as the outside.
+
+### ANSWER
+C"
+Reading Comprehension-261,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-262,Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension-263,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-264,Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension-265,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-266,Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension-267,Reading Comprehension,B,B,"### ANSWER
+B"
+History-105,History,C,C,"### ANSWER
+C"
+History-106,History,B,B,"### ANSWER
+B"
+History-107,History,E,E,"### ANSWER
+E"
+History-108,History,E,E,"### ANSWER
+E"
+History-109,History,C,C,"### ANSWER
+C"
+History-110,History,B,B,"### ANSWER
+B"
+History-111,History,A,A,"### ANSWER
+A"
+History-112,History,D,D,"### ANSWER
+D"
+Loan Words-78,Loan Words,E,E,"개로(開路)는 전기 회로가 끊어진 상태, 즉 open circuit을 뜻하므로 순화어는 '열린 회로'입니다.
+
+### ANSWER
+E"
+Loan Words-79,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-80,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-81,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-82,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-83,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-84,Loan Words,D,D,"가건물은 임시로 지은 건물을 뜻하므로 순화어는 '임시 건물'이다.
+
+### ANSWER
+D"
+Loan Words-85,Loan Words,A,C,"전기/통신 분야의 'bus(부스, 모선)'에 해당하는 순화어는 '주선로'입니다.
+
+### ANSWER
+C"
+Rare Words-287,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-288,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-289,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-290,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-291,Rare Words,E,D,"### ANSWER
+D"
+Rare Words-292,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-293,Rare Words,B,E,"### ANSWER
+E"
+Rare Words-294,Rare Words,E,E,"### ANSWER
+E"
+History-113,History,B,B,"### ANSWER
+B"
+History-114,History,B,B,"### ANSWER
+B"
+History-115,History,B,B,"### ANSWER
+B"
+History-116,History,A,A,"### ANSWER
+A"
+History-117,History,C,C,"### ANSWER
+C"
+History-118,History,C,C,"### ANSWER
+C"
+History-119,History,A,A,"### ANSWER
+A"
+History-120,History,B,B,"### ANSWER
+B"
+Standard Nomenclature-22,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-23,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-24,Standard Nomenclature,A,A,"저널리즘(journalism)을 뜻하는 표준 전문 용어는 ‘언론’이다.
+
+### ANSWER
+A"
+Standard Nomenclature-25,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-26,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-27,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-28,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-29,Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension-99,Reading Comprehension,B,B,"이 글은 커피 인기가 높아 커피숍이 많아진 현상과, 사람들이 커피를 마실 때 이미지나 이름, 종류, 가격을 중요하게 여기는 이유를 설명하고 있습니다. 따라서 제목으로는 ‘커피숍이 많은 이유’가 가장 적절합니다.
+
+### ANSWER
+B"
+Reading Comprehension-100,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-101,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-102,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-103,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-104,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-105,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-106,Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge-48,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-49,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-50,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-51,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-52,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-53,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-54,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-55,General Knowledge,A,D,"### ANSWER
+D"
+Rare Words-94,Rare Words,B,B,"‘지게걸음’은 지게를 진 사람처럼 몸을 좌우로 기우뚱거리며 걷는 걸음을 뜻한다.
+
+### ANSWER
+B"
+Rare Words-95,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-96,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-97,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-98,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-99,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-100,Rare Words,A,A,"'번번히'는 울퉁불퉁한 데 없이 펀펀하고 번듯하게를 뜻하는 부사입니다.
+
+### ANSWER
+A"
+Rare Words-101,Rare Words,D,B,"### ANSWER
+B"
+General Knowledge-56,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-57,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-58,General Knowledge,B,D,"### ANSWER
+D"
+General Knowledge-59,General Knowledge,E,E,"Moonbin and Moon Sua are the idol siblings who covered “내귀에 캔디” at Music Bank in 2022.
+
+### ANSWER
+E"
+General Knowledge-60,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-61,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-62,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-63,General Knowledge,C,C,"### ANSWER
+C"
+History-121,History,E,E,"### ANSWER
+E"
+History-122,History,B,B,"### ANSWER
+B"
+History-123,History,A,A,"### ANSWER
+A"
+History-124,History,E,E,"### ANSWER
+E"
+History-125,History,B,B,"### ANSWER
+B"
+History-126,History,D,D,"### ANSWER
+D"
+History-127,History,E,E,"### ANSWER
+E"
+History-128,History,D,D,"The reform that included the short hair decree (단발령), abolition of the civil service examination (과거 제도 폐지), and abolition of the slavery system (노비 제도 폐지) is the Gabo Reform (갑오개혁). The Gabo Reform (1894–1896) encompassed both the first phase (1894) which abolished the gwageo and nobi systems, and the second phase (1895, also called Eulmi Reform) which included the short hair decree. Since the question groups all these measures together, the overall reform is the Gabo Reform.
+
+### ANSWER
+D"
+Reading Comprehension-268,Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension-269,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-270,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-271,Reading Comprehension,A,D,"The speaker infers that Kim had urgent work, which explains why he was walking busily. ""있을 테니까"" expresses this causal inference (""since there must be""), fitting the context naturally.
+
+### ANSWER
+D"
+Reading Comprehension-272,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-273,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-274,Reading Comprehension,A,A,"The speaker has already visited those places, so “이미” (already) fits the context.
+
+### ANSWER
+A"
+Reading Comprehension-275,Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words-295,Rare Words,B,B,"나들목은 도로 교차 지점을 입체적으로 연결해 신호 없이 통행할 수 있게 한 시설(IC)을 뜻합니다.
+
+### ANSWER
+B"
+Rare Words-296,Rare Words,A,A,"건더기는 액체에 섞인 녹지 않은 덩어리를 뜻하며, 비유적으로 내세울 만한 내용이나 근거를 뜻한다.
+
+### ANSWER
+A"
+Rare Words-297,Rare Words,D,E,"### ANSWER
+E"
+Rare Words-298,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-299,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-300,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-301,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-302,Rare Words,B,B,"말갈망은 자기가 한 말을 뒷수습하는 것을 뜻하는 단어입니다.
+
+### ANSWER
+B"
+Loan Words-86,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-87,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-88,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-89,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-90,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-91,Loan Words,C,C,"시건은 한자어로 '잠금'을 뜻하므로 순화어는 '잠금'입니다.
+
+### ANSWER
+C"
+Loan Words-92,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-93,Loan Words,E,E,"### ANSWER
+E"
+Reading Comprehension-107,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-108,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-109,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-110,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-111,Reading Comprehension,C,E,"### ANSWER
+E"
+Reading Comprehension-112,Reading Comprehension,B,A,"### ANSWER
+A"
+Reading Comprehension-113,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-114,Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge-64,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-65,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-66,General Knowledge,C,A,"### ANSWER
+A"
+General Knowledge-67,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-68,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-69,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-70,General Knowledge,C,B,"### ANSWER
+B"
+General Knowledge-71,General Knowledge,C,C,"### ANSWER
+C"
+Standard Nomenclature-30,Standard Nomenclature,E,E,"매점매석은 물건을 사들여 팔지 않고 감춰 두는 행위로, 표준 전문 용어는 '사재기'이다.
+
+### ANSWER
+E"
+Standard Nomenclature-31,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-32,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-33,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-34,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-35,Standard Nomenclature,D,D,"흉부(胸部)는 가슴 부위를 뜻하므로, 표준 용어로는 ‘가슴 부분’이 알맞다.
+
+### ANSWER
+D"
+Standard Nomenclature-36,Standard Nomenclature,C,C,"횡선(橫線)은 ‘가로줄’을 뜻하므로 표준 전문 용어는 가로줄이다.
+
+### ANSWER
+C"
+Standard Nomenclature-37,Standard Nomenclature,D,B,"### ANSWER
+B"
+Rare Words-102,Rare Words,A,A,### ANSWER A
+Rare Words-103,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-104,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-105,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-106,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-107,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-108,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-109,Rare Words,E,E,"### ANSWER
+E"
+History-129,History,C,C,"### ANSWER
+C"
+History-130,History,A,A,"### ANSWER
+A"
+History-131,History,E,E,"### ANSWER
+E"
+History-132,History,A,A,"### ANSWER
+A"
+History-133,History,A,A,"소학교는 1895년 소학교령으로 설립된 근대 초등 교육 기관으로, 수신·역사·지리·산술·미술·체조 등을 가르치고 한글 교육을 통해 애국심을 기르고자 하였다. 따라서 오늘날의 초등학교에 해당하는 학교는 소학교이다.
+
+### ANSWER
+A"
+History-134,History,A,A,"### ANSWER
+A"
+History-135,History,B,B,"### ANSWER
+B"
+History-136,History,C,C,"### ANSWER
+C"
+Reading Comprehension-115,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-116,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-117,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-118,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-119,Reading Comprehension,A,A,"The passage says Yuka and I go hiking together every Sunday, so I am with Yuka on Sundays. The other options contradict the details.
+
+### ANSWER
+A"
+Reading Comprehension-120,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-121,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-122,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-110,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-111,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-112,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-113,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-114,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-115,Rare Words,B,A,"### ANSWER
+A"
+Rare Words-116,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-117,Rare Words,E,E,"### ANSWER
+E"
+Reading Comprehension-276,Reading Comprehension,D,D,"아주머니가 사과하며 과거에 하지 못한 일에 대한 후회를 나타내는 표현이 필요하므로 “미리 확인했어야 했는데”가 자연스럽다.
+
+### ANSWER
+D"
+Reading Comprehension-277,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-278,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-279,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-280,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-281,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-282,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-283,Reading Comprehension,C,C,"### ANSWER
+C"
+General Knowledge-72,General Knowledge,A,A,"IU's song ""Palette"" (about being 25) features G-Dragon.
+
+### ANSWER
+A"
+General Knowledge-73,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-74,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-75,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-76,General Knowledge,D,B,"### ANSWER
+B"
+General Knowledge-77,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-78,General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge-79,General Knowledge,C,C,"### ANSWER
+C"
+Loan Words-94,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-95,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-96,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-97,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-98,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-99,Loan Words,E,E,"플리커(flicker)는 빛이 떨리는 현상을 뜻하므로 순화어는 '흔들림'이다.
+
+### ANSWER
+E"
+Loan Words-100,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-101,Loan Words,D,D,"### ANSWER
+D"
+History-137,History,A,A,"### ANSWER
+A"
+History-138,History,D,D,"### ANSWER
+D"
+History-139,History,D,D,"혈의 누는 이인직이 쓴 우리나라 최초의 신소설이다.
+
+### ANSWER
+D"
+History-140,History,C,C,"### ANSWER
+C"
+History-141,History,A,A,"### ANSWER
+A"
+History-142,History,A,A,"### ANSWER
+A"
+History-143,History,E,E,"대한의원은 1903년 서울에 설립되어 치료와 의료 인력 양성을 함께 수행한 기관입니다. 다른 보기들은 설립 연도나 성격이 다릅니다.
+
+### ANSWER
+E"
+History-144,History,D,D,"### ANSWER
+D"
+Standard Nomenclature-38,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-39,Standard Nomenclature,E,E,"환부(患部)는 병이나 상처가 난 곳, 즉 아픈 곳을 뜻합니다.
+
+### ANSWER
+E"
+Standard Nomenclature-40,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-41,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-42,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-43,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-44,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-45,Standard Nomenclature,D,D,"### ANSWER
+D"
+Rare Words-303,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-304,Rare Words,E,E,"""새퉁이""는 밉살스럽거나 경망한 짓을 하는 사람을 뜻하는 말입니다.
+
+### ANSWER
+E"
+Rare Words-305,Rare Words,B,B,"'낱뜨기'는 낱개로 파는 물건이나 한 벌에서 따로 떨어진 물건을 뜻하는 단어입니다.
+
+### ANSWER
+B"
+Rare Words-306,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-307,Rare Words,B,A,"### ANSWER
+A"
+Rare Words-308,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-309,Rare Words,C,C,"후래자는 '뒤에 오는 사람'을 뜻하는 한자어이다.
+
+### ANSWER
+C"
+Rare Words-310,Rare Words,D,D,"### ANSWER
+D"
+General Knowledge-80,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-81,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-82,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-83,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-84,General Knowledge,D,A,"### ANSWER
+A"
+General Knowledge-85,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-86,General Knowledge,B,C,"### ANSWER
+C"
+General Knowledge-87,General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension-284,Reading Comprehension,D,D,"The passage emphasizes that foreign-language signs are widespread while Hangul is undervalued in daily life, concluding that this is regrettable and implying we should use Hangul more.
+
+### ANSWER
+D"
+Reading Comprehension-285,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-286,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-287,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-288,Reading Comprehension,D,D,"줄넘기는 많이 하는 것보다 꾸준히 하는 것이 중요하다는 내용이므로 정답은 D이다.
+
+### ANSWER
+D"
+Reading Comprehension-289,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-290,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-291,Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words-118,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-119,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-120,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-121,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-122,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-123,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-124,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-125,Rare Words,E,E,"### ANSWER
+E"
+Standard Nomenclature-46,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-47,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-48,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-49,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-50,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-51,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-52,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-53,Standard Nomenclature,A,A,"### ANSWER
+A"
+History-145,History,B,B,"### ANSWER
+B"
+History-146,History,D,D,"### ANSWER
+D"
+History-147,History,B,B,"### ANSWER
+B"
+History-148,History,E,E,"### ANSWER
+E"
+History-149,History,A,A,"### ANSWER
+A"
+History-150,History,A,A,"### ANSWER
+A"
+History-151,History,E,E,"### ANSWER
+E"
+History-152,History,E,E,"### ANSWER
+E"
+Reading Comprehension-123,Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension-124,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-125,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-126,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-127,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-128,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-129,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-130,Reading Comprehension,C,C,"### ANSWER
+C"
+Loan Words-102,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-103,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-104,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-105,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-106,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-107,Loan Words,C,C,"부진(不進)은 ‘나아가지 못함, 진척이 없음’을 뜻하는 한자어로, 순화어는 ‘제자리’입니다.
+
+### ANSWER
+C"
+Loan Words-108,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-109,Loan Words,E,B,"### ANSWER
+B"
+Rare Words-311,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-312,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-313,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-314,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-315,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-316,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-317,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-318,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-131,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-132,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-133,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-134,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-135,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-136,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-137,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-138,Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge-88,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-89,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-90,General Knowledge,B,B,"주간 아이돌의 첫 방송 게스트는 인피니트였습니다.
+
+### ANSWER
+B"
+General Knowledge-91,General Knowledge,C,C,"00z 라인은 2020년 뮤직뱅크 스페셜 무대에서 레드벨벳의 ""Psycho""를 커버했다. 보기 중 ""Psyco""가 이를 가리킨다.
+
+### ANSWER
+C"
+General Knowledge-92,General Knowledge,D,E,"### ANSWER
+E"
+General Knowledge-93,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-94,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-95,General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension-139,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-140,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-141,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-142,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-143,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-144,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-145,Reading Comprehension,B,B,"The passage explains how the internet lets people do tasks like sending mail, shopping, and transferring money from home, making daily life easier and more convenient. Therefore, the correct choice is B.
+
+### ANSWER
+B"
+Reading Comprehension-146,Reading Comprehension,D,D,D
+Reading Comprehension-292,Reading Comprehension,C,C,"본문에서 이 접시는 종이를 한 장씩 벗겨 여러 번 사용할 수 있고, 물과 세제 없이 설거지가 가능하며, 친환경 재료로 만들어져 환경을 해치지 않고, 야외에서 편리하다고 했다. 하지만 ‘일회용품’이라고는 볼 수 없으므로 C는 장점이 아니다.
+
+### ANSWER
+C"
+Reading Comprehension-293,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-294,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-295,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-296,Reading Comprehension,C,C,"이 문장은 문이 열리는 구조가 손님 맞이 방식과 연결됨을 소개하는 역할을 한다. 따라서 바로 뒤에 나오는 한옥과 아파트의 손님 맞이 예문 앞, 즉 (다)에 들어가는 것이 자연스럽다.
+
+### ANSWER
+C"
+Reading Comprehension-297,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-298,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-299,Reading Comprehension,B,B,"(가)에서 편안함을 느끼는 사람을 좋아한다고 한 뒤, (다)에서 어떤 사람이 그런 사람인지 질문하고 예를 든다. 이어서 (나)의 “그런데”가 사회학자들의 ‘유사성의 원칙’을 대조적으로 소개하므로 (가)-(다)-(나) 순서가 자연스럽고, (라)는 결론으로 뒤에 온다.
+
+### ANSWER
+B"
+Rare Words-126,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-127,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-128,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-129,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-130,Rare Words,B,B,"‘연필이나 계산기 따위를 쓰지 아니하고 머릿속으로 하는 계산’을 뜻하는 단어는 ‘주먹셈’이다.
+
+### ANSWER
+B"
+Rare Words-131,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-132,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-133,Rare Words,A,A,"### ANSWER
+A"
+Standard Nomenclature-54,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-55,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-56,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-57,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-58,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-59,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-60,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-61,Standard Nomenclature,C,C,"### ANSWER
+C"
+History-153,History,D,D,"### ANSWER
+D"
+History-154,History,B,B,"대한민국임시정부는 1919년 3·1운동 이후 중국 상하이에 세워진 독립운동의 중심 기구이다.
+
+### ANSWER
+B"
+History-155,History,E,E,"### ANSWER
+E"
+History-156,History,A,A,"### ANSWER
+A"
+History-157,History,D,D,"### ANSWER
+D"
+History-158,History,E,E,"### ANSWER
+E"
+History-159,History,E,E,"### ANSWER
+E"
+History-160,History,D,D,"### ANSWER
+D"
+Rare Words-319,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-320,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-321,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-322,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-323,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-324,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-325,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-326,Rare Words,D,D,"### ANSWER
+D"
+General Knowledge-96,General Knowledge,D,E,"### ANSWER
+E"
+General Knowledge-97,General Knowledge,C,C,"Girls On Top 멤버 중 보아는 그룹 활동 경력이 없는 솔로 아티스트입니다.
+
+### ANSWER
+C"
+General Knowledge-98,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-99,General Knowledge,C,C,"Gangnam Style (PSY) was released in 2012 and remains the most-viewed K-pop music video on YouTube among those released before 2021.
+
+### ANSWER
+C"
+General Knowledge-100,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-101,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-102,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-103,General Knowledge,D,A,"### ANSWER
+A"
+General Knowledge-104,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-105,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-106,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-107,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-108,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-109,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-110,General Knowledge,B,A,"### ANSWER
+A"
+General Knowledge-111,General Knowledge,A,A,"### ANSWER
+A"
+Reading Comprehension-300,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-301,Reading Comprehension,C,C,"글은 경쟁자가 발전과 성공에 도움을 주며, 적이 아닌 동반자로 여겨야 한다는 내용입니다. C는 경쟁자가 있으면 배우고 노력하기 어렵다고 하여 글의 내용과 반대입니다.
+
+### ANSWER
+C"
+Reading Comprehension-302,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-303,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-304,Reading Comprehension,D,D,"동양인과 서양인의 지각 경향을 반대로 서술한 A·B·C는 본문과 다르고, 본문의 첫 문장과 일치하는 D가 정답이다.
+
+### ANSWER
+D"
+Reading Comprehension-305,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-306,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-307,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-134,Rare Words,A,A,"허리쉼은 허리를 쓰다가 쉬며 피로를 푸는 것을 뜻하는 말로, 문제의 의미와 일치한다.
+
+### ANSWER
+A"
+Rare Words-135,Rare Words,D,D,"""허물""은 살갗에서 저절로 벗겨지는 꺼풀을 뜻하는 단어입니다.
+
+### ANSWER
+D"
+Rare Words-136,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-137,Rare Words,E,A,"### ANSWER
+A"
+Rare Words-138,Rare Words,D,D,"'떠는잠'은 머리를 꾸미는 장식용 비녀의 한 종류를 뜻한다.
+
+### ANSWER
+D"
+Rare Words-139,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-140,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-141,Rare Words,E,E,"### ANSWER
+E"
+History-161,History,D,D,"### ANSWER
+D"
+History-162,History,D,D,"### ANSWER
+D"
+History-163,History,B,A,"### ANSWER
+A"
+History-164,History,A,A,"박은식이 쓴 《한국통사》는 일본의 침략 과정을 민족주의적 관점에서 서술한 역사책이다.
+
+### ANSWER
+A"
+History-165,History,B,B,"정인보는 1910년 중국으로 건너가 동양학을 연구하며 박은식, 신채호 등과 동제사를 조직해 독립운동에 힘썼다.
+
+### ANSWER
+B"
+History-166,History,E,E,"### ANSWER
+E"
+History-167,History,D,D,"### ANSWER
+D"
+History-168,History,D,D,"### ANSWER
+D"
+Loan Words-110,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-111,Loan Words,D,A,"### ANSWER
+A"
+Loan Words-112,Loan Words,B,C,"### ANSWER
+C"
+Loan Words-113,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-114,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-115,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-116,Loan Words,D,D,"""피니시(finish)""는 명사로 '끝'이나 '마무리'를 뜻하므로, 보기 중 명사인 '끝'이 알맞다.
+
+### ANSWER
+D"
+Loan Words-117,Loan Words,E,E,"### ANSWER
+E"
+History-169,History,C,C,"### ANSWER
+C"
+History-170,History,E,E,"### ANSWER
+E"
+History-171,History,E,E,"### ANSWER
+E"
+History-172,History,D,D,"### ANSWER
+D"
+History-173,History,B,B,"최충헌은 무신 정권을 확립하고 최씨 정권을 세운 인물로, 문벌 귀족의 향락과 실정, 무신 차별로 인한 무신 정권의 성립 과정에서 중심 역할을 했다.
+
+### ANSWER
+B"
+History-174,History,D,D,"### ANSWER
+D"
+History-175,History,C,C,"### ANSWER
+C"
+History-176,History,C,C,"### ANSWER
+C"
+Reading Comprehension-308,Reading Comprehension,C,C,"글은 저출산 문제 해결을 위해 보육 지원 확대보다 사회·문화적 양성평등 기반이 먼저 마련되어야 한다고 주장한다.
+
+### ANSWER
+C"
+Reading Comprehension-309,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-310,Reading Comprehension,D,D,"글은 비판을 피하거나 듣지 않으면 문제가 커진다고 했으므로, 이어서 비판을 올바르게 받아들이는 방법을 설명하는 것이 자연스럽다.
+
+### ANSWER
+D"
+Reading Comprehension-311,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-312,Reading Comprehension,B,B,"The text highlights smartphone addiction as a serious social problem, especially among youth, and provides statistics. The natural continuation would be to explain why this addiction is so serious.
+
+### ANSWER
+B"
+Reading Comprehension-313,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-314,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-315,Reading Comprehension,C,C,"### ANSWER
+C"
+Standard Nomenclature-62,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-63,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-64,Standard Nomenclature,A,A,"""트리포트""는 영어 ""tree pot""에서 온 외래어로, 표준 전문 용어는 ""화분""이다.
+
+### ANSWER
+A"
+Standard Nomenclature-65,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-66,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-67,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-68,Standard Nomenclature,E,E,"통상(通常)은 ‘보통’과 같은 의미이므로, 올바른 표준 전문 용어는 ‘보통’이다.
+
+### ANSWER
+E"
+Standard Nomenclature-69,Standard Nomenclature,A,A,"### ANSWER
+A"
+Reading Comprehension-147,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-148,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-149,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-150,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-151,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-152,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-153,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-154,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-327,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-328,Rare Words,E,B,"### ANSWER
+B"
+Rare Words-329,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-330,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-331,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-332,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-333,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-334,Rare Words,D,D,"### ANSWER
+D"
+General Knowledge-112,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-113,General Knowledge,D,D,"Kim Eun-sook wrote *The Glory*, *Mr. Sunshine*, *Secret Garden*, and *A Gentleman's Dignity*. *Signal* was written by Kim Eun-hee, not Kim Eun-sook.
+
+### ANSWER
+D"
+General Knowledge-114,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-115,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-116,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-117,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-118,General Knowledge,D,D,"태연은 호텔 델루나, 더킹 투하츠, 너희들은 포위됐다, 그 겨울 바람이 분다의 OST에 참여했지만, 도깨비 OST에는 참여하지 않았다.
+
+### ANSWER
+D"
+General Knowledge-119,General Knowledge,B,B,"### ANSWER
+B"
+Standard Nomenclature-70,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-71,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-72,Standard Nomenclature,B,B,"""타파하다"" means to break down or eliminate (e.g., old customs, barriers). Among the choices, ""없애다"" (to eliminate/remove) is the closest standard equivalent.
+
+### ANSWER
+B"
+Standard Nomenclature-73,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-74,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-75,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-76,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-77,Standard Nomenclature,B,B,"### ANSWER
+B"
+Reading Comprehension-155,Reading Comprehension,D,D,"A, B, C는 본문에서 직접 확인할 수 있는 내용이다. D의 “외래어 사용을 줄이고 한글을 사용해야 한다”는 본문에 없는 권고이므로 내용과 다르다.
+
+### ANSWER
+D"
+Reading Comprehension-156,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-157,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-158,Reading Comprehension,D,D,"The notice informs residents about a scheduled elevator inspection, asking them to cooperate despite inconvenience. The key is understanding the schedule and planning accordingly. Option D correctly reflects this: a resident of 102dong realizes the inspection is on Monday and plans to leave before 10 AM. The other options misinterpret the notice (e.g., daily outages, two-day inspections, or unrelated complaints).
+
+### ANSWER
+D"
+Reading Comprehension-159,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-160,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-161,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-162,Reading Comprehension,A,A,"### ANSWER
+A"
+Rare Words-142,Rare Words,E,D,"### ANSWER
+D"
+Rare Words-143,Rare Words,E,D,"""설계한 구조나 형상을 규약에 따라 그린 도면""은 순우리말로 '마중그림'에 해당한다. 다른 보기들은 머릿그림(책 머리 장식), 밑그림(스케치), 선그림(선으로만 그린 그림), 마련그림(준비용 그림) 등으로 의미가 다르다.
+
+### ANSWER
+D"
+Rare Words-144,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-145,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-146,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-147,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-148,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-149,Rare Words,D,D,"### ANSWER
+D"
+History-177,History,B,B,"### ANSWER
+B"
+History-178,History,D,D,"영조는 붕당의 폐해를 없애기 위해 탕평론을 실시하여 여러 당파를 고르게 등용하고자 하였다.
+
+### ANSWER
+D"
+History-179,History,C,C,"### ANSWER
+C"
+History-180,History,D,D,"### ANSWER
+D"
+History-181,History,E,E,"### ANSWER
+E"
+History-182,History,C,C,"The object made to pray for protection against Mongol invasions is the Tripitaka Koreana (팔만대장경), carved during the Goryeo period.
+
+### ANSWER
+C"
+History-183,History,E,E,"동학의 창시자는 최제우이며, 인내천 사상을 주장하였다.
+
+### ANSWER
+E"
+History-184,History,A,A,"### ANSWER
+A"
+History-185,History,E,E,"### ANSWER
+E"
+History-186,History,D,D,"### ANSWER
+D"
+History-187,History,E,E,"### ANSWER
+E"
+Loan Words-0,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-1,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-2,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-3,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-4,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-118,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-119,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-120,Loan Words,A,E,"### ANSWER
+E"
+Loan Words-121,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-122,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-123,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-124,Loan Words,A,D,"'지나라시'는 지게로 짐을 나르는 일을 뜻하는 방언으로, 순화어는 '짐나르기'입니다.
+
+### ANSWER
+D"
+Loan Words-125,Loan Words,E,E,"조언(助言)은 ‘도움말’로 순화하여 쓸 수 있습니다.
+
+### ANSWER
+E"
+Rare Words-150,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-151,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-152,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-153,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-154,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-155,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-156,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-157,Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature-78,Standard Nomenclature,C,C,"크레인(crane)의 올바른 표준 전문 용어는 '기중기'입니다.
+
+### ANSWER
+C"
+Standard Nomenclature-79,Standard Nomenclature,E,E,"큐시트(cue sheet)는 방송 프로그램의 진행 순서와 내용을 기록한 표로, 표준 전문 용어는 ""진행표""입니다.
+
+### ANSWER
+E"
+Standard Nomenclature-80,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-81,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-82,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-83,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-84,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-85,Standard Nomenclature,B,B,"### ANSWER
+B"
+Loan Words-5,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-6,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-7,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-8,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-9,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-10,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-11,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-12,Loan Words,A,A,"### ANSWER
+A"
+Reading Comprehension-316,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-317,Reading Comprehension,C,C,"The passage emphasizes that before discussing the link between education and scholarship, we must first examine what education itself is; otherwise, conceptual ambiguity prevents progress. Thus, the purpose is to argue for examining the essence of education.
+
+### ANSWER
+C"
+Reading Comprehension-318,Reading Comprehension,D,C,"### ANSWER
+C"
+Reading Comprehension-319,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-320,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-321,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-322,Reading Comprehension,A,A,"(가)는 공연 전체를 소개하는 도입부이고, (라)는 본 공연 전 DJ 무대, (다)는 본 공연 시작, (나)는 앙코르 순서이다.
+
+### ANSWER
+A"
+Reading Comprehension-323,Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge-120,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-121,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-122,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-123,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-124,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-125,General Knowledge,E,A,"### ANSWER
+A"
+General Knowledge-126,General Knowledge,C,D,"### ANSWER
+D"
+General Knowledge-127,General Knowledge,B,B,"### ANSWER
+B"
+Rare Words-335,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-336,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-337,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-338,Rare Words,A,A,"작살비는 ‘매우 굵고 세차게 쏟아지는 비’를 뜻하는 표준어입니다.
+
+### ANSWER
+A"
+Rare Words-339,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-340,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-341,Rare Words,B,B,"""모가치""는 몫으로 돌아오는 물건을 뜻하는 고유어입니다.
+
+### ANSWER
+B"
+Rare Words-342,Rare Words,E,B,"### ANSWER
+B"
+Reading Comprehension-163,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-164,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-165,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-166,Reading Comprehension,D,D,"이 글은 한옥과 아파트의 문이 열리는 방향 차이를 통해 집안과 집밖 중 어디를 더 중요하게 여기는지, 즉 사고방식이 드러난다고 설명한다. 손님 접대 방식은 이를 보여주는 한 예일 뿐이다. 따라서 제목으로 가장 적절한 것은 ‘대문이 열리는 방향에 나타난 사고방식’이다.
+
+### ANSWER
+D"
+Reading Comprehension-167,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-168,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-169,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-170,Reading Comprehension,B,B,"### ANSWER
+B"
+Rare Words-158,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-159,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-160,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-161,Rare Words,B,E,"### ANSWER
+E"
+Rare Words-162,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-163,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-164,Rare Words,A,A,"""뜬금""은 일정하게 정해지지 않고 시세에 따라 달라지는 값을 뜻하는 단어입니다.
+
+### ANSWER
+A"
+Rare Words-165,Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature-86,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-87,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-88,Standard Nomenclature,B,E,"### ANSWER
+E"
+Standard Nomenclature-89,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-90,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-91,Standard Nomenclature,D,B,"### ANSWER
+B"
+Standard Nomenclature-92,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-93,Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension-324,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-325,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-326,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-327,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-328,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-329,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-330,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-331,Reading Comprehension,D,D,"### ANSWER
+D"
+General Knowledge-128,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-129,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-130,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-131,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-132,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-133,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-134,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-135,General Knowledge,A,A,"### ANSWER
+A"
+Loan Words-126,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-127,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-128,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-129,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-130,Loan Words,B,B,"### ANSWER
+B"
+Loan Words-131,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-132,Loan Words,C,C,"인저리는 영어 ""injury""의 외래어로, 순화어는 ""부상""입니다.
+
+### ANSWER
+C"
+Loan Words-133,Loan Words,A,A,"### ANSWER
+A"
+Rare Words-166,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-167,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-168,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-169,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-170,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-171,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-172,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-173,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-343,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-344,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-345,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-346,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-347,Rare Words,D,A,"### ANSWER
+A"
+Rare Words-348,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-349,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-350,Rare Words,E,E,"### ANSWER
+E"
+Loan Words-13,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-14,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-15,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-16,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-17,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-18,Loan Words,E,E,"집하(集荷)는 짐을 한곳으로 모아들이는 일을 뜻하므로, 순화어로는 ‘모음’이 가장 적절합니다.
+
+### ANSWER
+E"
+Loan Words-19,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-20,Loan Words,E,D,"### ANSWER
+D"
+Loan Words-21,Loan Words,A,A,"""접속 도로""는 어려운 한자어 표현으로, 이를 쉽게 다듬은 순화어는 ""연결 도로""가 가장 알맞다. ""연결로""는 주로 고속도로 진출입로를 뜻하는 별개의 표현이므로 정답은 A이다.
+
+### ANSWER
+A"
+Reading Comprehension-171,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-172,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-173,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-174,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-175,Reading Comprehension,C,C,"(라)가 주제를 제시하고, (가)가 구체적인 방법, (다)가 그 이유, (나)가 결과 순서를 설명하므로 올바른 순서는 (라)-(가)-(다)-(나)입니다.
+
+### ANSWER
+C"
+Reading Comprehension-176,Reading Comprehension,C,E,"The notice states the coupon cannot be used with other coupons and cannot be used on weekends. Choices A and B contradict this, while C and D are unrelated. Therefore, none of the options match.
+
+### ANSWER
+E"
+Reading Comprehension-177,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-178,Reading Comprehension,C,D,"### ANSWER
+D"
+General Knowledge-136,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-137,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-138,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-139,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-140,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-141,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-142,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-143,General Knowledge,D,D,"### ANSWER
+D"
+Reading Comprehension-332,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-333,Reading Comprehension,B,D,"### ANSWER
+D"
+Reading Comprehension-334,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-335,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-336,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-337,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-338,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-339,Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature-94,Standard Nomenclature,B,B,"절취선은 종이나 표를 자르거나 떼어내는 기준이 되는 선을 뜻하므로, 표준 전문 용어로는 “자르는 선”이 적절합니다.
+
+### ANSWER
+B"
+Standard Nomenclature-95,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-96,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-97,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-98,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-99,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-100,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-101,Standard Nomenclature,C,C,"이니셜(initial)은 문단 시작의 첫 글자를 뜻하므로 표준 전문 용어는 '머리글자'입니다.
+
+### ANSWER
+C"
+Rare Words-351,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-352,Rare Words,E,A,"### ANSWER
+A"
+Rare Words-353,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-354,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-355,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-356,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-357,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-358,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-174,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-175,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-176,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-177,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-178,Rare Words,E,E,"""하나""는 뜻·마음·생각이 한결같거나 일치한 상태를 뜻할 수 있다.
+
+### ANSWER
+E"
+Rare Words-179,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-180,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-181,Rare Words,E,E,"### ANSWER
+E"
+Reading Comprehension-340,Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension-341,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-342,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-343,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-344,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-345,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-346,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-347,Reading Comprehension,B,B,"### ANSWER
+B"
+Loan Words-134,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-135,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-136,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-137,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-138,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-139,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-140,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-141,Loan Words,B,B,"### ANSWER
+B"
+Rare Words-182,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-183,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-184,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-185,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-186,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-187,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-188,Rare Words,C,C,"방랑벽(放浪癖)은 '한곳에 정착하지 않고 이리저리 떠돌아다니기를 좋아하는 버릇'을 뜻하는 단어입니다. 다른 보기들은 의미가 모두 다릅니다.
+
+### ANSWER
+C"
+Rare Words-189,Rare Words,D,D,"### ANSWER
+D"
+General Knowledge-144,General Knowledge,B,B,"사랑의 불시착 여자 주인공 윤세리는 패러글라이딩 사고로 북한에 불시착하는 설정이 맞습니다. 다른 보기들은 방영 시기, 회차, 인물 이름 등이 사실과 다릅니다.
+
+### ANSWER
+B"
+General Knowledge-145,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-146,General Knowledge,A,C,"### ANSWER
+C"
+General Knowledge-147,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-148,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-149,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-150,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-151,General Knowledge,E,E,"### ANSWER
+E"
+Standard Nomenclature-102,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-103,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-104,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-105,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-106,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-107,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-108,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-109,Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension-179,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-180,Reading Comprehension,D,A,"### ANSWER
+A"
+Reading Comprehension-181,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-182,Reading Comprehension,D,D,"The passage explains that the term “반려동물” reflects a changed view of animals as companions rather than objects, so the central idea is that the new term shows a shift in perception of animals.
+
+### ANSWER
+D"
+Reading Comprehension-183,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-184,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-185,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-186,Reading Comprehension,A,A,"The passage explains that in summer, internal organs become relatively cold, so eating cold food can cause stomach problems. Koreans believe one should warm the stomach by eating hot food, and samgyetang is an example of hot food that helps overcome heat. Thus the blank should be “뜨거운 음식을 먹음으로써” (by eating hot food).
+
+### ANSWER
+A"
+Reading Comprehension-348,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-349,Reading Comprehension,C,C,"The idiom ""바가지(를) 쓰다"" means to be overcharged or pay an unfair price, which fits the context of feeling hostility after paying too much at a vacation spot.
+
+### ANSWER
+C"
+Reading Comprehension-350,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-351,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-352,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-353,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-354,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-355,Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words-359,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-360,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-361,Rare Words,A,A,"눈부처는 눈동자에 비친 사람의 형상을 뜻하는 말입니다.
+
+### ANSWER
+A"
+Rare Words-362,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-363,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-364,Rare Words,C,C,"""말전주""는 이 사람에게 저 사람의 말을, 저 사람에게 이 사람의 말을 좋지 않게 전하여 이간질하는 행위를 뜻하는 말입니다.
+
+### ANSWER
+C"
+Rare Words-365,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-366,Rare Words,A,A,"### ANSWER
+A"
+Loan Words-142,Loan Words,C,C,"상이(傷痍)는 ‘부상’을 뜻하므로 순화어로는 ‘부상’이 알맞다.
+
+### ANSWER
+C"
+Loan Words-143,Loan Words,C,C,"사양서는 제품의 규격·성능 등을 적은 문서로, 순화어는 '설명서'가 가장 적절하다.
+
+### ANSWER
+C"
+Loan Words-144,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-145,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-146,Loan Words,C,C,"매점(買占)은 물건을 사들이는 것을 뜻하는 한자어로, 순화어는 ‘사재기’입니다.
+
+### ANSWER
+C"
+Loan Words-147,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-148,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-149,Loan Words,B,B,"### ANSWER
+B"
+Reading Comprehension-187,Reading Comprehension,A,A,"잠을 억지로 청한다고 쉽게 오지 않는다는 내용이 뒤의 “그렇다고 수면을 포기한 채 책이나 TV를 보는 것은 더욱 좋지 않다”와 자연스럽게 이어지며, 마지막에 편하게 누워 있는 것이 좋다는 조언과도 연결됩니다.
+
+### ANSWER
+A"
+Reading Comprehension-188,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-189,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-190,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-191,Reading Comprehension,A,D,"### ANSWER
+D"
+Reading Comprehension-192,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-193,Reading Comprehension,D,D,"The passage says to dry the toothbrush before microwaving it for 1 minute. Option D says to microwave it immediately after use, which contradicts the drying step. The other options match the passage.
+
+### ANSWER
+D"
+Reading Comprehension-194,Reading Comprehension,B,B,"### ANSWER
+B"
+General Knowledge-152,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-153,General Knowledge,E,A,"### ANSWER
+A"
+General Knowledge-154,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-155,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-156,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-157,General Knowledge,E,A,"### ANSWER
+A"
+General Knowledge-158,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-159,General Knowledge,C,D,"### ANSWER
+D"
+Standard Nomenclature-110,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-111,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-112,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-113,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-114,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-115,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-116,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-117,Standard Nomenclature,A,A,"### ANSWER
+A"
+Reading Comprehension-356,Reading Comprehension,D,D,"㉠은 직접 명령 대신 간접 표현으로 상대의 부담을 줄이는 공손성의 원리 사례이다. D는 “다시 말해 달라”는 직접 요청 대신 사과와 이유를 들어 간접적으로 표현한 것이므로 ㉠과 같은 원리가 적용되었다.
+
+### ANSWER
+D"
+Reading Comprehension-357,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-358,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-359,Reading Comprehension,B,B,"본문은 새로운 머리카락이 “그 자리에서” 다시 난다고 했으므로, 자리를 달리한다는 내용은 본문과 같지 않다.
+
+### ANSWER
+B"
+Reading Comprehension-360,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-361,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-362,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-363,Reading Comprehension,B,B,"이 글은 학생들의 능력과 학습 수준을 고려해 교육 내용을 선정해야 하며, 수준별 내용을 제시하는 방안을 중심으로 말하고 있다.
+
+### ANSWER
+B"
+Loan Words-150,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-151,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-152,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-153,Loan Words,D,D,"램프(ramp)는 도로를 연결하는 경사로를 뜻하므로, 순화어는 ‘연결로’입니다.
+
+### ANSWER
+D"
+Loan Words-154,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-155,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-156,Loan Words,C,C,"### ANSWER
+C"
+Loan Words-157,Loan Words,B,B,"### ANSWER
+B"
+Rare Words-190,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-191,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-192,Rare Words,D,D,"노루의 암컷을 뜻하는 순우리말은 '느렁이'입니다.
+
+### ANSWER
+D"
+Rare Words-193,Rare Words,D,C,"### ANSWER
+C"
+Rare Words-194,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-195,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-196,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-197,Rare Words,B,D,"### ANSWER
+D"
+Rare Words-198,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-199,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-200,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-201,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-202,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-203,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-204,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-205,Rare Words,B,B,"### ANSWER
+B"
+General Knowledge-160,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-161,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-162,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-163,General Knowledge,C,C,"Gimpo Airport is the primary domestic airport in the Seoul area and operates the most flights to Jeju Island, making it the correct answer.
+
+### ANSWER
+C"
+General Knowledge-164,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-165,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-166,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-167,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-168,General Knowledge,D,D,"### ANSWER
+D"
+General Knowledge-169,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-170,General Knowledge,E,E,"### ANSWER
+E"
+General Knowledge-171,General Knowledge,A,A,"### ANSWER
+A"
+General Knowledge-172,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-173,General Knowledge,C,C,"### ANSWER
+C"
+General Knowledge-174,General Knowledge,B,B,"### ANSWER
+B"
+General Knowledge-175,General Knowledge,C,C,"### ANSWER
+C"
+Reading Comprehension-364,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-365,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-366,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-367,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-368,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-369,Reading Comprehension,C,C,"The passage begins with ""그러나"" (However), indicating it is contrasting with a preceding idea. It argues against reading poetry analytically—dividing it into elements like an apple into peel, flesh, and vitamin C—and instead advocates for reading it wholeheartedly, like eating an apple. Therefore, the content before this passage most likely described the traditional approach of teaching poetry through analytical, element-by-element understanding.
+
+### ANSWER
+C"
+Reading Comprehension-370,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-371,Reading Comprehension,A,A,"The passage introduces quantitative and qualitative research, explains their characteristics, and concludes that they have starkly contrasting features that need to be understood. The most natural continuation would be a comparison of their strengths and weaknesses.
+
+### ANSWER
+A"
+Rare Words-367,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-368,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-369,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-370,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-371,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-372,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-373,Rare Words,C,C,"""도치기""는 인색하고 인정이 없는 사람을 뜻하는 말입니다.
+
+### ANSWER
+C"
+Rare Words-374,Rare Words,C,A,"### ANSWER
+A"
+Rare Words-206,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-207,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-208,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-209,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-210,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-211,Rare Words,C,D,"### ANSWER
+D"
+Rare Words-212,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-213,Rare Words,C,C,"### ANSWER
+C"
+Loan Words-158,Loan Words,D,B,"### ANSWER
+B"
+Loan Words-159,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-160,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-161,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-162,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-163,Loan Words,E,E,"### ANSWER
+E"
+Loan Words-164,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-165,Loan Words,A,A,"### ANSWER
+A"
+Reading Comprehension-195,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-196,Reading Comprehension,B,B,"(다) is the general introduction, then (라) China, (가) Korea, (나) Japan.
+
+### ANSWER
+B"
+Reading Comprehension-197,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-198,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-199,Reading Comprehension,A,A,"(나)가 주제문으로 가장 자연스럽고, (다)가 심장 건강을 구체화하며, (가)가 통계로 뒷받침하고, (라)가 “그리고”로 추가 효과를 이어가는 흐름이 자연스럽다.
+
+### ANSWER
+A"
+Reading Comprehension-200,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-201,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-202,Reading Comprehension,B,B,"### ANSWER
+B"
+History-0,History,B,B,"### ANSWER
+B"
+History-1,History,E,E,"### ANSWER
+E"
+History-2,History,E,E,"The founding ideology of Gojoseon, meaning ""to broadly benefit mankind,"" is 홍익인간.
+
+### ANSWER
+E"
+History-3,History,C,C,"### ANSWER
+C"
+History-4,History,C,C,"### ANSWER
+C"
+History-5,History,C,C,"### ANSWER
+C"
+History-6,History,D,D,"신라의 삼국 통일은 문무왕 때 완성되었다. 문무왕은 나당 연합으로 백제와 고구려를 멸하고, 당나라를 몰아내 통일을 이루었다.
+
+### ANSWER
+D"
+History-7,History,B,B,"### ANSWER
+B"
+History-8,History,E,E,"### ANSWER
+E"
+History-9,History,E,E,"### ANSWER
+E"
+History-10,History,D,D,"The Khitan people (거란족) established the Liao dynasty (요나라) and lived in the northwestern region of Manchuria. They were the first foreign force to invade Goryeo.
+
+### ANSWER
+D"
+History-11,History,E,E,"The Jurchen people lived in northeastern Manchuria, frequently raided Goryeo's borders, and founded the Jin dynasty.
+
+### ANSWER
+E"
+History-12,History,C,C,"### ANSWER
+C"
+History-13,History,C,C,"### ANSWER
+C"
+History-14,History,C,C,"### ANSWER
+C"
+History-15,History,E,E,"이순신이 한산도 앞바다에서 학익진으로 왜군을 격파한 해전은 한산도대첩이다.
+
+### ANSWER
+E"
+History-16,History,B,B,"### ANSWER
+B"
+Rare Words-214,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-215,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-216,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-217,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-218,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-219,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-220,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-221,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-375,Rare Words,B,B,"""자마구""는 곡식의 꽃가루를 뜻하는 방언입니다.
+
+### ANSWER
+B"
+Rare Words-376,Rare Words,E,E,"'나락'은 나락에 떨어지다처럼 벗어나기 어려운 절망적인 상황을 비유하는 말입니다.
+
+### ANSWER
+E"
+Rare Words-377,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-378,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-379,Rare Words,B,B,"'매팔자'는 빈들빈들 놀면서도 먹고사는 걱정이 없는 팔자를 뜻하는 말입니다.
+
+### ANSWER
+B"
+Rare Words-380,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-381,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-382,Rare Words,D,D,"### ANSWER
+D"
+Standard Nomenclature-118,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-119,Standard Nomenclature,A,A,"### ANSWER
+A"
+Standard Nomenclature-120,Standard Nomenclature,C,C,"슬랙스(slacks)의 표준 전문 용어는 ‘긴바지’이다.
+
+### ANSWER
+C"
+Standard Nomenclature-121,Standard Nomenclature,D,D,"수렴(收斂)은 ‘거두어들임’ 또는 ‘모아들임’을 뜻하므로, 표준 전문 용어로는 ‘모아들임’이 알맞다.
+
+### ANSWER
+D"
+Standard Nomenclature-122,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-123,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-124,Standard Nomenclature,E,E,"소임(所任)은 ‘맡아서 하는 일’ 또는 ‘직책상 맡은 일’을 뜻하므로, 올바른 표준 전문 용어는 ‘맡은 일’이다.
+
+### ANSWER
+E"
+Standard Nomenclature-125,Standard Nomenclature,B,A,"### ANSWER
+A"
+Reading Comprehension-372,Reading Comprehension,D,B,"### ANSWER
+B"
+Reading Comprehension-373,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-374,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-375,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-376,Reading Comprehension,A,A,"The text explains negative reinforcement and provides concrete parenting techniques for handling tantrums, so the purpose is to guide specific child-rearing methods.
+
+### ANSWER
+A"
+Reading Comprehension-377,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-378,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-379,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-203,Reading Comprehension,C,D,"### ANSWER
+D"
+Reading Comprehension-204,Reading Comprehension,B,B,"The passage says the program was expected to fail, but contrary to expectations, its ratings rose. Choice B claims it was loved “as expected,” which contradicts the passage.
+
+### ANSWER
+B"
+Reading Comprehension-205,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-206,Reading Comprehension,C,B,"### ANSWER
+B"
+Reading Comprehension-207,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-208,Reading Comprehension,C,C,"이 글은 아파트 공동생활에서 소음 문제가 생길 때 서로 이해하고 배려하는 마음이 필요하다는 점을 중심으로 말하고 있다.
+
+### ANSWER
+C"
+Reading Comprehension-209,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-210,Reading Comprehension,D,D,"### ANSWER
+D"
+Loan Words-166,Loan Words,D,D,"### ANSWER
+D"
+Loan Words-167,Loan Words,A,A,"### ANSWER
+A"
+Loan Words-168,Loan Words,C,C,"### ANSWER
+C"
+Rare Words-0,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-1,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-2,Rare Words,C,E,"### ANSWER
+E"
+Rare Words-3,Rare Words,A,C,"### ANSWER
+C"
+Rare Words-4,Rare Words,D,D,"지게의 아랫부분에 있는 양쪽 다리를 뜻하는 단어는 ‘동발’이다.
+
+### ANSWER
+D"
+Rare Words-222,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-223,Rare Words,B,B,"안다미는 남의 책임을 맡아 지는 일 또는 그 책임을 뜻하는 말입니다.
+
+### ANSWER
+B"
+Rare Words-224,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-225,Rare Words,E,D,"### ANSWER
+D"
+Rare Words-226,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-227,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-228,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-229,Rare Words,E,E,"### ANSWER
+E"
+Reading Comprehension-380,Reading Comprehension,C,C,"(다)는 인상파 이전 화가들의 특징을 소개하고, (나)는 “그렇다면”으로 이어받아 인상파의 주제를 묻는다. (가)는 그 주제를 표현하기 위한 기법을 설명하며, (라)는 “이렇게”로 정리하므로 순서는 (다)-(나)-(가)-(라)이다.
+
+### ANSWER
+C"
+Reading Comprehension-381,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-382,Reading Comprehension,C,A,"### ANSWER
+A"
+Reading Comprehension-383,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-384,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-385,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-386,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-387,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-383,Rare Words,E,A,"### ANSWER
+A"
+Rare Words-384,Rare Words,E,E,"The definition matches “구나방,” which refers to a person whose words or actions are harsh, rough, and fierce. The other options are common nouns for plants or objects.
+
+### ANSWER
+E"
+Rare Words-385,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-386,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-387,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-388,Rare Words,B,C,"### ANSWER
+C"
+Rare Words-389,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-390,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-5,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-6,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-7,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-8,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-9,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-10,Rare Words,C,E,"### ANSWER
+E"
+Rare Words-11,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-12,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-230,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-231,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-232,Rare Words,C,C,"""개념""은 어떤 현상이나 사물에 대한 일반적인 지식이나 관념을 뜻하는 말입니다.
+
+### ANSWER
+C"
+Rare Words-233,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-234,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-235,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-236,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-237,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-388,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-389,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-390,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-391,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-392,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-393,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-394,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-395,Reading Comprehension,A,A,"결핍은 일반적으로 부정적 결과를 낳지만, 본문은 시간 결핍이 오히려 집중과 창의성을 높여 긍정적 성과를 가져올 수 있음을 보여 준다. 따라서 빈칸에는 ‘어떤 이득이나 긍정적인 결과를 안겨줄 때도 있다’가 가장 적절하다.
+
+### ANSWER
+A"
+Reading Comprehension-211,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-212,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-213,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-214,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-215,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-216,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-217,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-218,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-219,Reading Comprehension,B,B,"### ANSWER
+B"
+Standard Nomenclature-126,Standard Nomenclature,D,D,"""세타""는 일본식 외래어로, 표준 전문 용어는 ""스웨터""이다.
+
+### ANSWER
+D"
+Standard Nomenclature-127,Standard Nomenclature,B,B,"세정수(洗淨水)는 ‘씻은 물’을 뜻하는 전문 용어이므로, 표준 전문 용어로는 ‘씻은 물’이 알맞다.
+
+### ANSWER
+B"
+Standard Nomenclature-128,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-129,Standard Nomenclature,A,A,"석교(石橋)는 돌로 만든 다리로, 표준 전문 용어는 순우리말인 ‘돌다리’입니다.
+
+### ANSWER
+A"
+Standard Nomenclature-130,Standard Nomenclature,B,B,"""상응하다""는 '서로 알맞다', 즉 '걸맞다'의 뜻으로, 표준 전문 용어로는 '걸맞다'가 알맞다.
+
+### ANSWER
+B"
+Standard Nomenclature-131,Standard Nomenclature,C,A,"### ANSWER
+A"
+Standard Nomenclature-132,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-133,Standard Nomenclature,C,C,"### ANSWER
+C"
+Rare Words-238,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-391,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-392,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-393,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-394,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-395,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-396,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-397,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-398,Rare Words,A,A,"'매대기'는 반죽이나 진흙을 아무 데나 함부로 마구 바르는 것을 뜻하는 고유어입니다.
+
+### ANSWER
+A"
+Reading Comprehension-396,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-397,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-398,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-399,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-400,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-401,Reading Comprehension,C,C,"The text introduces two wireless charging methods and notes their differing pros and cons, then explains their shared basic principle. The natural next content is a detailed comparison of the two methods' differences.
+
+### ANSWER
+C"
+Reading Comprehension-402,Reading Comprehension,C,C,"‘숄더샷 프레임’의 개념과 그것이 주는 미적 효과를 설명하는 글이므로 제목으로 가장 적절하다.
+
+### ANSWER
+C"
+Reading Comprehension-403,Reading Comprehension,A,A,"기사는 가정 호스피스 제도 신설로 말기 암 환자가 집에서도 호스피스 서비스를 받을 수 있게 된다는 내용이므로 제목으로 가장 적절한 것은 A입니다.
+
+### ANSWER
+A"
+Rare Words-13,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-14,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-15,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-16,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-17,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-18,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-19,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-20,Rare Words,C,C,"### ANSWER
+C"
+Reading Comprehension-404,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-405,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-406,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-407,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-408,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-409,Reading Comprehension,A,B,"(가)는 단청의 일반적 정의와 기능을 소개하고, (나)는 ‘단청’이라는 말의 의미를 설명한다. (다)는 (나)의 붉은색·푸른색 언급에 이어 “하지만”으로 시작하므로 (나) 뒤에 와야 하며, (라)는 색에 이어 문양을 설명하므로 마지막에 오는 것이 자연스럽다.
+
+### ANSWER
+B"
+Reading Comprehension-410,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-411,Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature-134,Standard Nomenclature,C,C,"### ANSWER
+C"
+Standard Nomenclature-135,Standard Nomenclature,D,E,"### ANSWER
+E"
+Standard Nomenclature-136,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-137,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-138,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-139,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-140,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-141,Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension-412,Reading Comprehension,D,D,"### ANSWER
+D"
+Rare Words-21,Rare Words,B,B,"""재넘이""는 고개(재)를 넘어 부는 바람, 즉 산바람을 뜻하는 방언입니다.
+
+### ANSWER
+B"
+Rare Words-22,Rare Words,D,C,"### ANSWER
+C"
+Rare Words-23,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-24,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-25,Rare Words,E,E,"‘용갈이’는 얼음이 녹을 무렵 두꺼운 얼음판이 갈라져 생긴 금을 뜻하는 고유어입니다.
+
+### ANSWER
+E"
+Rare Words-26,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-27,Rare Words,A,A,"말휘갑은 ‘말을 이리저리 잘 둘러맞추는 일’을 뜻하는 단어입니다.
+
+### ANSWER
+A"
+Rare Words-28,Rare Words,D,D,"말주변(말주벅)은 경위를 따지고 남을 공박하거나 자기 이론을 주장할 만한 언변을 뜻한다.
+
+### ANSWER
+D"
+Rare Words-399,Rare Words,E,E,"들은귀는 자기에게 이로운 말을 듣고 그 기회를 놓치지 않으려는 태도를 뜻하는 고유어입니다.
+
+### ANSWER
+E"
+Rare Words-400,Rare Words,C,D,"고비판은 ‘아주 위태롭고 급한 때/판’을 뜻하는 말로, 질문의 의미와 일치합니다.
+
+### ANSWER
+D"
+Rare Words-401,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-402,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-403,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-404,Rare Words,A,A,"### ANSWER
+A"
+Reading Comprehension-0,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-1,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-2,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-3,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-4,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-5,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-6,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-7,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-8,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-9,Reading Comprehension,D,D,"### ANSWER
+D"
+Standard Nomenclature-142,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-143,Standard Nomenclature,E,E,"부르마는 일본식 표현으로, 영어 bloomers의 표준 외래어 표기는 ‘블루머’이다.
+
+### ANSWER
+E"
+Standard Nomenclature-144,Standard Nomenclature,D,D,"""보파""는 한자어 ""補播""로, 부족한 부분에 씨를 다시 뿌리는 것을 뜻하며 표준 전문 용어는 ""덧뿌림""이다.
+
+### ANSWER
+D"
+Standard Nomenclature-145,Standard Nomenclature,E,E,"### ANSWER
+E"
+Standard Nomenclature-146,Standard Nomenclature,B,B,"""보상""의 표준 전문 용어는 ""갚음""이다.
+
+### ANSWER
+B"
+Standard Nomenclature-147,Standard Nomenclature,B,B,"벤츠(vent)는 의복의 트임을 뜻하는 외래어로, 표준 전문 용어는 '트임'이다.
+
+### ANSWER
+B"
+Standard Nomenclature-148,Standard Nomenclature,D,D,"### ANSWER
+D"
+Standard Nomenclature-149,Standard Nomenclature,A,A,"### ANSWER
+A"
+Rare Words-29,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-30,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-31,Rare Words,E,E,"The phrase describes something that appears similar on the outside but is completely different inside, which matches the idiom ""似是而非"" (사시이비).
+
+### ANSWER
+E"
+Rare Words-32,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-33,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-34,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-35,Rare Words,E,E,"기대치(期待値)는 이루어지리라 기대하는 목표의 정도를 뜻한다.
+
+### ANSWER
+E"
+Rare Words-36,Rare Words,B,B,"### ANSWER
+B"
+Standard Nomenclature-150,Standard Nomenclature,B,B,"배기 팬츠는 통이 넓은 헐렁한 바지를 뜻하며, 표준 전문 용어는 '자루바지'이다.
+
+### ANSWER
+B"
+Standard Nomenclature-151,Standard Nomenclature,B,B,"### ANSWER
+B"
+Standard Nomenclature-152,Standard Nomenclature,E,E,"### ANSWER
+E"
+Reading Comprehension-10,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-11,Reading Comprehension,B,B,"‘먼저’로 시작해 다음 예절을 덧붙이는 문맥이므로 ‘그리고’가 자연스럽다.
+
+### ANSWER
+B"
+Reading Comprehension-12,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-13,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-14,Reading Comprehension,D,E,"### ANSWER
+E"
+Reading Comprehension-15,Reading Comprehension,A,A,"### ANSWER
+A"
+Reading Comprehension-16,Reading Comprehension,B,E,"### ANSWER
+E"
+Reading Comprehension-17,Reading Comprehension,C,C,"### ANSWER
+C"
+Rare Words-37,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-38,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-39,Rare Words,A,A,"### ANSWER
+A"
+Rare Words-40,Rare Words,B,B,"### ANSWER
+B"
+Rare Words-41,Rare Words,E,E,"### ANSWER
+E"
+Rare Words-42,Rare Words,C,C,"### ANSWER
+C"
+Rare Words-43,Rare Words,B,B,"'앞부리'는 물건의 뾰족한 앞부분이나 끝을 뜻하는 말입니다.
+
+### ANSWER
+B"
+Rare Words-44,Rare Words,D,D,"### ANSWER
+D"
+Rare Words-45,Rare Words,B,B,"### ANSWER
+B"
+Reading Comprehension-18,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-19,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-20,Reading Comprehension,A,A,"The note mentions liking puppies and cats, which are both animals.
+
+### ANSWER
+A"
+Reading Comprehension-21,Reading Comprehension,D,D,"### ANSWER
+D"
+Reading Comprehension-22,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-23,Reading Comprehension,B,B,"### ANSWER
+B"
+Reading Comprehension-24,Reading Comprehension,C,C,"### ANSWER
+C"
+Reading Comprehension-25,Reading Comprehension,B,B,"그래서가 자연스럽습니다.
+
+### ANSWER
+B"
+Reading Comprehension-26,Reading Comprehension,C,C,"### ANSWER
+C"

@@ -22,3 +22,9 @@ uv.lock
 env-dev/*
 
 verify_omni_math.py
+
+# Snapshots of result CSVs kept while re-measuring a model; not part of the published results
+results_backup_*/
+
+# oh-my-claudecode session state
+.omc/

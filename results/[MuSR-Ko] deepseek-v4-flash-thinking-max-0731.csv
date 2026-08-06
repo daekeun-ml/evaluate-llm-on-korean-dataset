@@ -1,0 +1,2310 @@
+qid,subset,answer,pred,response
+murder_mysteries-94,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-95,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-96,murder_mysteries,B,B,"세미는 검도 동아리 활동과 일본도 수집 경력이 있어 범행 도구인 일본도를 다룰 능력과 접근성이 있었고, 피해자의 의붓딸로서 유산 상속 동기도 있습니다. 또한 피해자의 일정에 맞춰 방문을 조정한 점도 의심스럽습니다. 가은은 동물원 직원으로서 동물 복지와 해산물 등에 관한 단서가 있지만, 일본도 살인과 직접 연결될 만한 결정적 근거는 약합니다. 따라서 살인자일 가능성이 가장 높은 사람은 세미입니다.
+
+### ANSWER
+B"
+murder_mysteries-97,murder_mysteries,A,B,"세미는 수진의 유산을 상속받을 예정이고, 회사 불황과 의료비 부담으로 경제적 어려움을 겪고 있었다. 또한 일본도 컬렉션과 검도 실력을 갖추고 있어 범행 수단을 사용할 능력이 있었다. 수진이 선물한 일본도가 그녀의 취미로 이어졌다는 점과, 최근 중요한 열쇠가 사라졌다는 진술, 통화 중 불빛과 발자국 소리 등 정황 증거도 세미를 가리킨다. 반면 가은은 동물원에서 일하며 무기에 관심이 있지만, 살해 동기나 직접적인 정황이 상대적으로 약하다.
+
+### ANSWER
+B"
+murder_mysteries-98,murder_mysteries,B,B,"은정은 민영과의 직접적인 갈등(파일 절도, 소문 유포, 과거 신체적 마찰)이 있었고, 사건에 사용된 손도끼를 한 달 전 구입해 차량에 보관했다는 결정적 정황이 있다. 반면 다영이는 승진 경쟁 등 동기가 있지만 직접적인 폭력 도구나 살인 정황이 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 은정이다.
+
+### ANSWER
+B"
+murder_mysteries-99,murder_mysteries,A,B,"은정은 민영과의 직접적 갈등, 목격된 싸움, 손도끼 구입 및 차량 보관, 차량 소유권 은닉과 번호판 수집 등 범행과 관련된 구체적이고 강한 정황이 있다. 다영은 현장 접근성과 손도끼 사용 경험은 있으나 동기와 은닉 정황이 상대적으로 약하다.
+
+### ANSWER
+B"
+murder_mysteries-100,murder_mysteries,A,B,"우성은 돌멩이 던지기 클럽 회원으로 뛰어난 성적을 거둔 인물이며, 최근 손목 부상과 긴 옷으로 물건을 숨길 수 있다는 발언 등 결정적인 정황이 있다. 또한 피해자에게 전하지 못한 개인적 메시지가 있다고 한 점도 의심을 강화한다. 현진은 돌멩이를 운반할 기회는 있지만, 살인 수단과 직접적으로 연결되는 기술적 단서는 우성에 비해 약하다.
+
+### ANSWER
+B"
+murder_mysteries-101,murder_mysteries,B,B,"살해 도구가 돌멩이인 점에서 돌멩이 던지기 클럽에 속해 있고 손재주와 체력이 뛰어난 우성이 가장 유력하다. 또한 우성이 채아와 특정 사건을 논의하기 위해 약속을 잡아둔 정황도 의심스럽다. 현진은 사이비 종교 관련 동기가 있을 수 있으나 살해 방식과 직접 연결된 단서는 약하다.
+
+### ANSWER
+B"
+object_placements-126,object_placements,D,D,"### ANSWER
+D"
+object_placements-127,object_placements,C,A,"### ANSWER
+A"
+object_placements-128,object_placements,B,B,"기록 카드는 유나가 손에 들고 있다가 실험실 서랍으로 옮겨 보관했으므로, 가장 먼저 실험실 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-129,object_placements,A,A,"### ANSWER
+A"
+object_placements-130,object_placements,A,D,"### ANSWER
+D"
+object_placements-131,object_placements,A,A,"### ANSWER
+A"
+object_placements-132,object_placements,C,C,"### ANSWER
+C"
+object_placements-133,object_placements,B,B,"원준은 양념통이 원래 주방 선반에 있다는 것을 알고 있었고, 솔미가 가방으로 옮긴 것을 보지 못했으므로 가장 먼저 주방 선반을 확인할 것이다.
+
+### ANSWER
+B"
+murder_mysteries-188,murder_mysteries,A,A,"쇠사슬이 살해 도구임을 고려하면, 민희는 쇠사슬을 이용한 고강도 운동을 하고 체력 대회 우승자일 만큼 힘이 세며, 대형 가방도 쉽게 들어 올린다. 또한 천체투영관 별 관찰 행사에 시환과 함께 참석해 현장을 잘 알고, 시환의 개인 여행 담당자로서 일정도 파악하고 있었다. 최근 시환이 만남을 거절하고 다른 직원과 찍힌 사진에 당황하는 등 질투와 불만 동기도 있다. 건영은 회계 조작과 출장 알리바이, 폭력 조직 연루 등 의심스러운 점이 있지만 살해 수단인 쇠사슬이나 현장과의 직접적 연관성은 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 민희다.
+
+### ANSWER
+A"
+murder_mysteries-189,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-190,murder_mysteries,B,A,"순영은 역사 무기 재연 행사의 학술 조언자로 단검 사용에 정통하고, 사건 시간에 축구장에 있었다고 스스로 인정했다. 또한 그녀가 제공한 사진의 배경이 20년 이상 폐쇄된 건물 내부임에도 박물관 전시실이라고 거짓말한 점은 결정적이다. 하경은 동기와 검도 실력이 있지만 직접적인 현장 증거나 거짓말이 드러나지 않았다.
+
+### ANSWER
+A"
+murder_mysteries-191,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-192,murder_mysteries,A,A,"시욱은 피해자 아린과 가까운 사이였으나 최근 그녀가 다른 사람들과 어울리는 모습을 보며 소외감과 질투를 느꼈습니다. 또한 무기 수집가이며 특히 창술이 체력에 좋다고 언급했는데, 이는 피해자가 죽창에 찔려 살해된 정황과 직접 연결됩니다. 반면 정민은 불면증, 도박, 약물 등 의심스러운 면이 있지만 피해자와의 뚜렷한 연관성이나 살해 동기가 제시되지 않았습니다. 따라서 시욱이 살인자일 가능성이 가장 높습니다.
+
+### ANSWER
+A"
+murder_mysteries-193,murder_mysteries,B,A,"시욱은 죽창을 포함한 전통 무기를 수집하고 창술을 연습하며, 죽창의 특성까지 구체적으로 언급한다. 또한 아린과의 관계 종결 후 새로운 인간관계에 대한 정황, 비밀 유지와 즉흥적 만남 등 의심스러운 행동이 드러난다. 정민은 무술과 바이올린 등 긴 물체를 다루는 능력이 있지만 죽창과 직접 연결된 증거는 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 시욱이다.
+
+### ANSWER
+A"
+murder_mysteries-194,murder_mysteries,A,B,"지온은 밧줄 마술을 전문으로 하며 매일 밧줄 연습을 하고 손재주가 뛰어나다는 점, 현도가 그의 정치적 스캔들 증거를 공개하겠다고 위협한 명확한 동기가 있다는 점, 그리고 밤늦게 혼자 있는 습관과 오후 공연만 광고된 점으로 보아 밤 시간대 알리바이가 약하다는 점이 결정적이다. 유연도 동기가 있지만 밧줄이라는 범행 수단과 직접 연결되는 정황은 지온만큼 강하지 않다.
+
+### ANSWER
+B"
+murder_mysteries-195,murder_mysteries,B,B,"지온은 밧줄 마술을 전문으로 하는 인물로, 밧줄을 이용한 살해 수단과 직접적으로 연결된다. 또한 현도가 지온과 관련된 정치적 스캔들 증거를 확보하고 공개하겠다고 위협했다는 강력한 동기가 있다. 유연은 결혼 압박과 경제적 지원 중단 등 동기가 있지만, 살해 수단인 밧줄과의 연관성은 상대적으로 약하다. 따라서 지온이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+B"
+murder_mysteries-0,murder_mysteries,A,A,"현민은 피해자 강우에게 공개적으로 모욕을 당했고, 그 자리에서 표정이 굳는 등 강한 감정적 반응을 보였다. 또한 경기 종료 후 다른 참가자들이 떠난 뒤에도 현장 근처에 머물렀다는 점이 결정적이다. 여기에 현민이 고기 손질용 도구를 수집하고 주말마다 고기를 요리하는 등 범행 도구인 고기 손질용 도끼에 접근할 수 있는 환경도 갖추고 있다. 반면 재성은 정육점에서 일해 도끼 사용이 가능하지만, 피해자와의 직접적인 갈등이나 살해 동기가 뚜렷하게 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 현민이다.
+
+### ANSWER
+A"
+murder_mysteries-1,murder_mysteries,B,B,"재성이는 정육점에서 일하며 고기 손질용 도끼를 다루는 데 익숙하고, 군 복무 시절 무기 사용법을 익혔다는 점에서 살해 도구와 직접적으로 연결됩니다. 또한 피해자 강우와 같은 페인트볼 팀으로 활동했고, 과거 그 경기장에서 아르바이트한 경험이 있어 현장에 대한 지식도 갖추고 있습니다. 반면 현민은 요리 취미와 주방 도구 구매, 늦은 밤 외출 등 의심스러운 정황이 있지만 피해자나 범행 현장과의 직접적 연관성은 약합니다. 따라서 살인자일 가능성이 가장 높은 사람은 재성입니다.
+
+### ANSWER
+B"
+murder_mysteries-2,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-3,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-4,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-5,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-6,murder_mysteries,B,A,"현준은 책장을 해체하며 널판지 부품을 모았고, 재균과 같은 모임에 참여해 일정을 조율한 정황이 있으며, 무술과 자기방어에 관심이 있어 범행 가능성이 더 높다. 자영은 목공 취미가 있지만 직접적인 연결 고리는 약하다.
+
+### ANSWER
+A"
+murder_mysteries-7,murder_mysteries,A,B,"### ANSWER
+B"
+team_allocation-64,team_allocation,A,A,"은지는 세부 작업과 창의적 아이디어에 강해 제품 개발에 적합하고, 태훈은 유통·판매와 데이터 분석에 강해 유통 전략에 적합하다. 또한 은지와 소민, 은지와 태훈은 갈등 이력이 있으므로 같은 팀에 두지 않는 것이 좋다. 태훈과 소민은 협업이 잘 되므로 함께 배치하는 A가 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-65,team_allocation,B,B,"세아는 디자인 경력과 수상 경력이 가장 뛰어나므로 캐릭터 디자이너로 적합하고, 지민은 음향 공학 전공과 녹음 엔지니어 경력이 있어 음성 녹음 엔지니어로 적합합니다. 현우는 기본 음향 업무 경험이 있으므로 지민을 보조하는 역할로 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-66,team_allocation,C,B,"다희는 데이터 분석에 타고난 재능이 있고, 민수는 발표 능력이 뛰어나므로 각자의 강점을 살리는 배치가 효율적입니다. 은지는 두 분야 모두 약하고 갈등 요소가 있지만, 민수와 함께 발표 팀에 두는 것이 데이터 분석 팀의 효율을 해치지 않으면서 최선의 균형을 만듭니다.
+
+### ANSWER
+B"
+team_allocation-67,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-68,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-69,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-70,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-71,team_allocation,A,A,"수진은 창의적 글쓰기와 스토리텔링에 강점이 있어 콘텐츠 제작에 적합합니다. 민지는 논리적 분석과 데이터 처리에 능숙하고, 영우는 기술 개발과 백엔드에 강점이 있어 사용자 경험 디자인을 함께 맡아 보완하는 것이 효율적입니다.
+
+### ANSWER
+A"
+team_allocation-158,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-159,team_allocation,B,B,"서진은 모델 관리 경험이 풍부하고 모델과의 소통에 강점이 있으므로 모델 관리를 맡아야 합니다. 지훈은 무대 디자인 전공자로 실질적 경험이 있으므로 무대 디자인에 배치하는 것이 핵심입니다. B안은 서진을 모델 관리에, 지훈을 무대 디자인에 배치하여 두 업무의 핵심 역량을 살립니다. 예빈은 행정 지원으로 무대 디자인 팀을 보조하는 역할이 가장 현실적입니다.
+
+### ANSWER
+B"
+team_allocation-160,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-161,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-162,team_allocation,B,B,"서진은 기술적 문제 해결에 강점이 있으므로 기술 개발에, 나영은 고객 대응 능력이 뛰어나므로 고객 지원에 배정하는 것이 효율적입니다. 태현은 프로그래밍보다 소통을 선호하므로 고객 지원에 두는 것이 기술 개발에 두는 것보다 적합합니다. 따라서 B가 가장 균형 잡힌 배정입니다.
+
+### ANSWER
+B"
+team_allocation-163,team_allocation,B,C,"### ANSWER
+C"
+team_allocation-164,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-165,team_allocation,C,C,"### ANSWER
+C"
+object_placements-220,object_placements,D,C,"### ANSWER
+C"
+object_placements-221,object_placements,B,B,"현우는 폴더를 직접 책상에서 사물함으로 옮겼고, 이후 채영이 사물함에서 가방으로 옮기는 장면을 보지 못했으므로, 현우가 알고 있는 폴더의 마지막 위치는 사물함이다.
+
+### ANSWER
+B"
+object_placements-222,object_placements,C,B,"### ANSWER
+B"
+object_placements-223,object_placements,A,A,"지훈은 수빈이 지도 책자를 선반에서 가방으로, 다시 책상으로 옮기는 것을 보지 못했다. 특히 수빈이 책상으로 옮길 때 지훈은 다른 이야기에 몰두해 주변을 살피지 않았다. 따라서 지훈이 마지막으로 알고 있는 위치는 처음의 선반이다.
+
+### ANSWER
+A"
+object_placements-224,object_placements,A,A,"태현은 지도 책자가 원래 선반에 있었고, 수빈이 책상으로 옮긴 것을 보지 못했으므로 가장 먼저 선반을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-225,object_placements,B,B,"### ANSWER
+B"
+object_placements-226,object_placements,D,D,"도연이는 양초를 직접 창가 테이블로 옮겼기 때문에, 양초의 위치를 가장 정확히 아는 사람이다. 따라서 양초를 찾으러 갈 때 가장 먼저 확인할 곳은 창가 테이블이다.
+
+### ANSWER
+D"
+object_placements-227,object_placements,B,B,"도연이는 처음에 케이크가 냉장고에 있음을 알았지만, 민석이 케이크를 주방 선반으로 옮길 때는 현수막 정리에 집중하고 있어 보지 못했다. 그러나 이후 하늘이 케이크를 식탁으로 옮기는 순간을 바로 앞에서 지켜보았으므로, 케이크가 식탁에 있음을 알고 있다. 따라서 케이크를 찾으려면 가장 먼저 식탁을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-32,object_placements,C,C,"Sooyoung moved the script herself from the dressing room table to the shelf beside the stage, so she would first check there.
+
+### ANSWER
+C"
+object_placements-33,object_placements,C,B,"### ANSWER
+B"
+object_placements-34,object_placements,A,A,"### ANSWER
+A"
+object_placements-35,object_placements,C,C,"Yuna personally moved the microphone to the stage-side shelf, and no later action moved it again. She would first check there.
+
+### ANSWER
+C"
+object_placements-36,object_placements,C,C,"지민은 처음에 대본을 분장실 테이블로 옮겼지만, 이후 소영이 그 대본을 무대 옆 선반으로 옮기는 동안 지민은 주변 사람들의 동작을 계속 주시하고 있었다. 따라서 지민은 대본이 무대 옆 선반에 있음을 알고 있을 것이므로 가장 먼저 그곳을 확인한다.
+
+### ANSWER
+C"
+object_placements-37,object_placements,C,C,"### ANSWER
+C"
+object_placements-38,object_placements,C,C,"### ANSWER
+C"
+object_placements-39,object_placements,C,C,"### ANSWER
+C"
+murder_mysteries-102,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-103,murder_mysteries,B,A,"나희는 부메랑 대회 우승자로서 뛰어난 실력을 갖췄고, 사건 전날 피해자에게 스쿠버다이빙을 제안해 범행 기회를 만들었다. 또한 늦은 밤 전화 후 차고로 향하고 수상한 짐을 싣는 등 계획적인 행동이 포착되며, 삽을 소지한 정황도 있다. 현철은 질투 동기가 있지만 부메랑 실력이 향상 중일 뿐이고 직접적인 범행 정황은 나희보다 약하다.
+
+### ANSWER
+A"
+murder_mysteries-104,murder_mysteries,A,A,"나희는 스쿠버다이빙 장소에 함께 있었고, 사건 당일 다이빙을 제안한 인물이다. 또한 부메랑 던지기 지역 대회 1위이며 거의 매일 연습하는 등 살해 도구인 부메랑을 정확히 다룰 능력이 있다. 두현이 그녀를 통제하려 했다는 진술은 살해 동기가 된다. 반면 현철은 부메랑 경력과 배우자 관련 질투 동기가 있지만, 사건 현장과의 직접적 연관성은 제시되지 않았다. 따라서 가장 유력한 용의자는 나희다.
+
+### ANSWER
+A"
+murder_mysteries-105,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-106,murder_mysteries,A,B,"예빈은 지경이 자신의 비밀을 SNS에 폭로한 것에 대해 강한 원한을 품었고, 과거에 요리 기름을 이용한 복수를 꿈꿨다고 직접 언급된다. 이는 실제 범행 수단인 끓는 기름과 일치하며, 동혁은 현장에 있었지만 살해 동기가 상대적으로 약하다.
+
+### ANSWER
+B"
+murder_mysteries-107,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-108,murder_mysteries,B,A,"수빈은 경기용 엽총을 사용한 사격 대회 참가 이력이 있고, 사격장을 자주 방문했으며, 마지막 대회에서도 경기용 엽총을 선택했다는 구체적인 정황이 제시됩니다. 살인 도구가 경기용 엽총이라는 점에서 수빈이 범행 도구에 가장 밀접하게 연결됩니다. 수혜는 하성의 도박 빚으로 재정적 어려움을 겪었다는 동기는 있지만, 살인 도구와 직접적으로 연결되는 정황은 상대적으로 약합니다.
+
+### ANSWER
+A"
+murder_mysteries-109,murder_mysteries,A,A,"한결은 얼음 조각 대회에 참가했고, 형사가 그의 손이 자잘한 작업에 능숙하다고 주목한 점은 송곳 같은 도구를 다룰 수 있는 인물임을 시사합니다. 또한 리조트에 있었고 영호에 대해 모호하게 답한 점도 의심됩니다. 강민은 식당과 종교 모임 등 의심스러운 면이 있지만 살해 도구와 직접 연결되는 단서는 약합니다.
+
+### ANSWER
+A"
+murder_mysteries-196,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-197,murder_mysteries,A,A,"다빈은 사건 직전 시현과 논쟁한 목격 증언이 있고, 엽총 사용에 능숙하며 사격장을 정기적으로 방문해 범행 수단을 갖췄다. 또한 독립성을 중시하고 시현과의 관계에서 갈등 요인이 있었던 점이 강한 동기가 된다. 반면 시찬은 현장에 있었고 사냥 경험이 있지만, 살해 동기가 뚜렷하지 않다. 따라서 가장 유력한 용의자는 다빈이다.
+
+### ANSWER
+A"
+murder_mysteries-198,murder_mysteries,A,A,"윤기는 화학 교수로서 독성 물질에 대한 전문 지식과 실험실 접근 권한이 있고, 피해자와 주말마다 캠핑을 다닌 직접적인 현장 연관성이 있다. 또한 재산 요구와 법적 다툼으로 인한 명확한 동기가 있다. 다빈 역시 독성 물질 취급자로서 동기와 지식이 있지만, 캠프장과의 직접적 연결은 제시되지 않았다. 따라서 살인 가능성이 가장 높은 사람은 윤기다.
+
+### ANSWER
+A"
+murder_mysteries-199,murder_mysteries,B,B,"다빈은 화학 경시대회 경험, 독소 물질 안전 교육, 가정 화학 실험 등 독가스 살인에 필요한 지식과 수단을 갖췄다. 또한 서영이에게 비밀 폭로로 협박당하고 약점을 이용당하는 등 강한 살해 동기가 있었다. 게다가 서영의 소셜 미디어를 통해 캠핑 위치를 알았고 실제로 캠프장에 갔다. 반면 윤기는 독성 화학 물질 연구와 법적 분쟁 동기가 있지만, 캠프장 현장과의 직접적 연관성은 다빈보다 약하다. 따라서 가장 유력한 용의자는 다빈이다.
+
+### ANSWER
+B"
+murder_mysteries-200,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-201,murder_mysteries,A,A,"미소는 캠핑 일정을 직접 계획했고, 장비를 공유했으며, 독성 화학 물질 취급 자격증을 소지하고 있어 독가스 살인에 필요한 지식과 기회를 모두 갖췄다. 연우도 화학 실험 경험이 있지만, 범행 기회와 직접적 연관성은 미소가 더 크다.
+
+### ANSWER
+A"
+murder_mysteries-202,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-203,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-8,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-9,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-10,murder_mysteries,A,A,"성준은 사격 대회 참가와 엽총 사용 경험, 급류 래프팅 장소와의 연관성, 피해자가 자신의 사생활을 알고 있다는 염려, 사건 전날 현장 인근 호텔 체크인 기록 등 살인 용의자로서의 정황이 훨씬 구체적으로 제시된다. 기민은 총기 관련 지식과 피해자와의 금전적 분쟁이 있지만, 현장 연관성이나 직접적인 정황이 약하다.
+
+### ANSWER
+A"
+murder_mysteries-11,murder_mysteries,B,B,"기민은 살해 현장인 급류 래프팅 장소와 직접적으로 연결됩니다. 그는 수상 스포츠, 특히 급류 래프팅에 열정적이라고 명시되어 있어 현장에 있을 기회가 있습니다. 또한 수렵용 엽총이라는 범행 도구와 관련해 어린 시절부터 아버지와 사냥을 해왔고, 사격장을 정기적으로 찾으며 총기 안전 교육까지 이수한 점에서 범행 수단을 갖췄습니다. 동기 면에서도 다영이 자신의 보고서 오류로 금전적 손실을 입었고, 바로잡지 않으면 소송을 제기하겠다고 경고했으며, 이에 기민은 침묵했습니다. 이는 강력한 살해 동기입니다. 반면 성준은 사격 실력과 관찰력, 녹음 파일 관련 의심 등 혐의점이 있지만, 급류 래프팅 현장과의 직접적 연관성이나 다영과의 구체적 갈등은 상대적으로 약합니다. 따라서 살인자일 가능성이 가장 높은 사람은 기민입니다.
+
+### ANSWER
+B"
+murder_mysteries-12,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-13,murder_mysteries,B,B,"규민은 연아가 지역 모임에서 자신의 사업 문제를 공개적으로 지적해 충격을 받았다는 명확한 살해 동기가 있다. 또한 낚시를 즐기고 래프팅 장비 안전 점검과 수리 기술을 갖춘 점에서 낚시줄을 이용한 범행 수단과도 연결된다. 희준은 낚시와 야외 활동에 관심이 있으나 연아에게 직접적인 원한이나 동기가 드러나지 않는다.
+
+### ANSWER
+B"
+murder_mysteries-14,murder_mysteries,B,B,"지온은 포도원 행사 준비와 관련이 있고 밤에 달리기를 한다고 했지만, 살해 도구인 곡괭이 사용에 대한 직접적 단서나 나연과의 갈등 동기가 약하다. 반면 지흔은 농장 경험이 있어 농기구에 익숙하고, 나연이 자신의 비밀을 폭로할까 봐 걱정했다는 진술이 나온다. 또한 나연이 과거에 자신의 비밀에 의문을 제기했다는 이야기를 들었다고 하면서도 자세히 기억나지 않는다고 둘러대는 등 회피하는 태도를 보인다. 이러한 동기와 범행 수단에 대한 접근성, 현장 주변에서 발견된 점을 고려하면 지흔이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-15,murder_mysteries,A,B,"### ANSWER
+B"
+object_placements-134,object_placements,A,A,"### ANSWER
+A"
+object_placements-135,object_placements,A,B,"### ANSWER
+B"
+object_placements-136,object_placements,C,C,"### ANSWER
+C"
+object_placements-137,object_placements,A,A,"### ANSWER
+A"
+object_placements-138,object_placements,C,C,"### ANSWER
+C"
+object_placements-139,object_placements,C,A,"### ANSWER
+A"
+object_placements-140,object_placements,D,D,"Eugene saw Minwoo place the measuring cup in the cabinet, and later was distracted when Soyeon moved it to the table. So he would first check the cabinet.
+
+### ANSWER
+D"
+object_placements-141,object_placements,C,C,"### ANSWER
+C"
+team_allocation-166,team_allocation,C,C,"세진은 건설 공학 전공에 엔지니어 경력이 깊고 기술적 전문성이 강하므로 엔지니어로 배치하는 것이 적합합니다. 민재와 하영은 모두 현장 관리 경험과 소통 능력이 뛰어나므로 현장 관리자로 배치하는 것이 효율적입니다.
+
+### ANSWER
+C"
+team_allocation-167,team_allocation,B,B,"민수와 하영은 현장 관리에 강점이 있고 서로 협력이 잘 되며, 세진은 현장 돌발 상황에 취약하고 민수와 갈등이 있으므로 현장 팀에서 분리하는 것이 좋다. 따라서 설계는 세진, 현장 관리는 민수와 하영이 맡는 조합이 가장 효율적이다.
+
+### ANSWER
+B"
+team_allocation-168,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-169,team_allocation,B,B,"소영은 분석과 조사에 강점이 있어 리서치 팀에 적합하고, 미나와 태현은 창의적 마케팅 역량이 뛰어나며 서로 협력한 이력이 있다. 반면 미나-소영, 태현-소영은 갈등 이력이 있어 같은 팀에 두는 것은 비효율적이다. 따라서 리서치 팀에 소영, 마케팅 팀에 미나와 태현을 배치하는 것이 가장 적절하다.
+
+### ANSWER
+B"
+team_allocation-170,team_allocation,B,B,"지훈은 제품 소싱에 강점이 있고, 서윤은 고객 서비스에 강점이 있습니다. 민재는 두 영역 모두 약점이 많으므로, 핵심 강점을 살리는 배치는 지훈을 제품 소싱 팀에, 서윤을 고객 서비스 팀에 두는 것입니다.
+
+### ANSWER
+B"
+team_allocation-171,team_allocation,A,A,"태훈은 금융 서비스 기획 경험과 경제학 석사 학위로 기획 업무에 가장 적합하며, 고객 대면과 신속한 응대에 약점이 있어 고객 지원보다는 서비스 기획에 배치하는 것이 타당하다. 수진과 민재는 기획과 고객 지원 양쪽에서 약점이 드러나지만, 선택지 중 태훈을 기획에 두는 A가 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-172,team_allocation,C,C,"은지는 프로그램 기획 경험과 창의적 역량이 뛰어나 기획 팀에 적합합니다. 수민과 현우는 서로 갈등 없이 협력할 수 있는 관계이므로 스폰서 관리 팀에 함께 배치하는 것이 가장 효율적입니다. 다른 선택지는 갈등 관계를 포함하므로 적절하지 않습니다.
+
+### ANSWER
+C"
+team_allocation-173,team_allocation,C,B,"지민은 분석력과 기술적 집중력이 뛰어나 복잡한 기술 문제를 해결하는 연구 개발에 가장 적합하다. 도윤은 사람들과의 교류와 설득에 능숙하고 창의적인 마케팅 성과를 쌓아왔으므로 마케팅에 적합하다. 수현은 전략적 사고와 큰 그림을 보는 강점이 있어 마케팅 전략 보완에 기여할 수 있다. 따라서 연구 개발에는 지민, 마케팅에는 도윤과 수현을 배정하는 것이 효율적이다.
+
+### ANSWER
+B"
+object_placements-228,object_placements,B,B,"민석은 처음에 모두가 양초가 식탁 위에 있다는 사실을 알고 있었습니다. 그러나 도연이 양초를 창가 테이블로 옮길 때, 민석은 인원 구성을 세는 데 집중하고 있어 그 장면을 보지 못했습니다. 따라서 민석의 기억 속 양초 위치는 여전히 식탁이므로, 양초를 찾으러 가장 먼저 식탁을 확인할 것입니다.
+
+### ANSWER
+B"
+object_placements-229,object_placements,B,B,"케이크는 마지막에 하늘이 식탁으로 옮겼고, 민석이는 그 순간 하늘이 있는 방향을 주시하고 있었으므로 그 위치를 인지했을 것이다. 따라서 민석이는 케이크를 찾기 위해 식탁을 가장 먼저 확인한다.
+
+### ANSWER
+B"
+object_placements-230,object_placements,B,B,"하늘은 처음에 양초가 식탁 위에 있다는 것을 알고 있었다. 도연이 양초를 창가 테이블로 옮기는 동안 하늘은 음악 장치와 행사 순서를 확인하느라 그 장면을 보지 못했으므로, 양초를 찾을 때 가장 먼저 식탁을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-231,object_placements,B,B,"하늘이는 마지막에 케이크를 직접 식탁으로 옮겼기 때문에, 케이크가 어디 있는지 가장 정확히 알고 있다. 따라서 케이크를 찾으려면 가장 먼저 식탁을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-232,object_placements,C,A,"### ANSWER
+A"
+object_placements-233,object_placements,D,D,"동욱이 자신이 선물 카드를 큰 가방으로 옮겼기 때문에, 찾으려면 큰 가방을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-234,object_placements,C,C,"### ANSWER
+C"
+object_placements-235,object_placements,C,B,"### ANSWER
+B"
+team_allocation-72,team_allocation,B,B,"동찬은 마케팅 경험과 설득력 있는 프레젠테이션 능력이 뛰어나므로 마케팅 팀에 배치해야 합니다. 민지는 동찬과 협업할 때 좋은 결과를 냈으므로 함께 마케팅 팀에 두는 것이 적합합니다. 수현은 분석력과 꼼꼼함을 살려 강의 제작 팀에 배치하는 것이 낫습니다.
+
+### ANSWER
+B"
+team_allocation-73,team_allocation,A,A,"수진은 복잡한 계약 관리와 명확한 소통이 강점이라 판매자 관리자에 적합하고, 동혁과 민지는 고객 응대와 불만 해결에 강점이 있어 고객 지원 담당자에 적합합니다. 또한 수진과의 갈등을 피하는 배치입니다.
+
+### ANSWER
+A"
+team_allocation-74,team_allocation,A,A,"다은은 창의적인 레시피 개발에 강점이 있지만 세부 편집에서 실수가 있었으므로 레시피 개발자에 적합합니다. 수현은 편집 능력이 검증되었고, 재호도 정확한 세부 검토를 즐기며 수현과 원활히 협업할 수 있으므로 편집자로 배치하는 것이 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation-75,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-76,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-77,team_allocation,B,B,"지훈은 콘텐츠 제작과 디자인 모두에 능하지만 미영·수진과 갈등 이력이 있어, 디자인 팀에 넣으면 협업이 어렵다. 미영과 수진은 서로 협력이 잘 되므로 웹 디자이너로 함께 배치하는 것이 좋다. 지훈은 문학 경연 입상 등 글쓰기 역량이 뛰어나므로 콘텐츠 제작자로 적합하다.
+
+### ANSWER
+B"
+team_allocation-78,team_allocation,A,B,"### ANSWER
+B"
+team_allocation-79,team_allocation,B,B,"작곡은 멜로디 창작에 강점이 있는 수현이 맡는 것이 적합하다. 영준은 멜로디 구조 이해에 어려움이 있고, 다은은 작곡 능력이 부각되지 않는다. 프로듀서 팀은 서로 존중하며 성공적 협업 전례가 많은 다은과 영준을 배치하는 것이 갈등을 피하고 효율적이다.
+
+### ANSWER
+B"
+murder_mysteries-16,murder_mysteries,B,A,"건영은 나영에게 금전적 압박을 받았고, 나영이 건영의 비밀을 알고 있다는 정황이 드러난다. 또한 녹음 파일에서 ""더 이상 문제 없게 할게""라는 발언, 녹음실과의频繁한 연관, 주변에 이사 계획조차 숨긴 점 등이 모두 건영을 강하게 의심하게 한다. 지현은 밴드 멤버로서 질투심이 있을 수 있으나, 건영에 비해 직접적 동기와 정황이 약하다.
+
+### ANSWER
+A"
+murder_mysteries-17,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-18,murder_mysteries,B,B,"다온은 최근 쇠사슬을 구매했고, 물류 회사 경력과 창고 임대를 통해 범행 도구와 은닉 공간을 확보할 수 있었다. 또한 늪 근처 하이킹을 즐겨 범행 장소에 익숙하며, 피해자 나희와 쌍둥이로서 전화기 접근도 가능했다. 나희가 지도를 공유하며 특별한 것을 보여주겠다고 한 점도 다온과의 연관성을 시사한다. 반면 서인은 해산물 채취용 쇠사슬을 보유하지만 규칙적인 일과와 자연스러운 설명으로 살인 정황이 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 다온이다.
+
+### ANSWER
+B"
+murder_mysteries-19,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-20,murder_mysteries,B,A,"유하는 폭탄 제조 부품 검색 기록, 구매 내역, 화학물질 현금 구매, 놀이공원 내 작업실과 기계음, 방문객이 있을 때 작업실에 들어가지 않은 정황 등 직접적인 증거가 많다. 서율은 민도에게 놀림을 받은 동기와 폭발물 관련 서적, 전자 부품 취미가 있지만, 범행을 직접 연결할 증거는 부족하다. 따라서 살인자일 가능성이 가장 높은 사람은 유하다.
+
+### ANSWER
+A"
+murder_mysteries-21,murder_mysteries,A,B,"서율은 폭탄 관련 기사 구독, 과학 서적 대여, 전자제품 조립과 설계도에 대한 관심, 다른 사람들의 일정 탐문, 피해자와 공원에서 함께 목격된 정황 등 구체적인 의심 요소가 많다. 유하는 화학물질 구매와 신비주의 취미가 있지만 정당한 용도로 설명되므로, 살인자일 가능성은 서율이 더 높다.
+
+### ANSWER
+B"
+murder_mysteries-22,murder_mysteries,B,B,"시현은 피해자의 몸에서 발견된 비밀 결사 상징과 연결되고, 같은 비밀 모임에 참석해 미영을 본 정황, 관련 서적과 소지품, 놀이공원 VIP 출입 권한 등 구체적인 단서가 많다. 시환은 야구 방망이와 현장 접근성은 있으나 명확한 동기가 부족하다.
+
+### ANSWER
+B"
+murder_mysteries-23,murder_mysteries,A,A,"시현은 VIP 멤버십과 야구 경력, 수상한 택배·차량 이동 등 절도 연루 가능성이 보이지만, 피해자와의 직접적 관계나 살해 동기는 약합니다. 반면 시환은 미영과 보험 서류를 함께 작성했고, 미영 집 열쇠를 보유하며 서랍까지 살펴본 정황이 있으며, 생일날 놀이공원에서 함께 있었고 야구 배트를 구매한 사실이 드러납니다. 이는 살인 동기와 기회, 범행 도구를 모두 갖춘 것으로 보입니다.
+
+### ANSWER
+A"
+object_placements-40,object_placements,C,C,"Initially, all three knew the measuring cup was on the side shelf. Junho later moved it to the front counter while Suyeon was turned away helping students, so she would not have seen the move. Therefore, she would first check the side shelf.
+
+### ANSWER
+C"
+object_placements-41,object_placements,D,D,"수연이는 마지막에 노트를 직접 책장으로 옮겨 놓았으므로, 노트가 책장에 있다는 것을 알고 있다. 따라서 노트를 찾으려면 책장을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-42,object_placements,B,B,"### ANSWER
+B"
+object_placements-43,object_placements,A,A,"준호는 노트가 처음에 무선 마우스 패드 아래에 있었고, 이후 이동하는 장면을 보지 못했으므로 가장 먼저 그곳을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-44,object_placements,D,D,"### ANSWER
+D"
+object_placements-45,object_placements,C,C,"미래는 수첩이 처음에 선반에 있다는 사실을 알고 있었고, 태영이 수첩을 서랍으로 옮기는 장면을 보지 못했으므로 가장 먼저 선반을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-46,object_placements,D,D,"은하는 미래가 USB를 책상 위에 내려놓는 과정을 곁에서 지켜보았으므로, USB의 현재 위치를 알고 있다. 따라서 USB를 찾으러 간다면 가장 먼저 책상을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-47,object_placements,B,B,"태영이 수첩을 선반에서 서랍으로 옮긴 뒤, 그 사실을 은하와 공유했으므로 은하는 수첩이 서랍에 있음을 알고 있다. 따라서 수첩을 찾을 때 가장 먼저 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+murder_mysteries-110,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-111,murder_mysteries,A,A,"제욱은 원혁이 새로운 친구들과 가까워지는 것을 우려했고, 무술과 무기 사용에 능숙해 살해 수단과 동기를 모두 갖췄다. 병규는 비밀 정보원이라는 점 외에 살해 동기가 뚜렷하지 않다.
+
+### ANSWER
+A"
+murder_mysteries-112,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-113,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-114,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-115,murder_mysteries,B,A,"기주는 다트 지역 대회 우승자로서 다트핀을 다룰 능력이 있고, 조울증으로 인한 충동 조절 실패와 폭력적 행동 이력(사무실 의자를 창밖으로 던짐)이 있으며, 그의 사무실이 사건의 중심이 되었다는 점에서 가장 유력한 용의자다. 동훈은 다트에 접근할 수 있지만 폭력성이나 살인 동기가 상대적으로 약하다.
+
+### ANSWER
+A"
+murder_mysteries-116,murder_mysteries,A,A,"기주는 다트 대회 우승 경력이 있는 다트 애호가로, 살해 도구인 다트핀을 능숙하게 다룰 수 있는 인물이다. 또한 시나와 근무 스케줄을 공유해 범행 시점을 알 수 있었고, 조울증 증상 악화와 충동 조절 문제가 언급되어 범행 가능성이 높다. 반면 동훈은 유치원에서 다트를 사용하지만 살인과 직접 연결할 결정적 단서가 부족하다.
+
+### ANSWER
+A"
+murder_mysteries-117,murder_mysteries,A,B,"원찬이 유력하다. 그는 낫에 대해 깊이 연구하고 직접 제작한 경험이 있어 범행 도구에 대한 지식과 접근성이 있다. 또한 시라가 친구의 비밀을 폭로하겠다고 위협했고, 원찬은 사랑하는 사람을 지키기 위해 무엇이든 할 준비가 되었다고 말해 명확한 동기가 있다. 게다가 지하실을 숨기고 잠가두는 등 은폐 가능성도 보인다. 재하는 시라와 가까웠지만 구체적 동기와 도구 연관성이 약하다.
+
+### ANSWER
+B"
+murder_mysteries-204,murder_mysteries,A,A,"가현은 폭발물 제조 관련 화학 재료 구매, 폭발물 제조법 검색, 전자공학 전공과 타이머 부품 구매, 폭발물 안전 교육 이수 등 시한폭탄 범행과 직접 연결되는 정황이 다수 존재한다. 반면 태민은 관리 소홀과 개인적 비밀 같은 간접적 정황만 있을 뿐 폭발물과의 연관성이 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 가현이다.
+
+### ANSWER
+A"
+murder_mysteries-205,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-206,murder_mysteries,A,A,"태희는 의료 공급실 열쇠와 주사기 사용 경험이 있고, 비밀 서랍과 이중생활 등 직접적인 단서가 있습니다. 또한 담희가 태희의 컴퓨터 파일을 보았을 가능성이 범행 동기가 될 수 있습니다. 호준은 약물 관련 지식과 이상한 메모가 있지만 주사기 접근성 등 결정적 단서가 부족합니다.
+
+### ANSWER
+A"
+murder_mysteries-207,murder_mysteries,B,B,"호준은 담희가 자신의 개인 자료를 조사했고, 자신이 위험한 비밀을 밝힌 적이 있다고 말했다. 이는 살해 동기가 될 수 있다. 또한 그는 약물의 심리적 효과에 대한 연구와 데이터를 보유하고 있어 주사기 사용에 필요한 지식과 접근 가능성이 있다. 담희에게 야외 활동, 즉 패러글라이딩을 권유한 점도 범행 장소와 연결된다. 태희는 의료 공급실 열쇠를 가졌다는 점에서 접근성은 있으나, 직접적인 동기나 범행 관련 정황이 호준보다 약하다.
+
+### ANSWER
+B"
+murder_mysteries-208,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-209,murder_mysteries,B,B,"민규는 해솔과의 협업 과정에서 제안 거절, 까다로운 평가, 대회 후 감사 부재 등 직접적인 갈등과 원한이 드러난다. 또한 운전 강사이자 자동차 정비 경력이 있어 ‘드라이버’에 의한 살해 수단을 가질 수 있다. 시연은 의심스러운 관찰 행동을 보이지만 해솔에 대한 구체적 동기가 부족하다.
+
+### ANSWER
+B"
+murder_mysteries-210,murder_mysteries,A,A,"희준은 기계 공학 전공으로 절단기 사용법을 훈련받았고, 패러글라이딩 연구 프로젝트에서 실제로 절단기를 활용한 경험이 있습니다. 또한 패러글라이딩 사고 조사와 높은 장소에서의 물리적 현상 연구 등 범행 수단과 직접 연결되는 지식과 기술을 갖추고 있었습니다. 반면 예성은 재산 갈등이라는 동기는 있지만, 절단기 사용이나 현장 기술적 단서와의 연관성은 상대적으로 약합니다. 따라서 살인자일 가능성이 가장 높은 사람은 희준입니다.
+
+### ANSWER
+A"
+murder_mysteries-211,murder_mysteries,B,B,"예성은 성렬과의 이혼 재산 분할 다툼, 위조 문서로 주식을 숨기려 한 정황 등 명확한 동기가 있고, 사건 현장인 패러글라이딩 장소에 있었으며 장비 점검을 맡는 등 범행 기회도 있었다. 희준은 절단기와 기계에 대한 지식이 있지만 직접적 동기가 드러나지 않는다.
+
+### ANSWER
+B"
+team_allocation-174,team_allocation,C,C,"민영은 연구 개발과 데이터 분석 모두에 강점이 있지만, 수진과는 서로를 잘 이해하고 시너지를 낼 수 있는 관계입니다. 수진은 데이터 해석에 능숙하지만 연구 개발 프로젝트에서는 어려움을 겪은 이력이 있으므로, 민영과 함께 데이터 분석 팀에 배치하는 것이 적합합니다. 지훈은 기술 혁신 프로젝트 경험과 창의적 문제 해결 능력이 있어 연구 개발 팀에 적합하지만, 민영·수진 모두와 충돌 이력이 있으므로 데이터 분석 팀에 두는 것은 피해야 합니다. 따라서 연구 개발 팀에 지훈, 데이터 분석 팀에 민영과 수진을 배치하는 것이 가장 효율적입니다.
+
+### ANSWER
+C"
+team_allocation-175,team_allocation,A,B,"민지는 창의적 과학 문제 해결과 데이터 해석에 모두 강해 연구 개발에 적합하고, 현우는 구체적 데이터 처리와 통계 분석에 전문가이므로 데이터 분석에 적합합니다. 지수는 전략적 사고는 있으나 세부 기술과 창의적 해결에 약하므로, 민지를 연구 개발에, 현우를 데이터 분석에 배치하는 B가 가장 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-176,team_allocation,A,A,"수민은 콘텐츠 강점과 기술 약점을, 예린은 기술 강점과 콘텐츠 약점을 가졌고, 지훈은 두 분야 모두 유능하며 예린과 협력이 좋다. 따라서 수민을 콘텐츠 제작팀에, 지훈과 예린을 기술 지원팀에 배치하는 것이 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-177,team_allocation,C,C,"예은과 태호는 마케팅 관련 경험과 성과가 뚜렷하므로 마케터로 배치하는 것이 적절하다. 지수는 마케팅 실패 경험과 데이터 분석 경험 부족이 있지만, 세 명 중 마케팅 적합성이 가장 낮은 동시에 창의적 문제 해결에 강점이 있어 데이터 과학자 역할에 배치하는 것이 최선이다.
+
+### ANSWER
+C"
+team_allocation-178,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-179,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-180,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-181,team_allocation,B,B,"### ANSWER
+B"
+object_placements-142,object_placements,D,D,"수현은 처음에 노트북이 책상 위에 있다는 것을 알고 있었고, 이후 승우가 노트북을 옮기거나 유진이 다시 책상으로 옮기는 장면을 보지 못했으므로, 여전히 책상을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-143,object_placements,A,A,"### ANSWER
+A"
+object_placements-144,object_placements,B,B,"승우는 노트북을 거실 선반으로 옮긴 뒤, 이후 유진이 노트북을 책상으로 옮기는 모습을 보지 못했다. 따라서 승우가 가장 먼저 확인할 곳은 거실 선반이다.
+
+### ANSWER
+B"
+object_placements-145,object_placements,C,C,"### ANSWER
+C"
+object_placements-146,object_placements,D,D,"### ANSWER
+D"
+object_placements-147,object_placements,A,A,"유진은 처음에 볼펜이 서랍에 있다는 것을 알고 있었지만, 이후 수현이 서랍에서 꺼내 가방에 넣는 상황을 유진이 함께 준비 상황을 점검하며 의식하고 있었으므로, 유진은 볼펜이 가방에 있음을 알 수 있다. 따라서 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-148,object_placements,D,D,"민아는 처음에 선물 상자가 탁자 위에 있다는 것을 알고 있었다. 성호가 옷장으로 옮기는 것도, 유진이 서랍으로 옮기는 것도 보지 못했으므로, 그녀가 가장 먼저 확인할 곳은 마지막으로 알고 있던 위치인 탁자다.
+
+### ANSWER
+D"
+object_placements-149,object_placements,D,D,"### ANSWER
+D"
+team_allocation-80,team_allocation,B,B,"수지는 작곡 경험과 음악적 감각이 뛰어나 작곡 팀에 적합하고, 영민은 소통과 프로모션 경험이 뛰어나 프로모션 팀에 적합합니다. 다희는 창의적 아이디어가 있으나 구현과 소통에 약하므로, 영민이 조율하는 프로모션 팀에 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-81,team_allocation,C,C,"수현은 작곡이 강점이고, 영민과 지호는 프로듀싱 경험이 풍부하며 서로 협업도 원활했으므로 C가 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation-82,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-83,team_allocation,C,C,"미혜는 데이터 분석과 시장 조사 경험이 강점이고, 동욱은 생산 관리 경험, 수진은 세밀한 반복 작업에 강점이 있으므로 시장 조사에는 미혜, 생산에는 동욱과 수진이 적합하다.
+
+### ANSWER
+C"
+team_allocation-84,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-85,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-86,team_allocation,B,B,"서진은 콘텐츠 제작 경험이 있으므로 콘텐츠 작성에 가장 적합하고, 민수는 웹 개발에 강점이 있으며 다영과의 협업도 안정적이므로 웹 개발에 배정하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation-87,team_allocation,A,A,"### ANSWER
+A"
+object_placements-236,object_placements,C,C,"### ANSWER
+C"
+object_placements-237,object_placements,C,C,"### ANSWER
+C"
+object_placements-238,object_placements,C,C,"### ANSWER
+C"
+object_placements-239,object_placements,B,B,"보람은 처음에 목걸이가 침실 옷장에 있다는 사실을 알고 있었다. 혜진이 목걸이를 화장대 서랍으로 옮길 때 보람은 눈 화장에 집중하고 있어 보지 못했고, 정우가 목걸이를 거실 탁자로 옮길 때도 체크리스트 점검에 몰두해 알아차리지 못했다. 따라서 보람이 가장 먼저 확인할 곳은 자신이 마지막으로 알고 있던 침실 옷장이다.
+
+### ANSWER
+B"
+object_placements-240,object_placements,A,A,"### ANSWER
+A"
+object_placements-241,object_placements,A,A,"정우는 마지막에 직접 목걸이를 거실 탁자로 옮겼으므로, 목걸이를 찾을 때 가장 먼저 거실 탁자를 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-242,object_placements,A,A,"혜진은 처음에 귀걸이가 거실 탁자에 있다는 사실을 알고 있었다. 보람이 귀걸이를 현관 선반으로 옮겼지만, 혜진은 그 움직임을 보지 못했으므로 여전히 거실 탁자를 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-243,object_placements,A,D,"### ANSWER
+D"
+murder_mysteries-24,murder_mysteries,B,B,B
+murder_mysteries-25,murder_mysteries,A,A,"수아는 농장에서 에어건을 다룬 경험이 있고, 도구 사용에 능숙하며, 경제적 어려움과 유흥비 지출 등 범행 동기가 될 만한 정황이 드러난다. 형우는 현정에게 무시당한 원한이 있지만 에어건 사용 능력이나 직접적인 범행 정황은 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 수아이다.
+
+### ANSWER
+A"
+murder_mysteries-26,murder_mysteries,A,B,"동욱은 피해자에 대한 집착, 거절당한 동기, 가방과 예비폰을 숨기는 수상한 행동, 친구들 대화 녹음 등 결정적 정황이 맞물린다. 세연은 동기와 도구 접근성이 있지만 직접적이고 수상한 행동은 드러나지 않는다.
+
+### ANSWER
+B"
+murder_mysteries-27,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-28,murder_mysteries,B,B,"민정은 늪에서 어린 시절을 보내 지형에 익숙하고, 목공을 취미로 하며 다양한 도구를 사용해 왔으며, 현장 근처 나무에 목공 도구 흔적이 발견되었다. 또한 최근 경제적 어려움으로 동기가 있고, 동현 가족과 가까워 접근도 쉬웠다. 민영도 목공과 늪 관련 단서가 있지만, 민정은 늪과 목공 도구에 대한 직접적 친숙함이 더 강조된다. 따라서 민정이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-29,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-30,murder_mysteries,B,B,"도은은 도환에 대한 집착적인 관심과 일방적 애정, 도환이 그녀를 회피했다는 점에서 강한 동기가 보인다. 또한 병원 의료용품 관리의 허술함을 알고 있었고 주사기 사용에 관심을 보였다. 시윤은 주사기 구매와 의료 훈련 경력이 있지만 도환과의 관계나 살해 동기가 뚜렷하지 않다. 따라서 살인자일 가능성이 가장 높은 사람은 도은이다.
+
+### ANSWER
+B"
+murder_mysteries-31,murder_mysteries,A,A,"시윤은 주사기 관련 서류와 약국 영수증을 갖고 있고, 병원 봉사·인턴 경험으로 주사기 사용에 익숙하며, 집이 늪에서 10분 거리에 있습니다. 또한 도환과의 과거 갈등도 동기가 됩니다. 도은은 집착과 소외감이 보이지만 주사기 사용 능력이나 직접적인 단서가 부족합니다.
+
+### ANSWER
+A"
+murder_mysteries-118,murder_mysteries,B,B,"원찬은 시라가 친구를 위협했다는 강한 동기가 있고, 낫을 직접 연구·제작하며 다루는 데 능숙하다는 점이 결정적이다. 재하는 섭섭함 정도의 감정만 보였을 뿐 구체적 범행 동기와 도구 연관성이 약하다.
+
+### ANSWER
+B"
+murder_mysteries-119,murder_mysteries,A,A,"태현은 사격 교관 출신에 대회 우승 경력이 있고, 사격장에서 총기를 관리할 수 있는 위치에 있습니다. 또한 최근 사업 실패와 빚, 급여 삭감 등 경제적 동기가 뚜렷하며, 시찬의 가족 변호사로부터 유산 관련 정보를 얻었다는 정황도 있습니다. 스쿠버다이빙 장소의 경치를 좋아하고 시찬과 운동 기구를 주고받는 등 접근 가능성도 있습니다. 유연은 일부 수상한 행동이 있지만 명확한 동기가 드러나지 않습니다.
+
+### ANSWER
+A"
+murder_mysteries-120,murder_mysteries,A,A,"지완은 아현과의 이혼 후 재산 문제와 법적 협박, 사업 실패로 인한 재정적 압박 등 강력한 살해 동기를 가졌고, 마을 축제 창 던지기 대회 우승 경력과 목수로서 도구를 변형하는 기술을 가져 범행 수단인 창을 다룰 능력이 있다. 채아는 아현의 비판으로 인한 동기가 있지만 직접적인 범행 수단이나 기술이 제시되지 않았다. 따라서 지완이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries-121,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-122,murder_mysteries,B,B,"현수는 군사 특수 임무 경력과 수류탄 사용에 필요한 지식, 리조트 내부 구조 파악, 주변 탐색 등 범행 수단과 준비 정황이 뚜렷하다. 또한 가족의 의료비 부담이라는 경제적 동기도 있다. 윤욱은 과거 범죄 기록 폭로 위협이라는 동기가 있지만, 수류탄 범행을 실행할 군사적 능력이나 준비 정황은 상대적으로 약하다.
+
+### ANSWER
+B"
+murder_mysteries-123,murder_mysteries,A,A,"윤욱은 군사 아카데미 졸업자로 군사 용어와 전략에 능통하고, 가족이 군수 물자를 다루는 일을 했으며 회의에도 참석했다고 한다. 수류탄을 이용한 살인에는 군사적 지식과 폭발물 접근 가능성이 중요한 단서인데, 윤욱은 이 조건을 모두 갖추고 있다. 또한 피해자 영규가 과거의 일로 윤욱을 협박했다는 진술이 나와 명확한 살해 동기도 존재한다. 반면 현수는 재정적 어려움과 대량 구매, 해충 관련 도서 등 의심스러운 정황이 있지만 수류탄 살인과 직접 연결될 군사적 배경이나 폭발물 접근 경로는 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 윤욱이다.
+
+### ANSWER
+A"
+murder_mysteries-124,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-125,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-212,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-213,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-214,murder_mysteries,A,A,"도영은 사격 클럽 정회원이자 전국 대회 1위 경력이 있고, 최근 새 권총을 구매한 기록이 있습니다. 피해자가 권총으로 살해된 점을 고려하면 총기 접근성과 사격 능력이 가장 중요한 단서입니다. 다희는 동기와 패러글라이딩 연관성은 있지만 총기 사용과의 직접적 연결은 약합니다.
+
+### ANSWER
+A"
+murder_mysteries-215,murder_mysteries,B,B,"다희는 해경에게 스캔들 노출 위협을 받았고, 회사가 직원 사생활에 엄격하여 직업적 위험까지 있어 강한 살해 동기가 있다. 또한 패러글라이딩 동호회 회원으로 범행 장소와 연관되고, 사격을 즐겨 총기 사용 가능성도 있다. 반면 도영은 사격 실력과 권총 구매 정황이 있지만 피해자와의 직접적 갈등이나 동기가 제시되지 않았다.
+
+### ANSWER
+B"
+murder_mysteries-216,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-217,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-218,murder_mysteries,B,A,"해경은 폭발물·화학 서적, 폭발물 제작 온라인 강의 수강, CCTV 설치 장소 반복 문의, 화학 전공 등 사제폭탄 범행과 직접 연결되는 정황이 다수 제시된다. 민지는 특허 분쟁 등 동기는 있으나 직접적 증거는 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 해경이다.
+
+### ANSWER
+A"
+murder_mysteries-219,murder_mysteries,A,B,"민지는 화학공학 전공, 화학 실험실 연구 보조, 군사 훈련 경험 등으로 폭발물 제조에 필요한 지식과 접근 가능성을 갖췄고, 불안한 행동과 은밀한 만남 등 혐의가 더 강하게 드러난다. 해경은 화학 관련 책을 구입했지만 정서적 지원과 보상 거절 등 협조적인 면이 더 두드러진다.
+
+### ANSWER
+B"
+object_placements-48,object_placements,D,D,"Taeyoung did not see Eunha move the USB to the locker, but he later observed Mirae place the USB on the desk and worked closely with her. So he would first check the desk.
+
+### ANSWER
+D"
+object_placements-49,object_placements,B,B,"### ANSWER
+B"
+object_placements-50,object_placements,B,B,"### ANSWER
+B"
+object_placements-51,object_placements,C,C,"### ANSWER
+C"
+object_placements-52,object_placements,D,D,"### ANSWER
+D"
+object_placements-53,object_placements,A,D,"### ANSWER
+D"
+object_placements-54,object_placements,D,D,"지우는 민재가 발표 자료를 선반에서 책상으로 옮기는 것을 직접 지켜보았으므로, 발표 자료를 찾을 때 가장 먼저 책상을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-55,object_placements,C,C,"### ANSWER
+C"
+team_allocation-182,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-183,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-184,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-185,team_allocation,C,C,"수민은 교육학 전공과 콘텐츠 개발 경험이 있어 콘텐츠 개발에 가장 적합하고, 평가 업무는 스트레스를 받으므로 피해야 한다. 따라서 콘텐츠 개발자는 수민이어야 하며, 남은 동우와 지현을 평가 담당으로 배치하는 C가 최적이다.
+
+### ANSWER
+C"
+team_allocation-186,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-187,team_allocation,B,B,"수미는 프론트엔드 개발 능력이 가장 뛰어나고 코딩을 선호하므로 프론트엔드에 적합하다. 민아는 QA 업무에서 검증된 능력과 꼼꼼함이 있으므로 QA에 적합하다. 경준은 QA를 지루해하고 반복 작업에 인내심이 부족하지만, 민아와 협업 경험이 있어 보조 QA로 배치하는 것이 낫다. A는 경준을 프론트엔드에 두는데 UI 호환성과 시각적 세부사항에 약점이 있어 부적합하고, C는 민아를 프론트엔드에 두는데 프론트엔드에서 오류를 놓친 경험이 있어 부적합하다. 따라서 B가 가장 효율적이다.
+
+### ANSWER
+B"
+team_allocation-188,team_allocation,C,C,"수진은 심리학적 통찰력과 사용자 인터뷰 경험이 뛰어나 사용자 연구에 가장 적합하고, 명호와 다영은 프로그래밍과 기술 문제 해결 능력이 강해 기술 개발에 적합하다. 다른 배치는 기술에 약한 수진을 개발팀에 두거나, 사용자 연구에 부적합한 명호를 연구팀에 두는 비효율이 발생한다.
+
+### ANSWER
+C"
+team_allocation-189,team_allocation,A,A,"서진은 UX/디자인 역량과 사용자 행동 분석 경험을 갖추었고, 가영과 민수는 백엔드 역량이 뛰어나며 협업도 원활하다. 민수는 UX 디자이너로는 약점이 있으므로 A가 가장 효율적이다.
+
+### ANSWER
+A"
+object_placements-244,object_placements,D,D,"### ANSWER
+D"
+object_placements-245,object_placements,D,D,"정훈은 처음에 편지가 탁자 위에 있다는 것만 알고 있었고, 이후 이동 장면을 보지 못했으므로 가장 먼저 탁자를 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-246,object_placements,C,,지민은 정훈이 펜을 책장에서
+object_placements-247,object_placements,A,A,"### ANSWER
+A"
+object_placements-248,object_placements,C,C,"### ANSWER
+C"
+object_placements-249,object_placements,B,B,"혜진은 편지를 서랍으로 옮겼고, 이후 지민이 가방으로 옮길 때 혜진은 다른 곳을 볼 틈이 없었으므로 서랍을 가장 먼저 확인할 것이다.
+
+### ANSWER
+B"
+murder_mysteries-32,murder_mysteries,A,B,"하윤은 CCTV에서 카메라 위치를 유난히 신경 쓰고 주위를 살피는 모습이 포착되었고, 다빈이 동생을 불법 활동에 연루시키겠다고 위협했다는 소문과 함께 가족을 보호하려는 강한 동기가 있었다. 반면 세원은 연구용 방망이와 과거 실험 부정행위가 언급되지만 살해 동기나 현장 관련 정황이 상대적으로 약하다. 따라서 하윤이 가장 유력한 용의자이다.
+
+### ANSWER
+B"
+murder_mysteries-33,murder_mysteries,B,A,"세원은 살인 도구인 무거운 방망이를 보유하고 있고, 이를 다룰 훈련을 받았으며, 감정 조절 실패를 인정한 점이 결정적 단서입니다. 하윤은 현장에 있었지만 방망이와의 직접적 연관성이 약합니다.
+
+### ANSWER
+A"
+murder_mysteries-34,murder_mysteries,B,B,"다희는 총기 관심과 공군 훈련, 피해자 일정 파악 등 정황이 있지만 살해 동기가 드러나지 않는다. 반면 윤욱은 이혼 후 재산 분할 갈등, 경제적 불안정, 직장 상실 등 명확한 동기가 있고, 최근 고급 총기 구매와 사격장 테스트, 피해자 집 방문 등 범행 수단과 기회 정황이 겹친다. 따라서 윤욱이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-35,murder_mysteries,A,A,"다현은 소총으로 살해되었는데, 다희는 사격장 훈련, 총기 동호회 활동, 공군 조종사로서의 무기 사용 훈련, 총기 매커니즘 서적 탐독 등 살인 수단인 소총을 다룰 수 있는 강력한 전문성을 갖추고 있다. 또한 다현의 일정을 관리하며 깊은 개인 정보에 접근할 수 있었고, 대화에서 주도권을 잡으려는 통제적 성향도 보인다. 반면 윤욱은 이혼 후 재정적 손실과 원한 같은 동기는 있으나 총기 사용 능력이나 범행 수단과 직접 연결된 정황은 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 다희다.
+
+### ANSWER
+A"
+murder_mysteries-36,murder_mysteries,A,A,"도하는 피해자가 자신의 과거 실수를 동료들에게 알렸다는 사실을 알고 있었고, 이로 인해 평판이 손상될 것을 두려워했습니다. 또한 공연에서 삼절곤을 다루는 등 범행 도구와 직접적인 연관이 있습니다. 재형은 무술 수련과 비밀스러운 성향이 언급되지만, 살해 동기가 뚜렷하지 않습니다.
+
+### ANSWER
+A"
+murder_mysteries-37,murder_mysteries,B,B,"시현은 삼절곤에 의해 살해되었고, 재형은 전통 무술에 능한 스님으로 삼절곤 사용이 가능합니다. 또한 시현이 재형의 일기를 발견해 그 비밀이 사회적 평판에 치명적일 수 있다는 점이 직접적인 살해 동기가 됩니다. 도하는 공연에서 삼절곤을 다루지만 시현과의 직접적 갈등이나 살해 동기는 제시되지 않았습니다.
+
+### ANSWER
+B"
+murder_mysteries-38,murder_mysteries,B,B,"진호는 조리용 토치를 일상적으로 사용하는 파티시에로서 살해 도구에 접근할 수 있었고, 도준의 비서를 통해 일정을 파악했으며 비밀번호 교체 작업에도 참여해 보안 시스템에 접근할 수 있었습니다. 또한 도준의 폭력적이고 압박적인 행동으로 인해 동기도 있었습니다. 솔비는 불안한 모습을 보이지만 직접적인 범행 도구나 기회에 대한 단서가 약합니다.
+
+### ANSWER
+B"
+murder_mysteries-39,murder_mysteries,A,A,"### ANSWER
+A"
+team_allocation-88,team_allocation,B,C,"나연은 트레이너 역량이 가장 뛰어나고, 재호는 마케팅 경험과 소통 능력이 있어 마케터에 적합하다. 수현은 마케팅에 약하지만 나연을 트레이너로 두는 것이 효율적이다.
+
+### ANSWER
+C"
+team_allocation-89,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-90,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-91,team_allocation,A,A,"세진은 고객 응대에 강점이 있고 시설 관리에는 취약하므로 고객 서비스 팀이 적합하다. 아름은 기계 문제 해결 경험과 주의력이 뛰어나 시설 관리 팀에 적합하다. 민수는 고객 대화에서 실수가 잦고 대인 소통에 문제가 있으므로 고객 접점보다는 시설 관리 팀에 배치하는 것이 낫다.
+
+### ANSWER
+A"
+team_allocation-92,team_allocation,A,A,"서진은 정책 분석과 연구 경험이 가장 풍부하므로 정책 연구 팀에 배정하는 것이 효율적입니다. 나영과 민수는 커뮤니케이션과 창의적 콘텐츠 제작에 강점이 있고 서로 협력이 잘 되므로 커뮤니케이션 팀에 배정하는 것이 적합합니다. 또한 서진과의 갈등도 피할 수 있습니다.
+
+### ANSWER
+A"
+team_allocation-93,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-94,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-95,team_allocation,A,A,"지안은 사용자 피드백 분석과 디자인 감각이 뛰어나므로 사용자 피드백 팀에 적합하다. 도영과 수민은 기술력이 뛰어나고 서로 협업이 잘 되므로 개발 팀에 배치하는 것이 효율적이다. 또한 지안과 수민, 지안과 도영의 갈등 가능성을 피할 수 있다.
+
+### ANSWER
+A"
+object_placements-150,object_placements,C,C,"성호는 선물 상자를 옷장으로 옮겼고, 이후 유진이 서랍으로 옮기는 모습을 보지 못했으므로, 성호가 가장 먼저 확인할 곳은 옷장이다.
+
+### ANSWER
+C"
+object_placements-151,object_placements,A,A,"Seongho did not see Mina move the card to the table, so he still believes it is in the bag.
+
+### ANSWER
+A"
+object_placements-152,object_placements,B,B,"### ANSWER
+B"
+object_placements-153,object_placements,A,A,"### ANSWER
+A"
+object_placements-154,object_placements,C,C,"세나는 처음에 마스크가 침대 옆 테이블에 있다고 알고 있었다. 현수가 마스크를 배낭으로 옮겼지만 세나는 이를 보지 못했고, 현수도 따로 알리지 않았다. 따라서 세나의 기억 속 마스크 위치는 여전히 침대 옆 테이블이므로 가장 먼저 그곳을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-155,object_placements,D,D,"세나는 봉사증을 직접 현관 선반으로 옮겼고, 이후 은지가 배낭에 넣는 것을 보지 못했으므로, 가장 먼저 현관 선반을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-156,object_placements,A,A,"### ANSWER
+A"
+object_placements-157,object_placements,A,A,"### ANSWER
+A"
+murder_mysteries-126,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-127,murder_mysteries,B,B,"예슬은 피해자의 시어머니로, 남편과 피해자의 은밀한 만남을 목격했고 남편의 휴대전화 은닉과 잦은 야근을 언급하며 질투와 불화의 동기가 있다. 또한 평소 고기 요리와 다양한 고기 구매, 주방 도구 사용으로 고기 손질용 도끼를 쉽게 사용할 수 있는 위치에 있다. 반면 예성은 일관되지 않은 진술로 의심을 사지만 뚜렷한 살해 동기가 드러나지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 예슬이다.
+
+### ANSWER
+B"
+murder_mysteries-128,murder_mysteries,B,B,"살인 도구가 ‘버들낫’이라는 전통 도구인데, 예린은 전통 도구에 관심이 많아 박람회에서 여러 전통 도구를 구매한 정황이 있다. 또한 지민이 예린에게 반복적으로 불안과 두려움을 조장하고 협박 편지를 보내는 등 괴롭혀 왔고, 예린은 감정적으로 힘들어했다. 이는 강한 살해 동기가 된다. 반면 윤태는 서바이벌 훈련을 받았지만 살인 도구와 직접 연결되는 단서가 없고, 지민의 민감한 정보 언급도 윤태와 명확히 연결되지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 예린이다.
+
+### ANSWER
+B"
+murder_mysteries-129,murder_mysteries,A,B,"예린은 지민에게 반복적인 협박과 불안을 겪어왔고, 사건 당일 함께 영화관에 있었으며, 범죄·미스터리에 대한 관심도 보였다. 윤태는 접근성과 장비 등 정황이 있지만 직접적 동기는 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 예린이다.
+
+### ANSWER
+B"
+murder_mysteries-130,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-131,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-132,murder_mysteries,B,B,"민성은 메카트로닉스 전문가로서 레이저 절단기 같은 기계 조작과 프로그래밍에 능숙하고, 안전 장비 관련 연수도 받았다. 또한 피해자 예소가 민성의 조언을 공개적으로 무시하고 조롱하며 권위를 훼손한 점은 강한 살해 동기가 된다. 반면 하성은 예소와 가까운 사이였지만 살해 도구와 관련된 전문성이나 직접적 동기가 약하다. 따라서 가장 유력한 용의자는 민성이다.
+
+### ANSWER
+B"
+murder_mysteries-133,murder_mysteries,A,A,"하성은 레이저 절단기 프로젝트에 참여해 작동 원리를 배웠다고 직접 밝혔고, 예소에 대한 강한 감정적 집착과 질투심이 motive로 보인다. 또한 카지노를 자주 방문해 현장 접근 가능성도 있다. 반면 민성은 기계 전문성이 있지만 예소와의 직접적 연관성이나 살해 동기가 부족하다.
+
+### ANSWER
+A"
+murder_mysteries-220,murder_mysteries,B,B,"찬영은 쌍절곤을 사용하는 무술을 익혔고, 피해자와의 과거 갈등과 드러머로서의 동기가 모두 부합한다. 반면 소혜는 직접적인 살해 수단이나 동기가 뚜렷하지 않다. 따라서 찬영이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-221,murder_mysteries,A,B,"찬영은 쌍절곤을 사용하는 무술 훈련을 받고 있고, 드럼 연주로 손과 팔의 근력이 뛰어나다는 점이 결정적이다. 또한 연주가 그의 실력을 공개적으로 비웃고 평가절하한 동기가 있다. 소혜는 원한이 있지만 쌍절곤 사용과 직접 연결될 만한 단서는 부족하다.
+
+### ANSWER
+B"
+murder_mysteries-222,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-223,murder_mysteries,A,A,"준우가 당국에 신고하겠다고 한 일이 소민과 관련되어 있고, 소민은 이를 ‘오해’라고 축소하며 변명한다. 또한 소민은 화학에 대한 깊은 열정과 와인 전문가들과의 교류를 통해 염산을 구할 수 있는 환경을 갖췄으며, 정확성과 세부 사항을 중시하는 성향도 범행 가능성을 높인다. 시우도 화학 물질에 대한 지식과 접근 경로가 있지만, 준우를 제거해야 할 직접적 동기는 드러나지 않는다. 따라서 소민이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+A"
+murder_mysteries-224,murder_mysteries,A,B,"봉준은 피해자에게 공개적으로 조롱당하고 무시당한 개인적 원한이 뚜렷하며, 뱀에 대한 전문 지식과 보호센터 근무 경험으로 독을 이용할 능력도 있다. 예원은 뱀에 관심이 있지만 주로 예술·학문적 차원이고 갈등도 전문적 의견 차이에 가깝다. 따라서 살인 가능성은 봉준이 더 높다.
+
+### ANSWER
+B"
+murder_mysteries-225,murder_mysteries,B,B,"봉준은 채린에게 반복적으로 조롱당한 직접적인 원한이 있고, 동물 생태학 전공과 뱀 독 처리 지식, 보호센터에서 뱀을 다룬 경험까지 있어 뱀독을 이용한 살인 수단을 가질 가능성이 높다. 예원은 독성 물질에 관심이 있으나 채린과의 직접적 갈등 동기가 약하다. 따라서 봉준이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-226,murder_mysteries,A,A,"보미는 도박 빚으로 재윤에게 돈을 갚아야 했다는 명확한 동기가 있고, 부메랑 실력과 피트니스 센터 일정 파악 등 범행 가능성이 높다. 주연은 부메랑 실력은 있지만 뚜렷한 동기가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries-227,murder_mysteries,B,B,"주연은 피트니스 센터에서 개인 트레이너로 활동하며 사건 현장에 접근할 수 있었고, 재윤이 그녀의 지도 방식과 실수를 공개적으로 비난한 데다 최근 메모까지 남긴 점이 직접적이고 강한 살해 동기가 된다. 보미는 빚이 있었지만 사건 현장과의 직접적 연관성은 약하다. 따라서 가장 유력한 용의자는 주연이다.
+
+### ANSWER
+B"
+murder_mysteries-40,murder_mysteries,A,A,"영규는 작업실에 석궁 제작에 필요한 나무, 줄, 나사 등의 재료를 갖추고 있었고, 동물원 자원봉사자로서 현장 접근도 쉬웠다. 또한 피해자에게 경제적 어려움을 털어놓을 정도로 알고 지내던 사이였다. 반면 윤성은 피해자에 대한 불만이 언급되지만 범행 도구와 연결될 만한 물리적 단서는 부족하다. 따라서 영규가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries-41,murder_mysteries,B,B,"윤성은 석궁과 양궁을 오랫동안 해온 지역 석궁 클럽 회원이며, 클럽 이벤트 장비 조달도 담당하고 있어 석궁 사용에 대한 접근성과 숙련도를 갖췄다. 또한 피해자 시결이 클럽에 대해 나쁜 말을 했다는 소문이 그의 평판에 영향을 줄 수 있었다는 점에서 살해 동기가 뚜렷하다. 반면 영규는 경제적 어려움을 호소했지만 석궁과 직접적인 연관성이 제시되지 않았다.
+
+### ANSWER
+B"
+murder_mysteries-42,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-43,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-44,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-45,murder_mysteries,B,B,"채아는 벙커 보안 시스템을 관리하며 출입이 제한된 벙커에 접근할 수 있었고, 벙커 내 동물 관리도 담당했다. 또한 생물학 석사 학위와 동물 행동 연구 경험으로 뱀독을 이용한 살해 수단을 실행할 능력이 있다. 동원이 그녀가 속한 종교 모임을 공개적으로 비판하고 조롱했다는 점에서 강한 동기도 있다. 반면 아연은 뱀과 독성에 대한 지식은 있지만 벙커 접근 권한이나 피해자와의 직접적 갈등이 뚜렷하지 않다.
+
+### ANSWER
+B"
+murder_mysteries-46,murder_mysteries,B,B,"소혜는 동찬이 참석한 불법 건축 프로젝트와 관련해 비밀리에 진행하려는 동기가 있고, 부모님의 공구 대여점을 통해 망치를 구할 수 있으며, 육상 선수 출신으로 체력도 갖췄다. 또한 갯벌 생태계 보존 프로젝트에 참여해 현장 접근이 가능했다. 병규는 망치를 사용하지만 동찬과의 직접적 연관성이나 현장 연관성이 약하다.
+
+### ANSWER
+B"
+murder_mysteries-47,murder_mysteries,A,A,"병규는 갯벌에서 망치를 사용하고 지형에 밝으며, 외국 단체와의 비밀 회담이 동찬의 국제적 스파이 활동 폭로와 연결될 가능성이 높다. 소혜는 직접적인 현장 연관성이 상대적으로 약하다.
+
+### ANSWER
+A"
+team_allocation-190,team_allocation,B,B,"미나와 지훈은 협업 경험이 긍정적이고, 미나의 UI 역량과 지훈의 기술적 문제 해결 능력이 UI 팀에서 조화를 이룹니다. 수현은 혼자 데이터 분석 팀에 배치하는 것이 다른 조합보다 충돌을 피하면서 업무를 분담할 수 있습니다.
+
+### ANSWER
+B"
+team_allocation-191,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-192,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-193,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-194,team_allocation,B,A,"The main constraint is avoiding known conflicts: Youngjun has clashed with both Sumin and Jaehee, so he must be placed alone. Only option A separates him from both while keeping Sumin and Jaehee together.
+
+### ANSWER
+A"
+team_allocation-195,team_allocation,A,A,"사라는 소통 능력이 뛰어나 자원봉사 관리에 적합하고, 동혁은 규정 준수와 세부 주의력이 강해 안전 관리에 적합합니다. 지민은 규칙을 자주 잊지만 안전 팀에서 동혁의 보조를 받는 편이 낫습니다. B는 동혁을 자원봉사에, 사라를 안전에 배치해 둘 다 부적합하고, C는 지민을 자원봉사에 두어 더 부적합합니다. 따라서 A가 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation-196,team_allocation,A,A,"기훈은 유통 경험과 물류 이해가 있고 민지와 협업이 원활하므로 유통 팀에 배치하는 것이 좋다. 민지는 유통 경험은 부족하지만 기훈과 보완 관계이므로 함께 유통을 맡는 것이 효율적이다. 서현은 농업 디테일 이해가 깊어 생산 관리에 적합하다.
+
+### ANSWER
+A"
+team_allocation-197,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-0,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-1,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-2,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-3,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-4,team_allocation,A,A,"세영은 프로그래밍 역량이 뛰어나 개발자에 적합하고, 다현은 사용자 피드백 분석과 협업에 강점이 있어 테스트 전문가로 적합합니다. 우진은 프로그래밍에 약하지만 다현과의 협업에서 좋은 결과를 냈으므로 테스트 팀에 함께 배치하는 것이 최적입니다.
+
+### ANSWER
+A"
+team_allocation-5,team_allocation,A,C,"Suhyeon is best in creative content, but pairing her with Dongwook would risk conflict. Jimin is clearly suited for platform work. Option C separates the known conflicting pairs, places Dongwook in content production where he excels, and puts Jimin with Suhyeon on platform development—Suhyeon’s tech adaptability supports the role.
+
+### ANSWER
+C"
+team_allocation-6,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-7,team_allocation,B,B,"개발 팀에는 기술 역량이 필수이므로 코딩 경험이 뛰어난 소민을 배치해야 한다. 고객 피드백 팀은 고객 이해와 소통 능력이 중요한데, 태연과 지혁이 각각 그 강점을 갖고 있다. 다른 선택지는 개발 팀의 기술 부재나 소민의 고객 소통 부적합 문제가 더 크므로 B가 최선이다.
+
+### ANSWER
+B"
+team_allocation-96,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-97,team_allocation,A,A,"민수는 백엔드 역량이 가장 뛰어나므로 백엔드에 배치해야 하고, 예린과 민수는 협업이 잘 되므로 함께 두는 것이 효율적이다. 서진은 UI 설계 경험이 있으므로 UX/UI를 맡는 것이 세 사람 중 가장 적합하다. 따라서 A가 최선이다.
+
+### ANSWER
+A"
+team_allocation-98,team_allocation,C,C,"이벤트 기획은 창의성이 핵심이므로 서진이 적합하고, 미디어 커버리지는 미디어 관계와 체계적 전략이 필요하므로 예은과 태호의 조합이 강점을 살린다.
+
+### ANSWER
+C"
+team_allocation-99,team_allocation,B,C,"Sang-min is best suited for storyboard due to creative and visual storytelling strengths; Do-young fits animation due to technical proficiency. Ji-hye can support animation despite limitations, making C the optimal assignment.
+
+### ANSWER
+C"
+team_allocation-100,team_allocation,B,C,"### ANSWER
+C"
+team_allocation-101,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-102,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-103,team_allocation,C,C,"강의 개발에는 창의력과 독립적 작업이, 학생 관리에는 체계적 관리와 소통 능력이 필요하다. 지현은 창의적 아이디어와 혼자 일하는 강점이 있어 강의 개발에 적합하고, 동욱은 침착한 소통 능력, 수민은 관리 능력이 있어 학생 관리에 적합하다. 따라서 C가 가장 효율적이다.
+
+### ANSWER
+C"
+object_placements-56,object_placements,C,C,"민재는 수첩이 책장에 있었음을 알고 있었고, 준호가 수첩을 가방으로 옮기는 모습을 보지 못했으므로 가장 먼저 책장을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-57,object_placements,B,,"민재는 카메라를 탁자로 옮겼고, 이후 지영이 그 카메"
+object_placements-58,object_placements,A,A,"### ANSWER
+A</think>### ANSWER
+A"
+object_placements-59,object_placements,B,B,"준호는 지영이 카메라를 탁자에서 서랍으로 옮기는 움직임을 주시하고 있었으므로, 카메라가 서랍에 있음을 알고 있다. 따라서 가장 먼저 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-60,object_placements,C,C,"### ANSWER
+C"
+object_placements-61,object_placements,B,B,"### ANSWER
+B"
+object_placements-62,object_placements,D,D,"### ANSWER
+D"
+object_placements-63,object_placements,C,C,"### ANSWER
+C"
+murder_mysteries-48,murder_mysteries,B,B,"세라는 살해 도구인 갈퀴를 정원 가꾸기에 자주 사용한다고 직접 언급했고, 예린이 자신의 프로젝트를 갑자기 맡게 되어 놀랐다는 진술로 범행 동기도 드러난다. 하영은 사건 현장 출입 가능성과 과거 수상한 이력이 있지만, 살해 도구와 직접 연결되는 단서는 제시되지 않았다. 따라서 가장 유력한 용의자는 세라이다.
+
+### ANSWER
+B"
+murder_mysteries-49,murder_mysteries,A,A,"하영은 서커스에서 갈퀴를 사용하는 공연자이며, 공연 후 레슬링 링을 정리하는 역할을 맡고 있어 범행 도구와 현장에 대한 접근성이 가장 높다. 또한 그녀는 과거 수상한 사건들에 연루된 정황이 언급된다. 세라는 동기와 불만이 있지만 살인 도구 및 현장과의 직접적 연관성은 하영보다 약하다.
+
+### ANSWER
+A"
+murder_mysteries-50,murder_mysteries,A,B,"민서는 피해자 재욱과 갈등 관계였고, 보안팀과 정기적으로 접촉해 소방도끼에 접근할 수 있었으며, 타인의 대화를 엿보고 소음을 통제하는 등 사건을 조종하려는 강한 의도를 보인다. 채아는 무기 훈련을 받았지만 직접적인 동기와 연결 고리가 약하다.
+
+### ANSWER
+B"
+murder_mysteries-51,murder_mysteries,B,B,"민서는 소방서 자원봉사와 재난 구조 훈련 경험으로 소방도끼를 다룰 능력이 있고, 피해자 재욱이 자신의 권위에 도전했다는 불만이 있었다. 또한 경기장을 총괄하며 모든 상황을 기록·분석하는 위치라 범행 기회와 사건 조작 가능성도 있다. 채아는 사적인 행동이 수상하지만 직접적인 동기와 도끼 사용 경험이 뚜렷하지 않다.
+
+### ANSWER
+B"
+murder_mysteries-52,murder_mysteries,A,A,"서율은 사격 경험과 경기장 단골이라는 점에서 의심되지만, 살해 동기가 뚜렷하지 않습니다. 반면 서연은 윤선과 정치 전략을 두고 갈등이 있었고, 사격 실력이 늘었다는 점과 시청 장비 기록 등이 범행 동기 및 정황과 더 직접적으로 연결됩니다. 따라서 살인자일 가능성이 가장 높은 사람은 서연입니다.
+
+### ANSWER
+A"
+murder_mysteries-53,murder_mysteries,B,B,"서율은 피해자 윤선에게 괴롭힘을 당했고, 개인적인 이야기가 유포되는 등 직접적인 동기가 있었으며, 사격 수업과 대회 출전 경험으로 살해 수단을 갖추고 있다. 서연은 사격 관련 활동이 있지만 뚜렷한 살해 동기가 드러나지 않는다.
+
+### ANSWER
+B"
+murder_mysteries-54,murder_mysteries,A,A,"하운은 목수로서 장도리를 평소 관리해 왔고, 피해자 가현에게 여러 차례 구타와 모욕을 당한 원한이 있으며, 경기장 옆 아파트에 살고 유효한 월간 패스로 현장 접근도 쉬웠다. 반면 서이는 현장 접근성과 공구 사용 능력은 있으나 구체적인 살해 동기가 드러나지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 하운이다.
+
+### ANSWER
+A"
+murder_mysteries-55,murder_mysteries,B,B,"서이는 레이저 태그 경기장에서 매일 장비를 점검·수리하며 현장 접근권과 도구 사용 능력을 갖췄고, 가현에게 무시당하고 인종차별적 언급을 들으며 강한 원한과 스트레스를 가진 정황이 뚜렷하다. 반면 하운은 장도리를 다루는 목수라는 점에서 범행 도구와 연관되지만, 살해 현장인 경기장과의 직접적 연관성이나 구체적 범행 동기는 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 서이다.
+
+### ANSWER
+B"
+murder_mysteries-228,murder_mysteries,A,B,"시아는 현민이 자신의 과거가 담긴 문서 상자를 발견하고 음성 메시지로 그 사실을 알게 되었다는 결정적 동기가 있다. 또한 그날 현민을 해수욕장으로 부른 것도 시아였으며, 범죄 소설과 강연에 관심을 가진 점 등이 정황 증거로 작용한다. 반면 성혁은 중세 무기 지식과 충동 조절 문제가 있지만 직접적인 살인 동기는 약하다.
+
+### ANSWER
+B"
+murder_mysteries-229,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-230,murder_mysteries,B,B,"윤성은 해양 연구 과정에서 무거운 암석 샘플을 깨부수는 작업을 한다고 했고, 해수욕장에서 야외 실험을 자주 해 범행 현장과 직접적으로 연결된다. 반면 병규의 치과용 전동 공구나 집 수리 도구는 쇠망치라는 범행 도구와 덜 일치한다. 따라서 윤성이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-231,murder_mysteries,A,A,"병규는 피해자 승준과 같은 해변 행사에 있었고, 승진 경쟁이라는 동기가 있으며, 공구 사용에 익숙하다. 윤성은 쇠망치를 가졌지만 피해자와의 연관성이나 동기가 부족하다.
+
+### ANSWER
+A"
+murder_mysteries-232,murder_mysteries,B,B,"현철은 독침이 달린 펜이라는 범행 도구와 직접적으로 연결될 수 있는 고급 필기구 수집 취미를 가지고 있고, 독극물 연구 커뮤니티에서 알려져 있으며 관련 교육과 논문도 있습니다. 또한 윤태가 학회에서 현철의 업적을 공개적으로 비웃고 폄하했다는 명확한 동기가 있습니다. 반면 재민은 화학 지식을 마술에 활용하지만 살해 동기가 뚜렷하지 않습니다. 따라서 살인자일 가능성이 가장 높은 사람은 현철입니다.
+
+### ANSWER
+B"
+murder_mysteries-233,murder_mysteries,A,B,"독침이 달린 펜이 범행 도구라는 점에서 독극물 전문 지식과 필기구 구매 이력이 있는 현철이 가장 유력하다. 현철은 독극물 연구, 관련 논문 발표, 특수 장비 사용 등 독극물에 대한 전문성을 갖췄고, 고급 문구류 매장에서 독특한 필기구를 자주 샀다는 진술이 펜 형태의 살인 도구와 연결된다. 반면 재민은 화학 전공과 공연 도구가 있지만 독극물 전문성이나 펜 구매 정황이 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 현철이다.
+
+### ANSWER
+B"
+murder_mysteries-234,murder_mysteries,B,B,"가희는 소방 도구와 화재 진압 장비를 다루는 훈련과 경험이 있어 살해 도구인 소방도끼를 사용할 능력이 있다. 또한 희영이 가희에게 책임을 물을 수 있는 서류를 입수하면서 둘의 관계가 악화되었고, 이는 강력한 동기가 된다. 반면 성영은 의심스러운 점이 있지만 소방도끼와 직접 연결되는 증거는 없다.
+
+### ANSWER
+B"
+murder_mysteries-235,murder_mysteries,A,A,"성영은 여름 캠프에서 소방 대원으로 활동하며 소방도끼를 포함한 소방 장비를 직접 다룬 경험이 있습니다. 희영은 소방도끼에 의해 살해되었으므로, 범행 도구에 대한 접근성과 사용 능력이 핵심 단서입니다. 가희는 금전적 갈등과 우편물 관련 의심이 있지만, 직접적인 범행 도구와의 연관성은 제시되지 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 성영입니다.
+
+### ANSWER
+A"
+object_placements-158,object_placements,A,A,"### ANSWER
+A"
+object_placements-159,object_placements,B,B,"### ANSWER
+B"
+object_placements-160,object_placements,B,B,"승원은 USB를 직접 서랍으로 옮겼기 때문에, USB의 위치를 정확히 알고 있다. 따라서 USB를 찾을 때 가장 먼저 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-161,object_placements,C,C,"승원은 재형이 사진을 선반에서 책상으로 옮기는 동안 자신의 생각에 몰두해 있어 그 변화를 알아차리지 못했다. 따라서 승원이 마지막으로 알고 있던 사진의 위치는 선반이다.
+
+### ANSWER
+C"
+object_placements-162,object_placements,D,D,"재형은 USB가 처음에 책상에 있었다는 사실만 알고 있었고, 지영이 가방으로, 승원이 서랍으로 옮긴 것을 모두 알아차리지 못했다. 따라서 USB를 찾을 때 가장 먼저 확인할 곳은 자신이 마지막으로 알고 있던 책상이다.
+
+### ANSWER
+D"
+object_placements-163,object_placements,D,D,"재형은 사진을 선반에서 꺼내 책상으로 옮겼기 때문에, 사진을 찾으러 가장 먼저 책상을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-164,object_placements,A,A,"지영은 USB를 가방에 넣은 뒤, 승원이 서랍으로 옮기는 것을 알아차리지 못했다. 따라서 그녀가 가장 먼저 확인할 곳은 자신이 마지막으로 둔 가방이다.
+
+### ANSWER
+A"
+object_placements-165,object_placements,C,C,"### ANSWER
+C"
+murder_mysteries-134,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-135,murder_mysteries,A,B,"시우는 사건 당일 창고에 있었다는 동료와 현장 감독의 증언으로 알리바이가 확보되었고, 네일 건 대여는 직업적 용도로 설명된다. 반면 승민은 클리닉이 옥상을 감시하기에 적합한 위치에 있고, 사건 현장 주변에 자주 출몰했으며, 상민의 승진과 가족의 신뢰(상속자)로 인해 경제적 어려움과 결부된 동기가 있다. 또한 비닐봉투·방수 시트를 할인 때 사두는 등 증거 인멸에 쓸 물품을 비축한 정황이 보인다. 따라서 승민이 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-136,murder_mysteries,A,A,"기주는 우빈의 새로운 인간관계에 대한 질투와 불만, 가족 균형을 중시하는 태도 등 명확한 살해 동기를 가지고 있습니다. 또한 모텔 보안 시스템의 취약점을 알고 있었고 장기 투숙 경험과 관리인과의 친분으로 현장 접근이 쉬웠습니다. 경찰 장비 교육을 받아 전기충격기 사용 가능성도 높습니다. 예린은 전기충격기를 다룰 수 있고 현장에 있었지만, 살해 동기가 뚜렷하지 않습니다.
+
+### ANSWER
+A"
+murder_mysteries-137,murder_mysteries,B,B,"예린은 우빈이 결혼을 서두르는 것을 부담스러워했고, 독립적이고 주체적인 삶을 원했다는 점에서 강한 동기가 있다. 또한 해양 보안 업무를 통해 보안 장비 사용법과 강력한 무력에 익숙하다는 점에서 전기충격기를 사용할 능력도 갖추고 있다. 같은 모임 후 모텔에 머물렀다는 점도 범행과 연결된다. 기주도 보안 시스템을 아는 등 의심스럽지만, 직접적인 범행 동기와 도구 사용 가능성은 예린 쪽이 더 구체적이다.
+
+### ANSWER
+B"
+murder_mysteries-138,murder_mysteries,A,B,"시환은 성당 접근성과 망치 사용 가능성 등 기회 요인이 있지만, 자신의 행적을 비교적 솔직히 설명하고 우성과의 직접적 갈등 동기는 드러나지 않습니다. 반면 주란은 우성과 잦은 의견 충돌이 있었다고 인정했고, 질문에 회피하거나 격양된 반응을 보이며 구체적인 이야기를 꺼립니다. 금속공예 작업실에서 망치를 쉽게 구할 수 있고 피해자와의 갈등 동기도 확인되므로 주란이 가장 유력합니다.
+
+### ANSWER
+B"
+murder_mysteries-139,murder_mysteries,B,A,"시환은 살해 도구인 망치와 직접적으로 연결됩니다. 그는 철공소에서 눈에 띄게 새로운 망치를 들고 있었고, 최근 철물점에서 새 장비를 구입했다고 말합니다. 또한 자신을 태훈이라고 소개하는 등 여러 이름을 사용해 신원을 속이고 있으며, 전 연인 관계에 대한 질문에 주저하고 주변을 살피는 등 수상한 행동을 보입니다. 주란은 금속공예 기술과 우성이 자신의 제안을 거부했다는 동기가 있지만, 시환만큼 직접적인 단서나 기만적 행동이 부각되지는 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 시환입니다.
+
+### ANSWER
+A"
+murder_mysteries-140,murder_mysteries,B,B,"화학약품 스프레이가 범행 도구라는 점에서 화학 지식과 실험 경험이 결정적 단서입니다. 하영은 화학 전공자이며 연구소에서 복잡한 실험을 수행하고, 보안 담당자와의 친분도 있습니다. 또한 유림의 휴대폰에 접근할 기회가 있었고 위치 공유 기능도 알고 있어 범행 준비가 용이했습니다. 유림이 다른 사람의 비밀을 무심코 이야기하는 성향이었다는 하영의 진술은 하영 자신에게도 위협이 될 수 있었음을 암시합니다. 반면 민서는 출판사 자금 문제와 은닉 행위 등 의심스러운 점이 있지만, 화학약품 살해와 직접 연결될 만한 전문성이나 정황은 제시되지 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 하영입니다.
+
+### ANSWER
+B"
+murder_mysteries-141,murder_mysteries,A,A,"민서는 화학 실험에 대한 관심과 장비·재료 접근 가능성이 있고, 유림이 출판사 자금 흐름의 이상을 감지했다는 점에서 살해 동기도 있다. 하영은 유림과 가깝고 휴대폰 접근이 가능했지만 화학약품 사용과 직접적 동기가 약하다.
+
+### ANSWER
+A"
+team_allocation-104,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-105,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-106,team_allocation,C,C,"Sujin is best suited for curriculum development due to her design experience, while Mina and Yeongho have the technical and customer-support strengths needed for technical support, and they collaborate well together.
+
+### ANSWER
+C"
+team_allocation-107,team_allocation,A,A,"수현은 작곡 역량이 가장 뛰어나고 홍보에는 약점이 있으므로 작곡 팀에 단독 배치하는 것이 적합하다. 대영과 지민은 소통 능력이 뛰어나고 이전 협력 경험도 성공적이었으므로 프로모션 팀에 함께 배치하는 것이 효율적이다.
+
+### ANSWER
+A"
+team_allocation-108,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-109,team_allocation,A,A,"수현은 뛰어난 개발 능력과 문제 해결 능력으로 기술 개발자에 적합하고, 지오는 친절한 고객 응대와 설명 능력으로 고객 지원에 적합하다. 다윤은 기술력과 소통 모두 부족하지만 열정이 있으므로 고객 지원 보조로 배치하는 A가 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-110,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-111,team_allocation,A,A,"연구개발은 기술적 문제 해결이 핵심이므로 기술적 능력이 뛰어난 은지를 배치하는 것이 적합하다. 마케팅은 창의성과 소통이 중요하므로 창의적 아이디어와 전달 능력이 있는 세영, 협력과 소통에 강한 태훈을 배치하는 것이 효율적이다. 또한 은지와 세영의 갈등, 태훈과 은지의 피드백 문제를 고려하면 은지를 분리하는 것이 바람직하다.
+
+### ANSWER
+A"
+team_allocation-198,team_allocation,A,B,"### ANSWER
+B"
+team_allocation-199,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-200,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-201,team_allocation,C,C,"수현은 디자인에 강점, 민재는 품질 관리에 강점, 다영은 둘 다 우수하다. 디자인에는 수현, 품질 관리에는 다영과 민재를 배정하는 것이 두 업무를 모두 효율적으로 수행할 수 있는 최선이다.
+
+### ANSWER
+C"
+team_allocation-202,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-203,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-204,team_allocation,A,A,"예린은 백엔드 경험이 확고하므로 백엔드에 배치하는 것이 효율적이다. 따라서 예린을 UI/UX에 두는 B는 적절하지 않다. 수현은 서버 스크립팅·디버깅에 약점이 있어 백엔드보다 UI/UX에 더 적합하고, 지훈은 UI에 관심이 있지만 기술 구조를 우선시하는 성향이라 백엔드 경험과 예린과의 성공적인 협업 이력을 활용하는 편이 낫다. A는 예린과 지훈을 백엔드로 묶어 협업 효율을 높이고, 수현을 UI/UX에单独 배치하여 갈등 가능성을 줄인다.
+
+### ANSWER
+A"
+team_allocation-205,team_allocation,A,A,"수진은 디자인 역량이 뛰어나므로 디자인 팀에, 은지는 판매 전략 성과가 좋으므로 판매 전략 팀에 배치하는 것이 적절하다. 도형은 두 분야 모두 약하지만 판매 전략 팀에서 은지와 함께하는 편이 낫다.
+
+### ANSWER
+A"
+team_allocation-8,team_allocation,C,A,"### ANSWER
+A"
+team_allocation-9,team_allocation,B,B,"소연은 창의적 기획과 문제 해결에 강점이 있고, 민재는 고객 소통에 강점이 있다. 따라서 상품 기획 팀에는 소연을, 고객 서비스 팀에는 민재를 배치하는 것이 적합하다. 다현은 규칙 중심의 안정적 업무 수행에 강점이 있으므로 고객 서비스 팀에서 민재와 함께 보조 역할을 맡는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation-10,team_allocation,A,C,"강민은 여행 상품 기획 콘테스트 수상 경력과 플래닝에 대한 깊은 관심으로 기획 팀에 가장 적합합니다. 수진은 창의성과 고객 응대 능력을 모두 갖췄고, 혜진은 대화를 통한 고객 이해와 정보 전달에 강점이 있으므로 두 사람을 고객 상담 팀에 배정하는 것이 효율적입니다.
+
+### ANSWER
+C"
+team_allocation-11,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-12,team_allocation,B,B,"도윤은 컴퓨터 공학 지식과 효율성을 기술 개발 팀에, 세연은 고객 서비스 경험과 세심함을 환자 관리 팀에, 하진은 도윤과의 협업 경험과 기술 적응력을 기술 개발 팀에 배치하는 것이 두 업무를 모두 효율적으로 수행할 수 있는 최선의 조합입니다.
+
+### ANSWER
+B"
+team_allocation-13,team_allocation,A,A,"도훈은 꼼꼼함으로 등록 관리의 정확성을 보완할 수 있고, 민지와는 협업 경험이 좋다. 세영은 창의적 기획력이 강점이므로 프로그램 기획에 적합하다. B는 등록 팀에 세부 업무에 약한 두 사람을 배치하고 갈등 관계도 있어 비효율적이며, C는 도훈과 세영의 갈등을 등록 팀에 옮긴다. 따라서 A가 가장 균형적이다.
+
+### ANSWER
+A"
+team_allocation-14,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-15,team_allocation,A,A,"경기 운영은 긴박한 상황 대처가 중요하므로 냉정함과 위기 대처 능력이 있는 은지나 태영이 적합합니다. 수현은 긴박한 상황에서 혼란스러워하므로 경기 운영에는 부적합합니다. 자원봉사 관리에는 협조적 리더십과 원활한 소통이 중요한데, 태영과 수현은 협업 경험이 많고 서로 존중하는 관계입니다. 반면 은지는 태영·수현과 과거 갈등 이력이 있고 감정적으로 반응할 수 있어 자원봉사 관리 팀에 두는 것은 비효율적입니다. 따라서 은지를 경기 운영에, 태영과 수현을 자원봉사 관리에 배치하는 A가 가장 적절합니다.
+
+### ANSWER
+A"
+murder_mysteries-56,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-57,murder_mysteries,A,A,"도언은 경비원으로서 경봉 사용 훈련을 받았고, 지우가 집단의 교리를 어기고 공개적으로 반대했다는 점에서 명확한 동기가 있다. 또한 도언의 집은 롤러스케이트장에서 도보 10분 거리로 접근성도 좋다. 준서도 호신용 경봉을 구입했지만 살해 동기가 뚜렷하지 않다. 따라서 도언이 가장 유력한 용의자이다.
+
+### ANSWER
+A"
+murder_mysteries-58,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-59,murder_mysteries,B,B,"서준은 명석이 자신의 불법적인 건설 프로젝트 관련 증거를 정리하고 폭로하려 한다는 사실을 알고 있었고, 두려움과 긴장을 보였다. 반면 병준은 폭발물 전문성과 현장 인근 수업이라는 정황이 있지만 살해 동기가 뚜렷하지 않다. 건설용 뇌관 사용도 서준의 건설 프로젝트와 연결된다.
+
+### ANSWER
+B"
+murder_mysteries-60,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-61,murder_mysteries,A,A,"예나는 미영의 게시물로 인해 직업적 평판에 큰 타격을 입었다는 직접적인 동기가 있고, 미영의 SNS를 매일 확인하며 알림까지 설정해 두는 등 집착에 가까운 관심을 보였다. 또한 경기장 내 모든 장비와 도구 배치를 책임지는 운영 책임자로서 노루발못뽑이를 포함한 도구에 접근할 수 있었고, 목공예 취미를 통해 그러한 도구 사용에도 익숙하다. 반면 루나는 청소부로서 현장에 있었고 화학 물질 냄새와 도박 빚 등 의심스러운 점이 있지만, 직접적인 살해 동기나 범행 도구 사용 능력은 예나보다 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 예나이다.
+
+### ANSWER
+A"
+murder_mysteries-62,murder_mysteries,B,B,"우빈은 라희가 자신의 비밀을 폭로하겠다고 위협했고, 실제로 뉴스에 제보한 적이 있다는 명확한 동기가 있다. 또한 쌍절곤 기술을 연구·실습해 왔고, 무기 수집과 전문 서적 구매 등 범행 도구와 관련된 강한 관심을 보였다. 사건 현장인 번지 점프 클럽 주말 행사에 참석할 예정이었다는 점도 범행 기회와 맞물린다. 반면 세라는 라희와 가까운 친구였을 뿐 살해 동기가 두드러지지 않는다.
+
+### ANSWER
+B"
+murder_mysteries-63,murder_mysteries,A,A,"The murder weapon is nunchucks, and Sera is the one with demonstrated nunchucks skill and martial arts training. She also performs at the bungee jump location, giving her opportunity. The detective notes that Rahee frequently met Sera’s agent, suggesting a possible motive. Woobin has a motive but no indicated weapon skill.
+
+### ANSWER
+A"
+object_placements-64,object_placements,A,A,"### ANSWER
+A"
+object_placements-65,object_placements,B,B,"### ANSWER
+B"
+object_placements-66,object_placements,A,A,"### ANSWER
+A"
+object_placements-67,object_placements,B,B,"### ANSWER
+B"
+object_placements-68,object_placements,A,A,"민규는 직접 졸업증서를 가방 안으로 옮겼으므로, 그것을 찾으려면 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-69,object_placements,A,A,"### ANSWER
+A"
+object_placements-70,object_placements,B,B,"보람은 졸업증서를 서랍으로 옮긴 뒤, 민규가 가방으로 옮기는 모습을 보지 못했으므로 마지막으로 알고 있는 위치인 서랍을 먼저 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-71,object_placements,A,A,"### ANSWER
+A"
+murder_mysteries-142,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-143,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-144,murder_mysteries,B,B,"수민은 유빈이 프로젝트 제안을 기각한 데 대한 불만이 있었고, 과거에 동료를 배신하고 소문을 퍼뜨린 전력이 있으며, 요리 기술과 도구를 갖춘 점이 중식도 흉기와 연결된다. 하늘은 유빈에게 감명받고 존경하는 태도를 보여 동기가 약하다.
+
+### ANSWER
+B"
+murder_mysteries-145,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-146,murder_mysteries,A,A,"성렬은 장도(검) 수집가로서 살해 도구와 직접적으로 연결되고, 유혜의 연인으로서 그녀의 휴대전화 암호까지 알고 있었으며, 유혜가 그가 어두운 골목에서 누군가를 만나는 수상한 장면을 목격했다고 진술합니다. 또한 자백 녹음과 봉투 거래 등 숨기려는 정황이 많아 살인자일 가능성이 가장 높습니다. 동현은 SNS 일정을 아는 정도로 용의 가능성이 상대적으로 낮습니다.
+
+### ANSWER
+A"
+murder_mysteries-147,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-148,murder_mysteries,A,A,"현빈은 전기충격기 판매점에서 목격되었고, 어릴 적부터 전자 기기를 분해하며 놀 정도로 전자 기기에 해박합니다. 또한 전기충격기가 필요하다고 언급했으며, 전자 부품 가게 영수증도 발견됩니다. 피해자와 가까운 거리에 살았고, 농담으로 상처를 준 일도 있어 정서적 공감 능력이 부족한 점이 드러납니다. 반면 보현은 연구와 도박, 소음 녹음 등 의심스러운 정황이 있지만 직접적으로 살인 도구와 연결되지는 않습니다. 따라서 전기충격기 살해 사건의 용의자로는 현빈이 가장 유력합니다.
+
+### ANSWER
+A"
+murder_mysteries-149,murder_mysteries,B,B,"살해 수단이 전기충격기라는 점에서 전기 장비에 대한 전문성과 접근성이 핵심이다. 보현은 연구소에서 전기충격기를 포함한 전기 실험을 주도적으로 해 왔고 관련 규정에 밝다. 또한 그녀가 도박으로 돈을 많이 잃었다는 진술은 재정적 동기가 될 수 있다. 반면 현빈은 피해자와 친분이 있고 감정 이해에 어려움이 있다는 정황이 있지만, 전기충격기 사용 능력이나 범행 수단과의 직접적 연관성은 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 보현이다.
+
+### ANSWER
+B"
+object_placements-166,object_placements,B,B,"All three knew the card was at the information desk. Although 수현 later moved it to the lounge, 도현 was distracted and focused on other tasks, so he would not know it had been moved. Therefore, he would first check the information desk.
+
+### ANSWER
+B"
+object_placements-167,object_placements,C,C,"### ANSWER
+C"
+object_placements-168,object_placements,D,B,"### ANSWER
+B"
+object_placements-169,object_placements,C,C,"수현은 처음에 쿠폰이 지갑에 있다는 사실을 알고 있었다. 이후 지민이 쿠폰을 계산대로 가져갔을 때 수현은 다른 쪽을 보고 있었고, 도현이 쿠폰을 다시 지갑으로 옮겼을 때도 수현은 메모와 문서 확인에 집중하고 있었다. 따라서 수현이 가장 먼저 확인할 곳은 지갑이다.
+
+### ANSWER
+C"
+object_placements-170,object_placements,D,D,"### ANSWER
+D"
+object_placements-171,object_placements,A,C,"### ANSWER
+C"
+object_placements-172,object_placements,C,C,"민지는 처음에 여권이 책장 위에 있다는 정보만 알고 있었다. 상준이 여권을 책상 서랍으로 옮기는 장면이나, 주현이 그 여권을 가방으로 옮기는 장면을 보지 못했기 때문에, 여권을 찾을 때 가장 먼저 확인할 곳은 원래 알고 있던 책장 위다.
+
+### ANSWER
+C"
+object_placements-173,object_placements,B,B,"상준은 여권을 책상 서랍에 넣었고, 이후 주현이 그걸 가방으로 옮기는 것을 보지 못했으므로 가장 먼저 책상 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+murder_mysteries-236,murder_mysteries,A,A,"피해자는 도끼로 살해당했습니다. 용의자 중 주현은 과거 벌목 일을 했고, 주말에도 나무를 자르는 취미를 가진 것으로 보아 도끼 사용에 익숙합니다. 또한 직장에서 상사 문제로 꾸지람을 듣고 승진 기회를 잃는 등 불만과 동기가 있었습니다. 반면 강우는 금고와 관련해 의심스러운 점이 있지만, 살해 도구인 도끼와 직접적으로 연결될 만한 단서는 약합니다. 따라서 살인자일 가능성이 가장 높은 사람은 주현입니다.
+
+### ANSWER
+A"
+murder_mysteries-237,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-238,murder_mysteries,A,A,"연주는 해진에게 인종차별적 발언을 들어 분노와 원한을 품었고, 평소 에어건 사용에 능숙하며 전망대 같은 높은 지대에서 경기장 전체를 조망할 수 있는 위치에 있었다. 이는 범행 동기와 기회를 모두 갖춘 것이다. 반면 다영은 해진과 접촉하지 않았다고 하며 특별한 갈등이나 직접적 동기가 드러나지 않는다. 따라서 연주가 살인자일 가능성이 가장 높다.
+
+### ANSWER
+A"
+murder_mysteries-239,murder_mysteries,B,B,"다영은 에어건을 소지하고 사격 대회 입상 경력이 있으며, 해진이 가족의 명예를 비하한 발언으로 강한 동기를 가졌다. 반면 연주는 인종차별적 발언에 대한 감정적 동기는 있으나 에어건 사용 능력이나 직접적인 살해 도구와의 연관성은 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 다영이다.
+
+### ANSWER
+B"
+murder_mysteries-240,murder_mysteries,A,A,"준우는 독침이 달린 펜이라는 범행 도구와 직접적으로 연결되며, 호준이 그의 경력에 치명적인 비밀을 폭로하려 했다는 명확한 동기가 있다. 윤아는 원한이 있었지만 도구와의 연관성은 상대적으로 약하다.
+
+### ANSWER
+A"
+murder_mysteries-241,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-242,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-243,murder_mysteries,A,A,"지환은 화학 전공, 독성 물질에 대한 관심, 뱀 독성 동물 관리 훈련 이력이 있고, 도박 빚으로 금전적 어려움을 겪고 있으며 유연근무로 자유 시간도 확보할 수 있었다. 반면 현식은 번호 변경과 금고 절도 등 의심스러운 정황이 있지만 뱀독 살인과 직접 연결될 만한 수단과 동기는 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 지환이다.
+
+### ANSWER
+A"
+murder_mysteries-64,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-65,murder_mysteries,B,B,"아영은 겨울 산행 경험으로 스카프를 다양한 매듭법으로 활용하는 데 능숙했고, 여행 일정과 번지 점프 예약을 단독으로 주도했습니다. 피해자가 자신의 과거를 알고 있어 불편한 대화를 했다는 진술은 살해 동기가 될 수 있습니다. 유찬은 현장 근처 목격과 피해자에 대한 불만이 있었지만, 스카프 교살과 직접 연결되는 결정적 단서는 부족합니다. 따라서 살인자일 가능성이 가장 높은 사람은 아영입니다.
+
+### ANSWER
+B"
+murder_mysteries-66,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-67,murder_mysteries,A,B,"진혁은 피해자 범준에게 반복적으로 작품을 비판받고 부정적 댓글을 받아 불만이 컸으며, 평소 주방칼에 관심이 많아 칼 컬렉션을 소장하고 있었다. 형사가 진혁을 찾아가기 전에 그가 주방칼에 흥미를 보인다는 정보를 떠올린 점과, 살해 도구가 주방칼이라는 점이 강한 연결고리를 만든다. 영호는 주방 출입 가능성과 종교 비웃음 같은 동기가 있지만, 진혁에 비해 직접적이고 결정적인 단서가 부족하다.
+
+### ANSWER
+B"
+murder_mysteries-68,murder_mysteries,B,B,"라희는 사건 현장인 비행기 안에 있었고, 기내 승무원을 도우며 주방 시설에 접근할 수 있었습니다. 또한 우성과 오래된 불화가 있었고, 그의 평가가 자신의 경력에 영향을 미쳤다고 진술했습니다. 반면 성준은 숙련된 요리사이지만 비행기 안에 있었다는 직접적인 정황이 제시되지 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 라희입니다.
+
+### ANSWER
+B"
+murder_mysteries-69,murder_mysteries,A,A,"살해 수단이 ‘끓는 기름 냄비’라는 점에서, 고온 기름 요리 훈련과 기름 관리 능숙, 요리 대회 우승 경력이 있는 성준이 직접적인 범행 능력과 연결된다. 라희는 범죄 소설·법의학 자료 참조와 사람 관찰 등으로 의심을 살 수 있지만, 이는 시 낭송 행사 준비와 창작 활동으로 충분히 설명되며 형사도 그녀의 진술로 행동 이유가 해명되었다고 판단했다. 따라서 성준이 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries-70,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-71,murder_mysteries,A,B,"현장 창문 근처 나무 뒤에서 발견된 러닝화 자국은 새 러닝화를 신고 그날 밤 산책했다고 말한 상호와 일치하며, 그가 그곳에 숨어 있었음을 강하게 시사한다. 소연의 군사 훈련 경험은 수류탄 사용 가능성을 높이지만, 직접적인 현장 증거는 상호 쪽에 더 집중되어 있다.
+
+### ANSWER
+B"
+murder_mysteries-244,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-245,murder_mysteries,A,A,"희영은 도끼로 살해당했는데, 재원은 도축업에 종사하며 도구를 철저히 관리한다고 했고, 이는 범행 도구인 도끼를 쉽게 구하고 사용할 수 있음을 시사한다. 또한 재원은 어릴 때부터 스케이트보드를 타며 파크에 익숙했고, 희영의 규칙적인 소셜 미디어 게시물 덕분에 그녀의 위치와 일정을 항상 알 수 있었다고 말해 범행 기회가 충분했다. 사업이 힘들어 채권자 독촉을 받는 등 금전적 동기도 있었고, 희영과 협업했다는 점에서 갈등 가능성도 있다. 반면 재형은 지하실과 화학 실험 등 수상한 점이 있지만 파크에서 목격된 증언이 없고 도끼와 직접 연결될 단서도 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 재원이다.
+
+### ANSWER
+A"
+murder_mysteries-246,murder_mysteries,B,A,"진호는 희영과 단둘이 산장에 갔고, 차량 진입이 제한된 외딴 곳에서 범행이 일어났습니다. 또한 보안 업체 경력과 경봉 장비 취급 경험이 있어 범행 도구를 쉽게 구하거나 다룰 수 있었습니다. 여러 단계의 보안 잠금, 새로운 번호 사용, 특정 인물에게만 연락하는 등 은밀한 행동도 의심을 강화합니다. 유진은 경찰 경력과 자기방어 훈련이 있지만 직접적인 범행 동기나 현장 연관성은 진호보다 약합니다.
+
+### ANSWER
+A"
+murder_mysteries-247,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-248,murder_mysteries,B,A,"현서는 전직 레슬링 선수로 체육관과 레슬링 링에 자유롭게 접근할 수 있고, 보안 시스템 유지관리와 보안 회의에도 참여해 범행 후 흔적을 지우거나 경계를 피할 수 있는 위치에 있다. 반면 해경은 목공 도구와 전통 의례에 관심이 있지만 사건 현장인 체육관과의 직접적 연관성은 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 현서다.
+
+### ANSWER
+A"
+murder_mysteries-249,murder_mysteries,A,A,"현서는 희준이 자신의 과거 불명예를 알고 압박하며 조종하려 했다고 진술해 명확한 살해 동기가 드러난다. 또한 체육관에 자주 드나들고 도구를 두고 갈 수 있는 등 범행 접근 가능성도 있다. 해경은 수상한 행동이 있으나 직접적인 동기나 증거가 약하다.
+
+### ANSWER
+A"
+team_allocation-112,team_allocation,C,C,"민재는 UX/UI 능력이 가장 뛰어나므로 디자이너로 배치해야 하고, 의학 책임은 위험합니다. 서현은 디자인 팀에서 갈등을 일으켜 디자인 역할에서 제외되었으므로 UX/UI가 되어서는 안 됩니다. 또한 민재와 서현은 항상 마찰을 빚으므로 같은 팀에 두는 것은 피해야 합니다. 지우는 민재의 디자인을 보완한 경험이 있어 UX/UI 팀에 적합합니다. 따라서 남은 서현을 의학 전문가로 배정하는 것이 가장 효율적입니다.
+
+### ANSWER
+C"
+team_allocation-113,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-114,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-115,team_allocation,A,A,"서현은 백엔드 이해와 창의성이 강점이지만 세부 디테일과 협업 충돌이 있어 단독 배치가 낫고, 태우와 지수는 사용자 경험에서 강점을 보이며 서로 협력 관계가 좋아 함께 배치하는 것이 효율적입니다. B는 지수를 기능 설계에 두는데 지수는 요구사항 분석에 약하고, 서현·태우는 충돌 이력이 있습니다. C는 태우를 기능 설계에 두는데 태우는 기술 디테일에 약하고, 서현·지수는 충돌 이력이 있습니다. 따라서 A가 가장 균형적입니다.
+
+### ANSWER
+A"
+team_allocation-116,team_allocation,C,B,"하연은 대규모 행사 운영과 리더십에 강점이 있어 행사 운영 팀에 적합하고, 동민은 안전 관리 전문가이므로 안전 관리 팀에 배치하는 것이 효율적입니다. 또한 동민과 하연의 갈등이 가장 심하므로 둘을 분리하는 것이 필요합니다. 지수는 안전 경험은 부족하지만 동민을 보조하며 안전 팀에 포함되는 것이 가장 균형적입니다.
+
+### ANSWER
+B"
+team_allocation-117,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-118,team_allocation,A,A,"서준은 각본 작성 능력이 뛰어나고, 민지와 태현은 서로 협업이 잘 되므로 갈등을 피하면서 각자의 강점을 살릴 수 있는 A가 가장 적합하다.
+
+### ANSWER
+A"
+team_allocation-119,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-206,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-207,team_allocation,B,B,"수진은 시각 디자인 역량이 뛰어나 게임 디자이너에 적합하고, 민지는 마케팅 성과와 소통 능력이 뛰어나 마케팅 전문가에 적합합니다. 태현은 마케팅에서 어려움을 겪었지만 민지와 협업할 때 성과를 냈으므로 민지와 함께 마케팅 팀에 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-208,team_allocation,A,C,"### ANSWER
+C"
+team_allocation-209,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-210,team_allocation,C,C,"수현은 편집에 강하고 마케팅에 약하며, 민지는 마케팅에 강하고 편집에 약하다. 지호는 두 분야 모두 능숙하고 민지와 협업이 좋으므로, 편집 팀에 수현, 마케팅 팀에 민지와 지호를 배치하는 것이 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation-211,team_allocation,C,A,"### ANSWER
+A"
+team_allocation-212,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-213,team_allocation,C,C,"### ANSWER
+C"
+murder_mysteries-150,murder_mysteries,B,B,"준혁은 화학 공장 경력으로 염산을 다룰 수 있고, 지하 벙커에 장비 설치를 위해 접근했으며, 은영과 관련된 앱도 설치한 점 등이 살인과 직접 연결됩니다. 서이는 사서함과 CCTV 관련 의심이 있지만 살인 수단 및 현장과의 연결이 상대적으로 약합니다.
+
+### ANSWER
+B"
+murder_mysteries-151,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-152,murder_mysteries,A,A,"라희는 은진에게 직장에서 지속적인 비판과 스트레스를 받아왔고, 대장간 취미와 약재사로서 정밀한 도구 사용 능력이 있어 마체테를 다룰 수 있는 조건을 갖췄다. 또한 공원과 가까운 거주지와 자주 공원을 찾은 점 등 범행 동기와 수단, 기회가 모두 부합한다. 수진은 은진의 일정을 추적한 정황이 있으나 명확한 동기나 범행 수단이 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries-153,murder_mysteries,B,B,"수진은 은진에 대한 집착적 온라인 추적, 악성 메시지, 위치 정보 파악 등 명확한 동기가 있고, 공연 준비 과정에서 마체테 소품을 반복 사용하며 실제처럼 보이는 무기를 선호했다. 또한 공원에서 운동하며 은진의 공원 근처 거주 사실과 연관될 가능성이 있다. 반면 라희는 대학 동창으로 공원 근처에 살고 약재사 일을 하지만, 살해 도구인 마체테와 직접 연결될 만한 정황이나 강한 동기가 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 수진이다.
+
+### ANSWER
+B"
+murder_mysteries-154,murder_mysteries,A,B,"명석은 희귀한 쌍절곤 수집에 관심이 있고, 가족 도장과 의영 부모 사이의 갈등이 동기가 될 수 있으며, 늦은 밤 은밀한 행동과 개인 공간을 철저히 관리하는 정황이 살인자일 가능성을 높인다. 제이는 협조적이고 직접적인 범행 정황이 약하다.
+
+### ANSWER
+B"
+murder_mysteries-155,murder_mysteries,B,A,"제이는 의영의 스케줄을 지속적으로 탐문했고, 집에서 쌍절곤을 연습해 왔다는 직접적인 정황이 드러난다. 명석은 무기 수집과 사업 갈등이 언급되지만, 제이에 비해 구체적인 범행 준비 정황이 약하다.
+
+### ANSWER
+A"
+murder_mysteries-156,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-157,murder_mysteries,A,B,"자영은 처음부터 유력한 용의자로 언급되고, 절단기 사용 경험, 야근 중 혼자 있는 점, 우편물 수령 시간과 관련된 알리바이 가능성, 비닐봉지를 꽉 쥐는 등 불안한 행동, 주변을 경계하는 태도 등 구체적인 의심 단서가 많다. 유혜는 절단기 시연 경험과 피해자와의 업무 관계가 있지만, 범행을 암시하는 직접적인 정황은 상대적으로 약하다. 따라서 자영이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+B"
+object_placements-72,object_placements,D,D,"지영은 졸업증서가 책상 위에 있다는 것만 알고 있었고, 이후 이동하는 장면을 보지 못했으므로 책상을 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-73,object_placements,A,A,"### ANSWER
+A"
+object_placements-74,object_placements,A,A,"상민은 처음에 발표 자료가 가방에 있다는 것을 알고 있었다. 수정이 자료를 연단 옆 테이블로 옮겼지만, 상민은 그때 발표 연습에 집중하고 있었으므로 그 사실을 알지 못했다. 따라서 상민은 자신이 알고 있는 위치인 가방을 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-75,object_placements,B,B,"### ANSWER
+B"
+object_placements-76,object_placements,A,A,"진우는 처음에 발표 자료가 가방에 있다는 사실을 알고 있었고, 수정이 자료를 옮기는 장면을 보지 못했으므로 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-77,object_placements,C,B,"### ANSWER
+B"
+object_placements-78,object_placements,A,A,"상현은 처음에 물병이 경기장 대기 구역에 있다는 정보를 알고 있었고, 세아가 물병을 출입구 책상으로 옮기는 모습을 보지 못했다. 따라서 자신이 아는 마지막 위치인 경기장 대기 구역을 가장 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-79,object_placements,A,A,"상현은 마지막에 헬멧을 연습실 선반에서 경기장 대기 구역으로 직접 옮겼으므로, 헬멧을 찾을 때 가장 먼저 확인할 곳은 경기장 대기 구역이다.
+
+### ANSWER
+A"
+team_allocation-16,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-17,team_allocation,B,B,"소영은 창의적이지만 안전 규정과 협업에 약점이 있어 연구 개발에, 민정은 안전과 규정 준수에 강해 실험실 관리에 적합하다. 지훈은 협업과 실험 능력을 갖춰 민정과 함께 실험실 관리에 배치하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation-18,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-19,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-20,team_allocation,A,A,"서윤은 기획과 세부 관리에 강점이 있지만 재호·민지와 갈등 이력이 있다. 반면 재호와 민지는 함께 성공한 경험이 있고 긍정적 피드백을 주고받았으므로 둘을 같은 팀으로 묶는 것이 최선이다. 따라서 기획은 서윤, 홍보는 재호와 민지로 배정한다.
+
+### ANSWER
+A"
+team_allocation-21,team_allocation,A,A,"명준과 수영은 후원사 유치에서 뛰어난 성과를 보였고 협업 경험도 있으므로 후원사 유치 팀에 배치하는 것이 효율적입니다. 다인은 후원사 소통에 약점이 있지만, 예술가 관리에서도 어려움이 있으나 다른 두 사람보다 예술적 맥락에 가깝고, 후원사 유치에 부적합하므로 아티스트 관리 팀에 배치하는 것이 최선입니다.
+
+### ANSWER
+A"
+team_allocation-22,team_allocation,A,A,"수연은 모델 관리 경험과 모델과의 소통 능력이 뛰어나므로 모델 관리에 적합합니다. 민지는 이벤트 운영에서 긍정적 피드백을 받았고 침착한 문제 해결 능력이 있으며, 지혁도 대규모 이벤트 운영 경험과 멀티태스킹 능력이 뛰어나므로 이벤트 운영 팀에 배치하는 것이 효율적입니다. 따라서 A가 가장 적절합니다.
+
+### ANSWER
+A"
+team_allocation-23,team_allocation,C,C,"지호는 창의적 프로그램 기획에 강점이 있어 프로그램 운영 팀에, 서현은 철저한 규칙 준수와 안전 교육 성과가 높아 안전 관리 팀에 배치하는 것이 적절하다. 민지는 안전 수칙 위반 이력이 있어 단독 배치는 위험하지만, 서현과 함께 안전 팀에 두면 놓치기 쉬운 부분을 보완할 수 있다. 따라서 C가 가장 효율적이다.
+
+### ANSWER
+C"
+murder_mysteries-72,murder_mysteries,A,A,"경찰봉이 범행 도구였다는 점에서, 경찰 출신으로 경찰 장비를 개인 소유로 보관해 온 라희가 가장 유력하다. 또한 라희는 감정 결여와 무감각한 반응을 보이며 범죄적 성향을 암시한다. 유연은 불안해 보이지만 인종차별 피해 외에 직접적인 증거나 도구 연관성이 약하다.
+
+### ANSWER
+A"
+murder_mysteries-73,murder_mysteries,B,B,"유연은 상진의 인종차별적 발언으로 인해 단체에서 배제된 명확한 동기가 있고, 경찰 장비와 훈련에 대한 지식도 있다. 라희는 경찰봉을 소유했지만 살해 동기가 제시되지 않았다. 따라서 가장 유력한 용의자는 유연이다.
+
+### ANSWER
+B"
+murder_mysteries-74,murder_mysteries,B,B,"나영은 사격 연습을 즐기고, 에어건 가게를 자주 방문하며, 에어건을 든 사진이 있고, 옥상에서 시간을 보내는 성향이 있다. 또한 피해자의 의견이 나영의 종교 집단 이념과 충돌했다는 점이 동기를 시사한다. 반면 수호는 별 관측 관련 오해 가능성이 제기되지만 살인 도구와의 직접적 연관성은 약하다.
+
+### ANSWER
+B"
+murder_mysteries-75,murder_mysteries,A,A,"수호는 에어건을 관리하고 사격 동호회에서 우승할 정도로 사격에 능숙하며, 옥상 관측을 자주 해 현장에 익숙하다. 또한 서빈이 발견한 문서가 법정에 제출된 점이 동기가 될 수 있다. 나영은 종교적 갈등 등 정황이 있지만 직접적인 살인 수단과 연관성이 약하다. 따라서 수호가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries-76,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-77,murder_mysteries,A,A,"서이는 목공 도구와 톱을 사용할 수 있는 환경에 있었고, 피해자의 종교 활동에 강한 반감을 품고 있었다. 유현은 일정을 알고 차량을 관리했지만 살해 도구와 직접 연결될 만한 단서가 약하다. 따라서 서이가 가장 유력하다.
+
+### ANSWER
+A"
+murder_mysteries-78,murder_mysteries,B,A,"살인 무기는 네일 건이다. 연진은 목수 경험이 있고 공예품 제작과 집 수리 등 목공 도구를 다룰 능력이 있으며, 스케이트장 주변을 자주 다녀 현장에도 익숙하다. 반면 지율은 주방 기기 수리에 능숙하지만 네일 건과 같은 목공 도구와의 직접적 연관성은 약하다. 따라서 연진이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+A"
+murder_mysteries-79,murder_mysteries,A,A,"살인 도구는 네일 건이다. 네일 건은 목공 도구로, 연진은 고급 목공 기술 훈련을 받았고 집에서 목공예 작업을 해왔다. 즉 범행 도구를 쉽게 가질 수 있는 인물이다. 또한 연진의 남편과 서율이 자주 함께 저녁을 먹고 서율이 선물을 자주 줬다는 진술은 연진에게 질투나 원한의 동기가 될 수 있다. 반면 지율은 다소 수상한 행동을 보이지만 이는 단순히 전화 통화를 피하는 모습일 뿐, 살인 도구와 직접 연결되는 결정적 단서는 없다. 따라서 살인자일 가능성이 가장 높은 사람은 연진이다.
+
+### ANSWER
+A"
+object_placements-174,object_placements,D,D,"상준은 처음에 카메라가 테이블 위에 있다는 것을 알고 있었다. 민지가 카메라를 가방으로 옮기는 모습은 거리가 멀고 주현에게 집중한 탓에 보지 못했으므로, 상준은 여전히 카메라가 테이블 위에 있다고 생각한다. 따라서 가장 먼저 테이블 위를 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-175,object_placements,A,A,"주현은 민지가 카메라를 가방 안으로 옮기는 손동작을 바로 옆에서 지켜보았으므로, 카메라를 찾을 때 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-176,object_placements,A,A,"민정이는 서류를 선반으로 옮겼다고 명시되어 있으므로, 서류를 찾을 때 가장 먼저 선반을 확인할 가능성이 높다.
+
+### ANSWER
+A"
+object_placements-177,object_placements,C,C,"민정은 성민의 움직임을 주의 깊게 살폈고, 성민이 여권을 책상 위로 옮겨 두었으므로 가장 먼저 책상 위를 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-178,object_placements,D,D,"### ANSWER
+D"
+object_placements-179,object_placements,C,C,"성민은 여권을 직접 들어 책상 위로 옮겼으므로, 여권을 찾을 때 가장 먼저 책상 위를 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-180,object_placements,A,A,"### ANSWER
+A"
+object_placements-181,object_placements,B,B,"주희는 여권을 책상 위에서 들어 여행 가방에 넣었다. 이후 성민이 여권을 책상 위로 옮겼지만, 주희는 일정 점검에 집중하고 있어 그 움직임을 알아차리지 못했다. 따라서 주희가 여권을 찾으러 가장 먼저 확인할 곳은 자신이 마지막으로 둔 여행 가방이다.
+
+### ANSWER
+B"
+team_allocation-120,team_allocation,C,C,"도영은 촬영 현장 대응과 조율에 강점이 있지만 후반 작업의 시각적 세부 집중력이 부족하고, 지훈은 시각 효과와 디테일 구현에 강해 후반 작업에 적합하다. 또한 도영과 지훈은 오랜 협력 관계로 팀워크가 좋다. 서현은 장비 활용과 현장 판단력이 뛰어나 촬영 팀에 적합하며, 도영·지훈과의 갈등 요소를 피하려면 서현을 촬영 팀에 단독 배치하는 것이 효율적이다. 따라서 촬영 팀에 서현, 후반 작업 팀에 도영과 지훈을 배치하는 것이 가장 적합하다.
+
+### ANSWER
+C"
+team_allocation-121,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-122,team_allocation,C,A,"### ANSWER
+A"
+team_allocation-123,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-124,team_allocation,B,B,"서현은 데이터 분석과 공급업체 선정, 시장 조사에 강점이 있어 상품 소싱 팀에 가장 적합합니다. 반면 고객의 감정 이해에 약점이 있어 고객 지원보다는 소싱에 배치하는 것이 효율적입니다. 미나는 고객 응대 경험과 외국어 능력, 문화적 이해가 뛰어나 고객 지원에 적합하고, 정우도 고객 니즈 파악과 맞춤형 지원에 강점이 있어 고객 지원 팀에 함께 배치하는 것이 균형적입니다. 따라서 B안이 가장 효과적입니다.
+
+### ANSWER
+B"
+team_allocation-125,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-126,team_allocation,A,A,"하린은 창의적이고 유연한 사고가 필요한 제품 개발 팀에 적합합니다. 도윤은 물류 경험과 체계적 업무 능력으로 유통 팀에, 서준도 반복적이고 체계적인 업무에 강점이 있어 유통 팀에 배치하는 것이 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation-127,team_allocation,B,B,"소영은 뛰어난 웹 개발 실력을 갖추고 있고, 지훈은 고객 응대와 의사소통에 강점이 있습니다. 민재는 두 업무 모두에 적합하지 않으므로, 웹 개발은 소영, 고객 서비스는 지훈과 민재가 맡는 B안이 가장 효율적입니다.
+
+### ANSWER
+B"
+object_placements-0,object_placements,D,D,"### ANSWER
+D"
+object_placements-1,object_placements,B,B,"### ANSWER
+B"
+object_placements-2,object_placements,A,A,"민호는 처음에 비행기 표가 침대 위에 있다는 것을 알았지만, 가람이 표를 테이블 서랍으로 옮기는 것을 지켜보았다. 이후 수진이 테이블 서랍에서 표를 작은가방으로 옮기는 장면이 있었고, 민호는 수진과 가까운 거리에서 그 공간에 있었으므로 이를 확인할 수 있었다. 따라서 민호가 비행기 표를 찾기 위해 가장 먼저 확인할 곳은 작은가방이다.
+
+### ANSWER
+A"
+object_placements-3,object_placements,A,A,"### ANSWER
+A"
+object_placements-4,object_placements,A,A,"### ANSWER
+A"
+object_placements-5,object_placements,A,A,"### ANSWER
+A"
+object_placements-6,object_placements,D,D,"### ANSWER
+D"
+object_placements-7,object_placements,B,C,"### ANSWER
+C"
+murder_mysteries-158,murder_mysteries,A,A,"세미는 목공 작업과 기계 정비에 익숙하고, 다양한 공구 사용 경험이 있으며, 사건 현장인 동물원에 자주 출입해 새장 수리까지 도왔다는 점이 결정적이다. 살인 도구인 노루발못뽑이 역시 공구에 해당하므로, 세미가 이를 다루는 데 능숙했을 가능성이 높다. 또한 재균에게 빚을 갚지 못한 사업적 갈등도 동기가 된다. 병준은 동물원에 있었고 금전적 문제가 암시되지만, 살인 도구 사용 능력이나 현장 접근성 측면에서 세미만큼 구체적인 연결고리가 드러나지 않는다.
+
+### ANSWER
+A"
+murder_mysteries-159,murder_mysteries,B,B,"병준은 사건 당일 동물원에 있었고 CCTV에 포착되었으며, 목공 도구 사용 능력도 있다. 또한 재균이 그의 상사의 비리를 조사하고 있었다는 점이 강한 살해 동기가 된다. 세미는 금전적 동기와 도구 사용 능력이 있지만 현장에 있었다는 직접적 단서는 부족하다.
+
+### ANSWER
+B"
+murder_mysteries-160,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-161,murder_mysteries,B,B,"상우는 재인에게 여러 차례 금전적 도움을 요청했고, 최근 해고로 경제적 어려움을 겪었다는 명확한 동기가 있다. 또한 무기에 대한 깊은 관심과 무기 수집, 군사 박람회에서의 딜러 교류 등 범행 수단과 관련된 정황이 드러난다. 민수는 작살총 사용법과 장비 접근성은 있지만, 살해 동기가 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 상우이다.
+
+### ANSWER
+B"
+murder_mysteries-162,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-163,murder_mysteries,B,B,"정민은 실제 도끼를 보유했고, 도박 빚으로 돈이 필요했으며, 재형의 성공에 대한 시기심 등 명확한 동기가 있다. 유찬은 의심스러운 점이 있으나 직접적인 증거와 동기가 약하다.
+
+### ANSWER
+B"
+murder_mysteries-164,murder_mysteries,A,A,"유하는 피해자 지흔에게 가사도우미 이상의 요구와 폭력적 대우를 받아 두려움을 느꼈다고 진술했으며, 성당 청소와 수리를 담당하면서 송곳이 필요하다고 언급했다. 사건 현장인 성당에서 청소 도구를 관리하고 있었기에 범행 도구에 접근하기 쉬운 위치에 있었다. 반면 서은은 교도소 도구 관리자로서 관련 가능성이 있지만 피해자와의 직접적인 갈등이나 뚜렷한 범행 동기가 드러나지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 유하다.
+
+### ANSWER
+A"
+murder_mysteries-165,murder_mysteries,B,B,"서은은 가족 사업 실패로 큰 빚을 지고 가족에게 재정 지원을 요청했으나 거절당한 명확한 동기가 있으며, 교도관으로서 정원 가꾸기 프로그램을 감독하며 도구와 장비에 접근할 수 있는 기회도 있다. 반면 유하는 송곳에 접근할 수 있었지만 뚜렷한 동기가 제시되지 않았고, 그녀의 행동은 일관되고 특별한 변화가 없다. 따라서 살인자일 가능성이 가장 높은 사람은 서은이다.
+
+### ANSWER
+B"
+object_placements-80,object_placements,D,D,"세아는 물병을 직접 출입구 책상으로 옮겼으므로, 물병을 찾으려면 그곳을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-81,object_placements,B,B,"세아는 정민이 헬멧을 장비 보관함에서 연습실 선반으로 옮기는 모습을 지켜보았다. 이후 상현이 헬멧을 경기장 대기 구역으로 옮길 때는 응원단에 집중하고 있어 보지 못했으므로, 세아가 아는 마지막 위치는 연습실 선반이다.
+
+### ANSWER
+B"
+object_placements-82,object_placements,D,D,"정민은 물병이 출입구 책상으로 옮겨지는 것을 주변 물품 위치 변화를 살피며 확인했으므로, 가장 먼저 출입구 책상을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-83,object_placements,B,B,"### ANSWER
+B"
+object_placements-84,object_placements,D,C,"### ANSWER
+C"
+object_placements-85,object_placements,A,A,"혜진은 약 상자가 처음 거실 선반에 있었음을 알고 있었고, 이후 이동 장면을 보지 못했으므로 가장 먼저 거실 선반을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-86,object_placements,C,C,"Ho-jun knew the notebook was originally in the kitchen cabinet and did not see Hye-jin move it to the front door drawer, so he would first check the kitchen cabinet.
+
+### ANSWER
+C"
+object_placements-87,object_placements,B,B,"호준은 약 상자를 직접 방 책상으로 옮겼고, 이후 선영이 주방 찬장으로 옮기는 모습을 보지 못했으므로, 자신이 마지막으로 둔 방 책상을 가장 먼저 확인할 것이다.
+
+### ANSWER
+B"
+team_allocation-24,team_allocation,A,A,"수진은 창의적 설계에 강점이 있지만 현장 관리 경험이 부족하고, 민준·태호와 갈등 이력이 있다. 반면 민준과 태호는 현장 관리 능력이 뛰어나고 서로 잘 맞는다. 따라서 수진을 설계 팀에, 민준과 태호를 시공 관리 팀에 배정하는 것이 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-25,team_allocation,A,A,"서윤은 데이터 분석과 관리 업무에 강점이 있어 메뉴 개발 팀에 적합하고, 승호와 지민은 과거 협업 경험이 긍정적이므로 고객 서비스 팀에 함께 배치하는 것이 가장 효율적입니다.
+
+### ANSWER
+A"
+team_allocation-26,team_allocation,B,B,"서현은 창의성과 추진력이 강하지만 고객 소통에 약하므로 이벤트 기획에 적합합니다. 도윤과 지수는 고객 소통 능력이 뛰어나 고객 상담에 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-27,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-28,team_allocation,B,B,"세영과 아라는 서로 충돌이 잦고, 세영과 지훈도 의견 충돌이 있었습니다. 반면 지훈과 아라는 협력 경험이 좋습니다. 따라서 충돌 가능성이 있는 조합을 피하고, 지훈과 아라를 같은 팀에 배치하는 것이 효율적입니다. 레시피 개발은 세영이 단독으로 맡고, 고객 피드백 팀은 지훈과 아라가 함께하는 것이 가장 적절합니다.
+
+### ANSWER
+B"
+team_allocation-29,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-30,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-31,team_allocation,B,B,"다영은 제품 개발 전문성이 가장 뛰어나므로 제품 개발 팀에 배치하는 것이 적절하다. 민수와 예린은 마케팅 강점이 뚜렷하고 서로 협업 경험도 좋으므로 함께 마케팅 전략 팀에 두는 것이 효율적이다. 이렇게 하면 다영과 민수, 다영과 예린의 갈등 가능성도 피할 수 있다.
+
+### ANSWER
+B"
+team_allocation-214,team_allocation,A,A,"지영은 논리적 접근과 문제 해결에 강점이 있어 개발자에 적합하고, 다훈과 민지는 사용자 경험과 디자인 개선에 강점이 있어 UX 디자이너에 적합하다.
+
+### ANSWER
+A"
+team_allocation-215,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-216,team_allocation,A,C,"지훈은 디자인 역량과 소비자 분석, 마케팅 경험을 모두 갖춰 제품 디자이너로 가장 적합하다. 나영은 소통·시장 분석 능력으로 판매 전략에 강점이 있고, 수현은 보조 역할을 맡을 수 있다. A와 B는 디자이너 배치가 부적절하므로 C가 최선이다.
+
+### ANSWER
+C"
+team_allocation-217,team_allocation,A,A,"서연은 디자인 역량이 가장 뛰어나므로 전시 디자인 팀에 배치하는 것이 적합하다. 유민과 하진은 친밀하고 협력 경험이 좋아 교육 프로그램 팀으로 함께 배치하는 것이 갈등을 피하고 효율적이다.
+
+### ANSWER
+A"
+team_allocation-218,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-219,team_allocation,C,C,"하림은 창의적이고 시각적 감각이 뛰어나 게임 디자이너에 적합하고, 도훈과 수진은 분석적이고 체계적으로 오류를 찾는 데 강해 QA 테스터에 적합합니다.
+
+### ANSWER
+C"
+team_allocation-220,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-221,team_allocation,C,C,"### ANSWER
+C"
+murder_mysteries-80,murder_mysteries,B,B,### ANSWER B
+murder_mysteries-81,murder_mysteries,A,B,"### ANSWER
+B"
+murder_mysteries-82,murder_mysteries,B,B,"희주는 피해자의 일정을 관리해 축구장에 있을 시간을 알 수 있었고, 야간에 축구장에 몰래 들어가던 경험과 그곳의 은신처를 알고 있다. 또한 네일 건 사용법을 익히고 공구 서적을 탐독했다. 반면 현도는 네일 건을 소유했지만 살해 현장 및 피해자와의 직접적 연관성은 상대적으로 약하다. 따라서 희주가 가장 유력하다.
+
+### ANSWER
+B"
+murder_mysteries-83,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-84,murder_mysteries,B,A,"은우는 음료 서비스 책임자로서 독이 든 음료에 직접 접근할 수 있었고, 화학 전공에 독극물 연구 경험과 독성 물질 전문 서적까지 갖추고 있습니다. 또한 더운 날씨에도 긴 소매를 입고 팔의 문신을 화장으로 가리려 한 흔적이 있어 범행 관련 증거를 숨기려는 정황이 보입니다. 해진은 화학 물질 접근 권한과 질투 동기가 있지만, 음료에 직접 개입할 수 있는 역할은 확인되지 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 은우입니다.
+
+### ANSWER
+A"
+murder_mysteries-85,murder_mysteries,A,A,"은우는 음료 서비스를 총괄했고, 화학 전공에 독극물 연구 경력이 있으며, 원찬이 자신의 프로젝트로 실직했다는 과거 연관성이 있다. 해진은 질투와 화학 지식이 있지만 음료에 접근할 직접적인 기회가 명확하지 않다. 따라서 살인 가능성이 가장 높은 사람은 은우이다.
+
+### ANSWER
+A"
+murder_mysteries-86,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-87,murder_mysteries,B,A,"정은은 불안하고 완벽주의적인 성향이 드러나지만 사건과 직접 연결될 만한 정황은 약하다. 반면 제욱은 정희와 어릴 적부터 알던 사이였고, 정희가 그가 있는 도시를 떠났다는 점, 감정 표현이 거의 없고 무표정하며 냉담한 태도, 인간관계에 대한 신뢰 상실 등이 살인자일 가능성을 더 강하게 시사한다.
+
+### ANSWER
+A"
+object_placements-182,object_placements,D,D,"동혁은 처음에 수첩이 책상 위에 있다는 사실을 알고 있었고, 이후 유나가 수첩을 가방에 넣는 모습을 보지 못했다. 대화에 집중하느라 주변 움직임을 놓쳤기 때문에, 여전히 수첩이 책상에 있을 것이라고 생각할 것이다. 따라서 가장 먼저 책상을 확인한다.
+
+### ANSWER
+D"
+object_placements-183,object_placements,A,A,"유나는 책상 위의 수첩을 직접 꺼내 가방 안에 넣었으므로, 수첩을 찾을 때 가장 먼저 가방을 확인할 것이다. 이후 펜의 위치만 바뀌었을 뿐 수첩의 위치는 변하지 않았다.
+
+### ANSWER
+A"
+object_placements-184,object_placements,B,B,"동혁이 펜을 소파에 내려놓는 것을 유나가 보고 있었고, 이후 지수가 펜을 책상으로 옮길 때 유나는 주시하지 않았으므로, 유나가 가장 먼저 확인할 곳은 소파이다.
+
+### ANSWER
+B"
+object_placements-185,object_placements,C,D,"### ANSWER
+D"
+object_placements-186,object_placements,A,A,"### ANSWER
+A"
+object_placements-187,object_placements,A,,[EMPTY_RESPONSE]
+object_placements-188,object_placements,A,A,"서영은 지은이 탁자 위의 수첩을 가방 안으로 옮기는 손 움직임을 유심히 살폈으므로, 수첩이 가방에 있음을 알 수 있다. 따라서 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-189,object_placements,B,B,"서영은 자신이 카메라를 거실 선반으로 옮겼고, 이후 민수가 카메라를 가방에 넣는 장면을 보지 못했으므로, 가장 먼저 거실 선반을 확인할 것이다.
+
+### ANSWER
+B"
+murder_mysteries-88,murder_mysteries,B,B,"보현은 제초제(herbicide) 살인에 필요한 조건을 모두 갖췄다. 정원을 가꾸며 친구의 정원 용품점에서 물품을 공급받아 제초제에 접근할 수 있었고, 대학에서 화학을 전공하고 실험실 인턴십을 했으며 독성 물질 관련 강의와 법정 변호 경험까지 있어 독극물 사용에 대한 지식이 있다. 또한 병원 기록과 장기 이식 절차에 개입된 정황, 장기 밀매 변호 경험 등은 성영이 발견한 불법 행위와 연결될 가능성이 크다. 반면 강호는 사생활 보호와 자료 수집 등 의심스러운 면이 있지만 살인 동기와 제초제 사용 능력이 상대적으로 약하다.
+
+### ANSWER
+B"
+murder_mysteries-89,murder_mysteries,A,A,"강호는 성영이 자신의 불법 자금 거래를 목격하고 증거를 모았다는 강한 살해 동기가 있으며, 연구소 경험으로 제초제와 같은 유독 물질 취급법을 알고 있었고, 창고 업무를 통해 이를 손에 넣을 수 있었다. 보현은 병원 정보와 장기 이식 관련 의혹이 있지만 제초제 살해와 직접 연결되는 단서는 약하다.
+
+### ANSWER
+A"
+murder_mysteries-90,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-91,murder_mysteries,A,A,"해원은 옥상에서 세미와 대화를 나누었고, 부메랑 수업을 듣는 등 부메랑 사용에 익숙하며, 세미가 자신의 소중한 사람을 비난하고 금전적 문제까지 제기했다는 강한 살해 동기가 있다. 반면 민수는 세미와의 인종차별적 언쟁으로 인한 동기는 있지만, 옥상에서의 직접적인 관련이나 부메랑 살해 도구 사용 정황은 상대적으로 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 해원이다.
+
+### ANSWER
+A"
+murder_mysteries-92,murder_mysteries,B,B,"### ANSWER
+B"
+murder_mysteries-93,murder_mysteries,A,A,"### ANSWER
+A"
+team_allocation-128,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-129,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-130,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-131,team_allocation,B,B,"민재는 시각 디자인 전문가이므로 전시 디자인 팀에 배치하는 것이 적절하다. 서현은 디자인 능력이 부족하고 민재와 갈등 이력이 있어 같은 팀은 피해야 한다. 지우는 민재와 친구로 협업이 원활하므로 디자인 팀에 함께 배치하는 것이 낫다. 참가자 관리는 과거 경험이 있는 서현이 맡는 것이 가장 현실적이다.
+
+### ANSWER
+B"
+team_allocation-132,team_allocation,C,C,"수현은 생산 관리에 강점이 있고 고객 응대에 약점이 있으므로 생산 관리 팀에 배치하는 것이 적합하다. 도영과 민지는 서로 협업이 잘 되고 시너지를 발휘하므로 함께 판매 및 유통 팀에 배치하는 것이 효율적이다.
+
+### ANSWER
+C"
+team_allocation-133,team_allocation,B,B,"B는 소미의 체계적이고 꼼꼼한 강점을 프로그램 기획에, 나영의 창의적 글쓰기와 지훈의 기술적 조언을 홍보에 활용하는 최적의 배치다. 다른 선택지는 각자의 약점이 팀 효율을 떨어뜨린다.
+
+### ANSWER
+B"
+team_allocation-134,team_allocation,A,A,"수민은 기획 역량이 강하고 홍보에 약하므로 기획 팀에, 도영과 지현은 홍보 성과가 뛰어나므로 홍보 팀에 배치하는 것이 각자의 강점을 살리는 최선이다.
+
+### ANSWER
+A"
+team_allocation-135,team_allocation,A,A,"수민은 기획과 문제 해결에 강점이 있고 홍보에 약점이 있으며, 지현은 홍보에 강점이 있고 기획에 약점이 있습니다. 도영은 두 분야 모두 가능하고 지현과 협력 경험도 좋으므로, 기획에 수민, 홍보에 도영과 지현을 배치하는 것이 가장 효율적입니다.
+
+### ANSWER
+A"
+murder_mysteries-166,murder_mysteries,B,B,"하늘은 소방서 인턴십에서 도끼 사용법을 배웠고, 커피 배달로 피해자 집에 접근할 수 있었으며, 경제적 어려움도 있었다. 현빈은 이혼 소송 관련 동기는 있지만 범죄 관심사는 절도에 가깝다. 따라서 살인자일 가능성이 가장 높은 사람은 하늘이다.
+
+### ANSWER
+B"
+murder_mysteries-167,murder_mysteries,A,A,"현빈은 주리와 결혼 생활을 했던 사이로, 이혼 소송 중 주리가 상당한 재산을 요구하고 있었다는 명확한 동기가 있다. 또한 두 사람이 함께 살던 단독주택에 자주 출입했고 주리의 일정을 상세히 알고 있었다. 화재 안전과 다양한 도구 사용에 관심을 두고 있다는 점도 범행 도구인 소방도끼와 연결될 수 있다. 반면 하늘은 도끼 사용 훈련을 받았지만 살해 동기가 뚜렷하지 않고, 단순히 커피 배달과 금속탐지기 취미가 의심스러울 뿐이다. 따라서 살인자일 가능성이 가장 높은 사람은 현빈이다.
+
+### ANSWER
+A"
+murder_mysteries-168,murder_mysteries,A,A,"Yijin has direct access to snake venom through his zoo work, knows how to handle snakes, and—most tellingly—never eats the food he prepares for his family, suggesting he knows it is poisoned. The murder happened in the kitchen, and Jiwan was closely associated"
+murder_mysteries-169,murder_mysteries,B,B,"이진은 동물원에서 뱀을 관리하며 독액에 접근할 수 있는 위치에 있었고, 피해자 지완이 과거에 자신에게 협박성 메시지를 보낸 적이 있다고 진술해 살해 동기도 있다. 또한 주말마다 지완과 함께 요리하며 주방에 있었을 기회가 있다. 시현은 뱀 관련 지식과 애완뱀 등 수단은 있으나 명확한 동기가 드러나지 않았다. 따라서 이진이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+B"
+murder_mysteries-170,murder_mysteries,A,B,"지경은 사냥과 사격 훈련 경험이 있고 명중률이 높다는 평가를 받았으며, 사건 도구인 사냥용 칼과 관련된 활동을 지속해 왔다. 또한 마지막 목격 장소에서 빠르게 벗어난 점, 점심시간마다 사라지고 다른 옷으로 나타나는 등 은밀한 행동 패턴, 외부인과의 통화 기록 등 숨기는 것이 많아 보인다. 보현도 사냥용 칼을 소장하고 있지만, 준기와의 관계나 동기에 비해 지경의 회피적이고 모순된 행동이 더 강한 혐의를 만든다.
+
+### ANSWER
+B"
+murder_mysteries-171,murder_mysteries,B,A,"보현은 사냥용 칼을 소지하고, 야생 동물 해체 워크숍과 생존 수업을 수강했으며, 사냥 여행을 계획하는 등 범행 수단과 직접적으로 연결되는 단서가 많다. 또한 집에 택배함과 배달 트럭이 자주 드나들고, 밤에 이상한 소리가 들린다는 이웃 증언, 낮에 긴 외출을 반복한 점 등이 의심스럽다. 지경은 사냥과 군사 훈련 경력이 있지만, 흉기 사용이나 해체와 관련된 구체적인 단서는 상대적으로 적다. 따라서 보현이 살인자일 가능성이 가장 높다.
+
+### ANSWER
+A"
+murder_mysteries-172,murder_mysteries,B,B,"준우가 시욱에게 ""너와 네 가족을 그냥 두지 않겠다""는 위협 메시지를 보냈고, 이는 강력한 살해 동기가 된다. 또한 시욱은 목공 도구를 항상 소지하고 다녔으며, 사건 현장인 모텔을 자주 방문했다는 점에서 범행 도구와 접근 기회를 모두 갖췄다. 반면 한빈은 원형 톱을 사용하고 일정을 공유했지만 직접적인 위협이나 현장 접근 정황은 약하다. 따라서 살인자일 가능성이 가장 높은 사람은 시욱이다.
+
+### ANSWER
+B"
+murder_mysteries-173,murder_mysteries,A,A,"한빈은 준우가 경쟁사와 계약을 논의한다는 말을 듣고 사업적 이해관계가 얽혀 있어 동기가 뚜렷하다. 또한 모텔 맞은편에서 정비 계약을 맺고 일하며 현장 접근성이 좋고, 원형 톱 사용에 익숙하다고 직접 언급했다. 반면 시욱은 준우와 친분이 있지만 구체적인 살해 동기가 드러나지 않는다. 따라서 한빈이 가장 유력하다.
+
+### ANSWER
+A"
+object_placements-88,object_placements,A,A,"민경은 카메라를 가방으로 옮기는 과정에서 가방 안에 있는 입장권을 직접 보았기 때문에, 입장권이 어디에 있는지 이미 알고 있다. 따라서 입장권을 찾으러 갈 때 가장 먼저 확인하는 곳은 가방이다.
+
+### ANSWER
+A"
+object_placements-89,object_placements,A,A,"민경은 처음에 카메라가 책상 서랍에 있다는 것을 알았지만, 지훈이 거실 탁자로 옮기는 것을 보았고, 이후 자신이 직접 카메라를 가방으로 옮겼다. 따라서 카메라를 찾으러 가장 먼저 확인할 곳은 가방이다.
+
+### ANSWER
+A"
+object_placements-90,object_placements,A,A,"성민은 입장권을 옷장에서 꺼내 가방으로 옮겼으므로, 입장권을 찾을 때 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-91,object_placements,D,D,"성민은 처음에 카메라가 책상 서랍에 있다는 사실만 알고 있었고, 이후 지훈이나 민경이 카메라를 옮기는 장면을 보지 못했다. 따라서 성민이 가장 먼저 확인할 곳은 책상 서랍이다.
+
+### ANSWER
+D"
+object_placements-92,object_placements,C,A,"### ANSWER
+A"
+object_placements-93,object_placements,A,A,"지훈은 민경이 카메라를 가방으로 옮기는 모습을 바로 옆에서 주의 깊게 지켜보았으므로, 카메라를 찾기 위해 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-94,object_placements,B,B,"### ANSWER
+B"
+object_placements-95,object_placements,D,D,"### ANSWER
+D"
+object_placements-8,object_placements,B,B,"수진은 악보를 리셉션 장소로 옮긴 뒤, 그곳에서 카메라를 직접 보았습니다. 따라서 카메라의 위치를 정확히 알고 있으므로, 찾으러 간다면 가장 먼저 리셉션 장소를 확인할 것입니다.
+
+### ANSWER
+B"
+object_placements-9,object_placements,B,A,"### ANSWER
+A"
+object_placements-10,object_placements,C,C,"### ANSWER
+C"
+object_placements-11,object_placements,B,B,"### ANSWER
+B"
+object_placements-12,object_placements,D,C,"### ANSWER
+C"
+object_placements-13,object_placements,D,D,"영민은 처음에 펜이 책상 위에 있다는 정보를 알고 있었고, 서연이 펜을 교탁으로 옮기는 순간에는 고개를 돌려 다른 쪽을 보고 있었으므로 그 이동을 보지 못했다. 따라서 영민이 펜을 찾으러 갈 때 가장 먼저 확인할 곳은 원래 알고 있던 책상이다.
+
+### ANSWER
+D"
+object_placements-14,object_placements,D,D,"### ANSWER
+D"
+object_placements-15,object_placements,D,D,"### ANSWER
+D"
+team_allocation-32,team_allocation,C,C,"세현은 디자인 패턴에 대한 경험과 접근 방식이 있는 유일한 인물이므로 디자이너로 배정하는 것이 적합합니다. 나영과 민지는 시간 관리, 조직화, 세부 관리 능력이 뛰어나 생산 관리자 역할에 잘 맞으며, 세현의 느슨한 일정 관리와 세부 사항 누락을 보완할 수 있습니다.
+
+### ANSWER
+C"
+team_allocation-33,team_allocation,B,B,"Seoyeon is the strongest planner, while Dongwoo and Eunji are best suited for promotion. Option B assigns Seoyeon to planning and Dongwoo/Eunji to promotion, leveraging each person’s main strength. It also separates Seoyeon from both Eunji and Dongwoo, avoiding two major conflicts. Although Dongwoo and Eunji may clash, their combined promotion abilities make this the most efficient choice.
+
+### ANSWER
+B"
+team_allocation-34,team_allocation,B,B,"서준은 개발에 강하고 마케팅에는 흥미가 없으므로 개발자로, 민수는 개발에는 관심이 없고 마케팅 성과가 뛰어나므로 마케터로 배치하는 것이 적합하다. 나영은 개발과 마케팅 모두 가능하지만, 서준을 개발자로 두었을 때 마케팅에는 나영과 민수가 가장 강력한 조합이다. 따라서 두 업무 모두 효율적으로 수행하려면 B가 최선이다.
+
+### ANSWER
+B"
+team_allocation-35,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-36,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-37,team_allocation,C,C,"재민과 경수는 과거 협력 프로젝트에서 효율적으로 일을 완수했고, 경수는 재민의 아이디어를 이해하고 실행하는 데 능숙하므로 함께 배치하는 것이 가장 좋다. 소희는 창의적 전략가로서 혼자 기획 업무를 맡는 것이 적합하다. 다른 조합은 갈등이나 약점이 두드러진다.
+
+### ANSWER
+C"
+team_allocation-38,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-39,team_allocation,C,B,"지훈은 컴퓨터 공학 전공과 AI 솔루션 개발 경험, IT 문제 해결 능력으로 기술 컨설턴트에 가장 적합합니다. 민서는 고객 소통과 대응 능력이 뛰어나 고객 관리에 적합합니다. 수현은 창의적이지만 IT 분석과 고객 요구 이해에 약점이 있어, 기술보다는 고객 관리 보조 역할이 낫습니다. 따라서 지훈을 기술 컨설턴트로, 민서와 수현을 고객 관리자로 배정하는 것이 효율적입니다.
+
+### ANSWER
+B"
+object_placements-190,object_placements,A,A,"### ANSWER
+A"
+object_placements-191,object_placements,C,C,"### ANSWER
+C"
+object_placements-192,object_placements,B,B,"민석은 반지를 직접 비품실 서랍으로 옮겼고, 이후 지훈이 정문 옆 선반으로 옮긴 과정을 보지 못했으므로, 자신이 마지막으로 둔 곳인 비품실 서랍을 가장 먼저 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-193,object_placements,B,B,"민석은 USB가 로비 상자로 옮겨지는 것을 보지 못했고, 복도에 있어 내부 상황도 볼 수 없었다. 따라서 그가 마지막으로 알고 있던 위치인 비품실 서랍을 가장 먼저 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-194,object_placements,D,D,"### ANSWER
+D"
+object_placements-195,object_placements,A,A,"혜민이 축가 USB를 로비 상자로 옮긴 직후, 지훈이는 로비 상자 옆에 서 있었다. 이후 USB가 다시 옮겨졌다는 언급은 없으므로, 지훈이가 가장 먼저 확인할 곳은 로비 상자이다.
+
+### ANSWER
+A"
+object_placements-196,object_placements,C,C,"### ANSWER
+C"
+object_placements-197,object_placements,A,A,"혜민이는 자신이 축가 USB를 로비 상자로 옮겼기 때문에, USB를 찾으러 가장 먼저 로비 상자를 확인할 것이다.
+
+### ANSWER
+A"
+team_allocation-222,team_allocation,B,C,"민아는 콘텐츠 제작에 강점이 있고 기술 업무에는 부적합하다는 직접적 언급이 있으며, 영수는 기술 지원에 가장 적합한 인물로 명시되어 있다. 서진은 콘텐츠 능력도 있지만 기술 적응에 어려움이 있고 다른 팀원들과 갈등 이력이 있어, 민아를 콘텐츠 제작자로, 서진과 영수를 기술 지원에 배치하는 것이 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation-223,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-224,team_allocation,A,C,"### ANSWER
+C"
+team_allocation-225,team_allocation,B,B,"수민은 기술적 세부 사항과 데이터 관리에 강점이 있어 생산 관리 팀에 적합하고, 지혜와 태영은 각각 창의성과 시장 트렌드 통찰력으로 판매 전략 팀에 적합하다.
+
+### ANSWER
+B"
+team_allocation-226,team_allocation,B,B,"수민은 제품 개발 경험과 엔지니어링 역량이 뛰어나 제품 설계에 가장 적합하다. 지훈은 마케팅 캠페인 성공 경험과 발표 능력이 있어 마케팅에 강점이 있고, 태연은 디자인 소프트웨어와 창의적 문제 해결 능력으로 지훈을 보완할 수 있다. 또한 지훈과 태연은 이전에 높은 성과를 낸 신뢰 관계이고, 수민과 지훈/태연은 갈등이 있으므로 분리하는 것이 효율적이다. 따라서 제품 설계 팀에 수민, 마케팅 캠페인 팀에 지훈과 태연을 배정하는 B가 최적이다.
+
+### ANSWER
+B"
+team_allocation-227,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-228,team_allocation,B,B,"동민은 후원자 이벤트 주최 경험과 대면 미팅 성과로 후원자 관리팀에 적합합니다. 서현은 후원자 관리팀의 주요 업무를 피하려 하므로 후원자 관리팀보다 자원봉사 관리팀에 배치하는 것이 낫습니다. 지원은 사람을 직접 대하는 데 부담이 적고, 과거 자원봉사 프로젝트에서 협력 문제가 있었으므로 후원자 관리팀에 배치하는 것이 효율적입니다. 또한 지원과 동민은 과거 성공적인 협력 경험이 있어 함께 배치하는 것이 좋습니다.
+
+### ANSWER
+B"
+team_allocation-229,team_allocation,A,C,"### ANSWER
+C"
+murder_mysteries-174,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-175,murder_mysteries,B,A,"이레는 평소 도구 수집과 사용법 학습에 몰두했고, 이는 송곳을 사용한 범행과 직접적으로 연결됩니다. 또한 지연이 이레의 비밀 프로젝트에 대한 증거를 모아 공개하려 했다는 점에서 강력한 살해 동기가 성립합니다. 대화 중 이레가 움찔하며 회피한 점, 더운 날씨에도 두꺼운 옷과 선글라스로 자신을 숨기려 한 점도 의심을 강화합니다. 다희에게도 괴롭힘 피해 동기가 있지만, 범행 도구 및 결정적 동기 측면에서 이레가 가장 유력합니다.
+
+### ANSWER
+A"
+murder_mysteries-176,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-177,murder_mysteries,A,A,"동주는 벙커 설계도를 알고 있었고, 석궁 클럽 활동과 아버지로부터 물려받은 사냥 도구로 살해 수단을 가질 수 있었으며, 이안과의 사업 자금 및 소송 갈등으로 강한 동기가 있었다. 주리는 사냥 기술과 재정적 의문점이 있으나 직접적 살인 동기는 상대적으로 약하다.
+
+### ANSWER
+A"
+murder_mysteries-178,murder_mysteries,B,B,"수연은 폭파 장치 사용법을 능숙하게 시연했고, 폭파 전문가와 연락한 적이 있으며, 실제 모형 샘플을 갖고 있었다. 또한 가인의 비밀 장소인 벙커를 알고 자주 함께 간 사이였다. 반면 보미는 방송 장비와 화학 물질 외에 폭파와 직접적인 연관성이 드러나지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 수연이다.
+
+### ANSWER
+B"
+murder_mysteries-179,murder_mysteries,A,A,"보미는 라디오 DJ로서 다양한 화학 물질을 활용해 사운드 이펙트를 만들었고, 특수 화학 물질을 조달한 공급업체와의 접촉 기록이 있다. 이는 시한폭탄 제작에 필요한 화학적 지식과 재료 확보 가능성을 시사한다. 또한 보미는 가인과 함께 벙커에서 자주 실험했다고 말해 벙커의 구조와 위치를 잘 알고 있었다. 결정적으로 가인이 방송에서 가족의 과거 비밀을 폭로하는 듯한 내용을 다뤘고, 보미는 이를 의식하며 “가인의 비밀을 지켜주려 했다”고 말했지만 오히려 가족 관련 비밀이 동기가 될 수 있다. 반면 수연은 벙커 위치를 알고 몇 주 전 한 번 방문한 사실이 있지만, 폭탄 제작 능력이나 뚜렷한 살해 동기가 제시되지 않았다. 따라서 살인자일 가능성이 가장 높은 사람은 보미이다.
+
+### ANSWER
+A"
+murder_mysteries-180,murder_mysteries,B,A,"### ANSWER
+A"
+murder_mysteries-181,murder_mysteries,A,B,"### ANSWER
+B"
+team_allocation-136,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-137,team_allocation,A,B,"민재는 기획에 가장 적합하지만 서현과의 협업에 문제가 있고, 은지는 프로젝트 관리와 발표에 강하며 서현과 갈등이 있었습니다. 두 업무 모두 효율적으로 하려면 기획은 은지, 해설은 민재와 서현이 가장 균형 잡힌 조합입니다.
+
+### ANSWER
+B"
+team_allocation-138,team_allocation,B,B,"세진은 공간 배치와 부스 디자인에서 뛰어난 능력을 보였으므로 부스 배치 팀에 배정하는 것이 가장 효율적입니다. 도훈은 부스 배치에 관심이 없고 혼란을 겪은 적이 있으며, 나영도 공간 활용 경험이 부족하므로 부스 배치에는 적합하지 않습니다. 따라서 남은 나영과 도훈을 홍보 팀에 배정하는 B가 최선입니다.
+
+### ANSWER
+B"
+team_allocation-139,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-140,team_allocation,A,A,"서준과 민아는 과거 갈등으로 같은 팀에 배치하기 어렵다. 민아와 영훈은 협업 경험이 좋고 서로 보완할 수 있으므로 같은 팀이 적합하다. 서준은 침착함과 문제 해결 능력으로 경기 운영을 맡을 수 있다. 따라서 A가 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-141,team_allocation,B,B,"수민은 프로그램 기획에서 검증된 능력이 있고, 하린은 안전 관리와 세부 조율에 강점이 있습니다. 지호는 기획 경험은 있지만 안전 분야에서 실수가 잦았으므로, 하린의 보완 아래 안전 팀에 배치하는 것이 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-142,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-143,team_allocation,A,A,"### ANSWER
+A"
+object_placements-16,object_placements,A,A,"### ANSWER
+A"
+object_placements-17,object_placements,B,B,"### ANSWER
+B"
+object_placements-18,object_placements,A,A,"준호는 노트북이 사용 섹션에 있다는 기존 정보를 알고 있었고, 민지가 노트북을 탁자로 옮긴 것을 보지 못했으므로 가장 먼저 사용 섹션을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-19,object_placements,C,C,"준호는 참고서적을 자료 보관실로 옮겼고, 이후 나영이 그 책을 가져갔지만 준호는 이를 보지 못했으므로, 가장 먼저 확인할 곳은 자료 보관실이다.
+
+### ANSWER
+C"
+object_placements-20,object_placements,D,D,"### ANSWER
+D"
+object_placements-21,object_placements,C,C,"미래는 수첩이 원래 자료실 서가에 있었다는 정보를 알고 있었고, 유진이 수첩을 옮기는 장면을 보지 못했으므로 가장 먼저 자료실 서가를 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-22,object_placements,D,D,"승현은 USB 드라이브를 직접 개인 칸막이로 옮겼으므로, 그 위치를 알고 있다. 따라서 가장 먼저 개인 칸막이를 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-23,object_placements,C,C,"수첩은 처음에 자료실 서가에 있었지만, 유진이 그것을 열람실 테이블로 옮겼습니다. 그러나 승현은 당시 개인 연구 기록에 집중하고 있었고, 유진은 말없이 조용히 움직여 주의를 끌지 않았습니다. 따라서 승현은 수첩이 이동한 사실을 알지 못했을 가능성이 높습니다. 승현이 수첩을 찾으러 간다면 자신이 마지막으로 알고 있던 위치인 자료실 서가를 가장 먼저 확인할 것입니다.
+
+### ANSWER
+C"
+murder_mysteries-182,murder_mysteries,A,A,"### ANSWER
+A"
+murder_mysteries-183,murder_mysteries,B,A,"도연은 폭발물 설계도를 구매한 정황이 보고되었고, 화학 공장에서 폭발물 제조에 필요한 화학 물질을 다루며, 공장에서 빼돌린 재료와 관련된 흔적이 연결됩니다. 또한 자물쇠 비밀번호를 자주 바꾸고 문을 두 번 확인하는 등 폭발물 제조와 관련된 은밀하고 강박적인 행동이 드러납니다. 반면 유나는 일정 파악과 화학 연구 경력이 있지만, 직접적인 폭발물 제조나 재료 확보 정황은 제시되지 않았습니다. 따라서 살인자일 가능성이 가장 높은 사람은 도연입니다.
+
+### ANSWER
+A"
+murder_mysteries-184,murder_mysteries,A,A,"은진은 회사 보안팀에서 보안 절차를 검토·승인하는 역할을 맡아 사내 보안을 잘 알고 있다. 보안이 철저한 회사 사옥에서 발생한 살인 사건이라는 점에서 내부 보안 지식을 가진 인물이 범행에 유리하다. 또한 은진은 펜싱과 사냥을 즐기고 사냥 장비를 수집해 사냥용 칼을 사용할 능력과 도구를 갖췄으며, 지훈의 인종차별적 발언에 분노를 느꼈을 뿐 아니라 같은 팀에서 일하며 갈등이 있었다. 반면 새봄은 정치적 문제 폭로라는 동기는 있으나 회사 내부 접근성이나 보안 회피 능력이 부각되지 않는다. 따라서 살인자일 가능성이 가장 높은 사람은 은진이다.
+
+### ANSWER
+A"
+murder_mysteries-185,murder_mysteries,B,B,"Saebom has a clearer motive: Jihoon was secretly connected to her political rival and gathering undisclosed political information. She also recently bought new hunting gear and openly discusses hunting, matching the murder weapon. Eunjin is secretive and has relevant skills, but no direct motive is established.
+
+### ANSWER
+B"
+murder_mysteries-186,murder_mysteries,B,B,"살인 도구가 공기총이라는 점에서 사격 실력을 갖춘 인물이 유력하다. 영규는 사격 클럽 5년차 명사수이고, 사건 당일에도 사격 연습을 했으며, 등산 장소 근처에 있을 예정이었다. 또한 찬우의 부주의로 중요한 공연 기회를 잃은 원한도 있다. 태현에게도 불법 거래 목격 동기가 있지만, 공기총 사용 능력과 현장 관련성은 영규가 더 높다.
+
+### ANSWER
+B"
+murder_mysteries-187,murder_mysteries,A,A,"태현은 공기총 사격 클럽 활동을 하며 총기를 자주 소지했고, 찬우가 태현에게 공기총을 건넸다는 정보가 있어 범행 도구와 직접 연결된다. 또한 찬우가 태현의 불법 중고차 거래를 목격·문서화하고 다른 업체에 누설해 태현에게 강한 동기가 생겼다. 반면 영규는 공연 기회를 잃은 원한이 있지만 총기나 현장 관련 직접적 단서가 약하다. 따라서 살인자일 가능성은 태현이 가장 높다.
+
+### ANSWER
+A"
+object_placements-198,object_placements,C,C,"### ANSWER
+C"
+object_placements-199,object_placements,D,D,"소희가 펜을 직접 책장 한 칸에 놓았으므로, 펜을 찾으러 가장 먼저 책장을 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-200,object_placements,A,A,"진수는 마지막에 교과서를 직접 집어 가방 안으로 옮겼기 때문에, 교과서를 찾으려면 자신이 둔 가방을 가장 먼저 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-201,object_placements,B,B,"### ANSWER
+B"
+object_placements-202,object_placements,C,C,"Haemin last knew the textbook was on the desk after moving it there, and he did not see Jin-su put it into the bag.
+
+### ANSWER
+C"
+object_placements-203,object_placements,B,B,"해민은 처음에 펜이 사물함에 있다는 사실을 알고 있었다. 소희가 펜을 책장으로 옮겼지만, 그때 해민은 다른 자료를 살피고 있었고 진수에게 문제를 묻느라 시선을 고정하고 있었으므로 이를 보지 못했다. 따라서 해민은 여전히 펜이 사물함에 있다고 생각할 것이다.
+
+### ANSWER
+B"
+object_placements-204,object_placements,C,C,"### ANSWER
+C"
+object_placements-205,object_placements,B,B,"동수는 승희가 공을 벤치로 옮기는 것을 보았지만, 이후 찬우가 공을 연습장 한쪽으로 옮기는 것은 보지 못했다. 따라서 동수가 가장 먼저 확인할 곳은 벤치이다.
+
+### ANSWER
+B"
+object_placements-96,object_placements,C,C,"소영은 처음에 수첩이 책상 위에 있다는 것을 알고 있었고, 지현이 수첩을 서랍에 넣는 동안 소영은 자료 검토에 집중하고 있어 그 모습을 보지 못했다. 따라서 소영은 수첩이 여전히 책상 위에 있을 것으로 생각하므로 가장 먼저 책상을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-97,object_placements,A,A,"### ANSWER
+A"
+object_placements-98,object_placements,B,B,"### ANSWER
+B"
+object_placements-99,object_placements,A,A,"### ANSWER
+A"
+object_placements-100,object_placements,D,D,"민우는 수첩을 가방에서 꺼내 책상으로 옮겼고, 이후 수첩이 다른 곳으로 옮겨졌다는 언급이 없다. 따라서 민우는 수첩을 찾기 위해 책상을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-101,object_placements,D,D,"### ANSWER
+D"
+object_placements-102,object_placements,A,A,"수연은 수첩이 가방에 있다는 초기 정보를 알고 있었고, 민우가 수첩을 책상으로 옮기는 것을 보지 못했기 때문에 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-103,object_placements,C,B,"### ANSWER
+B"
+team_allocation-144,team_allocation,B,C,"### ANSWER
+C"
+team_allocation-145,team_allocation,A,B,"### ANSWER
+B"
+team_allocation-146,team_allocation,C,C,"현장 관리 팀에는 빠른 판단과 문제 해결 능력이 필요한데, 상호는 현장 관리 경험과 문제 해결 능력이 뛰어나고 민지는 스트레스 상황에서도 침착하게 대처한 경험이 있습니다. 또한 민지와 상호는 과거에 성공적으로 협업한 적이 있어 함께 배치하는 것이 좋습니다. 지은은 소통과 현장 대응 모두에 약점이 있지만, 세 선택지 중 현장 관리 팀의 효율성을 최대화하고 상호-지은 간 갈등을 피할 수 있는 배치는 C입니다.
+
+### ANSWER
+C"
+team_allocation-147,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-148,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-149,team_allocation,B,B,"서진은 편집 경험이 뛰어나지만 마케팅 성과가 낮고 창의적 활동을 꺼리므로 편집 팀에 단독 배치하는 것이 적합합니다. 건우와 민지는 모두 마케팅 경험이 있고 서로 성공적인 협업 이력이 있으므로 마케팅 팀에 함께 배치하는 것이 효율적입니다. 또한 서진과 건우, 서진과 민지 사이의 갈등 가능성도 피할 수 있습니다.
+
+### ANSWER
+B"
+team_allocation-150,team_allocation,A,A,"수현은 편집 능력이 뛰어나고, 지훈은 디자인 능력이 뛰어나며, 미나는 디자인 관련 교육과 큰 그림을 보는 능력이 있으므로 편집자로 수현, 디자이너로 미나와 지훈을 배치하는 것이 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-151,team_allocation,C,B,"민재는 마케팅 전공과 성공 경험이 있어 마케터로 적합하고, 지우는 편집 경험과 언어학적 전문성이 뛰어나 편집자로 적합합니다. 수현은 편집에 약점이 있어 편집자보다는 마케팅 보조 역할이 낫습니다. 따라서 편집자: 지우, 마케터: 민재, 수현이 가장 효율적입니다.
+
+### ANSWER
+B"
+team_allocation-40,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-41,team_allocation,C,C,"수민과 아영은 데이터 분석에 강점이 있고 협력도 잘 되므로 데이터 분석 팀에 배치하는 것이 효율적입니다. 지훈은 데이터에 적합하지 않고 갈등 요소가 있으므로 사용자 인터페이스 팀에 배치하는 것이 최선입니다.
+
+### ANSWER
+C"
+team_allocation-42,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-43,team_allocation,B,B,"세아는 창의적 아이디어와 큰 그림에 강점이 있어 기능 설계에 적합하고, 수혁은 꼼꼼함과 규칙 준수에 강해 보안 검토에 적합하다. 민지는 보안 규정 이해와 세부 검토에 약하므로, 세아를 기능 설계에, 수혁을 보안 검토에 포함한 B가 가장 효율적이다.
+
+### ANSWER
+B"
+team_allocation-44,team_allocation,B,A,"### ANSWER
+A"
+team_allocation-45,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-46,team_allocation,C,C,"수혁은 다은, 민재와 모두 갈등 이력이 있어 같은 팀에 두면 효율이 떨어진다. 반면 다은과 민재는 협업 경험이 좋고 서로 긍정적이다. 따라서 갈등이 없는 다은·민재를 현장 관리 팀으로, 설계 전문가인 수혁을 설계 팀에 단독 배치하는 것이 가장 효율적이다.
+
+### ANSWER
+C"
+team_allocation-47,team_allocation,B,B,"성민은 큰 그림과 전체 전략을 선호하므로 게임 디자이너에 적합하고, 지우는 세부 사항에 철저하고 논리적이므로 QA 테스트에 적합합니다. 다혜는 프로세스 관리 능력으로 QA 업무를 보조하는 것이 효율적입니다.
+
+### ANSWER
+B"
+object_placements-24,object_placements,D,A,"### ANSWER
+A"
+object_placements-25,object_placements,B,B,"유진이 수첩을 자료실 서가에서 열람실 테이블로 직접 옮겼고, 이후 수첩의 위치가 바뀌었다는 언급이 없으므로 가장 먼저 열람실 테이블을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-26,object_placements,B,B,"도연은 USB를 책상에서 서랍으로 직접 옮겼으므로, USB를 찾을 때 가장 먼저 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-27,object_placements,A,A,"도연이 마지막으로 백업 하드 드라이브를 금고로 옮겼으므로, 가장 먼저 확인할 곳은 금고이다.
+
+### ANSWER
+A"
+object_placements-28,object_placements,D,D,"### ANSWER
+D"
+object_placements-29,object_placements,C,C,"### ANSWER
+C"
+object_placements-30,object_placements,B,B,"### ANSWER
+B"
+object_placements-31,object_placements,A,A,"지수는 처음에 백업 하드 드라이브가 금고에 있다는 사실을 알고 있었다. 상혁이 서버실로 옮긴 과정은 도연에게만 공유되었고, 지수는 그 사실을 알지 못했다. 이후 도연이 하드 드라이브를 금고로 옮기는 것을 지수가 목격했으므로, 지수가 가장 먼저 확인할 곳은 금고이다.
+
+### ANSWER
+A"
+team_allocation-230,team_allocation,B,B,"수민은 연구개발에 가장 적합하고, 지호는 마케팅에 가장 적합하며, 지호와 다영은 협업이 잘 된다. B안이 강점을 살리고 갈등을 최소화한다.
+
+### ANSWER
+B"
+team_allocation-231,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-232,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-233,team_allocation,B,A,"Event planning requires creativity and flexibility, which fits 지훈 best. 민수 is change-averse and stressed by detailed planning, and 세영 is rigid and struggles with multitasking, so neither suits event planning. Sponsor management needs detailed planning and persistent relationships; while 민수 and 세영 have interpersonal weaknesses, they are still the better pair compared to placing 지훈 there, given his shallow relationships and tendency for mistakes.
+
+### ANSWER
+A"
+team_allocation-234,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-235,team_allocation,B,A,"### ANSWER
+A"
+team_allocation-236,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-237,team_allocation,B,B,"지수는 상품 기획에 강점이 있고, 미영은 시장 분석과 전략 수립에 강점이 있으며, 성훈은 마케팅 콘텐츠 개발에 강점이 있습니다. 또한 지수와 미영은 충돌 이력이 있으므로 분리하는 것이 효율적입니다. 따라서 지수를 상품 기획 팀에, 미영과 성훈을 마케팅 팀에 배치하는 것이 가장 적절합니다.
+
+### ANSWER
+B"
+team_allocation-152,team_allocation,B,B,"지수는 편집 전문가로서 가장 적합하고, 소라는 마케팅 전략과 네트워크가 강점이며, 현우는 마케팅 트렌드와 빠른 결정력으로 소라와 협업도 잘 맞는다. 따라서 편집에 지수, 마케팅에 소라와 현우를 배정하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation-153,team_allocation,C,B,"영호는 작가와의 원활한 소통과 꼼꼼함, 출간 경험으로 저자 관리에 가장 적합합니다. 미나는 창의적 아이디어와 캠페인 경험으로 마케팅에 적합합니다. 수진은 작가와의 소통에 어려움이 있으므로 마케팅 쪽에 배치하는 것이 낫습니다.
+
+### ANSWER
+B"
+team_allocation-154,team_allocation,A,A,"서현은 디자인에 강점이 있고, 도연은 마케팅과 데이터 분석에 강점이 있으므로 각각 그래픽 디자이너와 마케팅 전략가로 배정하는 것이 효율적이다. 진우는 두 분야 모두 약하므로 마케팅 쪽에 보조로 두는 A가 최선이다.
+
+### ANSWER
+A"
+team_allocation-155,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-156,team_allocation,A,A,"소희는 문법·편집 능력이 뛰어나 콘텐츠 편집자로 가장 적합하고, 민지는 카메라 장비와 촬영 능력이 뛰어나 사진 촬영자로 적합하다. 도현은 두 분야 모두 약하고 팀워크에도 문제가 있으므로 핵심 역할보다는 보조나 제외가 낫다. 따라서 편집은 소희, 촬영은 민지가 맡는 배치가 가장 효율적이다.
+
+### ANSWER
+A"
+team_allocation-157,team_allocation,C,B,"다영은 소비자 심리 이해와 대인 관계 능력이 뛰어나 마케팅 팀에 배치하는 것이 가장 적절합니다. 따라서 다영이 디자인 팀에 들어가는 B는 부적절합니다. 디자인 팀에는 창의성과 세부 집중력이 중요한데, 혜민은 창의적 아이디어와 세부 집중에 어려움이 있어 디자인보다는 마케팅 보조로 적합합니다. 서진은 패션 업계 경험이 있어 디자인 팀에 상대적으로 나은 선택입니다. 그러므로 C가 가장 효율적입니다.
+
+### ANSWER"
+object_placements-104,object_placements,A,A,"지현은 처음에 수첩이 가방에 있다는 사실을 알고 있었다. 이후 민우가 수첩을 책상으로 옮겼지만, 지현은 그가 옮기는 물건을 세세히 확인하지 않았으므로 수첩의 위치 변화를 알지 못한다. 따라서 가장 먼저 가방을 확인할 것이다.
+
+### ANSWER
+A"
+object_placements-105,object_placements,C,C,"지현은 캘린더를 직접 서랍 안으로 옮겼기 때문에, 가장 먼저 서랍을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-106,object_placements,A,C,"### ANSWER
+C"
+object_placements-107,object_placements,D,D,"### ANSWER
+D"
+object_placements-108,object_placements,A,A,"### ANSWER
+A"
+object_placements-109,object_placements,D,D,"### ANSWER
+D"
+object_placements-110,object_placements,B,C,"### ANSWER
+C"
+object_placements-111,object_placements,D,D,"지민은 노트북을 직접 창고 선반으로 옮겼기 때문에, 노트북을 찾으려면 가장 먼저 창고 선반을 확인할 것이다.
+
+### ANSWER
+D"
+team_allocation-48,team_allocation,B,B,"수민은 세심하고 논리적이며 QA 경험이 검증되었고, 태훈은 기술적 오류를 잡는 데 강점이 있으며 둘은 협력 경험도 좋습니다. 따라서 QA는 수민과 태훈이 가장 효율적입니다. 은지는 창의적 업무를 선호하므로 게임 디자이너에 배치하는 것이 갈등을 줄이고 역할 적합성을 고려한 최선입니다.
+
+### ANSWER
+B"
+team_allocation-49,team_allocation,B,B,"수현은 도영, 민지와 갈등 이력이 있으므로 같은 역할로 묶지 않는 것이 좋다. 도영과 민지는 긍정적 관계이므로 함께 마케팅을 맡기고, 게임 개발 역량이 뛰어난 수현을 게임 디자이너로 배치하는 것이 효율적이다.
+
+### ANSWER
+B"
+team_allocation-50,team_allocation,A,A,"수현은 창의적 게임 디자인에 강점이 있고, 나영은 반복적이고 세부적인 QA 업무에 적합합니다. 지훈도 디테일과 버그 발견 능력이 뛰어나 QA를 보조할 수 있습니다.
+
+### ANSWER
+A"
+team_allocation-51,team_allocation,C,C,"Sujin is the most creative and intuitive, making her the best fit for game design despite her detail weaknesses. Youngmin and Jihyun have good past teamwork and complementary practical/logical strengths, which suits marketing better. Pairing Sujin with either of them risks conflict, so separating her is optimal.
+
+### ANSWER
+C"
+team_allocation-52,team_allocation,A,B,"### ANSWER
+B"
+team_allocation-53,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-54,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-55,team_allocation,A,A,"### ANSWER
+A"
+object_placements-206,object_placements,D,D,"승희는 물병이 원래 차 트렁크에 있었다는 사실을 알고 있었지만, 동수가 물병을 연습장 한쪽으로 옮기는 동안 명단 정리에 집중하고 있어 그 이동을 보지 못했다. 따라서 승희가 가장 먼저 확인할 곳은 처음 알고 있던 위치인 차 트렁크다.
+
+### ANSWER
+D"
+object_placements-207,object_placements,C,C,"### ANSWER
+C"
+object_placements-208,object_placements,C,D,"찬우는 처음에 물병이 차 트렁크에 있다는 것을 알고 있었고, 동수가 물병을 옮기는 장면을 보지 못했으므로 여전히 차 트렁크를 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-209,object_placements,C,A,"### ANSWER
+A"
+object_placements-210,object_placements,B,B,"수진은 채영이 카드를 책상에서 서랍으로 옮기는 모습을 보았지만, 이후 서랍에서 가방으로 옮기는 것은 보지 못했다. 따라서 수진이 가장 먼저 확인할 곳은 서랍이다.
+
+### ANSWER
+B"
+object_placements-211,object_placements,D,A,"수진은 지훈이 풍선을 서랍에서 꺼내 파티 장소로 옮기며 보여주고 설명하는 것을 보았으므로, 풍선이 파티 장소에 있음을 알고 있다. 따라서 풍선을 찾으러 가장 먼저 파티 장소를 확인할 것이다.
+
+### ANSWER"
+object_placements-212,object_placements,C,C,"### ANSWER
+C"
+object_placements-213,object_placements,D,D,"### ANSWER
+D"
+object_placements-214,object_placements,A,A,"### ANSWER
+A"
+object_placements-215,object_placements,D,D,"### ANSWER
+D"
+object_placements-216,object_placements,D,D,"### ANSWER
+D"
+object_placements-217,object_placements,B,B,"### ANSWER
+B"
+object_placements-218,object_placements,C,C,"채영은 USB가 원래 선반에 있었고, 서윤이 USB를 책상으로 옮기는 장면을 보지 못했다. 그녀가 마지막으로 알고 있는 USB의 위치는 선반이므로 가장 먼저 선반을 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-219,object_placements,A,A,"### ANSWER
+A"
+team_allocation-238,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-239,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-240,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-241,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-242,team_allocation,A,A,"### ANSWER
+A"
+team_allocation-243,team_allocation,C,A,"영호는 아티스트와의 신뢰와 창의적 아이디어가 강점이므로 아티스트 관리에 적합하고, 수진과 다현은 분석적 역량이 뛰어나 마케팅 팀에 적합하다.
+
+### ANSWER
+A"
+team_allocation-244,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-245,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-56,team_allocation,C,A,"### ANSWER
+A"
+team_allocation-57,team_allocation,C,C,"채은은 디자인 강점과 경험이 뚜렷하므로 사용자 경험 디자이너로 적합하고, 민지는 백엔드 개발 경험과 기술 역량이 뛰어나므로 백엔드 개발자로 적합하다. 지후는 백엔드 경험은 부족하지만 시스템 아키텍처에 관심이 있고 민지와 협업이 원활하므로 백엔드 팀에서 민지를 보완하는 역할이 가장 효율적이다. 다른 선택지는 강점과 경험에 반하는 배치이므로 C가 최선이다.
+
+### ANSWER
+C"
+team_allocation-58,team_allocation,C,B,"### ANSWER
+B"
+team_allocation-59,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-60,team_allocation,C,C,"서진은 디자인 기술에 깊은 이해가 있고 시장 분석에는 약하므로 제품 디자이너에 적합합니다. 영훈은 소비자 심리와 시장 동향에 강해 판매 전략가로 적합하며, 민아는 소통 능력과 판매 프로젝트 경험으로 판매 전략을 보조할 수 있습니다. 따라서 C가 가장 효율적입니다.
+
+### ANSWER
+C"
+team_allocation-61,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-62,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-63,team_allocation,C,C,"### ANSWER
+C"
+object_placements-112,object_placements,C,C,"민정은 노트북이 처음에 책상 위에 있다고 알고 있었고, 상우가 테이블로 옮기는 장면을 보지 못했으므로 책상을 먼저 확인할 것이다.
+
+### ANSWER
+C"
+object_placements-113,object_placements,C,C,"### ANSWER
+C"
+object_placements-114,object_placements,D,D,"상우는 노트북을 책상에서 테이블로 직접 옮겼으므로, 현재 위치인 테이블을 가장 먼저 확인할 것이다.
+
+### ANSWER
+D"
+object_placements-115,object_placements,C,C,"### ANSWER
+C"
+object_placements-116,object_placements,D,D,"### ANSWER
+D"
+object_placements-117,object_placements,C,C,"### ANSWER
+C"
+object_placements-118,object_placements,B,B,"### ANSWER
+B"
+object_placements-119,object_placements,A,A,"민재는 태훈이 수첩을 작은 서랍으로 옮기는 것을 보지 못했고, 이후에도 수첩이 이동하는 장면을 목격하지 않았다. 따라서 민재가 알고 있는 수첩의 위치는 처음 그대로인 긴 테이블이다.
+
+### ANSWER
+A"
+team_allocation-246,team_allocation,A,A,"지훈은 UI/UX 강점이 뚜렷하므로 사용자 경험 팀에, 미영은 데이터 보안 전문가이므로 보안 팀에 배치하는 것이 적절하다. 수진은 미영과 협업 경험이 좋고 지훈과는 마찰이 있으므로 보안 팀에서 미영과 함께하는 것이 효율적이다.
+
+### ANSWER
+A"
+team_allocation-247,team_allocation,B,B,"### ANSWER
+B"
+team_allocation-248,team_allocation,C,C,"### ANSWER
+C"
+team_allocation-249,team_allocation,A,A,"### ANSWER
+A"
+object_placements-120,object_placements,D,D,"지영은 선물을 긴 테이블에서 중간 선반으로 직접 옮겼다. 이후 민재가 중간 선반에서 비밀 보관함으로 옮기는 장면은 지영이 다른 직원과 대화하느라 보지 못했다. 따라서 지영이 기억하는 선물의 마지막 위치는 중간 선반이다.
+
+### ANSWER
+D"
+object_placements-121,object_placements,C,C,"### ANSWER
+C"
+object_placements-122,object_placements,B,B,"태훈은 민재가 선물을 중간 선반에서 비밀 보관함으로 옮기는 과정을 주의 깊게 지켜보았으므로, 선물의 현재 위치를 비밀 보관함으로 알고 있다. 따라서 가장 먼저 비밀 보관함을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-123,object_placements,C,C,"### ANSWER
+C"
+object_placements-124,object_placements,B,B,"민재는 유나가 기록 카드를 실험실 서랍으로 옮기는 과정을 직접 확인했으므로, 가장 먼저 실험실 서랍을 확인할 것이다.
+
+### ANSWER
+B"
+object_placements-125,object_placements,A,A,"민재는 처음부터 화학 약품이 보관 캐비닛에 있다는 사실을 알고 있었고, 마지막에 책상 위의 약품을 직접 보관 캐비닛에 넣고 문을 닫았으므로, 약품을 찾기 위해 가장 먼저 확인할 곳은 보관 캐비닛이다.
+
+### ANSWER
+A"

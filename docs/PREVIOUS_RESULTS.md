@@ -1,132 +1,16 @@
 # Previous Results
 
-This file archives per-model detailed results for models benchmarked before the current round in
-[../README.md](../README.md#-results) (GPT-5.6 Sol/Terra/Luna, Claude Sonnet 5, Claude Opus 5, and
-DeepSeek-V4-Flash-0731). See [DETAILED_RESULTS.md](DETAILED_RESULTS.md) for full per-category breakdowns
-across all historical models.
+This file archives per-benchmark results for models from rounds before the current one — GPT-5.2,
+GPT-5.1, GPT-5, Nova 2, GPT-4.1, GPT-4o, GPT-4-turbo, GPT-3.5-turbo, Phi and Llama — split into
+proprietary and open-source tables.
 
-## Aug 4, 2026 round: GPT-5.6 (Sol/Terra/Luna) vs. DeepSeek-V4-Flash-0731 (non-reasoning)
+Current round (GPT-5.6 Sol/Terra/Luna, Claude Sonnet 5, Claude Opus 5, DeepSeek-V4-Flash-0731):
+[../README.md](../README.md#-results) and [RESULTS.md](RESULTS.md).
 
-This was the first pass of the current benchmark round, before Claude Sonnet 5 / Opus 5 were added
-and before DeepSeek-V4-Flash-0731 was re-run with reasoning enabled (`reasoning=high`). See
-[../README.md](../README.md#-results) for the superseding 7-model comparison.
+> **Disclaimer:** personal benchmark runs, not official vendor results — reference only. See the
+> full [disclaimer](../README.md#-disclaimer) in the README.
 
 ### CLIcK
-
-#### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:----------------|--------------:|----------------:|---------------:|--------------------:|
-| Culture         |         94.76 |           91.45 |          91.3  |               80.37 |
-| Language        |         97.04 |           93.85 |          92    |               80    |
-| **Overall**     |         95.5  |           92.24 |          91.53 |               80.25 |
-
-<details>
-<summary>Click to view Accuracy by category</summary>
-
-##### Accuracy by category
-| supercategory   | category    |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:----------------|:------------|--------------:|----------------:|---------------:|--------------------:|
-| Culture         | Economy     |        100    |           98.31 |         100    |               94.92 |
-| Culture         | Geography   |         96.18 |           92.37 |          93.13 |               83.97 |
-| Culture         | History     |         89.29 |           85    |          87.14 |               63.57 |
-| Culture         | Law         |         98.58 |           90.41 |          91.32 |               69.41 |
-| Culture         | Politics    |         90.48 |           92.21 |          86.9  |               86.9  |
-| Culture         | Pop Culture |         97.56 |           97.5  |         100    |               90.24 |
-| Culture         | Society     |         96.12 |           95.22 |          94.17 |               91.26 |
-| Culture         | Tradition   |         95.05 |           91.89 |          89.19 |               86.94 |
-| Language        | Functional  |         98.4  |           96.8  |          92    |               88    |
-| Language        | Grammar     |         96.98 |           89.58 |          90    |               62.08 |
-| Language        | Textual     |         96.49 |           96.14 |          93.68 |               91.58 |
-</details>
-
-### HAE_RAE_BENCH 1.0
-
-| category              |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:----------------------|--------------:|----------------:|---------------:|--------------------:|
-| General Knowledge     |         94.32 |           91.48 |          89.2  |               72.16 |
-| History               |         96.81 |           96.28 |          96.28 |               92.55 |
-| Loan Words            |         95.27 |           91.72 |          92.9  |               77.51 |
-| Rare Words            |         94.96 |           93.09 |          95.56 |               90.12 |
-| Reading Comprehension |         92.84 |           91.72 |          90.83 |               85.91 |
-| Standard Nomenclature |         96.08 |           94.12 |          94.77 |               81.7  |
-| **Overall**           |         94.64 |           92.85 |          93.17 |               84.92 |
-
-### KoBALT-700
-
-| category (difficulty) |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:-----------------------|--------------:|----------------:|---------------:|--------------------:|
-| Easy                   |         98.9  |           97.8  |          97.25 |               85.16 |
-| Moderate               |         90.45 |           89.09 |          87.73 |               50.91 |
-| Hard                   |         70.81 |           54.36 |          56.71 |               25.17 |
-| **Overall**            |         84.29 |           76.57 |          77    |               48.86 |
-
-### KMMLU-HARD (0-shot)
-
-#### Accuracy by supercategory
-| supercategory   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:----------------|--------------:|----------------:|---------------:|--------------------:|
-| Applied Science |         85.56 |           78.37 |          76.08 |               59.5  |
-| HUMSS           |         87.27 |           76.81 |          75.74 |               55.41 |
-| Other           |         81.05 |           74.14 |          71.65 |               50.88 |
-| STEM            |         86.27 |           81.41 |          79    |               60.55 |
-| **Overall**     |         85.04 |           77.86 |          75.76 |               56.92 |
-
-<details>
-<summary>Click to view Accuracy by category</summary>
-
-##### Accuracy by category
-| supercategory   | category                                   |   GPT-5.6 Sol |   GPT-5.6 Terra |   GPT-5.6 Luna |   DeepSeek-V4-Flash-0731 |
-|:----------------|:-------------------------------------------|--------------:|----------------:|---------------:|--------------------:|
-| Applied Science | Aviation-Engineering-and-Maintenance       |         85    |           82.61 |          77    |               65    |
-| Applied Science | Electronics-Engineering                    |         95    |           90    |          85    |               80    |
-| Applied Science | Energy-Management                          |         89    |           83    |          79    |               54    |
-| Applied Science | Environmental-Science                      |         87    |           74    |          72    |               49    |
-| Applied Science | Gas-Technology-and-Engineering             |         83.7  |           78    |          77    |               51    |
-| Applied Science | Geomatics                                  |         90    |           85.06 |          86    |               61    |
-| Applied Science | Industrial-Engineer                        |         69    |           62    |          60    |               44    |
-| Applied Science | Machine-Design-and-Manufacturing           |         88    |           81    |          77    |               62    |
-| Applied Science | Maritime-Engineering                       |         91    |           82    |          82    |               65    |
-| Applied Science | Nondestructive-Testing                     |         76    |           66    |          69    |               61    |
-| Applied Science | Railway-and-Automotive-Engineering         |         88    |           80    |          76    |               59    |
-| Applied Science | Telecommunications-and-Wireless-Technology |         84.78 |           78    |          73    |               63    |
-| HUMSS           | Accounting                                 |         97.83 |           95.65 |          89.13 |               73.91 |
-| HUMSS           | Criminal-Law                               |         82.61 |           57    |          62    |               47    |
-| HUMSS           | Economics                                  |         95.24 |           90.48 |          80.95 |               64.29 |
-| HUMSS           | Education                                  |        100    |           95.65 |          95.65 |               78.26 |
-| HUMSS           | Korean-History                             |         84.09 |           72.73 |          75    |               40.91 |
-| HUMSS           | Law                                        |         78    |           70    |          68    |               48    |
-| HUMSS           | Management                                 |         90    |           80    |          74    |               62    |
-| HUMSS           | Political-Science-and-Sociology            |         87.78 |           83.33 |          86.67 |               60    |
-| HUMSS           | Psychology                                 |         92    |           86    |          76    |               55    |
-| HUMSS           | Social-Welfare                             |         84    |           82    |          78    |               65    |
-| HUMSS           | Taxation                                   |         86.46 |           62.5  |          73.96 |               39.58 |
-| Other           | Agricultural-Sciences                      |         76    |           73    |          68    |               48    |
-| Other           | Construction                               |         81    |           72    |          73    |               52    |
-| Other           | Fashion                                    |         67    |           58    |          52    |               32    |
-| Other           | Food-Processing                            |         75    |           74    |          64    |               50    |
-| Other           | Health                                     |         86.96 |           91.3  |          86.96 |               65.22 |
-| Other           | Interior-Architecture-and-Design           |         88    |           77    |          82    |               64    |
-| Other           | Marketing                                  |         75    |           72.83 |          66    |               56    |
-| Other           | Patent                                     |         92.16 |           74.51 |          70.59 |               31.37 |
-| Other           | Public-Safety                              |         78    |           68    |          75    |               49    |
-| Other           | Real-Estate                                |         93.26 |           76.4  |          78.65 |               44.94 |
-| Other           | Refrigerating-Machinery                    |         91.3  |           92    |          84    |               68    |
-| STEM            | Biology                                    |         87    |           79    |          77    |               50    |
-| STEM            | Chemical-Engineering                       |         88    |           85    |          84    |               61    |
-| STEM            | Chemistry                                  |         94    |           90    |          91    |               77    |
-| STEM            | Civil-Engineering                          |         78    |           73    |          71    |               56    |
-| STEM            | Computer-Science                           |         81    |           78.26 |          73    |               69    |
-| STEM            | Ecology                                    |         77    |           69    |          70    |               53    |
-| STEM            | Electrical-Engineering                     |         85    |           73    |          75    |               55    |
-| STEM            | Information-Technology                     |         91    |           87.63 |          78    |               75    |
-| STEM            | Materials-Engineering                      |         88    |           84.78 |          81    |               64    |
-| STEM            | Math                                       |         89    |           91    |          88    |               39    |
-| STEM            | Mechanical-Engineering                     |         91    |           85    |          81    |               67    |
-</details>
-
-
-
-
 #### Proprietary models
 
 ##### Accuracy by supercategory
@@ -359,3 +243,122 @@ and before DeepSeek-V4-Flash-0731 was re-run with reasoning enabled (`reasoning=
 | STEM            |                 22.25 |   24.25 |                  28.18 |                   24.36 |                           26.91 |                   24.64 |
 | **Overall**     |                 25.27 |   24.24 |                  25.34 |                   24    |                           25.68 |                   24.03 |
 
+### KMMLU (5-shot)
+
+#### Accuracy by supercategory
+| supercategory   |   Phi-4 |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Phi-3-mini-128k-instruct-June |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo |   GPT-3.5-turbo |
+|:----------------|--------:|-----------------------:|------------------------:|--------------------------------:|------------------------:|---------:|--------------:|--------------:|----------------:|
+| Applied Science |   48.44 |                  45.9  |                   37.42 |                           29.98 |                   19.24 |    61.47 |         48.66 |         56.85 |           40.22 |
+| HUMSS           |   54.46 |                  49.18 |                   34.72 |                           27.27 |                   22.5  |    68.79 |         55.95 |         63.68 |           43.35 |
+| Other           |   49.2  |                  48.43 |                   37.04 |                           30.76 |                   20.95 |    64.21 |         51.1  |         57.85 |           41.92 |
+| STEM            |   53.31 |                  49.21 |                   38.9  |                           30.73 |                   19.55 |    65.28 |         53.29 |         61.08 |           44.43 |
+| **Overall**     |   50.88 |                  47.92 |                   37.35 |                           29.98 |                   20.21 |    64.28 |         51.62 |         59.29 |           42.28 |
+
+#### Accuracy by category
+| supercategory   | category                                   |   Phi-4 |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Phi-3-mini-128k-instruct-June |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo |   GPT-3.5-turbo |
+|:----------------|:-------------------------------------------|--------:|-----------------------:|------------------------:|--------------------------------:|------------------------:|---------:|--------------:|--------------:|----------------:|
+| Applied Science | Aviation-Engineering-and-Maintenance       |   49.6  |                  46.6  |                   34.3  |                           33.8  |                   17.4  |    70.8  |         50.6  |         61.9  |           40.1  |
+| Applied Science | Electronics-Engineering                    |   60.3  |                  53.1  |                   46.9  |                           37.3  |                   18.6  |    72.3  |         63.5  |         72.7  |           50.6  |
+| Applied Science | Energy-Management                          |   40.1  |                  34.7  |                   29.4  |                           25.3  |                   21.2  |    52.2  |         38.4  |         44.8  |           32.3  |
+| Applied Science | Environmental-Science                      |   38.2  |                  34.6  |                   33.3  |                           22.7  |                   11.2  |    48.2  |         36.5  |         40.9  |           32.8  |
+| Applied Science | Gas-Technology-and-Engineering             |   42.1  |                  40.4  |                   30.3  |                           31.9  |                   15.5  |    49.9  |         37.9  |         47.6  |           34.4  |
+| Applied Science | Geomatics                                  |   44.6  |                  46.9  |                   37.3  |                           33.3  |                   23    |    48.8  |         39.9  |         49.7  |           37.6  |
+| Applied Science | Industrial-Engineer                        |   50.3  |                  48.5  |                   41.2  |                           35.4  |                    4.3  |    64    |         52.5  |         55.5  |           39.5  |
+| Applied Science | Machine-Design-and-Manufacturing           |   50.9  |                  48.9  |                   37.5  |                           29.9  |                   22.1  |    68.4  |         54.4  |         64    |           44.3  |
+| Applied Science | Maritime-Engineering                       |   49.5  |                  47.67 |                   36.5  |                           27.33 |                   16.83 |    69.5  |         53.33 |         65.17 |           46.33 |
+| Applied Science | Nondestructive-Testing                     |   51.8  |                  50.1  |                   40.7  |                           22.6  |                   26.7  |    64.7  |         51.4  |         59.9  |           41.1  |
+| Applied Science | Railway-and-Automotive-Engineering         |   40.6  |                  40.2  |                   32.8  |                           27.1  |                   19.1  |    55.4  |         42.2  |         49.2  |           35.5  |
+| Applied Science | Telecommunications-and-Wireless-Technology |   63.7  |                  59.8  |                   48.5  |                           32.1  |                   34    |    76.7  |         65.2  |         74.2  |           50.5  |
+| HUMSS           | Accounting                                 |   52    |                  51    |                   36    |                           25    |                   15    |    67    |         46    |         63    |           37    |
+| HUMSS           | Criminal-Law                               |   37    |                  28.5  |                   25    |                           26.5  |                   14    |    51.5  |         37.5  |         46    |           38.5  |
+| HUMSS           | Economics                                  |   63.08 |                  51.54 |                   37.69 |                           29.23 |                   23.08 |    83.08 |         61.54 |         72.31 |           39.23 |
+| HUMSS           | Education                                  |   60    |                  58    |                   38    |                           26    |                   20    |    86    |         69    |         76    |           48    |
+| HUMSS           | Korean-History                             |   36    |                  30    |                   33    |                           29    |                   12    |    50    |         31    |         33    |           34    |
+| HUMSS           | Law                                        |   47    |                  43.6  |                   32.9  |                           26    |                   20.9  |    64.7  |         51    |         55.1  |           40.6  |
+| HUMSS           | Management                                 |   60.1  |                  54.6  |                   36.6  |                           27.2  |                   26.9  |    70.1  |         61.9  |         71.8  |           50.5  |
+| HUMSS           | Political-Science-and-Sociology            |   59    |                  50.67 |                   30.67 |                           29.67 |                   15.33 |    76.67 |         59.67 |         72.33 |           46.67 |
+| HUMSS           | Psychology                                 |   50.6  |                  46.2  |                   33.2  |                           24.7  |                   19.4  |    66.9  |         51.2  |         57.3  |           36    |
+| HUMSS           | Social-Welfare                             |   67.4  |                  60.8  |                   39.4  |                           31.1  |                   27.9  |    77.4  |         67.4  |         76    |           49.9  |
+| HUMSS           | Taxation                                   |   31    |                  28    |                   31    |                           24.5  |                   26    |    47    |         37.5  |         45    |           33.5  |
+| Other           | Agricultural-Sciences                      |   38    |                  38.1  |                   32.9  |                           25.1  |                   16.7  |    56.7  |         41.4  |         48.1  |           33.8  |
+| Other           | Construction                               |   38    |                  38.5  |                   31.7  |                           33    |                    7.7  |    50.4  |         39.2  |         45    |           32.8  |
+| Other           | Fashion                                    |   48.1  |                  49.4  |                   37.1  |                           31.5  |                   16.7  |    68.2  |         52.9  |         60.7  |           41.8  |
+| Other           | Food-Processing                            |   48.4  |                  47.1  |                   34.7  |                           32.3  |                   24.3  |    64    |         47.8  |         57.5  |           38.3  |
+| Other           | Health                                     |   62    |                  54    |                   43    |                           31    |                    2    |    80    |         68    |         73    |           53    |
+| Other           | Interior-Architecture-and-Design           |   57.7  |                  57.9  |                   43    |                           34.9  |                   26.6  |    78.8  |         64.5  |         72.3  |           50.8  |
+| Other           | Marketing                                  |   82.2  |                  76.4  |                   58.9  |                           32.9  |                   22.2  |    89.2  |         83.7  |         86.5  |           70.2  |
+| Other           | Patent                                     |   39    |                  32    |                   32    |                           24    |                    6    |    51    |         33    |         47    |           34    |
+| Other           | Public-Safety                              |   39.5  |                  43.1  |                   32.6  |                           28.4  |                   30.8  |    53.2  |         41.5  |         46.6  |           35.2  |
+| Other           | Real-Estate                                |   47.5  |                  42    |                   34    |                           24.5  |                   26    |    66    |         43.5  |         54    |           40    |
+| Other           | Refrigerating-Machinery                    |   41.8  |                  39.3  |                   25.9  |                           29.9  |                   25    |    52.6  |         39.4  |         46.4  |           32.5  |
+| STEM            | Biology                                    |   41.5  |                  40.2  |                   31.3  |                           26.8  |                   13.9  |    63.6  |         43.9  |         54.4  |           32.1  |
+| STEM            | Chemical-Engineering                       |   54.8  |                  44.6  |                   37.6  |                           24.4  |                   20.2  |    66.3  |         54.1  |         63.5  |           43.1  |
+| STEM            | Chemistry                                  |   58    |                  49.33 |                   33.5  |                           30    |                    9.67 |    69.17 |         57.33 |         64.83 |           41.5  |
+| STEM            | Civil-Engineering                          |   47.5  |                  45.1  |                   34.6  |                           22.2  |                    9.1  |    53.7  |         44.8  |         51.3  |           39.5  |
+| STEM            | Computer-Science                           |   78.5  |                  67.6  |                   56.7  |                           42.7  |                   29.3  |    88.1  |         77.5  |         83.3  |           66.6  |
+| STEM            | Ecology                                    |   50.4  |                  52    |                   41.9  |                           31.3  |                    8    |    58.1  |         52.8  |         57.7  |           45.8  |
+| STEM            | Electrical-Engineering                     |   37.8  |                  40.3  |                   33.3  |                           32.2  |                   21.8  |    45.4  |         35.7  |         43.5  |           33.7  |
+| STEM            | Information-Technology                     |   75.3  |                  68.3  |                   52.7  |                           38.1  |                   28.2  |    84.4  |         77.3  |         82.3  |           66.2  |
+| STEM            | Materials-Engineering                      |   52.6  |                  48.5  |                   33.7  |                           30.7  |                   28.3  |    72.7  |         53.2  |         64.4  |           42    |
+| STEM            | Math                                       |   31.67 |                  25.33 |                   28.33 |                           26.33 |                   26.67 |    30    |         27.67 |         34.67 |           25.33 |
+| STEM            | Mechanical-Engineering                     |   45.1  |                  43.4  |                   34.7  |                           29.9  |                   20.9  |    63.5  |         45.6  |         55    |           38.4  |
+
+### KMMLU-HARD (5-shot)
+
+#### Accuracy by supercategory
+| supercategory   |   Phi-4 |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Phi-3-mini-128k-instruct-June |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo |   GPT-3.5-turbo |
+|:----------------|--------:|-----------------------:|------------------------:|--------------------------------:|------------------------:|---------:|--------------:|--------------:|----------------:|
+| Applied Science |   24.25 |                  26.08 |                   25.92 |                           27    |                   16.25 |    37.17 |         22.33 |         29.75 |           21.33 |
+| HUMSS           |   24.85 |                  24.26 |                   23.42 |                           22.12 |                   15.7  |    42.93 |         23.31 |         33.77 |           20.81 |
+| Other           |   23.57 |                  26.27 |                   23.36 |                           25.65 |                   16.61 |    41.33 |         27.62 |         29.39 |           21.16 |
+| STEM            |   24.64 |                  25.73 |                   25.73 |                           27.18 |                   14.73 |    43.18 |         25.55 |         32.09 |           21.36 |
+| **Overall**     |   24.32 |                  25.66 |                   24.76 |                           25.73 |                   15.81 |    40.94 |         24.63 |         31.12 |           21.19 |
+
+#### Accuracy by category
+| supercategory   | category                                   |   Phi-4 |   Phi-3.5-MoE-instruct |   Phi-3.5-mini-instruct |   Phi-3-mini-128k-instruct-June |   Llama-3.1-8B-Instruct |   GPT-4o |   GPT-4o-mini |   GPT-4-turbo | GPT-3.5-turbo   |
+|:----------------|:-------------------------------------------|--------:|-----------------------:|------------------------:|--------------------------------:|------------------------:|---------:|--------------:|--------------:|:----------------|
+| Applied Science | Aviation-Engineering-and-Maintenance       |   25    |                  31    |                   27    |                           30    |                   18    |    50    |         20    |         33    | 24.0            |
+| Applied Science | Electronics-Engineering                    |   26    |                  33    |                   30    |                           20    |                   17    |    39    |         30    |         41    | 29.0            |
+| Applied Science | Energy-Management                          |   19    |                  20    |                   31    |                           21    |                   17    |    35    |         27    |         31    | 21.0            |
+| Applied Science | Environmental-Science                      |   24    |                  20    |                   22    |                           16    |                    8    |    22    |         13    |         17    | 20.0            |
+| Applied Science | Gas-Technology-and-Engineering             |   26    |                  24    |                   29    |                           38    |                   15    |    24    |         16    |         24    | 16.0            |
+| Applied Science | Geomatics                                  |   19    |                  21    |                   25    |                           29    |                   12    |    31    |         21    |         25    | 20.0            |
+| Applied Science | Industrial-Engineer                        |   20    |                  24    |                   24    |                           29    |                    4    |    35    |         18    |         29    | 22.0            |
+| Applied Science | Machine-Design-and-Manufacturing           |   23    |                  37    |                   24    |                           31    |                   19    |    45    |         22    |         35    | 22.0            |
+| Applied Science | Maritime-Engineering                       |   20    |                  22    |                   21    |                           30    |                   22    |    37    |         31    |         36    | 17.0            |
+| Applied Science | Nondestructive-Testing                     |   34    |                  33    |                   33    |                           17    |                   18    |    39    |         24    |         27    | 27.0            |
+| Applied Science | Railway-and-Automotive-Engineering         |   25    |                  23    |                   23    |                           38    |                   18    |    42    |         21    |         23    | 13.0            |
+| Applied Science | Telecommunications-and-Wireless-Technology |   30    |                  25    |                   22    |                           25    |                   27    |    47    |         25    |         36    | 25.0            |
+| HUMSS           | Accounting                                 |   23.91 |                  21.74 |                   15.22 |                           10.87 |                   13.04 |    52.17 |         23.91 |         45.65 | 19.57           |
+| HUMSS           | Criminal-Law                               |   20    |                  25    |                   21    |                           23    |                   21    |    33    |         15    |         27    | 22.0            |
+| HUMSS           | Economics                                  |   28.57 |                  21.43 |                   26.19 |                           26.19 |                   30.95 |    57.14 |         23.81 |         45.24 | 23.81           |
+| HUMSS           | Education                                  |   17.39 |                  17.39 |                   13.04 |                           26.09 |                    8.7  |    60.87 |         30.43 |         39.13 | 21.74           |
+| HUMSS           | Korean-History                             |   13.64 |                  25    |                    9.09 |                           27.27 |                   15.91 |    36.36 |         22.73 |         13.64 | 20.45           |
+| HUMSS           | Law                                        |   17    |                  23    |                   24    |                           20    |                    6    |    41    |         26    |         28    | 20.0            |
+| HUMSS           | Management                                 |   31    |                  21    |                   31    |                           20    |                   15    |    47    |         29    |         41    | 26.0            |
+| HUMSS           | Political-Science-and-Sociology            |   30    |                  23.33 |                   26.67 |                           23.33 |                   12.22 |    50    |         25.56 |         41.11 | 23.33           |
+| HUMSS           | Psychology                                 |   26    |                  24    |                   21    |                           13    |                   15    |    46    |         19    |         36    | 13.0            |
+| HUMSS           | Social-Welfare                             |   37    |                  31    |                   37    |                           29    |                   22    |    44    |         29    |         44    | 24.0            |
+| HUMSS           | Taxation                                   |   18.75 |                  26.04 |                   14.58 |                           27.08 |                   14.58 |    28.12 |         17.71 |         16.67 | 16.67           |
+| Other           | Agricultural-Sciences                      |   21    |                  27    |                   17    |                           25    |                   21    |    41    |         33    |         30    | 17.0            |
+| Other           | Construction                               |   18    |                  20    |                   18    |                           31    |                   15    |    30    |         26    |         26    | 17.0            |
+| Other           | Fashion                                    |   22    |                  30    |                   28    |                           30    |                   11    |    36    |         26    |         23    | 26.0            |
+| Other           | Food-Processing                            |   29    |                  25    |                   16    |                           23    |                   23    |    37    |         21    |         30    | 19.0            |
+| Other           | Health                                     |   17.39 |                   8.7  |                    4.35 |                           26.09 |                    0    |    47.83 |         39.13 |         39.13 | 21.74           |
+| Other           | Interior-Architecture-and-Design           |   24    |                  32    |                   25    |                           23    |                   15    |    54    |         32    |         38    | 25.0            |
+| Other           | Marketing                                  |   32    |                  29    |                   32    |                           23    |                   15    |    53    |         34    |         43    | 27.0            |
+| Other           | Patent                                     |   17.65 |                  25.49 |                   15.69 |                           23.53 |                   13.73 |    37.25 |         21.57 |         19.61 | 18.0            |
+| Other           | Public-Safety                              |   23    |                  32    |                   32    |                           21    |                   24    |    34    |         24    |         22    | 19.1            |
+| Other           | Real-Estate                                |   22.47 |                  31.46 |                   20.22 |                           26.97 |                   17.98 |    48.31 |         20.22 |         26.97 | 22.0            |
+| Other           | Refrigerating-Machinery                    |   25    |                  15    |                   30    |                           29    |                   13    |    40    |         32    |         28    | 14.0            |
+| STEM            | Biology                                    |   23    |                  20    |                   23    |                           23    |                   11    |    49    |         22    |         27    | 18.0            |
+| STEM            | Chemical-Engineering                       |   25    |                  29    |                   23    |                           30    |                   21    |    40    |         23    |         37    | 31.0            |
+| STEM            | Chemistry                                  |   37    |                  23    |                   23    |                           26    |                   12    |    54    |         36    |         43    | 15.0            |
+| STEM            | Civil-Engineering                          |   23    |                  30    |                   33    |                           25    |                   13    |    36    |         25    |         29    | 24.0            |
+| STEM            | Computer-Science                           |   26    |                  33    |                   29    |                           33    |                   14    |    54    |         28    |         41    | 14.0            |
+| STEM            | Ecology                                    |   14    |                  23    |                   23    |                           37    |                    7    |    30    |         23    |         15    | 24.0            |
+| STEM            | Electrical-Engineering                     |   23    |                  29    |                   36    |                           38    |                   21    |    40    |         22    |         24    | 24.0            |
+| STEM            | Information-Technology                     |   25    |                  26    |                   24    |                           29    |                   16    |    55    |         30    |         44    | 26.0            |
+| STEM            | Materials-Engineering                      |   28    |                  24    |                   22    |                           16    |                   19    |    45    |         32    |         34    | 20.0            |
+| STEM            | Math                                       |   16    |                  21    |                   13    |                           15    |                   21    |    28    |         12    |         24    | 25.0            |
+| STEM            | Mechanical-Engineering                     |   31    |                  25    |                   34    |                           27    |                    7    |    44    |         28    |         35    | -               |

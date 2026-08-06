@@ -8,7 +8,6 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from dotenv import load_dotenv
 from datasets import load_dataset
 from tqdm import tqdm
-import pandas as pd
 
 # Add project root to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -17,7 +16,7 @@ from config.question_templates import get_question_template
 from core.evaluator import CLIcKEvaluator
 from core.logger import logger
 from util.custom_parser import MultipleChoicesFiveParser
-from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug
+from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug, skip_completed_samples
 from util.evaluate_helper import evaluate
 
 
@@ -145,13 +144,9 @@ def main():
     if args.is_debug:
         all_data = all_data[:args.num_debug_samples]
     
-    # 기존 결과 제외
-    if os.path.exists(csv_path):
-        df = pd.read_csv(csv_path)
-        if not df.empty:
-            completed_ids = set(df['id'].tolist())
-            all_data = [d for d in all_data if d['id'] not in completed_ids]
-            logger.info(f"Skipping {len(completed_ids)} completed samples")
+    # Re-answer only the samples that previously failed or came back empty
+    # (CLIcK rows are keyed by the dataset's own id rather than a generated qid)
+    all_data = skip_completed_samples(all_data, csv_path, qid_col="id")
     
     if not all_data:
         logger.info("✅ All data completed!")

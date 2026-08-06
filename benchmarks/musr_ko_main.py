@@ -15,7 +15,7 @@ from config.question_templates import get_question_template
 from core.evaluator import MuSRKoEvaluator
 from core.logger import logger
 from util.custom_parser import BaseMultipleChoiceParser
-from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug
+from util.common_helper import str2bool, format_timespan, get_provider_name, check_existing_csv_in_debug, skip_completed_samples
 from util.evaluate_helper import evaluate
 
 SUBSETS = ["murder_mysteries", "object_placements", "team_allocation"]
@@ -129,8 +129,9 @@ def main():
     all_data = []
     for subset in all_subsets:
         ds = load_dataset("thunder-research-group/SNU_Ko-MuSR", subset)["test"]
-        for item in ds:
+        for idx, item in enumerate(ds):
             all_data.append({
+                "qid": f"{subset}-{idx}",
                 "subset": subset,
                 "num_choices": len(item["choices"]),
                 "question": get_prompt(item),
@@ -139,6 +140,9 @@ def main():
 
     if args.is_debug:
         all_data = all_data[:args.num_debug_samples]
+
+    # Re-answer only the samples that previously failed or came back empty
+    all_data = skip_completed_samples(all_data, csv_path)
 
     if not all_data:
         logger.info("✅ All data completed!")
